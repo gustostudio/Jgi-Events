@@ -1,0 +1,12 @@
+{
+  "name": "webflow-cms-export",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches Webflow CMS collection items and writes them to a JSON file for static hosting.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "fetch-cms": "node scripts/fetch-cms.js"
+  }
+}
