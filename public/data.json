@@ -1,12 +1,159 @@
 {
-  "fetchedAt": "2026-07-06T07:59:22.006Z",
+  "fetchedAt": "2026-07-06T08:20:37.614Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 574,
+      "itemCount": 578,
       "items": [
+        {
+          "id": "6a4b62fd9fc69e633d70e976",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T08:10:39.446Z",
+          "lastUpdated": "2026-07-06T08:10:39.446Z",
+          "createdOn": "2026-07-06T08:10:37.101Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dan Wilson & Peter Bernstein Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-07-25T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.25_wilson",
+            "slug": "ny-26-07-25-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a4b624b3556d01c6958dac1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T08:07:42.088Z",
+          "lastUpdated": "2026-07-06T08:07:42.088Z",
+          "createdOn": "2026-07-06T08:07:39.849Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Christian McBride and Ursa Major",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-07-27T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.26_mcbride",
+            "slug": "ny-26-07-26-mcbride",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a4b62136256cf9dc202eccb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T08:06:45.947Z",
+          "lastUpdated": "2026-07-06T08:06:45.947Z",
+          "createdOn": "2026-07-06T08:06:43.786Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Christian McBride and Ursa Major",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-07-26T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.25_mcbride",
+            "slug": "ny-26-07-25-mcbride",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a4b61973556d01c69587444",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T08:04:43.165Z",
+          "lastUpdated": "2026-07-06T08:04:43.165Z",
+          "createdOn": "2026-07-06T08:04:39.844Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyrone Allen II & Travelers",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-07-30T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.29_allen",
+            "slug": "ny-26-07-29-allen",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a4b5fab38ee8b25aa4a0449",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -620,8 +767,8 @@
         {
           "id": "6a4538a07e352fab67a4c2eb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T15:56:17.384Z",
+          "lastPublished": "2026-07-06T08:03:51.428Z",
+          "lastUpdated": "2026-07-06T08:03:51.428Z",
           "createdOn": "2026-07-01T15:56:16.203Z",
           "isArchived": false,
           "isDraft": false,
@@ -632,7 +779,7 @@
             "category": null,
             "venue": "6a45357e02cd28aeed4dfc7a",
             "start-date": "2026-07-30T16:30:00.000Z",
-            "event-time": "12P30PM",
+            "event-time": "12:30PM",
             "event-description": null,
             "button-text": null,
             "button-link": null,
