@@ -66,7 +66,7 @@ async function listAllItems(collectionId, useLive = false) {
     offset += limit;
   }
 
-  return allItems;
+  return allItems.filter((item) => !item.isArchived && !item.isDraft);
 }
 
 async function getCollectionSchema(collectionId) {
