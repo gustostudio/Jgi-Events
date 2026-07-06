@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-07-06T08:20:37.614Z",
+  "fetchedAt": "2026-07-06T08:36:00.197Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 578,
+      "itemCount": 576,
       "items": [
         {
           "id": "6a4b62fd9fc69e633d70e976",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:10:39.446Z",
-          "lastUpdated": "2026-07-06T08:10:39.446Z",
+          "lastPublished": "2026-07-06T08:10:39.882Z",
+          "lastUpdated": "2026-07-06T08:10:39.882Z",
           "createdOn": "2026-07-06T08:10:37.101Z",
           "isArchived": false,
           "isDraft": false,
@@ -49,8 +49,8 @@
         {
           "id": "6a4b624b3556d01c6958dac1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:07:42.088Z",
-          "lastUpdated": "2026-07-06T08:07:42.088Z",
+          "lastPublished": "2026-07-06T08:07:42.275Z",
+          "lastUpdated": "2026-07-06T08:07:42.275Z",
           "createdOn": "2026-07-06T08:07:39.849Z",
           "isArchived": false,
           "isDraft": false,
@@ -85,8 +85,8 @@
         {
           "id": "6a4b62136256cf9dc202eccb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:06:45.947Z",
-          "lastUpdated": "2026-07-06T08:06:45.947Z",
+          "lastPublished": "2026-07-06T08:06:46.170Z",
+          "lastUpdated": "2026-07-06T08:06:46.170Z",
           "createdOn": "2026-07-06T08:06:43.786Z",
           "isArchived": false,
           "isDraft": false,
@@ -121,8 +121,8 @@
         {
           "id": "6a4b61973556d01c69587444",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:04:43.165Z",
-          "lastUpdated": "2026-07-06T08:04:43.165Z",
+          "lastPublished": "2026-07-06T08:04:43.394Z",
+          "lastUpdated": "2026-07-06T08:04:43.394Z",
           "createdOn": "2026-07-06T08:04:39.844Z",
           "isArchived": false,
           "isDraft": false,
@@ -157,8 +157,8 @@
         {
           "id": "6a4b5fab38ee8b25aa4a0449",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:56:30.174Z",
-          "lastUpdated": "2026-07-06T07:56:30.174Z",
+          "lastPublished": "2026-07-06T07:56:30.336Z",
+          "lastUpdated": "2026-07-06T07:56:30.336Z",
           "createdOn": "2026-07-06T07:56:27.698Z",
           "isArchived": false,
           "isDraft": false,
@@ -185,8 +185,8 @@
         {
           "id": "6a4b5f3c6e10afce4bc9d780",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:54:39.977Z",
-          "lastUpdated": "2026-07-06T07:54:39.977Z",
+          "lastPublished": "2026-07-06T07:54:40.148Z",
+          "lastUpdated": "2026-07-06T07:54:40.148Z",
           "createdOn": "2026-07-06T07:54:36.931Z",
           "isArchived": false,
           "isDraft": false,
@@ -213,8 +213,8 @@
         {
           "id": "6a4b5e63690f648b2cc8a812",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:51:01.668Z",
-          "lastUpdated": "2026-07-06T07:51:01.668Z",
+          "lastPublished": "2026-07-06T07:51:01.864Z",
+          "lastUpdated": "2026-07-06T07:51:01.864Z",
           "createdOn": "2026-07-06T07:50:59.453Z",
           "isArchived": false,
           "isDraft": false,
@@ -241,8 +241,8 @@
         {
           "id": "6a4b5d20403c8db0e55e4f1d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:45:38.631Z",
-          "lastUpdated": "2026-07-06T07:45:38.631Z",
+          "lastPublished": "2026-07-06T07:45:38.838Z",
+          "lastUpdated": "2026-07-06T07:45:38.838Z",
           "createdOn": "2026-07-06T07:45:36.159Z",
           "isArchived": false,
           "isDraft": false,
@@ -280,8 +280,8 @@
         {
           "id": "6a4b5c96b099290e62edf82a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:43:21.144Z",
-          "lastUpdated": "2026-07-06T07:43:21.144Z",
+          "lastPublished": "2026-07-06T07:43:21.570Z",
+          "lastUpdated": "2026-07-06T07:43:21.570Z",
           "createdOn": "2026-07-06T07:43:18.777Z",
           "isArchived": false,
           "isDraft": false,
@@ -319,8 +319,8 @@
         {
           "id": "6a4b5af0708e2a0d37d6300b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:36:18.668Z",
-          "lastUpdated": "2026-07-06T07:36:18.668Z",
+          "lastPublished": "2026-07-06T07:36:18.823Z",
+          "lastUpdated": "2026-07-06T07:36:18.823Z",
           "createdOn": "2026-07-06T07:36:16.205Z",
           "isArchived": false,
           "isDraft": false,
@@ -358,8 +358,8 @@
         {
           "id": "6a4b5aaf963399b0e78650fd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:35:14.148Z",
-          "lastUpdated": "2026-07-06T07:35:14.148Z",
+          "lastPublished": "2026-07-06T07:35:14.306Z",
+          "lastUpdated": "2026-07-06T07:35:14.306Z",
           "createdOn": "2026-07-06T07:35:11.386Z",
           "isArchived": false,
           "isDraft": false,
@@ -397,8 +397,8 @@
         {
           "id": "6a4b5a283556d01c6953e2e5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:32:59.304Z",
-          "lastUpdated": "2026-07-06T07:32:59.304Z",
+          "lastPublished": "2026-07-06T07:32:59.759Z",
+          "lastUpdated": "2026-07-06T07:32:59.759Z",
           "createdOn": "2026-07-06T07:32:56.441Z",
           "isArchived": false,
           "isDraft": false,
@@ -425,8 +425,8 @@
         {
           "id": "6a4b5a041de8075a61e82cf4",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:32:22.906Z",
-          "lastUpdated": "2026-07-06T07:32:22.906Z",
+          "lastPublished": "2026-07-06T07:32:23.144Z",
+          "lastUpdated": "2026-07-06T07:32:23.144Z",
           "createdOn": "2026-07-06T07:32:20.318Z",
           "isArchived": false,
           "isDraft": false,
@@ -481,8 +481,8 @@
         {
           "id": "6a4b58b9cc4e71a61a4611e5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:26:51.160Z",
-          "lastUpdated": "2026-07-06T07:26:51.160Z",
+          "lastPublished": "2026-07-06T07:26:51.478Z",
+          "lastUpdated": "2026-07-06T07:26:51.478Z",
           "createdOn": "2026-07-06T07:26:49.300Z",
           "isArchived": false,
           "isDraft": false,
@@ -517,8 +517,8 @@
         {
           "id": "6a4b57d962d32f1a1cf1532b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:23:08.310Z",
-          "lastUpdated": "2026-07-06T07:23:08.310Z",
+          "lastPublished": "2026-07-06T07:23:08.583Z",
+          "lastUpdated": "2026-07-06T07:23:08.583Z",
           "createdOn": "2026-07-06T07:23:05.992Z",
           "isArchived": false,
           "isDraft": false,
@@ -589,8 +589,8 @@
         {
           "id": "6a4b5789a97ad3d06b372094",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T07:21:48.422Z",
-          "lastUpdated": "2026-07-06T07:21:48.422Z",
+          "lastPublished": "2026-07-06T07:21:48.583Z",
+          "lastUpdated": "2026-07-06T07:21:48.583Z",
           "createdOn": "2026-07-06T07:21:45.395Z",
           "isArchived": false,
           "isDraft": false,
@@ -620,92 +620,6 @@
             "tags-link": [
               null
             ]
-          }
-        },
-        {
-          "id": "6a49db02af17b15abe78e4fe",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T05:06:29.733Z",
-          "lastUpdated": "2026-07-06T05:06:29.733Z",
-          "createdOn": "2026-07-05T04:18:10.670Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "teeeeee",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
-            "category": "6a3db44edbceed6f361c16dd",
-            "venue": "6a30a4e96ba066fd6c449aa5",
-            "start-date": "2026-08-03T02:16:00.000Z",
-            "event-time": "After",
-            "event-description": "<p>Page description</p>",
-            "button-text": "Button Text",
-            "button-link": "https://jgi-2025.webflow.io/new-york/new-york-calendar-v2",
-            "tags": [
-              "6a3d90a72a61bee173063f0b",
-              "6a2f1f2d7b5b0788756afd06",
-              "6a2d488e1ac36d393480cfab",
-              "69de3d2f73b19959770800ba",
-              "6a3da8cbfa6118c2dd0e7287"
-            ],
-            "thumbnail": {
-              "fileId": "6a4b32d3ee8a179649dfcdb9",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a4b32d3ee8a179649dfcdb9_first-time-mort-hero-compress.jpeg",
-              "alt": null
-            },
-            "name": "test data  2",
-            "slug": "test-data-2",
-            "city-name": "NYC",
-            "feature-name": "JGI Pick",
-            "category-name": "Concert Theatre",
-            "category-link": null,
-            "venue-name": "11BC Serenity Garden",
-            "venue-link": "https://www.nycgovparks.org/opportunities/volunteer/group/11-bc-serenity-garden",
-            "tags-name": [
-              "Cuban music",
-              "5+",
-              "15+",
-              "13+",
-              "brass"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a49dad368be0cc0c1bf6ea5",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T05:05:22.779Z",
-          "lastUpdated": "2026-07-06T04:45:41.524Z",
-          "createdOn": "2026-07-05T04:17:23.259Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "teeeeee",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": "232cceb32b7640f81ef61d250000f0bd",
-            "category": "6a10bdf5c8f6338c6fee5020",
-            "venue": "6a36e8b4a228486a7c6db889",
-            "start-date": "2026-08-02T18:16:00.000Z",
-            "event-time": "Before",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "test data ",
-            "slug": "test-data",
-            "city-name": "NYC",
-            "feature-name": "JGI LIVE",
-            "category-name": "Continuum",
-            "category-link": null,
-            "venue-name": "651 Arts",
-            "venue-link": "https://www.eventbrite.com/o/651-arts-8027745594"
           }
         },
         {
