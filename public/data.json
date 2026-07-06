@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-06T22:09:55.551Z",
+  "fetchedAt": "2026-07-06T22:12:02.597Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 587,
+      "itemCount": 588,
       "items": [
         {
           "id": "6a4c256539ea9c005f069435",
@@ -10855,6 +10855,76 @@
           }
         },
         {
+          "id": "6a31a0c34f328d0d5417fce4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T22:10:34.771Z",
+          "lastUpdated": "2026-07-06T22:10:34.771Z",
+          "createdOn": "2026-06-16T19:15:15.407Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Miriam Elhajli * Savannah Harris * Malik Abdul Rahman [DUAL]",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "6a10bdf5c8f6338c6fee5020",
+            "venue": "6a19a0e431e7a5acb4169f09",
+            "start-date": "2026-09-03T18:00:00.000Z",
+            "event-time": "8 PM",
+            "event-description": "<p><a href=\"https://TK\">Savannah&nbsp;Harris presents ... DUAL</a></p><p>Miriam Elhajli, Savannah Harris andMalik Abdul Rahman</p><p>Public Records</p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://dice.fm/partner/tickets/event/6d8r23-savannah-harris-presents-dual-miriam-elhajli-savannah-harris-malik-abdul-rahmaan-3rd-sep-public-records-new-york-tickets?dice_id=9746141&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1476055868332449790&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S%2BxNDYzMzdKNkkyMbOvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCgpaJcOwAAAA%3D%3D",
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6a31a0bbe1d5fbd2e3180556",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a31a0bbe1d5fbd2e3180556_MIRIAM%20ELHAJLI1.jpeg",
+              "alt": null
+            },
+            "name": "continuum_Miriam Elhajli * Savannah Harris * Malik Abdul Rahman",
+            "slug": "continuum-miriam-elhajli-savannah-harris-malik-abdul-rahman",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Continuum",
+            "category-link": null,
+            "venue-name": "Public Records",
+            "venue-link": "https://publicrecords.nyc/"
+          }
+        },
+        {
+          "id": "6a3174672fbd947a963d47b5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T22:11:50.989Z",
+          "lastUpdated": "2026-07-06T22:11:50.989Z",
+          "createdOn": "2026-06-16T16:05:59.288Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "KeiyaA * Immanuel Wilkins * OMO IGI [DUAL]",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "6a10bdf5c8f6338c6fee5020",
+            "venue": "6a19a0e431e7a5acb4169f09",
+            "start-date": "2026-08-12T18:00:00.000Z",
+            "event-time": "8 PM",
+            "event-description": "<p><a href=\"https://TK\">Savannah&nbsp;Harris presents ... DUAL</a></p><p>KeiyaA, Immanuel Wilkins and OMO&nbsp;IGI</p><p>Public Records</p><p>‍</p>",
+            "button-text": "VIEW EVENT",
+            "button-link": "https://dice.fm/partner/tickets/event/6d8rn8-savannah-harris-presents-dual-keiyaa-immanuel-wilkins-omo-igi-12th-aug-public-records-new-york-tickets?dice_id=9746088&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1476055868332449790&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Xc2Mks0SUoyMzFPNLevK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDFvFUHOwAAAA%3D%3D",
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6a4c282300d9ace22a62d56b",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a4c282300d9ace22a62d56b_Live_8.12_3x4_updated.png",
+              "alt": null
+            },
+            "name": "continuum_KeiyaA * Immanuel Wilkins * OMO IGI",
+            "slug": "keiyaa-immanuel-wilkins-savannah-harris",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Continuum",
+            "category-link": null,
+            "venue-name": "Public Records",
+            "venue-link": "https://publicrecords.nyc/"
+          }
+        },
+        {
           "id": "6a3125ebcc41f418479bfa51",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
           "lastPublished": "2026-06-17T10:58:37.698Z",
@@ -11042,34 +11112,6 @@
             "city-name": "NYC",
             "venue-name": "Smalls",
             "venue-link": "https://www.smallslive.com/"
-          }
-        },
-        {
-          "id": "6a311fb245df36a643c52be2",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-17T10:58:37.698Z",
-          "lastUpdated": "2026-06-16T10:04:37.911Z",
-          "createdOn": "2026-06-16T10:04:34.686Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Geoffrey Keezer Quartet",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2ef6142243172b56b3a991",
-            "start-date": "2026-07-17T17:00:00.000Z",
-            "event-time": "7 & 9PM",
-            "event-description": null,
-            "button-text": "Buy tickets",
-            "button-link": "https://www.smallslive.com/events/33110-geoffrey-keezer-quartet/",
-            "tags": null,
-            "thumbnail": null,
-            "name": "keezer 26.07.17",
-            "slug": "keezer-26-07-17",
-            "city-name": "NYC",
-            "venue-name": "Jazzcultural",
-            "venue-link": "https://www.jazzcultural.com/"
           }
         },
         {
