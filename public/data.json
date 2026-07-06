@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-06T21:24:02.664Z",
+  "fetchedAt": "2026-07-06T21:25:16.098Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 578,
+      "itemCount": 579,
       "items": [
+        {
+          "id": "6a4c1d1a9a18b7494e72336f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T21:25:07.897Z",
+          "lastUpdated": "2026-07-06T21:25:07.897Z",
+          "createdOn": "2026-07-06T21:24:42.358Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vince Giordano and the Nighthawks ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-07-28T21:30:00.000Z",
+            "event-time": "5:30 & 8:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-59/",
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.28_giordano",
+            "slug": "ny-26-07-28-giordano",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4c1ce794f5ae66324bfb89",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
