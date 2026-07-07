@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T22:17:07.816Z",
+  "fetchedAt": "2026-07-07T22:18:08.362Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -8670,8 +8670,8 @@
         {
           "id": "6a34c2fe1d9e1e570f119861",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-19T16:31:56.602Z",
-          "lastUpdated": "2026-06-19T07:18:37.056Z",
+          "lastPublished": "2026-07-07T22:18:05.966Z",
+          "lastUpdated": "2026-07-07T22:18:05.966Z",
           "createdOn": "2026-06-19T04:18:06.824Z",
           "isArchived": false,
           "isDraft": false,
@@ -8681,7 +8681,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2f6b9775b3d1a49326492b",
-            "start-date": "2026-07-17T23:00:00.000Z",
+            "start-date": "2026-07-17T05:00:00.000Z",
             "event-time": "7PM",
             "event-description": "<p>Harlem Jazz Series</p>",
             "button-text": null,
