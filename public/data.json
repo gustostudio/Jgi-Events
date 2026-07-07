@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T13:10:31.630Z",
+  "fetchedAt": "2026-07-07T13:11:57.207Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -2824,8 +2824,8 @@
         {
           "id": "6a44a7bbafadd29529151d6a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-06T23:47:58.670Z",
+          "lastPublished": "2026-07-07T13:10:53.000Z",
+          "lastUpdated": "2026-07-07T13:10:53.000Z",
           "createdOn": "2026-07-01T05:38:03.529Z",
           "isArchived": false,
           "isDraft": false,
@@ -2835,7 +2835,7 @@
             "feature": null,
             "category": null,
             "venue": "6a44a4397db284ef146de9bb",
-            "start-date": "2026-07-02T23:30:00.000Z",
+            "start-date": "2026-07-02T17:30:00.000Z",
             "event-time": "7:30 & 9PM",
             "event-description": null,
             "button-text": null,
@@ -8879,8 +8879,8 @@
         {
           "id": "6a34c0578a9c9e63094d087e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-06T23:50:25.488Z",
+          "lastPublished": "2026-07-07T13:11:46.980Z",
+          "lastUpdated": "2026-07-07T13:11:46.980Z",
           "createdOn": "2026-06-19T04:06:47.051Z",
           "isArchived": false,
           "isDraft": false,
@@ -8890,7 +8890,7 @@
             "feature": null,
             "category": null,
             "venue": "6a34c03d36fe5f17503f449b",
-            "start-date": "2026-07-04T00:00:00.000Z",
+            "start-date": "2026-07-03T18:00:00.000Z",
             "event-time": "8PM",
             "event-description": null,
             "button-text": null,
