@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-07T03:57:42.418Z",
+  "fetchedAt": "2026-07-07T04:00:07.863Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 593,
+      "itemCount": 594,
       "items": [
+        {
+          "id": "6a4c79ba804feeb5dd1709cb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T03:59:56.337Z",
+          "lastUpdated": "2026-07-07T03:59:56.337Z",
+          "createdOn": "2026-07-07T03:59:54.384Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Rudresh Mahanthappa Hero Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-07-30T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.30_mahanthappa",
+            "slug": "ny-26-07-30-mahanthappa",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
         {
           "id": "6a4c792bf4cd6a950952faa3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
