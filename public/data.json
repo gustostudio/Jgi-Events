@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-07T03:44:35.721Z",
+  "fetchedAt": "2026-07-07T03:47:40.564Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 589,
+      "itemCount": 590,
       "items": [
+        {
+          "id": "6a4c76cf0b489572412cad11",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T03:47:32.101Z",
+          "lastUpdated": "2026-07-07T03:47:32.101Z",
+          "createdOn": "2026-07-07T03:47:27.754Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eric Person Quintet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-07-25T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.25_person",
+            "slug": "ny-26-07-25-person",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a4c74648dff4302c05fe573",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
