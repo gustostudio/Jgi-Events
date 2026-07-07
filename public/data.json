@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T22:19:26.447Z",
+  "fetchedAt": "2026-07-07T22:21:44.837Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -2047,8 +2047,8 @@
         {
           "id": "6a44dc81f272b10700e649b9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T09:23:15.928Z",
+          "lastPublished": "2026-07-07T22:19:41.225Z",
+          "lastUpdated": "2026-07-07T22:19:41.225Z",
           "createdOn": "2026-07-01T09:23:13.722Z",
           "isArchived": false,
           "isDraft": false,
@@ -2058,7 +2058,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2ee19e1ea9436a608308f5",
-            "start-date": "2026-07-22T23:00:00.000Z",
+            "start-date": "2026-07-22T05:00:00.000Z",
             "event-time": "7 & 9PM",
             "event-description": null,
             "button-text": null,
@@ -2086,8 +2086,8 @@
         {
           "id": "6a44dc4cf594a7acb08cd1fe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T09:22:22.526Z",
+          "lastPublished": "2026-07-07T22:19:33.987Z",
+          "lastUpdated": "2026-07-07T22:19:33.987Z",
           "createdOn": "2026-07-01T09:22:20.261Z",
           "isArchived": false,
           "isDraft": false,
@@ -2097,7 +2097,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2ee19e1ea9436a608308f5",
-            "start-date": "2026-07-21T23:00:00.000Z",
+            "start-date": "2026-07-21T05:00:00.000Z",
             "event-time": "7 & 9PM",
             "event-description": null,
             "button-text": null,
@@ -11072,8 +11072,8 @@
         {
           "id": "6a333162d58cdd5803415cfc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T22:14:55.642Z",
-          "lastUpdated": "2026-07-07T22:14:55.642Z",
+          "lastPublished": "2026-07-07T22:21:31.881Z",
+          "lastUpdated": "2026-07-07T22:21:31.881Z",
           "createdOn": "2026-06-17T23:44:34.277Z",
           "isArchived": false,
           "isDraft": false,
@@ -11083,7 +11083,7 @@
             "feature": null,
             "category": null,
             "venue": "6a231c28d405fc09f9c59286",
-            "start-date": "2026-07-19T06:00:00.000Z",
+            "start-date": "2026-07-19T11:00:00.000Z",
             "event-time": "8 & 10:30PM",
             "event-description": null,
             "button-text": "Get tickets",
