@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T00:05:13.373Z",
+  "fetchedAt": "2026-07-07T03:35:18.213Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -2076,8 +2076,8 @@
         {
           "id": "6a44b3f7964d906ab95f30c2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T06:30:17.434Z",
+          "lastPublished": "2026-07-07T03:35:12.805Z",
+          "lastUpdated": "2026-07-07T03:35:12.805Z",
           "createdOn": "2026-07-01T06:30:15.018Z",
           "isArchived": false,
           "isDraft": false,
@@ -2097,8 +2097,8 @@
               "6a2f1f2d7b5b0788756afd06"
             ],
             "thumbnail": null,
-            "name": "ny_26.07.23_scott",
-            "slug": "ny-26-07-23-scott",
+            "name": "ny_26.07.23_reed",
+            "slug": "ny-26-07-23-reed",
             "city-name": "NYC",
             "venue-name": "Smoke",
             "venue-link": "https://smokejazz.com/",
@@ -2752,8 +2752,8 @@
         {
           "id": "6a3e803c988d8fb565ece13d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T00:05:06.387Z",
-          "lastUpdated": "2026-07-07T00:05:06.387Z",
+          "lastPublished": "2026-07-07T00:05:27.226Z",
+          "lastUpdated": "2026-07-07T00:05:27.226Z",
           "createdOn": "2026-06-26T13:35:56.971Z",
           "isArchived": false,
           "isDraft": false,
@@ -2763,7 +2763,7 @@
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "691ccd0eb62c3b82ffb68615",
             "venue": "6a199afc96df4f62c2da2655",
-            "start-date": "2026-07-03T02:00:00.000Z",
+            "start-date": "2026-07-02T23:00:00.000Z",
             "event-time": "7 PM",
             "event-description": "<p>Melvis Santa is an Afro-Cuban jazz vocalist, pianist, percussionist, and actress that has been wowing crowds at the biggest theaters in Havana since age seven. At 14, Santa put together a vocal ensemble that the great Chucho Valdés called “the best Cuban vocal quartet of the past 30 years.” She comes to Cafe Erzulie for a Soundoff Sessions performance with the JGI. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy.</p>",
             "button-text": "Register",
