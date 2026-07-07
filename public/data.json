@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-07T04:28:15.639Z",
+  "fetchedAt": "2026-07-07T04:31:13.077Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 603,
+      "itemCount": 604,
       "items": [
+        {
+          "id": "6a4c81060e5fa02eb1ba8b9e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T04:31:04.410Z",
+          "lastUpdated": "2026-07-07T04:31:04.410Z",
+          "createdOn": "2026-07-07T04:31:02.344Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Nduduzo Makhathini Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ee19e1ea9436a608308f5",
+            "start-date": "2026-07-27T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2ee52d41f6b5a591dbfe78",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.27_makhathini",
+            "slug": "ny-26-07-27-makhathini",
+            "city-name": "NYC",
+            "venue-name": "Dizzy's Club",
+            "venue-link": "https://jazz.org/dizzys",
+            "tags-name": [
+              "8+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4c805547c23177e9f8f895",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
