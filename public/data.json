@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:32:12.632Z",
+  "fetchedAt": "2026-07-08T02:33:34.679Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -8474,8 +8474,8 @@
         {
           "id": "6a34cbfa090fb3eb90a4a1ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-19T16:31:56.602Z",
-          "lastUpdated": "2026-06-19T07:16:08.152Z",
+          "lastPublished": "2026-07-08T02:33:25.630Z",
+          "lastUpdated": "2026-07-08T02:33:25.630Z",
           "createdOn": "2026-06-19T04:56:26.601Z",
           "isArchived": false,
           "isDraft": false,
@@ -8485,8 +8485,8 @@
             "feature": null,
             "category": null,
             "venue": "6a34cbe72ec275c0538565e1",
-            "start-date": "2026-07-10T23:00:00.000Z",
-            "event-time": "7PM",
+            "start-date": "2026-07-10T17:00:00.000Z",
+            "event-time": "7, 8:30 and 10:",
             "event-description": "<p>Jazzmobile Summerfest</p>",
             "button-text": null,
             "button-link": null,
@@ -9924,8 +9924,8 @@
         {
           "id": "6a3494fd9e312a69a7408d1e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-19T07:14:03.978Z",
-          "lastUpdated": "2026-06-19T01:02:02.882Z",
+          "lastPublished": "2026-07-08T02:32:52.269Z",
+          "lastUpdated": "2026-07-08T02:32:52.269Z",
           "createdOn": "2026-06-19T01:01:49.394Z",
           "isArchived": false,
           "isDraft": false,
@@ -9935,7 +9935,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cfd88298f7a56a198099e",
-            "start-date": "2026-07-10T06:00:00.000Z",
+            "start-date": "2026-07-10T18:00:00.000Z",
             "event-time": "8 & 10PM",
             "event-description": null,
             "button-text": null,
