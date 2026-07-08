@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-08T05:06:53.280Z",
+  "fetchedAt": "2026-07-08T05:12:37.876Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 612,
+      "itemCount": 613,
       "items": [
+        {
+          "id": "6a4ddc3b07abb90adf14944e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:12:31.567Z",
+          "lastUpdated": "2026-07-08T05:12:31.567Z",
+          "createdOn": "2026-07-08T05:12:27.880Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "William Hill III Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-01T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.31_hill",
+            "slug": "ny-26-07-31-hill",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4dda957ebd31926b1303ce",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
