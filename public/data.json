@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:57:21.073Z",
+  "fetchedAt": "2026-07-08T02:58:40.641Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7304,8 +7304,8 @@
         {
           "id": "6a38d4cc0d7234217660a530",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-22T06:23:08.105Z",
-          "lastUpdated": "2026-06-22T06:23:08.105Z",
+          "lastPublished": "2026-07-08T02:58:32.227Z",
+          "lastUpdated": "2026-07-08T02:58:32.227Z",
           "createdOn": "2026-06-22T06:23:08.105Z",
           "isArchived": false,
           "isDraft": false,
@@ -7315,7 +7315,7 @@
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318acfa9a225edf9945fbf",
-            "start-date": "2026-06-22T22:30:00.000Z",
+            "start-date": "2026-06-22T16:30:00.000Z",
             "event-time": "6:30PM",
             "event-description": "<p>Stanton Moore Trio with James Singleton &amp; David Torkanowsky </p><p>6pm - 9pm </p><p>No Cover </p>",
             "button-text": "DETAILS",
@@ -7345,8 +7345,8 @@
         {
           "id": "6a38d44b296f6a46984cab0f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-22T06:20:59.472Z",
-          "lastUpdated": "2026-06-22T06:20:59.472Z",
+          "lastPublished": "2026-07-08T02:58:02.164Z",
+          "lastUpdated": "2026-07-08T02:58:02.164Z",
           "createdOn": "2026-06-22T06:20:59.472Z",
           "isArchived": false,
           "isDraft": false,
@@ -7356,7 +7356,7 @@
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a1383852539d75e9dd3d4d8",
-            "start-date": "2026-06-22T22:00:00.000Z",
+            "start-date": "2026-06-22T16:00:00.000Z",
             "event-time": "6:00PM",
             "event-description": "<p>6pm - 9pm </p><p>No Cover </p>",
             "button-text": "DETAILS ",
