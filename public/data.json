@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T03:04:26.719Z",
+  "fetchedAt": "2026-07-08T03:06:19.459Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -4706,8 +4706,8 @@
         {
           "id": "6a3e09dae8123d58d761138b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-26T05:10:50.865Z",
-          "lastUpdated": "2026-06-26T05:10:50.865Z",
+          "lastPublished": "2026-07-08T03:06:11.185Z",
+          "lastUpdated": "2026-07-08T03:06:11.185Z",
           "createdOn": "2026-06-26T05:10:50.865Z",
           "isArchived": false,
           "isDraft": false,
@@ -4717,7 +4717,7 @@
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318c7c9cec0ea91a901f2f",
-            "start-date": "2026-07-08T10:00:00.000Z",
+            "start-date": "2026-07-08T22:00:00.000Z",
             "event-time": "6PM",
             "event-description": "<p>Trombonist Stephen Walker N' Em's Wednesday evening residency on Frenchmen Street. </p>",
             "button-text": "DETAILS",
@@ -5151,8 +5151,8 @@
         {
           "id": "6a3e03db22ae0aab1de277f4",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-26T04:45:15.136Z",
-          "lastUpdated": "2026-06-26T04:45:15.136Z",
+          "lastPublished": "2026-07-08T03:04:57.586Z",
+          "lastUpdated": "2026-07-08T03:04:57.586Z",
           "createdOn": "2026-06-26T04:45:15.136Z",
           "isArchived": false,
           "isDraft": false,
@@ -5162,7 +5162,7 @@
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a1383852539d75e9dd3d4d8",
-            "start-date": "2026-07-06T22:00:00.000Z",
+            "start-date": "2026-07-06T16:00:00.000Z",
             "event-time": "6PM - 9PM",
             "event-description": "<p>One of New Orleans' most dynamic rising guitarists Juan Tigré aka John Maestas presents his own band for two sets. </p><p>Sets at 6:00pm &amp;&nbsp;7:45pm </p><p>‍</p><p>NO&nbsp;COVER, wide specialty wine menu, select bar &amp;&nbsp;food menus; first-come, first-served seating. </p><p><em>*Mostly Outdoor Venue, limited indoor seating* </em></p>",
             "button-text": "DETAILS",
