@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T03:06:19.459Z",
+  "fetchedAt": "2026-07-08T03:09:09.412Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -4565,8 +4565,8 @@
         {
           "id": "6a3e0a25ba5377b3a5874bd0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-26T05:12:40.114Z",
-          "lastUpdated": "2026-06-26T05:12:40.114Z",
+          "lastPublished": "2026-07-08T03:08:57.612Z",
+          "lastUpdated": "2026-07-08T03:08:57.612Z",
           "createdOn": "2026-06-26T05:12:05.441Z",
           "isArchived": false,
           "isDraft": false,
@@ -4576,7 +4576,7 @@
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318c7c9cec0ea91a901f2f",
-            "start-date": "2026-07-29T10:00:00.000Z",
+            "start-date": "2026-07-29T22:00:00.000Z",
             "event-time": "6PM",
             "event-description": "<p>Trombonist Stephen Walker N' Em's Wednesday evening residency on Frenchmen Street. </p>",
             "button-text": "DETAILS",
