@@ -1,12 +1,48 @@
 {
-  "fetchedAt": "2026-07-08T05:21:49.208Z",
+  "fetchedAt": "2026-07-08T05:24:47.399Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 616,
+      "itemCount": 617,
       "items": [
+        {
+          "id": "6a4ddf1308cde3dc0e3188b7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:24:37.133Z",
+          "lastUpdated": "2026-07-08T05:24:37.133Z",
+          "createdOn": "2026-07-08T05:24:35.345Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Makaya McCraven",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.31_mccraven",
+            "slug": "ny-26-07-31-mccraven",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a4dde61bfc981f2bdcdf073",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
