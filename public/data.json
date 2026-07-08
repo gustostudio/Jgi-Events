@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:27:09.749Z",
+  "fetchedAt": "2026-07-08T02:28:19.609Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -13190,8 +13190,8 @@
         {
           "id": "6a30ee3a638d66e1d7a43fbd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-17T10:58:37.698Z",
-          "lastUpdated": "2026-06-16T06:33:35.380Z",
+          "lastPublished": "2026-07-08T02:27:23.573Z",
+          "lastUpdated": "2026-07-08T02:27:23.573Z",
           "createdOn": "2026-06-16T06:33:30.926Z",
           "isArchived": false,
           "isDraft": false,
@@ -13201,7 +13201,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cc9622243172b566077be",
-            "start-date": "2026-07-08T16:00:00.000Z",
+            "start-date": "2026-07-08T22:00:00.000Z",
             "event-time": "6 & 7:30PM",
             "event-description": null,
             "button-text": "Buy tickets",
@@ -13625,8 +13625,8 @@
         {
           "id": "6a30e77670a64a8d05941963",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-18T03:53:31.286Z",
-          "lastUpdated": "2026-06-17T22:55:14.574Z",
+          "lastPublished": "2026-07-08T02:27:42.152Z",
+          "lastUpdated": "2026-07-08T02:27:42.152Z",
           "createdOn": "2026-06-16T06:04:38.115Z",
           "isArchived": false,
           "isDraft": false,
@@ -13636,7 +13636,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
-            "start-date": "2026-07-08T16:30:00.000Z",
+            "start-date": "2026-07-08T22:30:00.000Z",
             "event-time": "6:30 & 8:30PM",
             "event-description": null,
             "button-text": "Buy tickets",
@@ -13927,8 +13927,8 @@
         {
           "id": "6a30d569a1435ff084217ebd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-27T06:32:35.661Z",
-          "lastUpdated": "2026-06-26T18:07:52.983Z",
+          "lastPublished": "2026-07-08T02:28:09.461Z",
+          "lastUpdated": "2026-07-08T02:28:09.461Z",
           "createdOn": "2026-06-16T04:47:37.464Z",
           "isArchived": false,
           "isDraft": false,
@@ -13938,7 +13938,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cc7721ad72d3a0dfb6763",
-            "start-date": "2026-07-08T17:00:00.000Z",
+            "start-date": "2026-07-08T23:00:00.000Z",
             "event-time": "7 & 9:30PM",
             "event-description": null,
             "button-text": "Buy tickets",
