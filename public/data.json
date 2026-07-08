@@ -1,12 +1,48 @@
 {
-  "fetchedAt": "2026-07-08T05:24:47.399Z",
+  "fetchedAt": "2026-07-08T05:37:53.447Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 617,
+      "itemCount": 618,
       "items": [
+        {
+          "id": "6a4de226c86c47c6974d7627",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:37:45.554Z",
+          "lastUpdated": "2026-07-08T05:37:45.554Z",
+          "createdOn": "2026-07-08T05:37:42.631Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bob James",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.31_james",
+            "slug": "ny-26-07-31-james",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a4ddf1308cde3dc0e3188b7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
