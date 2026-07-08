@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-08T06:33:55.630Z",
+  "fetchedAt": "2026-07-08T09:27:53.586Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 623,
+      "itemCount": 622,
       "items": [
         {
           "id": "6a4de69270a53c660346d42c",
@@ -1080,34 +1080,6 @@
             "city-name": "NYC",
             "venue-name": "Mezzrow",
             "venue-link": "https://www.smallslive.com/"
-          }
-        },
-        {
-          "id": "6a4c77b73c6afcd583287057",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-07T03:51:21.699Z",
-          "createdOn": "2026-07-07T03:51:19.215Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Joe Farnsworth Quartet",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2ef6142243172b56b3a991",
-            "start-date": "2026-07-27T23:00:00.000Z",
-            "event-time": "7 & 9PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_26.07.27_farnsworth",
-            "slug": "ny-26-07-27-farnsworth",
-            "city-name": "NYC",
-            "venue-name": "Jazzcultural",
-            "venue-link": "https://www.jazzcultural.com/"
           }
         },
         {
