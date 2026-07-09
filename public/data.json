@@ -1,12 +1,53 @@
 {
-  "fetchedAt": "2026-07-09T19:13:35.157Z",
+  "fetchedAt": "2026-07-09T19:16:38.187Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 624,
+      "itemCount": 625,
       "items": [
+        {
+          "id": "6a4ff389b8823074cb3bf9a7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-09T19:16:25.295Z",
+          "lastUpdated": "2026-07-09T19:16:25.295Z",
+          "createdOn": "2026-07-09T19:16:25.295Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. Jason Stewart ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-29T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p>Tonight, the band is led by longtime bassist for the late, great Ellis Marsalis, <a href=\"https://theujo.org/musicians/\"><strong>Jason Stewart</strong></a><strong>. </strong></p><p><br><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/the-uptown-jazz-orchestra-5/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.29_marsalis_delfeayo_uptown_jazz_orchestra_stewart_jason",
+            "slug": "no-26-07-29-marsalis-delfeayo-uptown-jazz-orchestra-stewart-jason",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4ff2d4466ee56eaeba33eb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -51,13 +92,13 @@
         {
           "id": "6a4ff22baf22ebbac0bd2d16",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-09T19:10:35.337Z",
-          "lastUpdated": "2026-07-09T19:10:35.337Z",
+          "lastPublished": "2026-07-09T19:13:44.028Z",
+          "lastUpdated": "2026-07-09T19:13:44.028Z",
           "createdOn": "2026-07-09T19:10:35.337Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. Wes Anderson IV",
+            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. Terrance Taplin",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
