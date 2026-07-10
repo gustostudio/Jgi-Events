@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T16:06:16.836Z",
+  "fetchedAt": "2026-07-10T16:10:55.709Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -535,18 +535,18 @@
         {
           "id": "6a4dde61bfc981f2bdcdf073",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T09:27:40.347Z",
-          "lastUpdated": "2026-07-08T05:21:40.368Z",
+          "lastPublished": "2026-07-10T16:06:25.598Z",
+          "lastUpdated": "2026-07-10T16:06:25.598Z",
           "createdOn": "2026-07-08T05:21:37.872Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Silt Trio (Luke Stewart, Brian Settles and Chad Taylor)",
+            "event-title": "Luke Stewart's Silt Trio with Brian Settles and Chad Taylor",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
             "venue": "6a2cf52050fbd110a6fc6e96",
-            "start-date": "2027-08-01T00:30:00.000Z",
+            "start-date": "2026-08-01T00:30:00.000Z",
             "event-time": "8:30PM",
             "event-description": null,
             "button-text": null,
@@ -2672,13 +2672,13 @@
         {
           "id": "6a44e6f804342d131f69a63f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T10:07:54.749Z",
+          "lastPublished": "2026-07-10T16:10:49.095Z",
+          "lastUpdated": "2026-07-10T16:10:49.095Z",
           "createdOn": "2026-07-01T10:07:52.902Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Gerry Gibbs Dream Band",
+            "event-title": "Gerry Gibbs Dream Band feat. Gary Bartz, Randy Brecker, Buster Williams and Cyrus Chestnut",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
