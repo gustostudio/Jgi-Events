@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T15:32:24.665Z",
+  "fetchedAt": "2026-07-10T15:45:14.654Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 629,
+      "itemCount": 630,
       "items": [
+        {
+          "id": "6a5110aa90a52c81cff55d23",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T15:33:00.929Z",
+          "lastUpdated": "2026-07-10T15:33:00.929Z",
+          "createdOn": "2026-07-10T15:32:58.776Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cyrus Chestnut Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-02T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.02_chestnut",
+            "slug": "ny-26-08-02-chestnut",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
         {
           "id": "6a51107aa6b09dcc87acb56f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -66,8 +94,8 @@
         {
           "id": "6a511025b7780e57e502eb08",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T15:30:51.500Z",
-          "lastUpdated": "2026-07-10T15:30:51.500Z",
+          "lastPublished": "2026-07-10T15:45:02.431Z",
+          "lastUpdated": "2026-07-10T15:45:02.431Z",
           "createdOn": "2026-07-10T15:30:45.092Z",
           "isArchived": false,
           "isDraft": false,
@@ -84,7 +112,7 @@
             "button-link": null,
             "tags": null,
             "thumbnail": null,
-            "name": "ny_26.07.30_chestnut Copy",
+            "name": "ny_26.07.30_chestnut",
             "slug": "ny-26-07-30-chestnut-copy",
             "city-name": "NYC",
             "venue-name": "Smoke",
