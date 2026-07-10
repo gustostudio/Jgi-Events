@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T19:37:35.868Z",
+  "fetchedAt": "2026-07-10T19:38:50.242Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -4310,8 +4310,8 @@
         {
           "id": "6a44aaffc756d243444e5442",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T09:27:40.347Z",
-          "lastUpdated": "2026-07-08T02:43:08.936Z",
+          "lastPublished": "2026-07-10T19:38:40.394Z",
+          "lastUpdated": "2026-07-10T19:38:40.394Z",
           "createdOn": "2026-07-01T05:51:59.795Z",
           "isArchived": false,
           "isDraft": false,
@@ -4323,7 +4323,7 @@
             "venue": "6a44a4397db284ef146de9bb",
             "start-date": "2026-07-17T21:30:00.000Z",
             "event-time": "11:30PM & 1:30AM",
-            "event-description": null,
+            "event-description": "<p>11:30PM:&nbsp;set</p><p>1:30AM:&nbsp;jam session</p>",
             "button-text": null,
             "button-link": null,
             "tags": [
@@ -4466,8 +4466,8 @@
         {
           "id": "6a44a4fc55b8eca48497b3e5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T19:37:36.167Z",
-          "lastUpdated": "2026-07-10T19:37:36.167Z",
+          "lastPublished": "2026-07-10T19:37:36.400Z",
+          "lastUpdated": "2026-07-10T19:37:36.400Z",
           "createdOn": "2026-07-01T05:26:20.570Z",
           "isArchived": false,
           "isDraft": false,
