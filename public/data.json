@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-10T18:25:31.196Z",
+  "fetchedAt": "2026-07-10T18:26:36.411Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 643,
+      "itemCount": 645,
       "items": [
+        {
+          "id": "6a513944d4f65afcf4135e11",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:26:15.232Z",
+          "lastUpdated": "2026-07-10T18:26:15.232Z",
+          "createdOn": "2026-07-10T18:26:12.901Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Michaël Attias",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-08-22T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.22_attias",
+            "slug": "ny-2026-08-22-attias",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
+        {
+          "id": "6a51392a44e9f148a0b78b36",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:26:27.263Z",
+          "lastUpdated": "2026-07-10T18:26:27.263Z",
+          "createdOn": "2026-07-10T18:25:46.787Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Michaël Attias",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-08-15T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.15_attias",
+            "slug": "ny-2026-08-015-attias",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
         {
           "id": "6a5138cff420a134964d999f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
