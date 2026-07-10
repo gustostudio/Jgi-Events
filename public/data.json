@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-07-10T18:13:40.984Z",
+  "fetchedAt": "2026-07-10T18:15:12.631Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 633,
+      "itemCount": 634,
       "items": [
         {
           "id": "6a5136473d7a057c118af4ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T18:13:30.928Z",
-          "lastUpdated": "2026-07-10T18:13:30.928Z",
+          "lastPublished": "2026-07-10T18:15:07.254Z",
+          "lastUpdated": "2026-07-10T18:15:07.254Z",
           "createdOn": "2026-07-10T18:13:27.747Z",
           "isArchived": false,
           "isDraft": false,
@@ -28,7 +28,7 @@
             "button-link": "https://www.viewcy.com/event/oscar_noriegas_crook_210/checkout?event=6e850296-b0f7-4ae8-84ce-58a822a4badd&ticketType=in-person",
             "tags": null,
             "thumbnail": null,
-            "name": "noriega 26.07.31",
+            "name": "ny_26.07.31_noriega",
             "slug": "noriega-26-07-31",
             "city-name": "NYC",
             "venue-name": "Barbès",
@@ -61,6 +61,34 @@
             "city-name": "NYC",
             "venue-name": "Jazzcultural",
             "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
+        {
+          "id": "6a5135128c6baeac4bd44b79",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:14:22.090Z",
+          "lastUpdated": "2026-07-10T18:14:22.090Z",
+          "createdOn": "2026-07-10T18:08:18.433Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Morgan Guerin",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-07-25T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.25_guerin",
+            "slug": "ny-26-07-25-guerin",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
           }
         },
         {
