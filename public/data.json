@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T16:47:02.592Z",
+  "fetchedAt": "2026-07-10T16:49:47.831Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -2594,13 +2594,13 @@
         {
           "id": "6a44e74a6afe5c0da312c9bd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T16:11:01.552Z",
-          "lastUpdated": "2026-07-10T16:11:01.552Z",
+          "lastPublished": "2026-07-10T16:47:13.224Z",
+          "lastUpdated": "2026-07-10T16:47:13.224Z",
           "createdOn": "2026-07-01T10:09:14.477Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "GGerry Gibbs Dream Band feat. Gary Bartz, Randy Brecker, Buster Williams and Cyrus Chestnut",
+            "event-title": "Gerry Gibbs Dream Band feat. Gary Bartz, Randy Brecker, Buster Williams and Cyrus Chestnut",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -16122,7 +16122,7 @@
             "name": "hutchinson 26.07.18",
             "slug": "hutchinson-26-07-18",
             "city-name": "NYC",
-            "venue-name": "92NY",
+            "venue-name": "The 92nd Street Y",
             "venue-link": "https://www.92ny.org/"
           }
         },
@@ -16150,7 +16150,7 @@
             "name": "hart 26.07.15",
             "slug": "hart-26-07-15",
             "city-name": "NYC",
-            "venue-name": "92NY",
+            "venue-name": "The 92nd Street Y",
             "venue-link": "https://www.92ny.org/"
           }
         },
