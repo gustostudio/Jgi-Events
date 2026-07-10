@@ -1,12 +1,66 @@
 {
-  "fetchedAt": "2026-07-10T20:57:57.580Z",
+  "fetchedAt": "2026-07-10T20:59:01.929Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 679,
+      "itemCount": 680,
       "items": [
+        {
+          "id": "6a515d0abacb6ca6a7664f62",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:58:50.816Z",
+          "lastUpdated": "2026-07-10T20:58:50.816Z",
+          "createdOn": "2026-07-10T20:58:50.816Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Firm Roots with Peter Harris, Herlin Riley, Derek Douget, Dwight Fitch Jr. +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-08-06T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p><strong>\"Firm Roots\" Wednesdays featuring: </strong></p><p>The Baron of the Boom Boom, The Groovemaster, the one and only Herlin Riley - drums </p><p>Peter Harris - bass </p><p>Dwight Fitch Jr - piano </p><p>Derek Douget - saxophones </p><p>+ special surprise guests weekly </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.05_firm_roots",
+            "slug": "no-26-08-05-firm-roots",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a515ccb9e61d11d3c410296",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
