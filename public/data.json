@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-10T20:47:45.089Z",
+  "fetchedAt": "2026-07-10T20:48:49.146Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 675,
+      "itemCount": 676,
       "items": [
+        {
+          "id": "6a515aa67b1a1f5c4f71fbfb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:48:38.297Z",
+          "lastUpdated": "2026-07-10T20:48:38.297Z",
+          "createdOn": "2026-07-10T20:48:38.297Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charmaine Neville Band ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-27T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Charmaine Neville</strong>, daughter of legendary saxophonist Charles Neville of The Neville Brothers, carries the torch of a rich New Orleans musical legacy. While she is rooted in the city’s vibrant traditions, Charmaine brings her own unique voice to the stage; blending R&amp;B, jazz, folk and world rhythms into a sound that’s all her own. Her performances are a reflection of the city’s spirit itself—bold, diverse, and deeply soulful.</p><p>Renowned for her high-energy live shows, Charmaine and her band captivate audiences with an infectious sense of joy and a strong emphasis on audience participation. Whether delivering soulful ballads or rhythm-driven grooves, she creates an unforgettable experience, inviting listeners to feel the music and become part of the celebration. Charmaine Neville’s sound is a true reflection of the Crescent City: timeless, exciting, and impossible to resist.</p><p><strong>The Charmaine Neville Band tonight features: </strong></p><p><strong>‍</strong>Charmaine Neville - lead vocals, percussion </p><p>Amasa Miller - piano, musical director </p><p>Detroit Brooks - guitar </p><p>Donald Ramsey - bass </p><p>Raymond Weber - drums </p><p>‍</p><p>‍<strong>Shows at 7:30pm &amp; 9:30pm</strong> </p><p>‍<strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p>‍<strong>Restaurant is Open 5pm - 10pm for dinner <em>before</em> or <em>after</em> your showtime:</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a> </p><p>Advance Ticket-Holders can also make table reservations for dinner by forwarding your e-ticket confirmation with dinner request via email to <strong>reservations@snugjazz.com </strong><em>after</em> your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/charmaine-neville-band-19/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "6a3d97dc2feaaf8b3f175efa"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.27_neville_charmaine",
+            "slug": "no-26-07-27-neville-charmaine",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "R&B",
+              "soul"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a515a63b5a9307920c2dbc9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
