@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T18:36:54.060Z",
+  "fetchedAt": "2026-07-10T18:38:28.636Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 649,
+      "itemCount": 650,
       "items": [
+        {
+          "id": "6a513c19cec239b3379396e3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:38:19.516Z",
+          "lastUpdated": "2026-07-10T18:38:19.516Z",
+          "createdOn": "2026-07-10T18:38:17.812Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Hard Mode: Marty Kenney, Rodrigo Recabarren, Mitch Selib and Kevin Sun",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a340400e1d5eeca71bcf8c5",
+            "start-date": "2026-07-15T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.14_hardmode",
+            "slug": "ny-2026-07-14-hardmode",
+            "city-name": "NYC",
+            "venue-name": "Lowlands",
+            "venue-link": "https://www.lowlandsbar.com"
+          }
+        },
         {
           "id": "6a513bb85fb5ebf0565c6e7a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
