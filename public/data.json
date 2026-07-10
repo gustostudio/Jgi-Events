@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T18:18:41.382Z",
+  "fetchedAt": "2026-07-10T18:22:10.572Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 638,
+      "itemCount": 639,
       "items": [
+        {
+          "id": "6a513845288e8400b5de3c94",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:22:00.316Z",
+          "lastUpdated": "2026-07-10T18:22:00.316Z",
+          "createdOn": "2026-07-10T18:21:57.709Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joel Forrester",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-08-07T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.07_forrester",
+            "slug": "ny-2026-08-07-forrester",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
         {
           "id": "6a513777352f0fcce818bcbc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
