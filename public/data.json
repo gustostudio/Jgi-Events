@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T20:22:06.143Z",
+  "fetchedAt": "2026-07-10T20:23:28.482Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,13 +10,13 @@
         {
           "id": "6a51546208f2a9dd6885745f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T20:21:56.931Z",
-          "lastUpdated": "2026-07-10T20:21:56.931Z",
+          "lastPublished": "2026-07-10T20:23:19.939Z",
+          "lastUpdated": "2026-07-10T20:23:19.939Z",
           "createdOn": "2026-07-10T20:21:54.982Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Unheard: Emilio Modeste",
+            "event-title": "Unheard: Emilio Modeste and Friends",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
