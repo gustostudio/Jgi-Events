@@ -1,12 +1,43 @@
 {
-  "fetchedAt": "2026-07-10T18:41:33.406Z",
+  "fetchedAt": "2026-07-10T18:55:29.203Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 652,
+      "itemCount": 653,
       "items": [
+        {
+          "id": "6a51401344e9f148a0bac7cc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:55:18.777Z",
+          "lastUpdated": "2026-07-10T18:55:18.777Z",
+          "createdOn": "2026-07-10T18:55:15.143Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Savannah Harris Presents Dual: Miriam Elhajli, Savannah Harris and Malik Abdul-Rahmaan",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "6a10bdf5c8f6338c6fee5020",
+            "venue": "6a19a0e431e7a5acb4169f09",
+            "start-date": "2026-09-04T00:00:00.000Z",
+            "event-time": "8 PM",
+            "event-description": null,
+            "button-text": "TICKETS",
+            "button-link": "https://dice.fm/partner/tickets/event/6d8r23-savannah-harris-presents-dual-miriam-elhajli-savannah-harris-malik-abdul-rahmaan-3rd-sep-public-records-new-york-tickets?dice_id=9746141&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1604166385818193879&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S%2BxNDYzMzdKNkkyMbOvK0pNSy0qysxLj08qyi8vTi2ydcsEiuVXAADDDDVaPAAAAA%3D%3D",
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.09.03_harriscontinuumdual",
+            "slug": "ny-26-09-03-harriscontinuumdual",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Continuum",
+            "category-link": null,
+            "venue-name": "Public Records",
+            "venue-link": "https://publicrecords.nyc/"
+          }
+        },
         {
           "id": "6a513cd32140e5e0f5e62f22",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
