@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T15:21:17.208Z",
+  "fetchedAt": "2026-07-10T15:23:27.830Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -700,8 +700,8 @@
         {
           "id": "6a4cecdf12ecf9d950d56d4c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T09:27:40.347Z",
-          "lastUpdated": "2026-07-07T12:14:27.451Z",
+          "lastPublished": "2026-07-10T15:23:27.807Z",
+          "lastUpdated": "2026-07-10T15:23:27.807Z",
           "createdOn": "2026-07-07T12:11:11.074Z",
           "isArchived": false,
           "isDraft": false,
@@ -713,7 +713,7 @@
             "venue": "6a4ced0e67da0d853229f949",
             "start-date": "2026-08-08T16:00:00.000Z",
             "event-time": "12PM",
-            "event-description": "<p>Main Stage<br>1PM: Linda May Han Oh Quartet<br>3PM: Marcus Gilmore’s Journey to the New<br>5:15PM: Chris Potter Quartet feat. Craig Taborn, Joe Martin, Kendrick Scott<br>7:30PM: “First Meeting” feat. Gonzalo Rubalcaba, Chris Potter, Larry Grenadier and Eric Harland<br>9:00PM: Jason Moran &amp; The Bandwagon feat. Special Guests Akili Bradley &amp; Devon Gates</p><p>‍</p><p>Side Stage<br>12:00PM: Vinicius Gomes &amp; Bailinho<br>2:00PM: Joel Ross’ Good Vibes<br>4:00PM: Brooklyn All-Stars Play Miles Davis’s 'In a Silent Way' feat. Vernon Reid<br>6:15PM: Bobby Sanabria’s Ascenció</p><p>‍</p><p>‍</p>",
+            "event-description": "<p>Main Stage<br>1PM: Linda May Han Oh Quartet<br>3PM: Marcus Gilmore’s Journey to the New<br>5:15PM: Chris Potter Quartet feat. Craig Taborn, Joe Martin, Kendrick Scott<br>7:30PM: “First Meeting” feat. Gonzalo Rubalcaba, Chris Potter, Larry Grenadier and Eric Harland<br>9:00PM: Jason Moran and the Bandwagon feat. Special Guests Akili Bradley &amp; Devon Gates</p><p>‍</p><p>Side Stage<br>12:00PM: Vinicius Gomes and Bailinho<br>2:00PM: Joel Ross’ Good Vibes<br>4:00PM: Brooklyn All-Stars Play Miles Davis’s 'In a Silent Way' feat. Vernon Reid<br>6:15PM: Bobby Sanabria’s Ascenció</p><p>‍</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
