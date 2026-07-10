@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-10T19:42:50.007Z",
+  "fetchedAt": "2026-07-10T19:43:59.395Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 657,
+      "itemCount": 659,
       "items": [
+        {
+          "id": "6a514af79ca681a5576b4d37",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:43:53.178Z",
+          "lastUpdated": "2026-07-10T19:43:53.178Z",
+          "createdOn": "2026-07-10T19:41:43.951Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Chris McCarthy with Vanisha Gould, Takuya Kuroda, Eden Bareket, Sam Minaie and Steven Crammer",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2d579ad79d95a10f908184",
+            "start-date": "2026-09-18T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.17_mccarthy",
+            "slug": "ny-2026-09-17-mccarthy",
+            "city-name": "NYC",
+            "venue-name": "Ornithology",
+            "venue-link": "https://ornithologyjazzclub.com/"
+          }
+        },
+        {
+          "id": "6a514a986de127c41f025f40",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:43:48.852Z",
+          "lastUpdated": "2026-07-10T19:43:48.852Z",
+          "createdOn": "2026-07-10T19:40:08.428Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Roberta Piket with Virgina Mayhew, Pete McCann, David Kingsnorth and Billy Mintz",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2d579ad79d95a10f908184",
+            "start-date": "2026-08-03T22:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.03_piket",
+            "slug": "ny-2026-08-03-piket",
+            "city-name": "NYC",
+            "venue-name": "Ornithology",
+            "venue-link": "https://ornithologyjazzclub.com/"
+          }
+        },
         {
           "id": "6a514974ef06aa312d32c822",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
