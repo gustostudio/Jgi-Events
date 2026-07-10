@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T15:16:35.968Z",
+  "fetchedAt": "2026-07-10T15:21:17.208Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -1236,20 +1236,20 @@
         {
           "id": "6a4c74648dff4302c05fe573",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-07T03:37:11.312Z",
+          "lastPublished": "2026-07-10T15:21:16.000Z",
+          "lastUpdated": "2026-07-10T15:21:16.000Z",
           "createdOn": "2026-07-07T03:37:08.982Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Eric Scott Reed Quartet featuring René Marie",
+            "event-title": "Eric Scott Reed Quartet feat. René Marie",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-07-26T22:30:00.000Z",
             "event-time": "6:30 & 8:30PM",
-            "event-description": null,
+            "event-description": "<p>The Music of Ellington and Strayhorn</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": [
@@ -1275,20 +1275,20 @@
         {
           "id": "6a4c256539ea9c005f069435",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-06T22:00:07.371Z",
+          "lastPublished": "2026-07-10T15:21:07.915Z",
+          "lastUpdated": "2026-07-10T15:21:07.915Z",
           "createdOn": "2026-07-06T22:00:05.275Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Eric Scott Reed Quartet featuring René Marie",
+            "event-title": "Eric Scott Reed Quartet feat. René Marie",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-07-25T22:30:00.000Z",
             "event-time": "6:30, 8:30 & 10PM",
-            "event-description": null,
+            "event-description": "<p>The Music of Ellington and Strayhorn</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": [
@@ -3263,20 +3263,20 @@
         {
           "id": "6a44b43755b8eca4849e372f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-06T22:00:43.812Z",
+          "lastPublished": "2026-07-10T15:16:39.562Z",
+          "lastUpdated": "2026-07-10T15:16:39.562Z",
           "createdOn": "2026-07-01T06:31:19.993Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Eric Scott Reed Quartet featuring René Marie",
+            "event-title": "Eric Scott Reed Quartet feat. René Marie",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-07-24T22:30:00.000Z",
             "event-time": "6:30, 8:30 & 10PM",
-            "event-description": null,
+            "event-description": "<p>The Music of Ellington and Strayhorn</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": [
