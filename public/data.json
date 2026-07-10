@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-10T18:28:13.328Z",
+  "fetchedAt": "2026-07-10T18:29:28.700Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 646,
+      "itemCount": 647,
       "items": [
         {
           "id": "6a513963bb6afba8d8a71887",
@@ -86,6 +86,34 @@
             "thumbnail": null,
             "name": "ny_2026.08.15_attias",
             "slug": "ny-2026-08-015-attias",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
+        {
+          "id": "6a51390e7c1cd3ae17171fca",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:29:16.540Z",
+          "lastUpdated": "2026-07-10T18:29:16.540Z",
+          "createdOn": "2026-07-10T18:25:18.533Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Michaël Attias",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-08-08T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.08_attias",
+            "slug": "ny-2026-08-08-attias",
             "city-name": "NYC",
             "venue-name": "Barbès",
             "venue-link": "https://www.barbesbrooklyn.com/"
@@ -2292,13 +2320,13 @@
         {
           "id": "6a4b61973556d01c69587444",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:24:49.430Z",
-          "lastUpdated": "2026-07-06T08:04:43.394Z",
+          "lastPublished": "2026-07-10T18:29:28.909Z",
+          "lastUpdated": "2026-07-10T18:29:28.909Z",
           "createdOn": "2026-07-06T08:04:39.844Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Tyrone Allen II & Travelers",
+            "event-title": "Tyrone Allen II and Travelers",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
