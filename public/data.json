@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T19:43:59.395Z",
+  "fetchedAt": "2026-07-10T19:46:05.407Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 659,
+      "itemCount": 660,
       "items": [
+        {
+          "id": "6a514ba4086c8f47083d6635",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:44:38.557Z",
+          "lastUpdated": "2026-07-10T19:44:38.557Z",
+          "createdOn": "2026-07-10T19:44:36.646Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Barry Altschul Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a349b562b53c388e0301a29",
+            "start-date": "2026-07-23T18:00:00.000Z",
+            "event-time": "2PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.23_altschul",
+            "slug": "ny-2026-07-23-altschul",
+            "city-name": "NYC",
+            "venue-name": "The National Jazz Museum in Harlem",
+            "venue-link": "https://jmih.org/"
+          }
+        },
         {
           "id": "6a514af79ca681a5576b4d37",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
