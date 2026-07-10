@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T15:04:42.887Z",
+  "fetchedAt": "2026-07-10T15:09:35.910Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -13932,8 +13932,8 @@
         {
           "id": "6a30eab0a1435ff084289ee9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-17T10:58:37.698Z",
-          "lastUpdated": "2026-06-16T06:19:51.002Z",
+          "lastPublished": "2026-07-10T15:05:25.451Z",
+          "lastUpdated": "2026-07-10T15:05:25.451Z",
           "createdOn": "2026-06-16T06:18:24.171Z",
           "isArchived": false,
           "isDraft": false,
@@ -13944,7 +13944,7 @@
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-07-18T16:30:00.000Z",
-            "event-time": "6:30,8:30& 10PM",
+            "event-time": "6:30, 8:30 & 10PM",
             "event-description": null,
             "button-text": "Buy tickets",
             "button-link": "https://tickets.smokejazz.com/shows/11747/?date=2026-07-18",
@@ -13971,8 +13971,8 @@
         {
           "id": "6a30ea765931c63d6ab5037e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-17T10:58:37.698Z",
-          "lastUpdated": "2026-06-16T06:17:29.361Z",
+          "lastPublished": "2026-07-10T15:05:08.173Z",
+          "lastUpdated": "2026-07-10T15:05:08.173Z",
           "createdOn": "2026-06-16T06:17:26.989Z",
           "isArchived": false,
           "isDraft": false,
@@ -13983,7 +13983,7 @@
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-07-17T16:30:00.000Z",
-            "event-time": "6:30,8:30& 10PM",
+            "event-time": "6:30, 8:30 & 10PM",
             "event-description": null,
             "button-text": "Buy tickets",
             "button-link": "https://tickets.smokejazz.com/shows/11747/?date=2026-07-17",
