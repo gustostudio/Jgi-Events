@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T20:17:45.216Z",
+  "fetchedAt": "2026-07-10T20:20:02.224Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 669,
+      "itemCount": 670,
       "items": [
+        {
+          "id": "6a5153e6c44a2ac2a02c449c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:19:54.949Z",
+          "lastUpdated": "2026-07-10T20:19:54.949Z",
+          "createdOn": "2026-07-10T20:19:50.092Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Alejandro Florez and Daniel Lippel + Tropos: Yuma Uesaka, Ledah Finck, Phillip Golub and Aaron Edgcomb + Nikita Manin, Travis Bliss and Brittany Karlson ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51537bf9563b28d05dd752",
+            "start-date": "2026-07-25T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.24_florezlippel",
+            "slug": "ny-2026-07-24-florezlippel",
+            "city-name": "NYC",
+            "venue-name": "Prospect Series",
+            "venue-link": "https://www.instagram.com/theprospectseriesbrooklyn/"
+          }
+        },
         {
           "id": "6a51524acec8fbb572a9d72d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
