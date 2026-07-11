@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-11T01:54:49.453Z",
+  "fetchedAt": "2026-07-11T01:56:05.592Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 687,
+      "itemCount": 688,
       "items": [
+        {
+          "id": "6a51a2abc993d7d3294ff0a2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T01:55:57.062Z",
+          "lastUpdated": "2026-07-11T01:55:57.062Z",
+          "createdOn": "2026-07-11T01:55:55.676Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brass Queens",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a0c85c3e3c56d3810870",
+            "start-date": "2026-08-20T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Queens Jazz Trail</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.20_brassqueens",
+            "slug": "ny-2026-08-20-brassqueens",
+            "city-name": "NYC",
+            "venue-name": "Cunningham Park",
+            "venue-link": "https://www.nycgovparks.org/parks/cunningham-park"
+          }
+        },
         {
           "id": "6a51a25dab448488a48ffa67",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
