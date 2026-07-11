@@ -1,17 +1,45 @@
 {
-  "fetchedAt": "2026-07-11T02:07:58.523Z",
+  "fetchedAt": "2026-07-11T02:09:19.052Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 691,
+      "itemCount": 692,
       "items": [
+        {
+          "id": "6a51a5c10bcfad5a8b04bd93",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T02:09:07.189Z",
+          "lastUpdated": "2026-07-11T02:09:07.189Z",
+          "createdOn": "2026-07-11T02:09:05.915Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz & Justice",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a4f11aee406df1be0ae4",
+            "start-date": "2026-08-18T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.18_jazzjustice",
+            "slug": "ny-2026-08-18-jazzjustice",
+            "city-name": "NYC",
+            "venue-name": "Dada",
+            "venue-link": "https://www.dadabar.nyc/"
+          }
+        },
         {
           "id": "6a51a573f8963de4adeaf3ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-11T02:07:49.335Z",
-          "lastUpdated": "2026-07-11T02:07:49.335Z",
+          "lastPublished": "2026-07-11T02:08:17.248Z",
+          "lastUpdated": "2026-07-11T02:08:17.248Z",
           "createdOn": "2026-07-11T02:07:47.950Z",
           "isArchived": false,
           "isDraft": false,
