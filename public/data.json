@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-11T02:05:47.624Z",
+  "fetchedAt": "2026-07-11T02:07:58.523Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 689,
+      "itemCount": 691,
       "items": [
+        {
+          "id": "6a51a573f8963de4adeaf3ea",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T02:07:49.335Z",
+          "lastUpdated": "2026-07-11T02:07:49.335Z",
+          "createdOn": "2026-07-11T02:07:47.950Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leo Genovese: A Night of Candombe",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a4f11aee406df1be0ae4",
+            "start-date": "2026-07-18T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.17_genovese",
+            "slug": "ny-2026-07-17-genovese",
+            "city-name": "NYC",
+            "venue-name": "Dada",
+            "venue-link": "https://www.dadabar.nyc/"
+          }
+        },
+        {
+          "id": "6a51a50e601508dbccb24a85",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T02:06:08.223Z",
+          "lastUpdated": "2026-07-11T02:06:08.223Z",
+          "createdOn": "2026-07-11T02:06:06.799Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz & Justice: James Buckley Guilherme Monteiro, Hamir Atwal, allia abdullah-matta, Sherese Francis, Kim D Brandon and more",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a4f11aee406df1be0ae4",
+            "start-date": "2026-07-22T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.21_jazzandjustice",
+            "slug": "ny-2026-07-21-jazzandjustice",
+            "city-name": "NYC",
+            "venue-name": "Dada",
+            "venue-link": "https://www.dadabar.nyc/"
+          }
+        },
         {
           "id": "6a51a447de57bb0d28547a10",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
