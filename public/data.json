@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T15:44:47.221Z",
+  "fetchedAt": "2026-07-12T15:46:10.710Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 738,
+      "itemCount": 739,
       "items": [
+        {
+          "id": "6a53b6b8d7ef7f7d88974c27",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:46:02.337Z",
+          "lastUpdated": "2026-07-12T15:46:02.337Z",
+          "createdOn": "2026-07-12T15:46:00.601Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Plenta del Puente",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a349a65381884fc26134454",
+            "start-date": "2026-08-08T21:00:00.000Z",
+            "event-time": "5PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.08_plena",
+            "slug": "ny-2026-08-08-plena",
+            "city-name": "NYC",
+            "venue-name": "Morningside Park",
+            "venue-link": "https://www.nycgovparks.org/parks/morningside-park"
+          }
+        },
         {
           "id": "6a53b65cc034cb7d5506afb7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
