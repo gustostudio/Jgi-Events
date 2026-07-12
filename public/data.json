@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-12T21:10:11.872Z",
+  "fetchedAt": "2026-07-12T21:23:43.729Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 765,
+      "itemCount": 766,
       "items": [
+        {
+          "id": "6a5405d41dd7916d721b958e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T21:23:32.555Z",
+          "lastUpdated": "2026-07-12T21:23:32.555Z",
+          "createdOn": "2026-07-12T21:23:32.555Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Rebirth Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e827559e8915dc4eee4",
+            "start-date": "2026-07-15T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p>For nearly four decades, The <strong>Rebirth Brass Band</strong> has redefined what it means to bring the vibrant spirit of New Orleans music to the world. Founded in <strong>1983 </strong>by brothers <strong>Phil and Keith Frazier </strong>along with their friend <strong>Kermit Ruffins </strong>straight out of playing together in Tremé's Joseph Clark High School marching band, they revolutionized the traditional brass band sound by blending heavy second-line rhythms with funk, soul, R&amp;B, and hip-hop.</p><p>The band quickly became a sensation, blending the traditional brass sounds of the Big Easy with modern funk, jazz, soul, and hip-hop influences. What began as a group of high school musicians performing on the streets of New Orleans has now evolved into a world-renowned musical force. </p><p>From their earliest gigs at the now-legendary Maple Leaf Bar to Grammy Award-winning recordings, The Rebirth Brass Band continues to push the boundaries of brass music. In 2012, the band received the <strong>Grammy Award for Best Regional Roots Music Album</strong> for <em>\"Rebirth of New Orleans,\"</em> solidifying their place as both guardians of tradition and pioneers of innovation. Since then they have collaborated with major acts like the Red Hot Chili Peppers, The Roots, Green Day, and a slew of star hip-hop MCs.</p><p>Their sound is a seamless blend of second-line rhythms and energetic brass arrangements that resonate with audiences young and old. Whether performing at Mardi Gras parades, festivals like Jazz Fest, or on international stages, The Rebirth Brass Band brings an unmatched energy that compels every listener to dance. </p><p>Yet, band’s influence extends beyond their music. They’ve been featured in HBO’s hit series <strong><em>Tremé</em></strong><em>,</em> highlighting their critical role in the cultural fabric of New Orleans. Despite international fame, The Rebirth Brass Band remains deeply rooted in their hometown, continuing to perform weekly at the Maple Leaf Bar, a testament to their commitment to the local community and their musical origins.With a lineup that has evolved over the years, including collaborations with legendary musicians, The Rebirth Brass Band maintains its signature infectious energy. Their music honors the heritage of New Orleans while fearlessly embracing new sounds, making them a bridge between past and present in the world of brass band music. </p><p>Experience Rebirth's hometown Tuesday night residency at this new Central City neighborhood music venue, a continuation of their famed weekly they held for years formerly at uptown's Maple Leaf Bar. </p><p><em>Do Whatcha Wanna!&nbsp;</em></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.eventbrite.com/o/the-rabbit-hole-58751661813",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a38d5cd9d169080eff44009",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_14_rebirth_bb_rabbit",
+            "slug": "no-26-07-14-rebirth-bb-rabbit",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Rabbit Hole",
+            "venue-link": "https://rabbitholenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk",
+              "hip-hop",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5402a975614ee836a3a499",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
