@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:43:54.388Z",
+  "fetchedAt": "2026-07-12T01:45:17.241Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 712,
+      "itemCount": 713,
       "items": [
+        {
+          "id": "6a52f1a24659d7ce86bdfbb9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:45:16.270Z",
+          "lastUpdated": "2026-07-12T01:45:16.270Z",
+          "createdOn": "2026-07-12T01:45:06.579Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cécile McLorin Salvant: Tin Pan Alley",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52f14ec034cb7d55ebfab6",
+            "start-date": "2026-08-13T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.12_salvant",
+            "slug": "ny-2026-08-12-salvant",
+            "city-name": "NYC",
+            "venue-name": "Little Island",
+            "venue-link": "https://littleisland.org/"
+          }
+        },
         {
           "id": "6a52f08329a68e661790fb38",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
