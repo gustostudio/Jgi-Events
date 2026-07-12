@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T00:32:59.318Z",
+  "fetchedAt": "2026-07-12T00:47:51.485Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -4368,8 +4368,8 @@
         {
           "id": "6a4538a07e352fab67a4c2eb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:24:49.430Z",
-          "lastUpdated": "2026-07-06T08:03:51.428Z",
+          "lastPublished": "2026-07-12T00:47:42.717Z",
+          "lastUpdated": "2026-07-12T00:47:42.717Z",
           "createdOn": "2026-07-01T15:56:16.203Z",
           "isArchived": false,
           "isDraft": false,
@@ -4381,7 +4381,7 @@
             "venue": "6a45357e02cd28aeed4dfc7a",
             "start-date": "2026-07-30T16:30:00.000Z",
             "event-time": "12:30PM",
-            "event-description": null,
+            "event-description": "<p>Jazz on the Plaza</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
