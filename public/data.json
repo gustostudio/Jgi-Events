@@ -1,12 +1,112 @@
 {
-  "fetchedAt": "2026-07-12T21:06:20.447Z",
+  "fetchedAt": "2026-07-12T21:08:16.724Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 762,
+      "itemCount": 764,
       "items": [
+        {
+          "id": "6a540234938a981683dc1e75",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T21:08:04.969Z",
+          "lastUpdated": "2026-07-12T21:08:04.969Z",
+          "createdOn": "2026-07-12T21:08:04.969Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Chocolate & The Free P.O.C. ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-07-22T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><a href=\"https://www.facebook.com/DBAKidchocolate/\"><strong>Kid Chocolate &amp; The Free P.O.C.</strong></a> present their Tuesday night residency on the famed Frenchmen Street music strip. </p><p>9:00pm Doors </p><p>9:30pm Show </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.facebook.com/DBAKidchocolate/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_21_kid_chocolate_POC_dba Copy",
+            "slug": "no-26-07-21-kid-chocolate-poc-dba-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a5401f70e7b1cfef7fd6db6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T21:07:03.585Z",
+          "lastUpdated": "2026-07-12T21:07:03.585Z",
+          "createdOn": "2026-07-12T21:07:03.585Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Chocolate & The Free P.O.C. ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-07-15T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><a href=\"https://www.facebook.com/DBAKidchocolate/\"><strong>Kid Chocolate &amp; The Free P.O.C.</strong></a> present their Tuesday night residency on the famed Frenchmen Street music strip. </p><p>9:00pm Doors </p><p>9:30pm Show </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.facebook.com/DBAKidchocolate/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_14_kid_chocolate_POC_dba",
+            "slug": "no-26-07-14-kid-chocolate-poc-dba",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53fac63ee14396ea42e93a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
