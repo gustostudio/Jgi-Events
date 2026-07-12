@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-12T20:05:53.497Z",
+  "fetchedAt": "2026-07-12T20:19:05.143Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 755,
+      "itemCount": 756,
       "items": [
+        {
+          "id": "6a53f6acc2d00af7989f195c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T20:19:03.271Z",
+          "lastUpdated": "2026-07-12T20:19:03.271Z",
+          "createdOn": "2026-07-12T20:18:52.121Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sporty's Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d1faf7754de0f7483c6",
+            "start-date": "2026-07-14T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><a href=\"https://sportysbrassband.com/\"><strong>Sporty's Brass Band</strong></a> new Monday night 7th Ward neighborhood bar residency. </p><p>9PM Doors </p><p>9:30PM First Set </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://welcometonola.com/place/da-jump-off-lounge/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a38d5cd9d169080eff44009",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_13_sportys_brass_band",
+            "slug": "no-26-07-13-sportys-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Da Jump Off Lounge",
+            "venue-link": "https://www.instagram.com/dajumpoffofficalpage/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53f397cf4c0c15c8723e24",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
