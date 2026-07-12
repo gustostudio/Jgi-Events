@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T00:27:48.933Z",
+  "fetchedAt": "2026-07-12T00:31:55.886Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 694,
+      "itemCount": 695,
       "items": [
+        {
+          "id": "6a52e06f3e32430f225916ee",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T00:31:44.487Z",
+          "lastUpdated": "2026-07-12T00:31:44.487Z",
+          "createdOn": "2026-07-12T00:31:43.027Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Diehl and John Patitucci ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a309b33d191f9e9fa9e5365",
+            "start-date": "2026-07-21T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Jazz in July</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.21",
+            "slug": "ny-2026-07-21",
+            "city-name": "NYC",
+            "venue-name": "92nd Street Y",
+            "venue-link": "https://www.92ny.org/"
+          }
+        },
         {
           "id": "6a52df7a6c828a117df5f5ff",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
