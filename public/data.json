@@ -1,12 +1,112 @@
 {
-  "fetchedAt": "2026-07-12T19:12:49.647Z",
+  "fetchedAt": "2026-07-12T19:14:33.158Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 747,
+      "itemCount": 749,
       "items": [
+        {
+          "id": "6a53e78dbc2d869a6e34c9b2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T19:14:21.321Z",
+          "lastUpdated": "2026-07-12T19:14:21.321Z",
+          "createdOn": "2026-07-12T19:14:21.321Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "George Porter Jr. Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-28T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>This is your weekly chance to catch the original bassist from legendary funk pioneers, <strong><em>The Meters</em>, George Porter Jr. </strong>in his element, up close and personal, with his own rotating trio of guests at his Monday night residency as he leads an intimate evening of originals, interpretations, and improv jams inside one of the Crescent City's longest running staples for the New Orleans - and the world's - funk lexicon. </p><p>Two sets with a break for one ticket, 8pm - 12am. </p><p>Sets at 8pm &amp; 10pm. </p><p>Doors Open at 7pm. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a53e1fbdad8a3ee74b90c63",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.27_jr_porter_george",
+            "slug": "no-26-07-27-jr-porter-george",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "soul",
+              "jam",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a53e758f9f185eedaeee21b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T19:13:28.642Z",
+          "lastUpdated": "2026-07-12T19:13:28.642Z",
+          "createdOn": "2026-07-12T19:13:28.642Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "George Porter Jr. Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-21T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>This is your weekly chance to catch the original bassist from legendary funk pioneers, <strong><em>The Meters</em>, George Porter Jr. </strong>in his element, up close and personal, with his own rotating trio of guests at his Monday night residency as he leads an intimate evening of originals, interpretations, and improv jams inside one of the Crescent City's longest running staples for the New Orleans - and the world's - funk lexicon. </p><p>Two sets with a break for one ticket, 8pm - 12am. </p><p>Sets at 8pm &amp; 10pm. </p><p>Doors Open at 7pm. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a53e1fbdad8a3ee74b90c63",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.20_jr_porter_george Copy",
+            "slug": "no-26-07-20-jr-porter-george-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "soul",
+              "jam",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53e2de5d37dd05aa3ce1b3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
