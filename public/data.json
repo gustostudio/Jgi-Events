@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:47:11.512Z",
+  "fetchedAt": "2026-07-12T14:49:37.756Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 734,
+      "itemCount": 735,
       "items": [
+        {
+          "id": "6a53a913cbeb7e4ee692dfb3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:47:58.189Z",
+          "lastUpdated": "2026-07-12T14:47:58.189Z",
+          "createdOn": "2026-07-12T14:47:47.048Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gina D'Soto",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a3103ff7c84f317f18c2aed",
+            "start-date": "2026-07-18T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.18_dsoto",
+            "slug": "ny-2026-07-18-dsoto",
+            "city-name": "NYC",
+            "venue-name": "Montefiore Square Park",
+            "venue-link": "https://www.nycgovparks.org/parks/montefiore-square/"
+          }
+        },
         {
           "id": "6a53a8e5c2d00af79891c1b5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
