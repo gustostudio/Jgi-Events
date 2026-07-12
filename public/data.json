@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T15:54:41.657Z",
+  "fetchedAt": "2026-07-12T15:56:22.094Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 741,
+      "itemCount": 743,
       "items": [
+        {
+          "id": "6a53b8b6dad8a3ee74b1c132",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:54:48.080Z",
+          "lastUpdated": "2026-07-12T15:54:48.080Z",
+          "createdOn": "2026-07-12T15:54:30.199Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ronnie Burrage and Holographic Principle",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a53b867f9f185eedae6c2f2",
+            "start-date": "2026-07-21T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Summer on the Hudson</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.21_burrage",
+            "slug": "ny-2026-07-21-burrage",
+            "city-name": "NYC",
+            "venue-name": "Pier I, Riverside Park South",
+            "venue-link": "https://www.nycgovparks.org/parks/riverside-park-south/events"
+          }
+        },
         {
           "id": "6a53b7d2e2850658bd1e3374",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -17175,6 +17203,34 @@
             "slug": "weitz-26-07-08",
             "city-name": "NYC",
             "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a30eeb270a64a8d059730a9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T02:30:25.839Z",
+          "lastUpdated": "2026-07-08T02:30:25.839Z",
+          "createdOn": "2026-06-16T06:35:30.833Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stefan Vasnier Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-07-09T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.smallslive.com/events/33019-stefan-vasnier-trio/",
+            "tags": null,
+            "thumbnail": null,
+            "name": "vasnier 26.07.08",
+            "slug": "vasnier-26-07-08",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
             "venue-link": "https://www.smallslive.com/"
           }
         },
