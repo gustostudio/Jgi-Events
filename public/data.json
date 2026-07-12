@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:31:54.617Z",
+  "fetchedAt": "2026-07-12T14:34:35.432Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 723,
+      "itemCount": 724,
       "items": [
+        {
+          "id": "6a53a5f0dad8a3ee74ae4ed3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:34:25.663Z",
+          "lastUpdated": "2026-07-12T14:34:25.663Z",
+          "createdOn": "2026-07-12T14:34:24.510Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sean Mason Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34cbe72ec275c0538565e1",
+            "start-date": "2026-07-25T02:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.24_mason",
+            "slug": "ny-2026-07-24-mason",
+            "city-name": "NYC",
+            "venue-name": "Marcus Garvey Park",
+            "venue-link": "https://www.nycgovparks.org/parks/marcus-garvey-park"
+          }
+        },
         {
           "id": "6a53a550c0f23b51ac9360b7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
