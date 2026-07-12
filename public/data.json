@@ -1,12 +1,90 @@
 {
-  "fetchedAt": "2026-07-12T15:56:22.094Z",
+  "fetchedAt": "2026-07-12T15:58:46.988Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 743,
+      "itemCount": 744,
       "items": [
+        {
+          "id": "6a53b926686a30b876016331",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:56:23.908Z",
+          "lastUpdated": "2026-07-12T15:56:23.908Z",
+          "createdOn": "2026-07-12T15:56:22.736Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eri Yamamoto Duo",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2d55d9b8ecd18fab44c92a",
+            "start-date": "2026-07-27T21:00:00.000Z",
+            "event-time": "5PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a52467b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_ 2026.07.27_yamamoto",
+            "slug": "ny-2026-07-27-yamamoto",
+            "city-name": "NYC",
+            "venue-name": "Arthur's Tavern",
+            "venue-link": "https://arthurstavern.nyc/",
+            "tags-name": [
+              "No Cover",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a53b91abc2d869a6e2d226f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:58:34.512Z",
+          "lastUpdated": "2026-07-12T15:58:34.512Z",
+          "createdOn": "2026-07-12T15:56:10.280Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eri Yamamoto Duo",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2d55d9b8ecd18fab44c92a",
+            "start-date": "2026-07-20T21:00:00.000Z",
+            "event-time": "5PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a52467b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_ 2026.07.20_yamamoto",
+            "slug": "ny-2026-07-20-yamamoto",
+            "city-name": "NYC",
+            "venue-name": "Arthur's Tavern",
+            "venue-link": "https://arthurstavern.nyc/",
+            "tags-name": [
+              "No Cover",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53b8b6dad8a3ee74b1c132",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -17203,34 +17281,6 @@
             "slug": "weitz-26-07-08",
             "city-name": "NYC",
             "venue-name": "Smalls",
-            "venue-link": "https://www.smallslive.com/"
-          }
-        },
-        {
-          "id": "6a30eeb270a64a8d059730a9",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T02:30:25.839Z",
-          "lastUpdated": "2026-07-08T02:30:25.839Z",
-          "createdOn": "2026-06-16T06:35:30.833Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Stefan Vasnier Trio",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2cc9622243172b566077be",
-            "start-date": "2026-07-09T01:00:00.000Z",
-            "event-time": "9 & 10:30PM",
-            "event-description": null,
-            "button-text": "Buy tickets",
-            "button-link": "https://www.smallslive.com/events/33019-stefan-vasnier-trio/",
-            "tags": null,
-            "thumbnail": null,
-            "name": "vasnier 26.07.08",
-            "slug": "vasnier-26-07-08",
-            "city-name": "NYC",
-            "venue-name": "Mezzrow",
             "venue-link": "https://www.smallslive.com/"
           }
         },
