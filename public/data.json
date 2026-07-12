@@ -1,17 +1,45 @@
 {
-  "fetchedAt": "2026-07-12T14:29:17.255Z",
+  "fetchedAt": "2026-07-12T14:30:31.318Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 721,
+      "itemCount": 722,
       "items": [
+        {
+          "id": "6a53a4e234afa63ae2311944",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:30:22.465Z",
+          "lastUpdated": "2026-07-12T14:30:22.465Z",
+          "createdOn": "2026-07-12T14:29:54.333Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tia Fuller and Shamie Royston",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52ed62a52b15bf928055bb",
+            "start-date": "2026-10-14T17:00:00.000Z",
+            "event-time": "1PM",
+            "event-description": "<p>Concerts at One</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.10.14_fuller_royston",
+            "slug": "ny-2026-10-14-fuller-royston",
+            "city-name": "NYC",
+            "venue-name": "Trinity Church",
+            "venue-link": "https://trinitychurchnyc.org/"
+          }
+        },
         {
           "id": "6a53a4b0f9f185eedae36ac9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T14:29:16.942Z",
-          "lastUpdated": "2026-07-12T14:29:16.942Z",
+          "lastPublished": "2026-07-12T14:29:17.266Z",
+          "lastUpdated": "2026-07-12T14:29:17.266Z",
           "createdOn": "2026-07-12T14:29:04.159Z",
           "isArchived": false,
           "isDraft": false,
