@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T01:40:29.702Z",
+  "fetchedAt": "2026-07-12T01:43:54.388Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -38,8 +38,8 @@
         {
           "id": "6a52efd8a697290302217090",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T01:37:35.991Z",
-          "lastUpdated": "2026-07-12T01:37:35.991Z",
+          "lastPublished": "2026-07-12T01:40:30.532Z",
+          "lastUpdated": "2026-07-12T01:40:30.532Z",
           "createdOn": "2026-07-12T01:37:28.133Z",
           "isArchived": false,
           "isDraft": false,
@@ -51,7 +51,7 @@
             "venue": "6a2ff06dedb67a5187242897",
             "start-date": "2026-09-02T23:00:00.000Z",
             "event-time": "7PM",
-            "event-description": "<p>Verve Records 70th anniversary celebration</p>",
+            "event-description": "<p>Verve Records 70th anniversary celebration. SummerStage.</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
