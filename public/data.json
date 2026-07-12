@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:39:12.722Z",
+  "fetchedAt": "2026-07-12T14:40:13.730Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 727,
+      "itemCount": 728,
       "items": [
+        {
+          "id": "6a53a7433ee14396ea344f2a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:40:05.050Z",
+          "lastUpdated": "2026-07-12T14:40:05.050Z",
+          "createdOn": "2026-07-12T14:40:03.770Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Antoinette Montague Experience: Tribute to Danny Mixon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34cbe72ec275c0538565e1",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Jazzmobile Summerfest 61</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.31_montague",
+            "slug": "ny-2026-07-31-montague",
+            "city-name": "NYC",
+            "venue-name": "Marcus Garvey Park",
+            "venue-link": "https://www.nycgovparks.org/parks/marcus-garvey-park"
+          }
+        },
         {
           "id": "6a53a6f9c9c7b29ea50117aa",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
