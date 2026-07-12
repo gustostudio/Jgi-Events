@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T00:19:25.327Z",
+  "fetchedAt": "2026-07-12T00:22:29.352Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 691,
+      "itemCount": 692,
       "items": [
+        {
+          "id": "6a52de3acf4c0c15c84ce695",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T00:22:19.842Z",
+          "lastUpdated": "2026-07-12T00:22:19.842Z",
+          "createdOn": "2026-07-12T00:22:18.273Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ron Carter's Foursight",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a309b33d191f9e9fa9e5365",
+            "start-date": null,
+            "event-time": "7:30PM",
+            "event-description": "<p>Jazz in July</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.25_carter",
+            "slug": "ny-2026-07-25-carter",
+            "city-name": "NYC",
+            "venue-name": "92nd Street Y",
+            "venue-link": "https://www.92ny.org/"
+          }
+        },
         {
           "id": "6a52dd80bdbcc760cefc9dfa",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
