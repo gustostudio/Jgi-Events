@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:09:49.810Z",
+  "fetchedAt": "2026-07-12T01:10:52.001Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 703,
+      "itemCount": 704,
       "items": [
+        {
+          "id": "6a52e98df9e04447acd11a0a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:10:41.336Z",
+          "lastUpdated": "2026-07-12T01:10:41.336Z",
+          "createdOn": "2026-07-12T01:10:37.749Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Reggie Nicholson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2f6b9775b3d1a49326492b",
+            "start-date": "2026-07-25T00:15:00.000Z",
+            "event-time": "8:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.24_nicholson",
+            "slug": "ny-2026-07-24-nicholson",
+            "city-name": "NYC",
+            "venue-name": "Mount Morris Ascension Presbyterian Church",
+            "venue-link": "https://pcusa.org/congregation/mt-morris-ascension-church-new-york-ny"
+          }
+        },
         {
           "id": "6a52e92fc1d76f4028926504",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
