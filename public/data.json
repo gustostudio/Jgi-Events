@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T15:42:06.020Z",
+  "fetchedAt": "2026-07-12T15:43:43.946Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 736,
+      "itemCount": 737,
       "items": [
+        {
+          "id": "6a53b622ac6671f0772ea39a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:43:32.400Z",
+          "lastUpdated": "2026-07-12T15:43:32.400Z",
+          "createdOn": "2026-07-12T15:43:30.985Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kevin Oliver Jr. Group",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a53b5c160993ca19d8ee3ab",
+            "start-date": "2026-07-24T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.24_oliver",
+            "slug": "ny-2026-07-24-oliver",
+            "city-name": "NYC",
+            "venue-name": "St. Nicholas Park",
+            "venue-link": "https://www.nycgovparks.org/parks/st-nicholas-park"
+          }
+        },
         {
           "id": "6a53a98f686a30b876fed00d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
