@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T00:54:11.937Z",
+  "fetchedAt": "2026-07-12T00:56:23.817Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 695,
+      "itemCount": 696,
       "items": [
+        {
+          "id": "6a52e62da52b15bf927fc13e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T00:56:14.631Z",
+          "lastUpdated": "2026-07-12T00:56:14.631Z",
+          "createdOn": "2026-07-12T00:56:13.505Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Jones Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34c03d36fe5f17503f449b",
+            "start-date": "2026-08-03T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.02_jones",
+            "slug": "ny-2026-08-02-jones",
+            "city-name": "NYC",
+            "venue-name": "Five Spot Jazz",
+            "venue-link": "https://www.fivespotjazz.com"
+          }
+        },
         {
           "id": "6a52e06f3e32430f225916ee",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
