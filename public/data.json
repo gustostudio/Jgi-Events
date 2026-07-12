@@ -1,17 +1,45 @@
 {
-  "fetchedAt": "2026-07-12T00:22:29.352Z",
+  "fetchedAt": "2026-07-12T00:26:14.263Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 692,
+      "itemCount": 693,
       "items": [
+        {
+          "id": "6a52df1af9e04447acd028b5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T00:26:07.757Z",
+          "lastUpdated": "2026-07-12T00:26:07.757Z",
+          "createdOn": "2026-07-12T00:26:02.611Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Terence Blanchard and Ravi Coltrane with the E-Collective ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a309b33d191f9e9fa9e5365",
+            "start-date": "2026-07-23T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Jazz in July</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.23_blanchard_coltrane",
+            "slug": "ny-2026-07-23-blanchard-coltrane",
+            "city-name": "NYC",
+            "venue-name": "92nd Street Y",
+            "venue-link": "https://www.92ny.org/"
+          }
+        },
         {
           "id": "6a52de3acf4c0c15c84ce695",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T00:22:19.842Z",
-          "lastUpdated": "2026-07-12T00:22:19.842Z",
+          "lastPublished": "2026-07-12T00:23:11.782Z",
+          "lastUpdated": "2026-07-12T00:23:11.782Z",
           "createdOn": "2026-07-12T00:22:18.273Z",
           "isArchived": false,
           "isDraft": false,
@@ -21,7 +49,7 @@
             "feature": null,
             "category": null,
             "venue": "6a309b33d191f9e9fa9e5365",
-            "start-date": null,
+            "start-date": "2026-07-25T23:30:00.000Z",
             "event-time": "7:30PM",
             "event-description": "<p>Jazz in July</p>",
             "button-text": null,
