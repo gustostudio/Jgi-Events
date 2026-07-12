@@ -1,17 +1,67 @@
 {
-  "fetchedAt": "2026-07-12T21:50:36.507Z",
+  "fetchedAt": "2026-07-12T21:51:57.887Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 770,
+      "itemCount": 771,
       "items": [
+        {
+          "id": "6a540c72cbeb7e4ee6a34d04",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T21:51:46.481Z",
+          "lastUpdated": "2026-07-12T21:51:46.481Z",
+          "createdOn": "2026-07-12T21:51:46.481Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Funkin' It Up with Big Sam",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fbdb2dd8a1b4e859eea",
+            "start-date": "2026-07-22T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Funkin' it up on Wednesday nights at The Jazz Playhouse with Big Sam's Funky Nation &amp; Friends. </p><p>7:00pm Doors </p><p>7:30pm Show </p><p>Two Sets at 7:30pm &amp;&nbsp;9:00pm |&nbsp; One Ticket, Two Sets </p><p>‍</p><p>Seating is very limited and first-come, first-served, so early arrival and/or advance tickets is strongly suggested. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.thejazzplayhouse.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_22_big_sam_playhouse",
+            "slug": "no-26-07-22-big-sam-playhouse",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Jazz Playhouse (Royal Sonesta Hotel) ",
+            "venue-link": "https://www.thejazzplayhouse.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a540be1d00e55970eba5d15",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T21:49:21.592Z",
-          "lastUpdated": "2026-07-12T21:49:21.592Z",
+          "lastPublished": "2026-07-12T21:51:05.822Z",
+          "lastUpdated": "2026-07-12T21:51:05.822Z",
           "createdOn": "2026-07-12T21:49:21.592Z",
           "isArchived": false,
           "isDraft": false,
@@ -23,7 +73,7 @@
             "venue": "6a318fbdb2dd8a1b4e859eea",
             "start-date": "2026-07-15T23:30:00.000Z",
             "event-time": "7:30PM",
-            "event-description": "<p>Funkin' it up on Wednesday nights at The Jazz Playhouse with Big Sam's Funky Nation &amp; Friends. </p><p>7:00pm Doors </p><p>7:30pm Show </p><p>‍</p><p>Seating is very limited and first-come, first-served, so early arrival and/or advance tickets is strongly suggested. </p>",
+            "event-description": "<p>Funkin' it up on Wednesday nights at The Jazz Playhouse with Big Sam's Funky Nation &amp; Friends. </p><p>7:00pm Doors </p><p>7:30pm Show </p><p>Two Sets at 7:30pm &amp;&nbsp;9:00pm |&nbsp; One Ticket, Two Sets </p><p>‍</p><p>Seating is very limited and first-come, first-served, so early arrival and/or advance tickets is strongly suggested. </p>",
             "button-text": "TICKETS",
             "button-link": "https://www.thejazzplayhouse.com/calendar/",
             "tags": [
