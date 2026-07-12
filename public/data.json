@@ -1,12 +1,63 @@
 {
-  "fetchedAt": "2026-07-12T23:01:13.569Z",
+  "fetchedAt": "2026-07-12T23:34:48.460Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 778,
+      "itemCount": 779,
       "items": [
+        {
+          "id": "6a54248bb89f6b6fe8880db9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T23:34:35.766Z",
+          "lastUpdated": "2026-07-12T23:34:35.766Z",
+          "createdOn": "2026-07-12T23:34:35.766Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Marsalis interprets The Beach Boys ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-18T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Jason Marsalis</strong> is the youngest son of late, great piano patriarch and jazz luminary Ellis Marsalis Jr. &nbsp;Upon the presentation of their NEA Jazz Masters Award in 2011, The Marsalises were declared \"America's First Family of Jazz.\" &nbsp;In addition to his renown as a drummer, Jason is also a respected vibraphonist whose 2018 release \"<em>Melody Reimagined'' </em>with his 21st Century Trad Band rose swiftly to the top of the Billboard Jazz Chart. With a fire in his heart and a passion for the music, his will to swing has never been more resolute. The maturity and the command Jason possesses over his music is clearly evident to those who have heard and seen him. <br><br>Tonight, Jason and his trio present the latest of his eclectic series, a tribute of sorts to the late visionary songwriter Brian Wilson and his band The Beach Boys, featuring Jason's interpretations and arrangements of Wilson's acclaimed \"California Sound.\" </p><p>A testament to Jason's unrelenting drive to examine, explore, and play with all forms of music through the lens of jazz. <br></p><p><strong>Shows at 7:30pm &amp; 9:30pm</strong><br><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 11pm for dinner before or after your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com . Advance Ticket-Holders can also make table reservations for dinner by forwarding your e-ticket confirmation with dinner request info to <strong>reservations@snugjazz.com</strong> after your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/jason-marsalis-tribute-to-brian-wilson-the-beach-boys/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401c170dbe02d7e893dca",
+              "6a5401d60e7b1cfef7fd6a81",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_18_marsalis_jason_beach_boys",
+            "slug": "no-26-07-18-marsalis-jason-beach-boys",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "BAM",
+              "Black American Music",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a541716e08d3e470d3c20bc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
