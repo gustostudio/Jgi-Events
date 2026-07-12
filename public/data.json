@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:21:39.737Z",
+  "fetchedAt": "2026-07-12T01:25:50.778Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 705,
+      "itemCount": 706,
       "items": [
+        {
+          "id": "6a52ed14c6b8791b212946bd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:25:41.992Z",
+          "lastUpdated": "2026-07-12T01:25:41.992Z",
+          "createdOn": "2026-07-12T01:25:40.571Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "esperanza spalding",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a305d50926c1382a3f208ef",
+            "start-date": "2026-08-07T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.07_spalding",
+            "slug": "ny-2026-08-07-spalding",
+            "city-name": "NYC",
+            "venue-name": "Robert F. Wagner Park",
+            "venue-link": "https://bpca.ny.gov/wagner-park/"
+          }
+        },
         {
           "id": "6a52ec16ecfd46e075e9574f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -18748,7 +18776,7 @@
             "name": "rebirth 26.07.09",
             "slug": "rebirth-26-07-09",
             "city-name": "NYC",
-            "venue-name": "Wagner Park",
+            "venue-name": "Robert F. Wagner Park",
             "venue-link": "https://bpca.ny.gov/wagner-park/",
             "tags-name": [
               "Free",
