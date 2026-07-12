@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T16:00:43.258Z",
+  "fetchedAt": "2026-07-12T16:03:02.239Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 745,
+      "itemCount": 746,
       "items": [
+        {
+          "id": "6a53baab5d37dd05aa35f266",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T16:02:52.632Z",
+          "lastUpdated": "2026-07-12T16:02:52.632Z",
+          "createdOn": "2026-07-12T16:02:51.573Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eric Person Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30cbdef517588c86912415",
+            "start-date": "2026-07-30T23:00:00.000Z",
+            "event-time": "7 & 8:45PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.30_person",
+            "slug": "ny-26-07-30-person",
+            "city-name": "NYC",
+            "venue-name": "The Django",
+            "venue-link": "https://www.thedjangonyc.com/"
+          }
+        },
         {
           "id": "6a53b9db0e7b1cfef7f1de0d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
