@@ -1,12 +1,107 @@
 {
-  "fetchedAt": "2026-07-12T20:23:01.721Z",
+  "fetchedAt": "2026-07-12T20:30:55.161Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 759,
+      "itemCount": 761,
       "items": [
+        {
+          "id": "6a53f972d7ef7f7d88a25b55",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T20:30:42.734Z",
+          "lastUpdated": "2026-07-12T20:30:42.734Z",
+          "createdOn": "2026-07-12T20:30:42.734Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Clarence Johnson III",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d5758911635dad0aa91",
+            "start-date": "2026-07-14T22:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Ellis Marsalis Center for Music presents its monthly Tuesday evening concert series, featuring saxophonist Clarence Johnson III's quartet. </p><p>‍</p><p>6:00pm Doors </p><p>6:30pm Show</p><p>Admission: $5 - $50 Donations benefit the EMC's youth program. </p>",
+            "button-text": "RESERVE TICEKTS",
+            "button-link": "https://www.ellismarsaliscenter.org/on-the-stage/concerts/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_14_johnson_clarence_iii",
+            "slug": "no-26-07-14-johnson-clarence-iii",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Ellis Marsalis Center",
+            "venue-link": "https://www.ellismarsaliscenter.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a53f7b849f8b04e534cf27b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T20:23:20.620Z",
+          "lastUpdated": "2026-07-12T20:23:20.620Z",
+          "createdOn": "2026-07-12T20:23:20.620Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Corey Henry & The Tremé Funktet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-07-28T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p>One of New Orleans' most renowned bone players, 6th Ward trombonist <a href=\"https://www.coreyhenrytremefunktet.com/\"><strong>Corey Henry</strong></a> leads his \"Red Beans &amp;&nbsp;Ricely Yours\"&nbsp;Monday night residency to keep the roots of the tradition he was born into alive and rolling with his neighborhood's <strong>Tremé Funktet,</strong> plus rotating special guests weekly. Catch that second line beat with a healthy dose of that fonk. </p><p>Doors at 9:00/9:30pm </p><p><strong>Sets at 9:30/10:00pm &amp;&nbsp;Midnight </strong></p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.dbaneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.27_henry_corey_treme_funktet_dba",
+            "slug": "no-26-07-27-henry-corey-treme-funktet-dba",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "jazz",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53f79a2522de0aaf641074",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
