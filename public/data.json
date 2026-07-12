@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:00:42.875Z",
+  "fetchedAt": "2026-07-12T01:03:33.307Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 696,
+      "itemCount": 697,
       "items": [
+        {
+          "id": "6a52e742b255a94813362e40",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:00:51.450Z",
+          "lastUpdated": "2026-07-12T01:00:51.450Z",
+          "createdOn": "2026-07-12T01:00:50.237Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Coltrane Centennial with James Carter",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52e72eb255a94813362c8f",
+            "start-date": "2026-09-24T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.23_carter",
+            "slug": "ny-2026-09-23-carter",
+            "city-name": "NYC",
+            "venue-name": "Sistas' Place",
+            "venue-link": "https://sistasplace.org/"
+          }
+        },
         {
           "id": "6a52e62da52b15bf927fc13e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
