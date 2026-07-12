@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-07-12T22:30:47.416Z",
+  "fetchedAt": "2026-07-12T22:37:21.191Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 777,
+      "itemCount": 778,
       "items": [
+        {
+          "id": "6a541716e08d3e470d3c20bc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T22:37:10.070Z",
+          "lastUpdated": "2026-07-12T22:37:10.070Z",
+          "createdOn": "2026-07-12T22:37:10.070Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Grayson Brockamp's Wildlife Duo (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-18T20:30:00.000Z",
+            "event-time": "4:30PM",
+            "event-description": "<p><strong>The Wildlife Duo</strong> showcases the music of bassist, composer, and arranger <strong>Grayson Brockamp</strong>, whose repertoire spans Wayne Shorter to Eminem and Geri Allen to Busta Rhymes. Equally at home singing a traditional New Orleans tune or delivering a spoken-word poem about a feisty chihuahua, Brockamp explores the shared threads connecting blues, gospel, hip-hop, and other musical traditions. For this performance, he is joined by pianist <strong>Joe Ashlar.</strong></p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/grayson-brockamps-wildlife-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_18_brockamp_grayson_wildlife_duo",
+            "slug": "no-26-07-18-brockamp-grayson-wildlife-duo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54159611d198283b13a90a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
