@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:03:33.307Z",
+  "fetchedAt": "2026-07-12T01:04:58.533Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 697,
+      "itemCount": 698,
       "items": [
+        {
+          "id": "6a52e830347fb3edada143bc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:04:53.722Z",
+          "lastUpdated": "2026-07-12T01:04:53.722Z",
+          "createdOn": "2026-07-12T01:04:48.610Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Craig Harris Harlem and the Nightsongs Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2f6b9775b3d1a49326492b",
+            "start-date": "2026-07-23T17:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.23_harris",
+            "slug": "ny-2026-07-23-harris-copy",
+            "city-name": "NYC",
+            "venue-name": "Mount Morris Ascension Presbyterian Church",
+            "venue-link": "https://pcusa.org/congregation/mt-morris-ascension-church-new-york-ny"
+          }
+        },
         {
           "id": "6a52e742b255a94813362e40",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -20387,13 +20415,13 @@
         {
           "id": "6a2fe6ff85d25f647a852404",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-16T00:14:39.386Z",
-          "lastUpdated": "2026-06-15T11:50:27.138Z",
+          "lastPublished": "2026-07-12T01:04:09.419Z",
+          "lastUpdated": "2026-07-12T01:04:09.419Z",
           "createdOn": "2026-06-15T11:50:23.212Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Craig Harris Harlem Nightsongs Big Band",
+            "event-title": "Craig Harris Harlem and the Nightsongs Big Band",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -20405,7 +20433,7 @@
             "button-link": "https://welcome-to-harlem.tripworks.com/widgets/tripBuilder?showDetail=1&defaultView=gallery&language=en",
             "tags": null,
             "thumbnail": null,
-            "name": "harris 26.07.16",
+            "name": "ny_2026.07.16_harris",
             "slug": "harris-26-07-16",
             "city-name": "NYC",
             "venue-name": "Mount Morris Ascension Presbyterian Church",
