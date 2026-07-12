@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:38:05.596Z",
+  "fetchedAt": "2026-07-12T14:39:12.722Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 726,
+      "itemCount": 727,
       "items": [
+        {
+          "id": "6a53a6f9c9c7b29ea50117aa",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:39:00.054Z",
+          "lastUpdated": "2026-07-12T14:39:00.054Z",
+          "createdOn": "2026-07-12T14:38:49.216Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Houston Person",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34cae96ea604373b9e4641",
+            "start-date": "2026-08-05T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Jazzmobile Summerfest 61</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.05_person",
+            "slug": "ny-2026-08-05-person",
+            "city-name": "NYC",
+            "venue-name": "Grant's Tomb",
+            "venue-link": "https://www.nycgovparks.org/park-features/riverside-park/virtual-tour/grants-tomb"
+          }
+        },
         {
           "id": "6a53a6cccbeb7e4ee69288c3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
