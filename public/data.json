@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T18:28:41.810Z",
+  "fetchedAt": "2026-07-12T18:43:09.983Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -1924,8 +1924,8 @@
         {
           "id": "6a515fe1d12e733117a157c9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-10T21:10:57.749Z",
-          "lastUpdated": "2026-07-10T21:10:57.749Z",
+          "lastPublished": "2026-07-12T18:43:06.814Z",
+          "lastUpdated": "2026-07-12T18:43:06.814Z",
           "createdOn": "2026-07-10T21:10:57.749Z",
           "isArchived": false,
           "isDraft": false,
@@ -1934,7 +1934,7 @@
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a3190743031319c406e4e1a",
+            "venue": "6a318c7c9cec0ea91a901f2f",
             "start-date": "2026-07-14T01:30:00.000Z",
             "event-time": "9:30PM",
             "event-description": "<p>One of New Orleans' most renowned bone players, 6th Ward trombonist <a href=\"https://www.coreyhenrytremefunktet.com/\"><strong>Corey Henry</strong></a> leads his \"Red Beans &amp;&nbsp;Ricely Yours\"&nbsp;Monday night residency to keep the roots of the tradition he was born into alive and rolling with his neighborhood's <strong>Tremé Funktet,</strong> plus rotating special guests weekly. Catch that second line beat with a healthy dose of that fonk. </p><p>Doors at 9:00/9:30pm </p><p><strong>Sets at 9:30/10:00pm &amp;&nbsp;Midnight </strong></p><p>‍</p>",
@@ -1954,8 +1954,8 @@
             "feature-name": "JGI Pick",
             "category-name": "Concert",
             "category-link": null,
-            "venue-name": "Vaughan's Lounge",
-            "venue-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
             "tags-name": [
               "New Orleans",
               "funk",
