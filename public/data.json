@@ -1,12 +1,156 @@
 {
-  "fetchedAt": "2026-07-13T04:53:38.842Z",
+  "fetchedAt": "2026-07-13T05:01:40.717Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 830,
+      "itemCount": 833,
       "items": [
+        {
+          "id": "6a54712790c3dfa2b78cb1c1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:01:27.939Z",
+          "lastUpdated": "2026-07-13T05:01:27.939Z",
+          "createdOn": "2026-07-13T05:01:27.939Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kayla Jasmine",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce54ef1ae9bd7963a4e5",
+            "start-date": "2026-07-22T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><a href=\"https://www.instagram.com/kaylaxjasmin/\"><strong>Kayla Jasmine</strong></a> and The Experience band for two sets at 9:00pm &amp; 10:45pm </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.3090-nola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.21_jasmine_kayla",
+            "slug": "no-26-07-21-jasmine-kayla",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "30 / 90",
+            "venue-link": "https://www.3090-nola.com/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "R&B",
+              "funk fusion",
+              "jazz fusion",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a546f8249ee9f2a943d3ff4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:54:26.771Z",
+          "lastUpdated": "2026-07-13T04:54:26.771Z",
+          "createdOn": "2026-07-13T04:54:26.771Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kelly Love Jones",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a546e69b6e12e756ccdeedc",
+            "start-date": "2026-07-26T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><a href=\"https://www.kellylovejonesmusic.com/\"><strong>Kelly Love Jones</strong></a> hosts The Listening Room singer/songwriter weekly inside indie New Orleans boutique NOLA by NATURE on St. Bernard Ave. </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.kellylovejonesmusic.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.26_jones_love_kelly Copy",
+            "slug": "no-26-07-26-jones-love-kelly-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "NOLA by NATURE",
+            "venue-link": "https://nolabynature.com/",
+            "tags-name": [
+              "New Orleans",
+              "singer-songwriter",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a546f6b8bbb50d0bd2eef5a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:54:03.755Z",
+          "lastUpdated": "2026-07-13T04:54:03.755Z",
+          "createdOn": "2026-07-13T04:54:03.755Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kelly Love Jones",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a546e69b6e12e756ccdeedc",
+            "start-date": "2026-07-19T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><a href=\"https://www.kellylovejonesmusic.com/\"><strong>Kelly Love Jones</strong></a> hosts The Listening Room singer/songwriter weekly inside indie New Orleans boutique NOLA by NATURE on St. Bernard Ave. </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.kellylovejonesmusic.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.19_jones_love_kelly",
+            "slug": "no-26-07-19-jones-love-kelly",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "NOLA by NATURE",
+            "venue-link": "https://nolabynature.com/",
+            "tags-name": [
+              "New Orleans",
+              "singer-songwriter",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a546e2748dc54aff905a6ac",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
