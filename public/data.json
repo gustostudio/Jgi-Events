@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-13T04:33:31.944Z",
+  "fetchedAt": "2026-07-13T04:35:43.622Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 825,
+      "itemCount": 826,
       "items": [
+        {
+          "id": "6a546abf668155680e1133d1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:34:17.661Z",
+          "lastUpdated": "2026-07-13T04:34:17.661Z",
+          "createdOn": "2026-07-13T04:34:07.512Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Roderick Paulin & The Swingsters",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-27T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>If the name Paulin sounds familiar, there’s a reason for that – <a href=\"https://roderickpaulinmusic.com/\"><strong>Roderick Paulin</strong></a> is the son of legendary New Orleans bandleader Ernest “Doc” Paulin who led brass bands on the streets of New Orleans for over 70 years. Doc insisted that musicians in his bands adhere to certain professional standards on and off stage. Many young players began their music career by performing with Doc Paulin and have gone on to achieve musical prominence, such as clarinetist Dr. Michael White, alto saxophonist Donald Harrison, Jr, and trumpeter Gregg Stafford, among scores of local New Orleans musicians. </p><p>Roderick’s musical career spans over four decades collaborating with artists such as <strong>John Legend, Harry Connick Jr, Aaron Neville, Allen Toussaint, Maceo Parker, Fred Wesley, Christian McBride, Trombone ‘Shorty’ Andrews, Wynton Marsalis, The Grateful Dead, PJ Morton, The Brand New Heavies, The Afghan Whigs, Branford Marsalis, and the ReBirth Brass Band.</strong> </p><p>Paulin’s experience as an arranger, producer, saxophonist/clarinetist continues to serve him well as he’s a highly sought after clinician/master class educator teaching the fundamentals of music and economic empowerment to students of all ages and demographics. In addition to teaching on the faculty at <strong>Southern University at New Orleans</strong>' music department, for the last 10 years, Paulin has also served on the faculty of the<strong> Louis Armstrong Summer Jazz Camp</strong> of New Orleans which is the longest running, minority-owned and operated music organization that serves public and private school students of New Orleans and surrounding communities. </p><p>Join us tonight to experience \"Reverend\"&nbsp;Roderick Paulin in his element as he leads The Swingsters band for his Sunday night residency. </p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.26_paulin_roderick_swingsters",
+            "slug": "no-26-07-26-paulin-roderick-swingsters",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a546a91e5132b9ba408bb03",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
