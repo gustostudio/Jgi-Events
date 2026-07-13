@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-13T00:52:23.535Z",
+  "fetchedAt": "2026-07-13T00:54:02.666Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 792,
+      "itemCount": 793,
       "items": [
+        {
+          "id": "6a54371e8dc31902656266e6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:53:50.526Z",
+          "lastUpdated": "2026-07-13T00:53:50.526Z",
+          "createdOn": "2026-07-13T00:53:50.526Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brass-A-Holics",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fbdb2dd8a1b4e859eea",
+            "start-date": "2026-07-16T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Funkin' it up on Thursday nights at The Jazz Playhouse with The Brass-A-Holics for New Orleans second line brass beat meets DC&nbsp;go-go beat like no one else can shake it!&nbsp;</p><p>7:00pm Doors </p><p>7:30pm Show </p><p>Two Sets at 7:30pm &amp;&nbsp;9:00pm |&nbsp; One Ticket, Two Sets </p><p>‍</p><p>Seating is very limited and first-come, first-served, so early arrival and/or advance tickets is strongly suggested. Full bar and light bites menu available. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.thejazzplayhouse.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a5436bdcf879add14955368",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_16_brass_a_holics",
+            "slug": "no-26-07-16-brass-a-holics",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Jazz Playhouse (Royal Sonesta Hotel) ",
+            "venue-link": "https://www.thejazzplayhouse.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "funk fusion",
+              "brass",
+              "brass band",
+              "go-go",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54355e1dd7916d7223bd9b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
