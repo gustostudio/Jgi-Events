@@ -1,12 +1,116 @@
 {
-  "fetchedAt": "2026-07-13T05:18:49.434Z",
+  "fetchedAt": "2026-07-13T05:25:13.828Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 838,
+      "itemCount": 840,
       "items": [
+        {
+          "id": "6a5476af3b45ec7d4e7269be",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:25:03.016Z",
+          "lastUpdated": "2026-07-13T05:25:03.016Z",
+          "createdOn": "2026-07-13T05:25:03.016Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Clarence Johnson III Duo (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a5459cfa7e64d51039c2e14",
+            "start-date": "2026-07-23T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>New Orleans Jazz National Historic Park presents its FREE&nbsp;Thursday afternoon jazz education series, this week featuring:&nbsp;</p><p><strong>Saxophonist Clarence Johnson III Duo </strong></p><p>3pm - 4pm </p><p>‍</p><p>FREE&nbsp;and Open to the Public of All Ages. Space is limited, so early arrival is strongly suggested. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.nps.gov/jazz/index.htm",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_johnson_clarence_iii_duo",
+            "slug": "no-26-07-23-johnson-clarence-iii-duo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz National Historic Park",
+            "venue-link": "https://www.nps.gov/jazz/index.htm",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a54756ba4e27dc22b7563ca",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:19:39.371Z",
+          "lastUpdated": "2026-07-13T05:19:39.371Z",
+          "createdOn": "2026-07-13T05:19:39.371Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Campbell (solo piano)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-23T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>2026 JGI&nbsp;Jazz Cohort Fellow, <strong>Victor Campbell </strong>is a young jazz piano player hailing from <strong>Camagüey, Cuba.</strong> His compelling style combines virtuosity, whimsy, charisma and technical prowess. Notably, it is just plain fun to watch Victor perform. He started playing piano at age 5 and went on to train at <strong>Cuba’s National School of the Arts.</strong> He has since played all over the United States, and internationally. Victor first visited New Orleans in 2012 as a teenager, part of an exchange program with the <strong>Louis Armstrong Summer Jazz Camp</strong>. That visit changed his life and in 2019 Victor decided to move to New Orleans. He has been feverishly studying all styles of New Orleans music ever since, and incorporating it into his own musical language. He can effortlessly transition from a blues solo, to a Cuban timba montuno, and then right into a classical piano selection. In a 2019 interview, the great <strong>Chucho Valdés</strong> predicted that, <em>“Victor will revolutionize Cuban jazz piano.”</em></p><p>After performing as a featured new artist at several CubaNOLA showcases, Victor now has several New Orleans-based bands and collaborations, including his high-energy big band <strong>Timba Swamp</strong>, and is a fervent leader of the city’s growing Cuba-New Orleans fusion renaissance scene, which also includes collaborations with the Cuban funk phenomenon, <strong>Cimafunk, </strong>and New Orleans legends like <strong>Delfeayo Marsalis’ Uptown Jazz Orchestra.</strong> Most recently, he was recruited by renowned musical director <strong>Raphael Saadiq</strong> to play piano on the Oscar-nominated soundtrack for 2025’s Academy Award-winning film by director Ryan Coogler, \"<strong><em>SINNERS.” </em></strong></p><p>‍</p><p>This evening, Victor performs one of his acclaimed solo piano shows. </p><p>*This performance is no cover!</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d2dd1458bd4b79c78b32",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_campbell_victor-solo",
+            "slug": "no-26-07-23-campbell-victor-solo",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "Cuban",
+              "jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5474a07b0a19866e443bc8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
