@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T01:06:03.454Z",
+  "fetchedAt": "2026-07-13T01:07:50.839Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 793,
+      "itemCount": 794,
       "items": [
+        {
+          "id": "6a543a0d0df2b0c05a7eb6ae",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:06:21.544Z",
+          "lastUpdated": "2026-07-13T01:06:21.544Z",
+          "createdOn": "2026-07-13T01:06:21.544Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Booker & Beyon feat. BC Coogan ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-16T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>Join us during Happy Hour for The Maple Leaf's weekly Booker &amp;&nbsp;Beyond piano series where some of New Orleans' top keys players take on the music of the late, great \"Black Liberace\" aka the \"Bayou Maharaja,\" James Booker, and the plethora of tunes and experimentation that his wild genius inspired for this intimate solo piano set from:&nbsp;</p><p><strong>BC&nbsp;Coogan </strong></p><p>‍</p><p>Doors at 5:00pm </p><p>Set at 6:00pm - 7:30pm </p><p>‍</p><p>$10 - $15 Cover |&nbsp; First-come, first-served seating. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3db10d06a35758469acd07",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_16_booker_beyond_coogan",
+            "slug": "no-26-07-16-booker-beyond-coogan",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "blues",
+              "R&B",
+              "classic jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54371e8dc31902656266e6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
