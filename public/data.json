@@ -1,12 +1,109 @@
 {
-  "fetchedAt": "2026-07-13T01:31:52.749Z",
+  "fetchedAt": "2026-07-13T01:42:50.374Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 802,
+      "itemCount": 804,
       "items": [
+        {
+          "id": "6a54428f4580c5e573dc82dc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:42:39.349Z",
+          "lastUpdated": "2026-07-13T01:42:39.349Z",
+          "createdOn": "2026-07-13T01:42:39.349Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Chocolate & The Free P.O.C. (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-17T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>It doesn't get too much better than a FREE&nbsp;set with <strong>Kid Chocolate &amp;&nbsp;The Free P.O.C.</strong> inside the intimate Mahogany Jazz Hall for Happy Hour on Friday evenings in the French Quarter. It's easy to fall back in time. </p><p>Two Sets at 3:00pm &amp;&nbsp;4:45pm </p><p>‍</p><p><strong>No Cover! </strong>But seating is very limited, so early arrival is strongly suggested. One Drink Minimum per guest. Great cocktail menu. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_17_kid_chocolate_POC_MJH",
+            "slug": "no-26-07-17-kid-chocolate-poc-mjh",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "classic jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a544013e5132b9ba4ff1c19",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:32:03.948Z",
+          "lastUpdated": "2026-07-13T01:32:03.948Z",
+          "createdOn": "2026-07-13T01:32:03.948Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-07-31T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.30_da_lovebirds",
+            "slug": "no-26-07-30-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a543ffe00b9a2a6ce10d47a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
