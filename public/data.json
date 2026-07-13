@@ -1,12 +1,118 @@
 {
-  "fetchedAt": "2026-07-13T05:40:01.423Z",
+  "fetchedAt": "2026-07-13T05:43:23.968Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 843,
+      "itemCount": 845,
       "items": [
+        {
+          "id": "6a547aef7b0a19866e45f47e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:43:11.669Z",
+          "lastUpdated": "2026-07-13T05:43:11.669Z",
+          "createdOn": "2026-07-13T05:43:11.669Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kermit Ruffins & The BBQ Swingers",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-07-25T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p>Kermit Ruffins &amp; The BBQ&nbsp;Swingers to 2 sets </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_ruffins_kermit_bbq",
+            "slug": "no-26-07-24-ruffins-kermit-bbq",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "jazz fusion",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a547a42e5132b9ba40cdee2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:40:18.921Z",
+          "lastUpdated": "2026-07-13T05:40:18.921Z",
+          "createdOn": "2026-07-13T05:40:18.921Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Oh Yeah! with Peter Harris, Ed Perkins, Wes “Warmdaddy Anderson,” Joe Ashlar, Gerald Watkins Jr. +sg ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p><strong>Tonight, Harris presents The Oh Yeah!&nbsp;collective, featuring: </strong></p><p>Gerald Watkins Jr. - drums </p><p>Peter Harris - bass </p><p>Joe Ashlar - piano </p><p>Wes \"Warmdaddy\" Anderson - saxophones </p><p>Ed Perkins - vocals, trumpet </p><p>+ special surprise guests </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.31_harris_peter_oh_yeah",
+            "slug": "no-26-07-31-harris-peter-oh-yeah",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a547a26f415d9403c0f6b6d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
