@@ -1,12 +1,75 @@
 {
-  "fetchedAt": "2026-07-13T05:30:22.437Z",
+  "fetchedAt": "2026-07-13T05:35:53.812Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 841,
+      "itemCount": 842,
       "items": [
+        {
+          "id": "6a54792e0238161ef6a29662",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:35:42.698Z",
+          "lastUpdated": "2026-07-13T05:35:42.698Z",
+          "createdOn": "2026-07-13T05:35:42.698Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Louis Michot & Leyla McCalla",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3191836c7556447bb46dc0",
+            "start-date": "2026-07-25T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Two local legends, one bill: the monthly everyone waits for at BJ's: </p><p><strong>Louis Michot &amp;&nbsp;Leyla McCalla </strong></p><p>‍</p><p><strong><em>CASH&nbsp;ONLY</em></strong> &nbsp;at the door and at the bar </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3db8d5ea3bd0230cbe619f",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6a5467e4ac349b307520bac4",
+              "6a54681087e92148cf6b8c64",
+              "6a5467f548dc54aff904083d",
+              "6a54158957b1163c1b863385",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_michot_&_mccalla",
+            "slug": "no-26-07-24-michot-mccalla",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "BJ's Bywater Lounge",
+            "venue-link": "https://www.facebook.com/bjs.bywater/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "singer-songwriter",
+              "world music",
+              "roost music",
+              "creole music",
+              "cajun music",
+              "Louisiana",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5477e26cb5b952dd3294c9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
