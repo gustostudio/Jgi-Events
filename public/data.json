@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T00:28:04.844Z",
+  "fetchedAt": "2026-07-13T00:31:42.162Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 788,
+      "itemCount": 789,
       "items": [
+        {
+          "id": "6a5431e3e2850658bd369497",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:31:31.595Z",
+          "lastUpdated": "2026-07-13T00:31:31.595Z",
+          "createdOn": "2026-07-13T00:31:31.595Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Thaïs Clark & Her Jazzters",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-26T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>Born and raised in New Orleans' Seventh Ward,<strong> Thaïs Clark</strong> is a high-energy performer with a deep-rooted passion for the bawdy numbers popularized by blues legends Ma Rainy and Bessie Smith. Regarded as a New Orleans vocal legend, this dynamic singer-dancer can present each song like no one else, having more than 30 years of experience performing before audiences at home and around the world. Thais performed in the New Orleans-born, hit Off-Broadway musical set in 1920s Black vaudeville, <strong><em>“One Mo’ Time,” </em></strong>alongside the &nbsp;late great, Topsy Chapman.</p><p><strong>Shows at 7:30 pm and 9:30pm</strong></p><p><strong>Doors at 7:00pm an:00d 9pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 11pm for dinner <em>before </em>or <em>after</em> your tickets showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com Advance Ticket-Holders can also make table reservations for dinner by forwarding your E-ticket confirmation with dinner request info to <strong>reservations@snugjazz.com</strong> <em>after</em> your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/thais-clark-and-her-jazzsters/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_26_clark_thais",
+            "slug": "no-26-07-26-clark-thais",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "blues",
+              "Black American Music",
+              "BAM"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54310b6c828a117d26d0d3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
