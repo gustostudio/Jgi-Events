@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-13T00:09:37.651Z",
+  "fetchedAt": "2026-07-13T00:14:57.951Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 785,
+      "itemCount": 786,
       "items": [
+        {
+          "id": "6a542df470dbe02d7e902d3d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:14:44.635Z",
+          "lastUpdated": "2026-07-13T00:14:44.635Z",
+          "createdOn": "2026-07-13T00:14:44.635Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Alexey Martí & AfroGumbo ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-24T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>Havana, Cuba-born percussionist <strong>Alexey Martí </strong>has been making New Orleans his home since 2008 and tearing up stages all over town. With two albums to his name, \"<em>Travesia\"</em> and \"<em>Mundo,\"</em> Alexey brings together timba, jazz, funk, Afro-Cuban folklore, salsa, son, rumba, and New Orleans rhythms in his original compositions. As a member of the New Orleans Jazz Orchestra (NOJO) and bandleader of his own collectives, Alexey incorporates elements of modern New Orleans percussion into his flavorful Cuban conga and rumba music and the result is a dance-worthy, high-energy show. </p><p><strong>Shows at 7:30 &amp; 9:30pm </strong></p><p><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 11pm for dinner <em>before</em> or <em>after</em> your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com Advance Ticket-Holders can also make table reservations for dinner by forwarding your E-ticket confirmation with dinner request info to <strong>reservations@snugjazz.com</strong> <em>after</em> your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/alexey-marti-afrogumbo/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d2dd1458bd4b79c78b32",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9097305f37f9c96853be",
+              "6a5401c170dbe02d7e893dca",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a3d90a72a61bee173063f0b",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_24_marti_alexey_afrogumbo",
+            "slug": "no-26-07-24-marti-alexey-afrogumbo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "Cuban",
+              "jazz",
+              "Cuban jazz",
+              "BAM",
+              "Black American Music",
+              "Cuban music",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a542cb68b29e0a3f2db27f3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
