@@ -1,17 +1,64 @@
 {
-  "fetchedAt": "2026-07-13T01:07:50.839Z",
+  "fetchedAt": "2026-07-13T01:12:58.926Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 794,
+      "itemCount": 795,
       "items": [
+        {
+          "id": "6a543b8d4580c5e573db1033",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:12:45.175Z",
+          "lastUpdated": "2026-07-13T01:12:45.175Z",
+          "createdOn": "2026-07-13T01:12:45.175Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Scatterjazz feat. Rob Wagner, Klaas Hubner, James Alsanders +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d963e5f1f8d15e2934e",
+            "start-date": "2026-07-16T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Zeitgeist presents the Scatterjazz series featuring: </p><p>Rob Wagner, Klaas Hubner, James Alsanders +sg </p><p>‍</p><p>7:00pm Doors </p><p>7:30pm Show </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.zeitgeistnola.org/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d42dce24c9008ae4c85a",
+              "6a38d43dfeb11fdc96ee3b41"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_16_scatterjazz_wagner_rob",
+            "slug": "no-26-07-16-scatterjazz-wagner-rob",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Zeitgeist Multi-Disciplinary Arts Center",
+            "venue-link": "https://www.zeitgeistnola.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "free jazz",
+              "experimental jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a543a0d0df2b0c05a7eb6ae",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T01:06:21.544Z",
-          "lastUpdated": "2026-07-13T01:06:21.544Z",
+          "lastPublished": "2026-07-13T01:07:54.271Z",
+          "lastUpdated": "2026-07-13T01:07:54.271Z",
           "createdOn": "2026-07-13T01:06:21.544Z",
           "isArchived": false,
           "isDraft": false,
@@ -23,7 +70,7 @@
             "venue": "6a318a7a46aaea2ff1e0e135",
             "start-date": "2026-07-16T22:00:00.000Z",
             "event-time": "6PM",
-            "event-description": "<p>Join us during Happy Hour for The Maple Leaf's weekly Booker &amp;&nbsp;Beyond piano series where some of New Orleans' top keys players take on the music of the late, great \"Black Liberace\" aka the \"Bayou Maharaja,\" James Booker, and the plethora of tunes and experimentation that his wild genius inspired for this intimate solo piano set from:&nbsp;</p><p><strong>BC&nbsp;Coogan </strong></p><p>‍</p><p>Doors at 5:00pm </p><p>Set at 6:00pm - 7:30pm </p><p>‍</p><p>$10 - $15 Cover |&nbsp; First-come, first-served seating. </p>",
+            "event-description": "<p>Join us during Happy Hour for The Maple Leaf's weekly Booker &amp;&nbsp;Beyond piano series where some of New Orleans' top keys players take on the music of the late, great \"Black Liberace\" aka the \"Bayou Maharaja,\" James Booker, and the plethora of tunes and experimentation that his wild genius inspired for this intimate solo piano set from:&nbsp;</p><p><strong>BC&nbsp;Coogan </strong></p><p>Hailing originally from Baton,Rouge, Louisiana, <strong>BC Coogan</strong> is a versatile keyboardist and vocalist known for playing in a wide variety of contexts, styles and projects from from jazz to funk to rock. Perhaps most known as a touring member of bands with NYC's John Ellis and Galactic's Stanton Moore, as well as popular New Orleans bands Bonerama, Good Enough For Good Times, and Big Sam's Funky Nation, he's also found regularly playing with experimental New Orleans musicians like Johnny Vidacovich, Mike Dillon, Alex McMurray, Khris Royal, and longtime collaborator Simon Lott. Coogan was also a band member and collaborator on electro project Pretty Lights' Grammy-nominated 2013 - 2016 run.</p><p>‍</p><p><strong>Doors at 5:00pm </strong></p><p><strong>Set at 6:00pm - 7:30pm </strong></p><p>‍</p><p>$10 - $15 Cover |&nbsp; First-come, first-served seating. </p>",
             "button-text": "TICKETS",
             "button-link": "https://www.mapleleafbar.com/calendar",
             "tags": [
