@@ -1,12 +1,55 @@
 {
-  "fetchedAt": "2026-07-13T21:01:44.410Z",
+  "fetchedAt": "2026-07-13T22:05:33.041Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 869,
+      "itemCount": 870,
       "items": [
+        {
+          "id": "6a55612074d8645462e5acea",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T22:05:24.191Z",
+          "lastUpdated": "2026-07-13T22:05:24.191Z",
+          "createdOn": "2026-07-13T22:05:20.037Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Christina Carminucci (tap dancer)",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "691ccd0eb62c3b82ffb68615",
+            "venue": "6a199afc96df4f62c2da2655",
+            "start-date": "2026-08-20T23:00:00.000Z",
+            "event-time": "7 PM",
+            "event-description": "<p>Tap dancer&nbsp;Christina Carminucci performs with a full band for this week's Soundoff Session. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": {
+              "fileId": "6a55611daac2f89e31dd0064",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a55611daac2f89e31dd0064_0.webp",
+              "alt": null
+            },
+            "name": "soundoff_Christina Carminucci",
+            "slug": "soundoff-christina-carminucci",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Soundoff Session",
+            "category-link": null,
+            "venue-name": "Cafe Erzulie",
+            "venue-link": "https://www.cafeerzulie.com/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a548cb7a7e64d5103ac8f05",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -10762,8 +10805,8 @@
         {
           "id": "6a4d4bf36b8392d7e81e2fd9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T09:27:40.347Z",
-          "lastUpdated": "2026-07-07T18:56:56.330Z",
+          "lastPublished": "2026-07-13T22:05:32.406Z",
+          "lastUpdated": "2026-07-13T22:05:32.406Z",
           "createdOn": "2026-07-07T18:56:51.662Z",
           "isArchived": false,
           "isDraft": false,
@@ -10775,7 +10818,7 @@
             "venue": "6a199afc96df4f62c2da2655",
             "start-date": "2026-08-06T23:00:00.000Z",
             "event-time": "7 PM",
-            "event-description": "<p>Tap dancer Josh Johnson performs with a full band for this week's Soundoff Session. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy. </p><p>Part of the JGI's Black Music Month series. (On Tuesday, June 23, Gates and&nbsp;Mateo are in conversation with Dr.&nbsp;Farah Jasmine Griffin at 651 Arts.</p>",
+            "event-description": "<p>Tap dancer Josh Johnson performs with a full band for this week's Soundoff Session. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy. </p>",
             "button-text": null,
             "button-link": null,
             "tags": [
