@@ -1,12 +1,110 @@
 {
-  "fetchedAt": "2026-07-13T01:30:20.160Z",
+  "fetchedAt": "2026-07-13T01:31:52.749Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 800,
+      "itemCount": 802,
       "items": [
+        {
+          "id": "6a543ffe00b9a2a6ce10d47a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:31:42.881Z",
+          "lastUpdated": "2026-07-13T01:31:42.881Z",
+          "createdOn": "2026-07-13T01:31:42.881Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-07-24T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_da_lovebirds",
+            "slug": "no-26-07-23-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a543fb9fc939ccc0fb37fef",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:30:33.844Z",
+          "lastUpdated": "2026-07-13T01:30:33.844Z",
+          "createdOn": "2026-07-13T01:30:33.844Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Corey Henry & The Tremé Funktet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3190743031319c406e4e1a",
+            "start-date": "2026-07-31T02:30:00.000Z",
+            "event-time": "10:30PM",
+            "event-description": "<p>One of New Orleans' longest running residencies, launched by Kermit Ruffins and passed on to the next young gun, 6th Ward trombone player <strong>Corey Henry</strong>, who's been lighting up this bywater watering hole since 2013 with the <strong>Tremé Funktet</strong> with rotating special guests weekly. </p><p><strong>Sets at 10:30pm &amp;&nbsp;12:30am </strong></p><p><em>*&nbsp;CASH&nbsp;ONLY!&nbsp;*&nbsp; </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.30_henry_corey_treme_funktet",
+            "slug": "no-26-07-30-henry-corey-treme-funktet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Vaughan's Lounge",
+            "venue-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "jazz",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a543fa0a4e27dc22b695a6e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
