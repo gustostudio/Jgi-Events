@@ -1,12 +1,80 @@
 {
-  "fetchedAt": "2026-07-13T02:20:56.860Z",
+  "fetchedAt": "2026-07-13T02:22:35.039Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 813,
+      "itemCount": 814,
       "items": [
+        {
+          "id": "6a544be04fabb6487a55b045",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T02:22:24.171Z",
+          "lastUpdated": "2026-07-13T02:22:24.171Z",
+          "createdOn": "2026-07-13T02:22:24.171Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charlie & The Tropicales",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-07-18T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><a href=\"https://snugjazz.us14.list-manage.com/track/click?u=35bfe4091f58407e2c8744a04&id=4ff2d455cb&e=7d064d8e7a\" target=\"_blank\"><strong>Charlie &amp; The Tropicales</strong></a> rejuvenate a wide swath of vintage Caribbean sounds, from cumbia, calypso, biguine and son Cubano to rocksteady and New Orleans R&amp;B-inspired rock &amp; roll. Led by trombonist and composer Charlie Halloran, The Tropicales breathe new life into 1950s-era tropical dance pop tunes while introducing new layers of fusion. Think: &nbsp;“Ruler of My Heart,” rocksteady-style, or Venezuela’s classic joropo “Alma Llanera” spiked with calypso energy.</p><p>The New Orleans-based 8-piece ensemble draws inspiration from Cuban son, mambo, and Caribbean music, reimagining traditional forms while honoring their roots, featuring rich horn lines, infectious percussion, and soulful improvisation. Known for high-energy performances and deep rhythmic feel, The Tropicales have become a standout presence in the New Orleans music scene, bringing tropical flavor and modern jazz sensibility to audiences near and far.</p><p>‍</p><p><strong>Two Sets at 8pm &amp; 10pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a544b7dbed6c6d576f29300",
+              "6a540987d67bd0afe991ec0d",
+              "6a544b993b45ec7d4e6865fe",
+              "6a3d9097305f37f9c96853be",
+              "6a544bb79e83058b040e74b2",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524683",
+              "6a3dc9a31d702c15e46d73e2"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_17_charlie_tropicales",
+            "slug": "no-26-07-17-charlie-tropicales",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Latin Jazz",
+              "tropicalia",
+              "!Cumbia!",
+              "calypso",
+              "Cuban jazz",
+              "Cuban son",
+              "R&B",
+              "Free",
+              "jazz fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54487239c26a37456d29ce",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
