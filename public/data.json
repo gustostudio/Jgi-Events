@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T02:44:29.131Z",
+  "fetchedAt": "2026-07-13T02:48:04.129Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -79,8 +79,8 @@
         {
           "id": "6a544e72b97359ee7aaf0822",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T02:44:24.846Z",
-          "lastUpdated": "2026-07-13T02:44:24.846Z",
+          "lastPublished": "2026-07-13T02:47:59.141Z",
+          "lastUpdated": "2026-07-13T02:47:59.141Z",
           "createdOn": "2026-07-13T02:33:22.704Z",
           "isArchived": false,
           "isDraft": false,
@@ -104,7 +104,7 @@
               "698171062ef8be261a524683"
             ],
             "thumbnail": null,
-            "name": "no_26_07_18_steve_lands",
+            "name": "no_26.07.18_steve_lands",
             "slug": "no-26-07-18-steve-lands",
             "city-name": "NOLA",
             "feature-name": "JGI Pick",
