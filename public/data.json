@@ -1,12 +1,63 @@
 {
-  "fetchedAt": "2026-07-13T00:36:56.184Z",
+  "fetchedAt": "2026-07-13T00:44:52.919Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 790,
+      "itemCount": 791,
       "items": [
+        {
+          "id": "6a5434f779f2ba30502ec596",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:44:39.108Z",
+          "lastUpdated": "2026-07-13T00:44:39.108Z",
+          "createdOn": "2026-07-13T00:44:39.108Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gladney",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-30T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>GRAMMY-nominated multi-instrumentalist and composer <strong>Gladney</strong> is one of today’s foremost creatives from New Orleans. A 6th-generation native of the Lower 9th Ward, he has performed and traveled professionally since the age of 12. A wealth of experience paired with an infectious spirit is what makes Gladney a must-see performer; featured on Chief Xian aTunde Adjuah’s Grammy-nominated album<em> “The Emancipation Procrastination,”</em> he has toured with Chief Adjuah (fka Christian Scott), Jake Shears, Jon Batiste, Ellis Marsalis, Branford Marsalis, George Duke, Topsy Chapman, and Solange.</p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner <em>before</em> or <em>after</em> your ticketed showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room nextdoor to the Music Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/gladney/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_30_gladney",
+            "slug": "no-26-07-30-gladney",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "Black American Music",
+              "BAM"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54331bd30ccba53357bc5f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
