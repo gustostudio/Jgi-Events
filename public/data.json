@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T00:44:52.919Z",
+  "fetchedAt": "2026-07-13T00:46:33.633Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 791,
+      "itemCount": 792,
       "items": [
+        {
+          "id": "6a54355e1dd7916d7223bd9b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:46:22.206Z",
+          "lastUpdated": "2026-07-13T00:46:22.206Z",
+          "createdOn": "2026-07-13T00:46:22.206Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Goines Quartet ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-31T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>New Orleans-bred saxophonist, clarinetist, composer and educator <strong>Victor Goines </strong>is one of the world's most respected voices in jazz. Notably, Victor performed in the <strong>Ellis Marsalis Quartet</strong> for a number of years beginning in the 1980s. Ellis later hired Victor as a faculty member when he created the University of New Orleans (UNO)&nbsp;Jazz Studies Department in 1989.&nbsp; <a href=\"https://victorgoines.com/\"><strong>Goines</strong></a> is widely recognized as one of the most engaging and versatile performers and composers in music today. Drawing from his New Orleans roots, his extraordinary career includes performances throughout the world earning acclaim from audiences, critics and colleagues, including as a member of the <a href=\"https://www.jazz.org/JLCO/\"><strong>Jazz at Lincoln Center Orchestra</strong></a> in NYC and the Wynton Marsalis Septet since 1993.&nbsp;<br></p><p>He has recorded and/or performed with many iconic jazz and popular artists such as Ahmad Jamal, Ruth Brown, Dee Dee Bridgewater, Ray Charles, Bob Dylan, Dizzy Gillespie, Lenny Kravitz, Ellis Marsalis Jr, Branford Marsalis, Dianne Reeves, Willie Nelson, Marcus Roberts, Diana Ross, Stevie Wonder, and many more.</p><p>His discography boasts over 20 albums as a bandleader, and recordings on over 70 other releases, <strong>including Wynton Marsalis' Pulitzer Prize-winning recording, <em>\"Blood on the Fields\" </em></strong>and Ted Nash's Grammy Award-winning<em> \"Presidential Suite.\"</em>&nbsp; A gifted composer, Goines has more than 100 original works to his credit, including his 1992 debut album <em>\"Genesis\"</em> on the late Harold Battiste Jr's seminal AFO Records. In 2000, he was commissioned by Juilliard's Dance Division to compose a musical work in celebration of their 50th Anniversary. </p><p>In recent years, he was selected to lead music and jazz departments at Juilliard NYC&nbsp;and Northwestern University in Chicago, and served as executive artistic director of Jazz St. Louis from 2022 - 2026. </p><p>Goines returns home to New Orleans this summer for a Monthly Residency at Snug Harbor. </p><p>‍<br></p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com </p><p>Advance Ticket-Holders can also make table reservations for dinner by Emailing <strong>reservations@snugjazz.com</strong> after your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.<strong> </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/victor-goines-quartet-7/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.31_goines_victor_quartet",
+            "slug": "no-26-07-31-goines-victor-quartet",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5434f779f2ba30502ec596",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
