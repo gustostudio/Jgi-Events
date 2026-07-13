@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-13T01:44:22.524Z",
+  "fetchedAt": "2026-07-13T01:46:49.163Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 805,
+      "itemCount": 806,
       "items": [
+        {
+          "id": "6a54437ff200c3f6b687b531",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:46:39.438Z",
+          "lastUpdated": "2026-07-13T01:46:39.438Z",
+          "createdOn": "2026-07-13T01:46:39.438Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Anaïs St. John",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cdaa8025615f175ea42e",
+            "start-date": "2026-07-25T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><strong>Anaïs St. John</strong> is a renowned New Orleans-based jazz, blues, and cabaret vocalist. Known for her sultry stage presence, the Creole songstress and daughter of jazz saxophonist Marion Brown seamlessly blends her classical operatic background with classic cabaret flair. </p><p>She holds a bachelor’s degree in Music from Xavier University, a master’s degree in Vocal Performance from the University of New Orleans, and has attended the prestigious Cabaret Conference at Yale University in 2004 and 2007. Her commanding performances have been a staple at prominent New Orleans venues such as the New Orleans Jazz &amp; Heritage Festival (Jazz Fest), French Quarter Fest, the Jazz Playhouse at the Royal Sonesta Hotel, and Le Chat Noir. She also held longtime residencies at some of the city's swankiest hotel lounges, such as the Polo Club at the Windsor Court Hotel, The Ritz-Carleton, and The Bombay Club. </p><p>However, perhaps most popularly, <strong>St. John is famous for crafting one-woman cabaret tribute shows honoring legendary icons </strong>like Donna Summer (her \"Last Dance\" show), Eartha Kitt, Josephine Baker, and Lola Falana. Her sultry, classic style has taken her to European stages, including the Umbria Winter Jazz Festival in Italy and Jazz Ascona in Switzerland. </p><p>Beyond her vibrant nightlife and festival schedule, St. John is a dedicated educator. Since 2006, she has taught music at Trinity Episcopal School in New Orleans, inspiring the next generation while maintaining her active performing career.</p><p><strong>Sets at 9:00pm &amp; 10:45pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is limited and first-come, first-served, so early arrival is strongly suggested. Full bar &amp; food menu available. One drink minimum per guest.</p>",
+            "button-text": "DETAILS & TABLE RESERVATIONS ",
+            "button-link": "https://www.threemariesjazzclub.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da6950731ae44ea9b37f8",
+              "6a3d9aeece73087b968fb39b",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc0500a022a5481a97926"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_st_john_anais",
+            "slug": "no-26-07-24-st-john-anais",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Three Maries Jazz Club (Omni  Royal Orleans Hotel) ",
+            "venue-link": "https://www.threemariesjazzclub.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "cabaret",
+              "lounge",
+              "Free",
+              "21+",
+              "swingin' jazz",
+              "classic jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5442e84bc10bf13bbe17f5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
