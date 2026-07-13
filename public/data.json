@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T03:57:28.543Z",
+  "fetchedAt": "2026-07-13T04:02:11.696Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 821,
+      "itemCount": 822,
       "items": [
+        {
+          "id": "6a546336cbb865bb49ac9792",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:01:58.793Z",
+          "lastUpdated": "2026-07-13T04:01:58.793Z",
+          "createdOn": "2026-07-13T04:01:58.793Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Andrew Baham & The Mahogany Jazz Hall All-Stars",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-19T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><strong>Andrew Baham </strong>has been determined to become a major force in the music industry since he began playing the trumpet at age 11, inspired by the discipline and appeal of the marching bands in New Orleans. Upon auditioning for and enrolling in the New Orleans Center for the Creative Arts (NOCCA)&nbsp;high school, in 1998 he received an endorsed trumpet from the Yamaha Corporation of America and became the first recipient of the Doc Cheatham Memorial Scholarship.</p><p>Baham has performed and recorded as a member of several prestigious ensembles, including the<strong> Ellis Marsalis Quintet, Delfeayo Marsalis and The Uptown Jazz Orchestra, </strong>Jesse McBride and The Next Generation, Big Sam's Funky Nation, The Stooges Brass Band, Soul Rebels Brass Band, and more. He has produced albums for The Stooges Brass Band (<em>It's About Time, Thursday Night House Party</em>), Big Sam's Funky Nation' (King Of The Party, Evolution), Tonya Boyd-Cannon (of <em>The Voice</em> Season 8, <em>Muzic Is Life</em>), in addition to recording 3 of his own solo albums (<em>Introducing Andrew Baham, From Whence We Came, …And They Called It Love</em>). He has also written and recorded soundtracks for <em>NCIS:New Orleans</em>, ESPN, Rockstar Games, and more. He currently tours with <strong>Big Sam’s Funky Nation </strong>and <strong>Delfeayo Marsalis.</strong></p><p>‍</p><p>Tonight, he leads the Mahogany Jazz Hall All-Stars for raucous trip in the wayback machine, followed by Midnight Burlesque. </p><p>9:00pm Doors </p><p>9:30pm Show </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.18_baham_andrew_MJHAS",
+            "slug": "no-26-07-18-baham-andrew-mjhas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a545e980379a4151a78f9c3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
