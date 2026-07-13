@@ -1,12 +1,74 @@
 {
-  "fetchedAt": "2026-07-13T06:00:28.045Z",
+  "fetchedAt": "2026-07-13T06:01:44.842Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 849,
+      "itemCount": 850,
       "items": [
+        {
+          "id": "6a547f3e3b45ec7d4e74f452",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T06:01:34.371Z",
+          "lastUpdated": "2026-07-13T06:01:34.371Z",
+          "createdOn": "2026-07-13T06:01:34.371Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Khris Royal Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-24T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>Khris Royal Trio for 2 sets </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.207.24_royal_khris_trio",
+            "slug": "no-26-207-24-royal-khris-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "straight ahead jazz",
+              "Black American Music",
+              "BAM",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a547e24d783df3e9cc22061",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
