@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T06:26:02.136Z",
+  "fetchedAt": "2026-07-13T06:28:30.681Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 858,
+      "itemCount": 859,
       "items": [
+        {
+          "id": "6a548583b5f61e6c9fbd61a9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T06:28:19.382Z",
+          "lastUpdated": "2026-07-13T06:28:19.382Z",
+          "createdOn": "2026-07-13T06:28:19.382Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Chocolate & The Mahogany Jazz Hall All-Stars",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-26T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p>Trumpet phenom Kid Chocolate leads the Mahogany Jazz Hall All-Stars for 2 sets </p><p>‍</p><p>NO&nbsp;COVER!&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.25_chocolate_kid_MJHAS",
+            "slug": "no-26-07-25-chocolate-kid-mjhas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5484ece5132b9ba410febc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
