@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-13T06:28:30.681Z",
+  "fetchedAt": "2026-07-13T06:31:24.148Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 859,
+      "itemCount": 860,
       "items": [
+        {
+          "id": "6a548631a493f166bffcb52d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T06:31:13.927Z",
+          "lastUpdated": "2026-07-13T06:31:13.927Z",
+          "createdOn": "2026-07-13T06:31:13.927Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sporty's Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-26T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p>Sporty's Brass Band rocks the Leaf for 2 sets at 10pm &amp;&nbsp;Midnight </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a38d5cd9d169080eff44009",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3db10d06a35758469acd07",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.25_sportys_bb",
+            "slug": "no-26-07-25-sportys-bb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk",
+              "hip-hop",
+              "R&B",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a548583b5f61e6c9fbd61a9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
