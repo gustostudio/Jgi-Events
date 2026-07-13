@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-13T01:54:10.376Z",
+  "fetchedAt": "2026-07-13T01:57:38.109Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 809,
+      "itemCount": 810,
       "items": [
+        {
+          "id": "6a544553a1eae7a59ef2536a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:54:27.045Z",
+          "lastUpdated": "2026-07-13T01:54:27.045Z",
+          "createdOn": "2026-07-13T01:54:27.045Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Nayo Jones Experience ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fbdb2dd8a1b4e859eea",
+            "start-date": "2026-08-01T23:30:00.000Z",
+            "event-time": "7:30 & 9:00PM",
+            "event-description": "<p><a href=\"https://www.nayojones.com/\"><strong>Nayo Jones </strong></a>(pronounced Nīyō) was born in Chicago, Illinois into a family of musicians and destined to be in show business. As an accomplished jazz musician and music educator, her father William “Doc” Jones groomed and nurtured her natural ability from a very young age. Nayo grew up listening to Jazz standards that proved to be a solid foundation and would later become a signature in her own show. Accomplished in her own right, Jones is also a classically trained flutist.</p><p>Currently Nayo is based in New Orleans, LA where she performs regularly with her band <strong>“The Nayo Jones Experience”.</strong> In addition to her own show, Ms. Jones also tours alongside New Orleans iconic jazz trumpeter, <strong>Kermit Ruffins </strong>as the featured vocalist and has toured with the <strong>New Orleans Jazz Orchestra lead by Adonis Rose</strong> and is a featured vocalist on their album celebrating the famed Allen Toussaint with a beautiful rendition of <em>\"Ruler of My Heart.\"</em></p><p>Nayo’s vocal range has been compared to the likes of Natalie Cole, Nancy Wilson, even Whitney Houston. She has been the opening act for artists such as the legendary George Benson, Chris Botti, Rick Braun &amp; Richard Elliot and more.</p><p>Nayo has performed at the New Orleans Jazz &amp; Heritage Festival, French Quarter Fest, Satchmo SummerFest, and many other Louisiana festivals annually since 2012. She has consistently drawn rave reviews for her performances. Nayo and her band, “The Nayo Jones Experience” has a &nbsp;longstanding residency at the Carousel Lounge located in the historic <strong>Hotel Montelone</strong> and The Jazz Playhouse at the <strong>Royal Sonesta Hotel </strong>in the French Quarter. She has also performed at the Scottsdale Jazz Festival, Twin Cities Jazz Festival, Iowa City Jazz Festival and the Ascona, Switzerland Jazz Festival with the New Orleans Jazz Orchestra and more</p><p>Nayo’s body of original work includes the realses <em>\"Nayo, My Name is Nayo Jones,\"</em> a holiday album, <em>\"The Nayo Jones Experience Live at the Kerr Cultural Center,\" </em>and most recently her EP entitled, <em>\"With Love, Nayo Jones,\"</em> which is available on all music streaming platforms. </p><p>‍</p><p><strong>7:00pm Doors</strong></p><p>7:30pm Show</p><p><strong>Two Sets at 7:30pm &amp; 9:00pm</strong> | &nbsp;One Ticket, Two Sets</p><p>‍</p><p>Seating is limited and first-come, first-served, so early arrival and/or advance tickets are strongly suggested. Full bar and light bites menu available.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.thejazzplayhouse.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9aeece73087b968fb39b",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.01_jones_nayo_experience_JPH Copy",
+            "slug": "no-26-08-01-jones-nayo-experience-jph-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Jazz Playhouse (Royal Sonesta Hotel) ",
+            "venue-link": "https://www.thejazzplayhouse.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "lounge",
+              "classic jazz",
+              "swingin' jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a544534f415d9403c03b847",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
