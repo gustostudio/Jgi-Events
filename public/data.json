@@ -1,12 +1,112 @@
 {
-  "fetchedAt": "2026-07-13T05:49:44.888Z",
+  "fetchedAt": "2026-07-13T05:53:22.563Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 846,
+      "itemCount": 848,
       "items": [
+        {
+          "id": "6a547d48fcb510891c85f790",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:53:12.020Z",
+          "lastUpdated": "2026-07-13T05:53:12.020Z",
+          "createdOn": "2026-07-13T05:53:12.020Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Nayo Jones Experience ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cd673359de5208fc576e",
+            "start-date": "2026-07-25T01:00:00.000Z",
+            "event-time": "9:00PM",
+            "event-description": "<p><a href=\"https://www.nayojones.com/\"><strong>Nayo Jones </strong></a>(pronounced Nīyō) was born in Chicago, Illinois into a family of musicians and destined to be in show business. As an accomplished jazz musician and music educator, her father William “Doc” Jones groomed and nurtured her natural ability from a very young age. Nayo grew up listening to Jazz standards that proved to be a solid foundation and would later become a signature in her own show. Accomplished in her own right, Jones is also a classically trained flutist.</p><p>Currently Nayo is based in New Orleans, LA where she performs regularly with her band <strong>“The Nayo Jones Experience”.</strong> In addition to her own show, Ms. Jones also tours alongside New Orleans iconic jazz trumpeter, <strong>Kermit Ruffins </strong>as the featured vocalist and has toured with the <strong>New Orleans Jazz Orchestra lead by Adonis Rose</strong> and is a featured vocalist on their album celebrating the famed Allen Toussaint with a beautiful rendition of <em>\"Ruler of My Heart.\"</em></p><p>Nayo’s vocal range has been compared to the likes of Natalie Cole, Nancy Wilson, even Whitney Houston. She has been the opening act for artists such as the legendary George Benson, Chris Botti, Rick Braun &amp; Richard Elliot and more.</p><p>Nayo has performed at the New Orleans Jazz &amp; Heritage Festival, French Quarter Fest, Satchmo SummerFest, and many other Louisiana festivals annually since 2012. She has consistently drawn rave reviews for her performances. Nayo and her band, “The Nayo Jones Experience” has a &nbsp;longstanding residency at the Carousel Lounge located in the historic <strong>Hotel Montelone</strong> and The Jazz Playhouse at the <strong>Royal Sonesta Hotel </strong>in the French Quarter. She has also performed at the Scottsdale Jazz Festival, Twin Cities Jazz Festival, Iowa City Jazz Festival and the Ascona, Switzerland Jazz Festival with the New Orleans Jazz Orchestra and more</p><p>Nayo’s body of original work includes the realses <em>\"Nayo, My Name is Nayo Jones,\"</em> a holiday album, <em>\"The Nayo Jones Experience Live at the Kerr Cultural Center,\" </em>and most recently her EP entitled, <em>\"With Love, Nayo Jones,\"</em> which is available on all music streaming platforms. </p><p><strong>9:00pm Showtime </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is limited and first-come, first-served, so early arrival is suggested. One drink minimum per guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9aeece73087b968fb39b",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_jones_nayo_experience",
+            "slug": "no-26-07-24-jones-nayo-experience",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Carousel Bar & Lounge (Hotel Monteleone) ",
+            "venue-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "lounge",
+              "classic jazz",
+              "swingin' jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a547c8ba493f166bff7e842",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:50:03.008Z",
+          "lastUpdated": "2026-07-13T05:50:03.008Z",
+          "createdOn": "2026-07-13T05:50:03.008Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cedric Burnside & Garry Burnside: Burnside Exploration 2",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31911583020f15259a92f1",
+            "start-date": "2026-07-25T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Burnside Exploration 2 reunites Grammy Award-winning artist <strong>Cedric Burnside</strong> with his Grammy-nominated uncle, <strong>Garry Burnside</strong>, for a powerful exploration of Mississippi Hill Country Blues. </p><p><strong>8pm - 10pm </strong></p><p>$25 </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.simpletix.com/e/cedric-burnside-garry-burnside-burnside-ex-tickets-280851",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a547c6b6978d2db8614f3d7",
+              "698171062ef8be261a524677"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_Burnsides",
+            "slug": "no-26-07-24-burnsides",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Broadside",
+            "venue-link": "https://broadsidenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "Mississippi Hill Country Blues",
+              "18+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a547b98a4e27dc22b778fa3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
