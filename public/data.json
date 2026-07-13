@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T04:35:43.622Z",
+  "fetchedAt": "2026-07-13T04:37:16.069Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 826,
+      "itemCount": 827,
       "items": [
+        {
+          "id": "6a546b6f4591fce132a07eab",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:37:03.889Z",
+          "lastUpdated": "2026-07-13T04:37:03.889Z",
+          "createdOn": "2026-07-13T04:37:03.889Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Big 6 Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cefd4522b2928cae2a70",
+            "start-date": "2026-07-20T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>On the streets of New Orleans, where brass bands play every Sunday for weekly second line parades, it’s not unusual for one brass band to catch the ear of the streets and dominate the second line season. Not long after their founding in 2017, the <a href=\"https://bigsixbrassband.com/\"><strong>Big 6 Brass Band</strong></a> had the streets on lock. Their mixtape, which has made the rounds in the second line community, features covers of songs by Michael Jackson, Fantasia, and SZA, among others. Unsatisfied with playing only “radio tunes,” their song catalog runs deep into brass band history as they breathe new life into time-honored traditional tunes like “Red Dress” and “Lilly of the Valley.” Their debut album, <strong><em>Big Six</em>,</strong> was released on June 24, 2019 on all streaming platforms. A thirteen-song tour through their original music, it’s an instant classic including hits like “Go Down,” and “On the Run.”</p><p>The band’s all-star lineup is comprised of some of the most talented young brass band musicians in the city. Though the band is relatively young, their pedigree reveals a wealth of experience as their roster includes current and former members of Rebirth, The Stooges, Hot 8, TBC, and Da Truth brass bands. Though their music maintains ties to the tradition from which they come, they are very much the vanguard of the brass band scene. Their sound, which combines smooth R&amp;B with the rough and ready sound of the streets, is, more than any other band, representative of the sound of contemporary New Orleans brass band music. </p><p>Catch them tonight at Celebration Hall next to the historic <strong>Autocrat Social Aid &amp;&nbsp;Pleasure Club</strong> for their Sunday night residency, squarely in the 7th Ward.</p><p>Cash or CashApp at the door. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.autocratclub.org/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.19_big_6_brass_band_celebration",
+            "slug": "no-26-07-19-big-6-brass-band-celebration",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Celebration Hall ",
+            "venue-link": "https://welcometonola.com/place/celebration-hall/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a546abf668155680e1133d1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
