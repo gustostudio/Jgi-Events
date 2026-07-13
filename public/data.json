@@ -1,12 +1,72 @@
 {
-  "fetchedAt": "2026-07-13T02:48:04.129Z",
+  "fetchedAt": "2026-07-13T02:58:48.474Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 816,
+      "itemCount": 817,
       "items": [
+        {
+          "id": "6a54545bb97359ee7ab05357",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T02:58:35.383Z",
+          "lastUpdated": "2026-07-13T02:58:35.383Z",
+          "createdOn": "2026-07-13T02:58:35.383Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mahmoud Chouki",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Mahmoud “Mood” Chouki</strong> is a Moroccan master guitarist, multi-instrumentalist, composer and educator currently living and working in New Orleans since 2019. His art draws together music from around the globe, exploring how music may speak across cultural divides. </p><p>In addition to training and performing with conservatories around the world, Chouki also teaches music at the Lycée Français de la Nouvelle Orléans and is ta music curator for monthly programs at the New Orleans Museum of Art (NOMA). Most recently, he composed the music score for the 2021 Sundance Award winning film,<strong><em> “Ma Belle, Ma Beauty,” </em></strong>directed by New Orleans based filmmaker, Marion Hill. Also in 2021, Chouki was awarded 2020’s “Best Emerging Artist” by OffBeat Magazine’s annual Best of the Beat Awards. His New World Ensemble has been steadily wow'ing audiences for the past year, growing with acclaim, and earning him Gambit Weekly's 2022 \"Best World Music Artist\" Award at their annual Big Easy Awards.</p><p>He released his debut US&nbsp;album <em>\"Mood 's Blues\" </em>in 2023, and is preparing for his sophomore local record release in 2026 on the New Orleans Jazz Museum's Gallatin Street Records imprint. His expertise in a variety of handheld string instruments has also led to Mood becoming a core artist with the annual Danny Barker Banjo, Guitar &amp;&nbsp;Cigar Box Guitar Festival. </p><p>Join us tonight for Mahmoud's monthly residency at Good Measure, where each time is something completely fresh and different. </p><p><strong>Two Sets at 8pm &amp; 10pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.31_chouki_mahmoud",
+            "slug": "no-26-07-31-chouki-mahmoud",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "modern jazz",
+              "contemporary jazz",
+              "blues",
+              "world music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5450b74c8fb6e869fb4855",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
