@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T02:22:35.039Z",
+  "fetchedAt": "2026-07-13T02:36:28.215Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 814,
+      "itemCount": 815,
       "items": [
+        {
+          "id": "6a544e72b97359ee7aaf0822",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T02:33:22.704Z",
+          "lastUpdated": "2026-07-13T02:33:22.704Z",
+          "createdOn": "2026-07-13T02:33:22.704Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Steve Lands",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-07-19T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><a href=\"https://www.thestevelands.space/\"><strong>Stephen Lands</strong></a> is a Baton Rouge-bred, New Orleans-based trumpeter and composer who’s had the distinct pleasure of performing with some of world’s greatest musicians, including touring and recording with the world-renowned Preservation Hall Jazz Band, Elvis Costello, Jazz at Lincoln Center alumni Herlin Riley, Wess “Warmdaddy” Anderson, Victor Goines and Ronald Westray, Shannon “King of Tremé” Powell, Jason Marsalis, Evan Christopher, Grammy nominees Cyrille Aimée and Jamison Ross, Quiana Lynell, and most recently, PJ Morton. </p><p>As a composer, he’s scored the music for a handful of projects with filmmaker Marion Hill, including 2021’s Sundance Film Festival Award-winning feature, <strong><em>“Ma Belle, My Beauty.” </em></strong></p><p>Hot on the heels of two sold-out debut performances of his current signature project,<strong> “Rearranging the Planets”</strong> for the Spring 2022 season at the New Orleans Museum of Art (NOMA), Lands has since been presenting new movements from this body of original compositions, such as the project’s little sister, “KosmiKrewe” aka “Cosmic Roux.” </p><p>Join us tonight for Steve's monthly residency at Good Measure, where each time is something completely fresh and different. </p><p><strong>Two Sets at 8pm &amp; 10pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_18_steve_lands",
+            "slug": "no-26-07-18-steve-lands",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "modern jazz",
+              "contemporary jazz",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a544be04fabb6487a55b045",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
