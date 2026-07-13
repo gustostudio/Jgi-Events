@@ -1,12 +1,128 @@
 {
-  "fetchedAt": "2026-07-13T03:26:04.091Z",
+  "fetchedAt": "2026-07-13T03:34:52.769Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 818,
+      "itemCount": 820,
       "items": [
+        {
+          "id": "6a545cd0117af85b889a7212",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T03:34:40.328Z",
+          "lastUpdated": "2026-07-13T03:34:40.328Z",
+          "createdOn": "2026-07-13T03:34:40.328Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "SOUL Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-19T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Led by drummer Derrick Freeman aka Smoker, the SOUL&nbsp;Brass Band is one of New Orleans' Funk, Jazz and Hip Hop -Infused Brass Bands. </p><p><a href=\"https://derricksmokerfreeman.com/soul-brass-band\"><strong>SOUL Brass Band</strong></a> is a high-energy New Orleans brass band led by drummer, DJ, and frontman <strong>Derrick “Smoker” Freeman.</strong> Blending second line tradition, funk, soul, and hip-hop energy, the band delivers electrifying performances rooted in authentic New Orleans culture. Featuring acclaimed musicians including Billboard-charting saxophonist James Martin and Grammy Award-winning saxophonist Miles Lyons, SOUL moves effortlessly from festival stages and luxury weddings to private events, second lines, and packed dance floors — bringing unmatched groove, charisma, and live energy to every performance. </p><p><strong>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </strong></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3db10d06a35758469acd07"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.18_soul_brass_band",
+            "slug": "no-26-07-18-soul-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk fusion",
+              "hip-hop",
+              "jazz fusion",
+              "R&B"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a545984a7e64d51039c1e5d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T03:26:41.702Z",
+          "lastUpdated": "2026-07-13T03:26:41.702Z",
+          "createdOn": "2026-07-13T03:20:36.148Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Marsalis Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a5459cfa7e64d51039c2e14",
+            "start-date": "2026-07-18T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p><strong>Jason Marsalis</strong> is the youngest son of late, great piano patriarch and jazz luminary Ellis Marsalis Jr. &nbsp;Upon the presentation of their NEA Jazz Masters Award in 2011, The Marsalises were declared \"America's First Family of Jazz.\" &nbsp;In addition to his renown as a drummer, Jason is also a respected vibraphonist whose 2018 release \"<em>Melody Reimagined'' </em>with his 21st Century Trad Band rose swiftly to the top of the Billboard Jazz Chart. With a fire in his heart and a passion for the music, his will to swing has never been more resolute. The maturity and the command Jason possesses over his music is clearly evident to those who have heard and seen him. <br><br>This afternoon is an opportunity to catch the Jason Marsalis Trio for FREE&nbsp;in an all-ages historic setting. <br></p><p><strong>3pm - 4pm Set </strong></p><p>‍</p><p>Performance is FREE&nbsp;and Open to the Public of All Ages. Space is limited, so early arrival is strongly suggested. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.nps.gov/jazz/index.htm",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401c170dbe02d7e893dca",
+              "6a5401d60e7b1cfef7fd6a81",
+              "69de3d2f73b19959770800ba",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.18_marsalis_jason_trio_NOJNHP",
+            "slug": "no-26-07-18-marsalis-jason-trio-nojnhp",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz National Historic Park",
+            "venue-link": "https://www.nps.gov/jazz/index.htm",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "BAM",
+              "Black American Music",
+              "13+",
+              "classic jazz",
+              "swingin' jazz",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5457dc0df2b0c05a853f04",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
