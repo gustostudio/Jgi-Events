@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-13T05:07:47.285Z",
+  "fetchedAt": "2026-07-13T05:12:15.422Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 836,
+      "itemCount": 837,
       "items": [
+        {
+          "id": "6a5473a2a9614f1b948a851f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:12:02.456Z",
+          "lastUpdated": "2026-07-13T05:12:02.456Z",
+          "createdOn": "2026-07-13T05:12:02.456Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Anna Laura Quinn",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce27bcdc72821f1231a8",
+            "start-date": "2026-07-23T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": "<p>Vocalist <a href=\"https://www.annalauraquinn.com/\"><strong>Anna Laura Quinn</strong></a><strong> </strong>and her trio for two sets beginning at 8:30pm </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://dosjefes.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3db8d5ea3bd0230cbe619f",
+              "6a3d9aeece73087b968fb39b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.22_quinn_laura_anna",
+            "slug": "no-26-07-22-quinn-laura-anna",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Dos Jefes Bar & Cigar Lounge",
+            "venue-link": "https://dosjefes.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "jazz fusion",
+              "singer-songwriter",
+              "lounge",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54726d39c26a37457617f2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -66,7 +122,7 @@
         {
           "id": "6a547244b6e12e756ccee74c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T05:06:19.390Z",
+          "lastPublished": "2026-07-13T05:07:36.622Z",
           "lastUpdated": "2026-07-13T05:06:19.390Z",
           "createdOn": "2026-07-13T05:06:12.405Z",
           "isArchived": false,
