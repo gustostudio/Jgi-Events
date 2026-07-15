@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-15T11:34:40.987Z",
+  "fetchedAt": "2026-07-15T12:35:34.618Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 938,
+      "itemCount": 939,
       "items": [
+        {
+          "id": "6a577d9c064bf4c04ff1cd6b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T12:31:32.749Z",
+          "lastUpdated": "2026-07-15T12:31:32.749Z",
+          "createdOn": "2026-07-15T12:31:24.920Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Valtinho Anastácio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-02T23:30:00.000Z",
+            "event-time": "7:30 & 9M",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.02_anastácio",
+            "slug": "ny-26-08-02-anastacio",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6a576f75bfa59f74b6c9c607",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -13323,8 +13351,8 @@
         {
           "id": "6a4c7db0d6f5dd23599791fd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-07T04:16:50.066Z",
+          "lastPublished": "2026-07-15T12:32:14.666Z",
+          "lastUpdated": "2026-07-15T12:32:14.666Z",
           "createdOn": "2026-07-07T04:16:48.033Z",
           "isArchived": false,
           "isDraft": false,
@@ -13335,7 +13363,7 @@
             "category": null,
             "venue": "6a30175caceea1e67533e8c0",
             "start-date": "2026-07-26T23:30:00.000Z",
-            "event-time": "7:30 & 9:30PM",
+            "event-time": "7:30 & 9PM",
             "event-description": null,
             "button-text": null,
             "button-link": null,
