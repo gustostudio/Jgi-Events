@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-15T05:38:19.689Z",
+  "fetchedAt": "2026-07-15T05:46:42.608Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 880,
+      "itemCount": 881,
       "items": [
+        {
+          "id": "6a571d89b15e7ce079ab5137",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:41:31.791Z",
+          "lastUpdated": "2026-07-15T05:41:31.791Z",
+          "createdOn": "2026-07-15T05:41:29.555Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tim Watson, Dion Kerr and Craig Weinrib",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-05T23:30:00.000Z",
+            "event-time": "7:30PM & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.05_watson",
+            "slug": "ny-26-08-05-watson",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a571c2bc252f0ab8d5c944a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
