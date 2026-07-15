@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-15T11:20:29.651Z",
+  "fetchedAt": "2026-07-15T11:26:12.401Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 934,
+      "itemCount": 936,
       "items": [
+        {
+          "id": "6a576dffac5e6cfe9a7cd208",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T11:24:53.234Z",
+          "lastUpdated": "2026-07-15T11:24:53.234Z",
+          "createdOn": "2026-07-15T11:24:47.374Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ricky Ford Quartet feat. Mark Soskin, Jerome Harris and Barry Altschul",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-07T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.07_ford",
+            "slug": "ny-26-08-07-ford",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a576d5bf5fdb5c0f48a9768",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T11:22:05.321Z",
+          "lastUpdated": "2026-07-15T11:22:05.321Z",
+          "createdOn": "2026-07-15T11:22:03.147Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Lex Korten Trio feat. Dean Torrey and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-07T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.07_korten",
+            "slug": "ny-26-08-07-korten",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a576c38bfa59f74b6c6e9e0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
