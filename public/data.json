@@ -1,12 +1,84 @@
 {
-  "fetchedAt": "2026-07-15T05:06:24.159Z",
+  "fetchedAt": "2026-07-15T05:14:55.040Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 870,
+      "itemCount": 872,
       "items": [
+        {
+          "id": "6a5716b15653459f9f40afc4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:12:21.851Z",
+          "lastUpdated": "2026-07-15T05:12:21.851Z",
+          "createdOn": "2026-07-15T05:12:17.903Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Makaya McCraven Tet feat. Joel Ross, Emmanuel Michael, Immanuel Wilkens and Junius Paul",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-03T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.02_mccraven",
+            "slug": "ny-26-08-02-mccraven",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a5716392966060f5f81b5db",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:10:34.037Z",
+          "lastUpdated": "2026-07-15T05:10:34.037Z",
+          "createdOn": "2026-07-15T05:10:17.671Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Makaya McCraven Tet feat. Marquis Hill, Jeff Parker, Joel Ross and Junius Paul",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-02T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.01_mccraven",
+            "slug": "ny-26-08-01-mccraven",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a55612074d8645462e5acea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -10479,13 +10551,13 @@
         {
           "id": "6a4ddf1308cde3dc0e3188b7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T05:02:25.659Z",
-          "lastUpdated": "2026-07-15T05:02:25.659Z",
+          "lastPublished": "2026-07-15T05:09:35.739Z",
+          "lastUpdated": "2026-07-15T05:09:35.739Z",
           "createdOn": "2026-07-08T05:24:35.345Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Makaya McCraven Tet",
+            "event-title": "Makaya McCraven Tet feat. Marquis Hill, Jeff Parker, Joel Ross and Junius Paul",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -12248,13 +12320,13 @@
         {
           "id": "6a4b57d962d32f1a1cf1532b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T05:03:28.541Z",
-          "lastUpdated": "2026-07-15T05:03:28.541Z",
+          "lastPublished": "2026-07-15T05:09:05.542Z",
+          "lastUpdated": "2026-07-15T05:09:05.542Z",
           "createdOn": "2026-07-06T07:23:05.992Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Makaya McCraven Tet",
+            "event-title": "Makaya McCraven Tet feat. Marquis Hill, Jeff Parker, Joel Ross and Junius Paul",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -12284,13 +12356,13 @@
         {
           "id": "6a4b57b9f7cd81ccec211813",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T05:03:35.406Z",
-          "lastUpdated": "2026-07-15T05:03:35.406Z",
+          "lastPublished": "2026-07-15T05:08:26.212Z",
+          "lastUpdated": "2026-07-15T05:08:26.212Z",
           "createdOn": "2026-07-06T07:22:33.588Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Makaya McCraven Tet",
+            "event-title": "Makaya McCraven Tet feat. Marquis Hill, Jeff Parker, Joel Ross and Junius Paul",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -12320,13 +12392,13 @@
         {
           "id": "6a4b5789a97ad3d06b372094",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T05:03:43.352Z",
-          "lastUpdated": "2026-07-15T05:03:43.352Z",
+          "lastPublished": "2026-07-15T05:07:23.134Z",
+          "lastUpdated": "2026-07-15T05:07:23.134Z",
           "createdOn": "2026-07-06T07:21:45.395Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Makaya McCraven Tet",
+            "event-title": "Makaya McCraven Tet feat. Marquis Hill, Jeff Parker and Junius Paul",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
