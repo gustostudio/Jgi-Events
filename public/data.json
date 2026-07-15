@@ -1,17 +1,162 @@
 {
-  "fetchedAt": "2026-07-15T06:35:26.001Z",
+  "fetchedAt": "2026-07-15T06:44:00.805Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 906,
+      "itemCount": 910,
       "items": [
+        {
+          "id": "6a572c0681e06df31aa8bea7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T06:43:22.673Z",
+          "lastUpdated": "2026-07-15T06:43:22.673Z",
+          "createdOn": "2026-07-15T06:43:18.223Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "A Supreme Blue: Inspired by Coltrane's ‘A Love Supreme’ and Miles's ‘Kind of Blue’",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-05T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": "<p>Nicholas Payton – trumpet</p><p>Mark Turner – tenor saxophone</p><p>Mike Moreno – guitar</p><p>Vicente Archer – bass</p><p>Mark Whitfield Jr. – drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.05_supreme",
+            "slug": "ny-26-08-05-supreme",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6a572a959b368e93ffe278da",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T06:37:11.041Z",
+          "lastUpdated": "2026-07-15T06:37:11.041Z",
+          "createdOn": "2026-07-15T06:37:09.399Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Pizzarelli",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-09T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.08_pizzarelli",
+            "slug": "ny-26-08-08-pizzarelli",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a572a6fccb0b5ae96ccdc1e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T06:36:34.771Z",
+          "lastUpdated": "2026-07-15T06:36:34.771Z",
+          "createdOn": "2026-07-15T06:36:31.869Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Pizzarelli",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-08T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.07_pizzarelli",
+            "slug": "ny-26-08-07-pizzarelli",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a572a3181e06df31aa7fbd4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T06:37:37.581Z",
+          "lastUpdated": "2026-07-15T06:37:37.581Z",
+          "createdOn": "2026-07-15T06:35:29.348Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Pizzarelli",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-06T23:00:00.000Z",
+            "event-time": "7:00 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.06_pizzarelli",
+            "slug": "ny-26-08-06-pizzarelli",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a572a139f7f442e0b3c69ac",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T06:35:01.766Z",
-          "lastUpdated": "2026-07-15T06:35:01.766Z",
+          "lastPublished": "2026-07-15T06:38:07.104Z",
+          "lastUpdated": "2026-07-15T06:38:07.104Z",
           "createdOn": "2026-07-15T06:34:59.346Z",
           "isArchived": false,
           "isDraft": false,
@@ -24,7 +169,7 @@
             "start-date": "2026-08-05T23:00:00.000Z",
             "event-time": "7:00 & 9:30PM",
             "event-description": null,
-            "button-text": "Buy tickets",
+            "button-text": null,
             "button-link": null,
             "tags": [
               "6a2d54bc5ce6148dcf00483b",
@@ -49,8 +194,8 @@
         {
           "id": "6a5729f313127724315a73d2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T06:34:30.322Z",
-          "lastUpdated": "2026-07-15T06:34:30.322Z",
+          "lastPublished": "2026-07-15T06:38:18.728Z",
+          "lastUpdated": "2026-07-15T06:38:18.728Z",
           "createdOn": "2026-07-15T06:34:27.160Z",
           "isArchived": false,
           "isDraft": false,
@@ -63,7 +208,7 @@
             "start-date": "2026-08-04T23:00:00.000Z",
             "event-time": "7:00 & 9:30PM",
             "event-description": null,
-            "button-text": "Buy tickets",
+            "button-text": null,
             "button-link": null,
             "tags": [
               "6a2d54bc5ce6148dcf00483b",
