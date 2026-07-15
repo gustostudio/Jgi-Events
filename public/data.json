@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-15T11:10:20.183Z",
+  "fetchedAt": "2026-07-15T11:20:29.651Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 932,
+      "itemCount": 934,
       "items": [
+        {
+          "id": "6a576c38bfa59f74b6c6e9e0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T11:17:16.608Z",
+          "lastUpdated": "2026-07-15T11:17:16.608Z",
+          "createdOn": "2026-07-15T11:17:12.560Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet feat. Jonathan Finlayson, Sam Newsome, Jacob Garchik, Peter Washington and Kush Abadey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-08-09T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.09_iverson",
+            "slug": "ny-26-08-09-iverson",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
+        {
+          "id": "6a576c0266851487a31629b1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T11:16:29.607Z",
+          "lastUpdated": "2026-07-15T11:16:29.607Z",
+          "createdOn": "2026-07-15T11:16:18.802Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet feat. Jonathan Finlayson, Sam Newsome, Jacob Garchik, Peter Washington and Kush Abadey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-08-08T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.08_iverson",
+            "slug": "ny-26-08-08-iverson",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
         {
           "id": "6a573927136987eae9889056",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
