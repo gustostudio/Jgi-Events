@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-21T19:33:44.127Z",
+  "fetchedAt": "2026-07-21T20:00:12.861Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 947,
+      "itemCount": 948,
       "items": [
+        {
+          "id": "6a5fced152eea6a2e36fa7c5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-21T19:56:06.141Z",
+          "lastUpdated": "2026-07-21T19:56:06.141Z",
+          "createdOn": "2026-07-21T19:56:01.077Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kelly Green, Elijah Thomas, Luca Rosenfeld and Evan Hyde",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-13T02:30:00.000Z",
+            "event-time": "10:30 & 11:30PM",
+            "event-description": "<p>10:30PM: set</p><p>11:30PM: jam session</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.12_green",
+            "slug": "ny-26-08-12-green",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/"
+          }
+        },
         {
           "id": "6a5fc8f561d561078f05d698",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
