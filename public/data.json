@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-21T20:01:47.009Z",
+  "fetchedAt": "2026-07-21T20:30:40.027Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 948,
+      "itemCount": 949,
       "items": [
+        {
+          "id": "6a5fd5f6b9137bcda86d2446",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-21T20:26:35.367Z",
+          "lastUpdated": "2026-07-21T20:26:35.367Z",
+          "createdOn": "2026-07-21T20:26:30.054Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Katie Webster, Thorbjorn Stefansson and Tom Rainey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-13T02:30:00.000Z",
+            "event-time": "10:30 & 11:30PM",
+            "event-description": "<p>10:30PM: set</p><p>11:30PM: jam session</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.09_webster",
+            "slug": "ny-26-08-09-webster",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/"
+          }
+        },
         {
           "id": "6a5fced152eea6a2e36fa7c5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -964,8 +992,8 @@
         {
           "id": "6a572d070d5f16d76cbee8ae",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-15T06:47:37.866Z",
-          "lastUpdated": "2026-07-15T06:47:37.866Z",
+          "lastPublished": "2026-07-21T20:28:19.710Z",
+          "lastUpdated": "2026-07-21T20:28:19.710Z",
           "createdOn": "2026-07-15T06:47:35.278Z",
           "isArchived": false,
           "isDraft": false,
@@ -983,7 +1011,7 @@
             "tags": null,
             "thumbnail": null,
             "name": "ny_26.08.09_supreme",
-            "slug": "ny-26-08-09-supreme",
+            "slug": "ny-26-08-09-supreme-eq439",
             "city-name": "NYC",
             "venue-name": "Smoke",
             "venue-link": "https://smokejazz.com/"
