@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T20:41:14.846Z",
+  "fetchedAt": "2026-07-22T20:46:20.977Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -26103,20 +26103,20 @@
         {
           "id": "6a31a6076293a3eb2bc4d8d1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-22T05:34:35.790Z",
-          "lastUpdated": "2026-07-22T03:11:36.480Z",
+          "lastPublished": "2026-07-22T20:42:46.341Z",
+          "lastUpdated": "2026-07-22T20:42:46.341Z",
           "createdOn": "2026-06-16T19:37:43.269Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "The Circle",
+            "event-title": "The Circle feat. Tomoki Sanders & Safa",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "691ccd0eb62c3b82ffb68615",
             "venue": "6a199afc96df4f62c2da2655",
             "start-date": "2026-07-30T23:00:00.000Z",
             "event-time": "7 PM",
-            "event-description": "<p>The Circle has been cultivating a live, improvised, collaborative music space for years now. They bring that energy to Cafe Erzulie for a high-energy collab with the Soundoff Sessions and the JGI. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy.</p>",
+            "event-description": "<p><a href=\"https://www.instagram.com/thecirclebk/\">The Circle</a> has been cultivating a live, improvised, collaborative music space for years now. They bring that energy to Cafe Erzulie for a high-energy collab with the Soundoff Sessions and the JGI. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy.</p>",
             "button-text": "Register",
             "button-link": "https://posh.vip/e/soundoff-session-w-the-circle",
             "tags": [
