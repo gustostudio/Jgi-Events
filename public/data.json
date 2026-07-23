@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-23T15:56:29.610Z",
+  "fetchedAt": "2026-07-23T16:05:34.651Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1000,
+      "itemCount": 1002,
       "items": [
+        {
+          "id": "6a623afdb35c1b1d79fb56ab",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-23T16:02:08.696Z",
+          "lastUpdated": "2026-07-23T16:02:08.696Z",
+          "createdOn": "2026-07-23T16:02:05.358Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Larry Goldings, Peter Bernstein and Bill Stewart",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-20T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": "<h2>'Rhombus' New Record Release</h2>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.20_goldings",
+            "slug": "ny-26-08-20-goldings",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6a623ad2ae17c5138862ebef",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-23T16:01:25.690Z",
+          "lastUpdated": "2026-07-23T16:01:25.690Z",
+          "createdOn": "2026-07-23T16:01:22.949Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Larry Goldings, Peter Bernstein and Bill Stewart",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-19T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": "<h2>'Rhombus' New Record Release</h2>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.19_goldings",
+            "slug": "ny-26-08-19-goldings",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
         {
           "id": "6a6239119e6c43eadb271c9d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
