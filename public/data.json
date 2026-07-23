@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T06:16:16.731Z",
+  "fetchedAt": "2026-07-23T06:57:15.859Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,13 +10,13 @@
         {
           "id": "6a6119c0f96c9da34579855d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-23T03:22:54.829Z",
-          "lastUpdated": "2026-07-22T19:28:05.893Z",
+          "lastPublished": "2026-07-23T06:53:19.218Z",
+          "lastUpdated": "2026-07-23T06:53:19.218Z",
           "createdOn": "2026-07-22T19:28:00.970Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Joe Farnsworth Trio feat. Brad Mehldau and Larry Grenadier",
+            "event-title": "Joe Farnsworth Trio feat. Brad Mehldau and Larry Grenadier [Event]",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
