@@ -4,7 +4,7 @@
 // Requires the GH_DISPATCH_TOKEN environment variable (set in the Netlify
 // dashboard): a GitHub fine-grained PAT with Actions read/write on the repo.
 
-const REPO = "Pankajdweb/Jgi-Events";
+const REPO = "gustostudio/Jgi-Events";
 const WORKFLOW = "update-cms-data.yml";
 const DEBOUNCE_MS = 60_000;
 
