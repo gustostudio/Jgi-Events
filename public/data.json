@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-23T12:14:54.607Z",
+  "fetchedAt": "2026-07-23T15:56:29.610Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 998,
+      "itemCount": 1000,
       "items": [
+        {
+          "id": "6a6239119e6c43eadb271c9d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-23T15:53:56.708Z",
+          "lastUpdated": "2026-07-23T15:53:56.708Z",
+          "createdOn": "2026-07-23T15:53:53.803Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Farnsworth Trio feat. Brad Mehldau and Larry Grenadier",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-16T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_farnsworth",
+            "slug": "ny-26-08-16-farnsworth",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6a6238b2337c94c27096867e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-23T15:52:20.586Z",
+          "lastUpdated": "2026-07-23T15:52:20.586Z",
+          "createdOn": "2026-07-23T15:52:18.234Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Farnsworth Trio feat. Brad Mehldau and Larry Grenadier",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-15T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.15_farnsworth",
+            "slug": "ny-26-08-15-farnsworth",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
         {
           "id": "6a6119c0f96c9da34579855d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
