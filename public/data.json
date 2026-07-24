@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-24T04:30:00.941Z",
+  "fetchedAt": "2026-07-24T04:38:28.768Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1015,
+      "itemCount": 1017,
       "items": [
+        {
+          "id": "6a62eaa5248cc8e4b01de733",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T04:31:35.045Z",
+          "lastUpdated": "2026-07-24T04:31:35.045Z",
+          "createdOn": "2026-07-24T04:31:33.382Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Linda Oh and Melissa Aldana",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf52050fbd110a6fc6e96",
+            "start-date": "2026-08-22T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.21_oh",
+            "slug": "ny-26-08-21-oh",
+            "city-name": "NYC",
+            "venue-name": "The Stone",
+            "venue-link": "http://thestonenyc.com/"
+          }
+        },
+        {
+          "id": "6a62ea7585b13f6654e93f8a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T04:30:50.283Z",
+          "lastUpdated": "2026-07-24T04:30:50.283Z",
+          "createdOn": "2026-07-24T04:30:45.045Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Linda Oh and Pamela Z",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf52050fbd110a6fc6e96",
+            "start-date": "2026-08-21T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.20_oh",
+            "slug": "ny-26-08-20-oh",
+            "city-name": "NYC",
+            "venue-name": "The Stone",
+            "venue-link": "http://thestonenyc.com/"
+          }
+        },
         {
           "id": "6a62ea403949581f48b05a49",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
