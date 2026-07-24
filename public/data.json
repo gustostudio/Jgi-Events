@@ -1,12 +1,156 @@
 {
-  "fetchedAt": "2026-07-24T17:36:26.220Z",
+  "fetchedAt": "2026-07-24T17:45:14.902Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1071,
+      "itemCount": 1075,
       "items": [
+        {
+          "id": "6a63a3510a8b12f5fdd67ca3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:39:36.322Z",
+          "lastUpdated": "2026-07-24T17:39:36.322Z",
+          "createdOn": "2026-07-24T17:39:29.974Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-17T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.16_gillespie",
+            "slug": "ny-26-08-16-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a63a2e8c7cb20837a5f91a8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:38:08.169Z",
+          "lastUpdated": "2026-07-24T17:38:08.169Z",
+          "createdOn": "2026-07-24T17:37:44.372Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-16T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.15_gillespie",
+            "slug": "ny-26-08-15-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a63a2d6bca5e7f40c82adba",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:37:29.173Z",
+          "lastUpdated": "2026-07-24T17:37:29.173Z",
+          "createdOn": "2026-07-24T17:37:26.755Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-15T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.14_gillespie",
+            "slug": "ny-26-08-14-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a63a2ab2f0e1836f3fad206",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:36:47.008Z",
+          "lastUpdated": "2026-07-24T17:36:47.008Z",
+          "createdOn": "2026-07-24T17:36:43.280Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-14T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.13_gillespie",
+            "slug": "ny-26-08-13-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a63a297822ec743800614fe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
