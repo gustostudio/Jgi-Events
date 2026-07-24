@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-24T05:43:03.488Z",
+  "fetchedAt": "2026-07-24T05:51:33.775Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1047,
+      "itemCount": 1049,
       "items": [
+        {
+          "id": "6a62fc8cd05da27831bfa2a6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:48:01.178Z",
+          "lastUpdated": "2026-07-24T05:48:01.178Z",
+          "createdOn": "2026-07-24T05:47:56.691Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dave Kikoski Trio feat. Rick Rosato and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-25T23:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.25_kikoski",
+            "slug": "ny-26-08-25-kikoski",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
+        {
+          "id": "6a62fb76d22fd72179180e3e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:43:25.766Z",
+          "lastUpdated": "2026-07-24T05:43:25.766Z",
+          "createdOn": "2026-07-24T05:43:18.638Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Valtinho Anastácio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-23T23:30:00.000Z",
+            "event-time": "7:30 & 9M",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.23_anastácio",
+            "slug": "ny-26-08-23-anastacio",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6a62fae583f3bbd0b2015097",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
