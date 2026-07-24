@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-24T06:49:45.596Z",
+  "fetchedAt": "2026-07-24T06:58:14.204Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1066,
+      "itemCount": 1068,
       "items": [
+        {
+          "id": "6a630c1268d3763e4ad36794",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T06:54:12.245Z",
+          "lastUpdated": "2026-07-24T06:54:12.245Z",
+          "createdOn": "2026-07-24T06:54:10.153Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Pasquale Grasso Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-18T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.17_grasso",
+            "slug": "ny-26-08-17-grasso",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a630b4ed3260e9bb0046634",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T06:50:56.744Z",
+          "lastUpdated": "2026-07-24T06:50:56.744Z",
+          "createdOn": "2026-07-24T06:50:54.520Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Patrick Bartley Quartet feat. William Hill III, Barry Stephenson and Charles Goold",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-08-16T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_bartley",
+            "slug": "ny-26-08-16-bartley",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
         {
           "id": "6a630afdd24ad253c4bdbcc5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
