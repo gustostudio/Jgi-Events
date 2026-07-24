@@ -1,12 +1,207 @@
 {
-  "fetchedAt": "2026-07-24T05:17:34.103Z",
+  "fetchedAt": "2026-07-24T05:26:07.703Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1037,
+      "itemCount": 1042,
       "items": [
+        {
+          "id": "6a62f7086c8a56d6351da89d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:24:27.271Z",
+          "lastUpdated": "2026-07-24T05:24:27.271Z",
+          "createdOn": "2026-07-24T05:24:24.160Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-08-23T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.23_hersch",
+            "slug": "ny-26-08-23-hersch",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a62f6eac65ce4c0d0dc90d7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:23:56.879Z",
+          "lastUpdated": "2026-07-24T05:23:56.879Z",
+          "createdOn": "2026-07-24T05:23:54.649Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-08-22T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.22_hersch",
+            "slug": "ny-26-08-22-hersch",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a62f666d3a684c5316d1220",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:21:49.829Z",
+          "lastUpdated": "2026-07-24T05:21:49.829Z",
+          "createdOn": "2026-07-24T05:21:42.817Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jaleel Shaw 'Branches' Quartet feat. Akili Bradley, Ben Street and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-08-20T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.20_shaw",
+            "slug": "ny-26-08-20-shaw",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a62f58d242ca13118f483ac",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:18:06.406Z",
+          "lastUpdated": "2026-07-24T05:18:06.406Z",
+          "createdOn": "2026-07-24T05:18:05.102Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mingus Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-09-28T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.28_mingus",
+            "slug": "ny-26-09-28-mingus",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a62f57ccf0faa666ca6e11b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:17:50.279Z",
+          "lastUpdated": "2026-07-24T05:17:50.279Z",
+          "createdOn": "2026-07-24T05:17:48.263Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mingus Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-09-21T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.21_mingus",
+            "slug": "ny-26-09-21-mingus",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a62f565a2e8f454ff75d4f0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
