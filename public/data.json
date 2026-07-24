@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-24T04:51:53.297Z",
+  "fetchedAt": "2026-07-24T05:00:18.448Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1020,
+      "itemCount": 1021,
       "items": [
+        {
+          "id": "6a62efc9242ca13118f2f1f2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T04:53:31.757Z",
+          "lastUpdated": "2026-07-24T04:53:31.757Z",
+          "createdOn": "2026-07-24T04:53:29.948Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joel Ross and Friends feat. Joe Melnicove, Alden Hellmuth, Sergio Tabanico, Henry Fraser and Kayvon Gordon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-08-22T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.22_ross",
+            "slug": "ny-26-08-22-ross",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
         {
           "id": "6a62ef083b0946f09c9a8e51",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
