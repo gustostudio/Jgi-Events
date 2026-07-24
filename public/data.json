@@ -1,12 +1,120 @@
 {
-  "fetchedAt": "2026-07-24T17:27:48.447Z",
+  "fetchedAt": "2026-07-24T17:36:26.220Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1068,
+      "itemCount": 1071,
       "items": [
+        {
+          "id": "6a63a297822ec743800614fe",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:36:25.611Z",
+          "lastUpdated": "2026-07-24T17:36:25.611Z",
+          "createdOn": "2026-07-24T17:36:23.502Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-13T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.12_gillespie",
+            "slug": "ny-26-08-12-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a63a1a52bd4f8f30497af21",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:35:58.194Z",
+          "lastUpdated": "2026-07-24T17:35:58.194Z",
+          "createdOn": "2026-07-24T17:32:21.935Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dizzy Gillespie All-Star Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-12T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": "<p>Roberta Gambarini — vocals</p><p>Cyrus Chestnut — piano</p><p>Frank Greene, Freddie Hendrix, Charlie Porter and Diego Urcola — trumpets</p><p>Don Braden, Sharel Cassity, Mark Gross, Tim Ries and Gary Smulyan — &nbsp;saxophones </p><p>Steve Davis, Jason Jackson, Jeff Nelson, Altin Sencalar and Ron Wilkins — trombones</p><p>Evan Sherman — drums</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.11_gillespie",
+            "slug": "ny-26-08-11-gillespie",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a63a0bfee69ebe473e6a4c5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:28:33.940Z",
+          "lastUpdated": "2026-07-24T17:28:33.940Z",
+          "createdOn": "2026-07-24T17:28:31.794Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brandon Woody's Upendo",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-11T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.10_woody",
+            "slug": "ny-26-08-10-woody",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a630c1268d3763e4ad36794",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
