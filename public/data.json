@@ -1,12 +1,70 @@
 {
-  "fetchedAt": "2026-07-24T05:34:35.575Z",
+  "fetchedAt": "2026-07-24T05:43:03.488Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1045,
+      "itemCount": 1047,
       "items": [
+        {
+          "id": "6a62fae583f3bbd0b2015097",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:40:56.774Z",
+          "lastUpdated": "2026-07-24T05:40:56.774Z",
+          "createdOn": "2026-07-24T05:40:53.380Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "William Hill III Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-19T23:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.08.19_hill",
+            "slug": "ny-26-08-19-hill",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6a62fa4e3949581f48b4c42a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T05:38:23.518Z",
+          "lastUpdated": "2026-07-24T05:38:23.518Z",
+          "createdOn": "2026-07-24T05:38:22.016Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Valtinho Anastácio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-16T23:30:00.000Z",
+            "event-time": "7:30 & 9M",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_anastácio",
+            "slug": "ny-26-08-16-anastacio",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6a62f95ef0029eabb685d865",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
