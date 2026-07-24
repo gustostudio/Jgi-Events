@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T17:45:14.902Z",
+  "fetchedAt": "2026-07-24T17:53:14.869Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7,6 +7,42 @@
       "displayName": "collection",
       "itemCount": 1075,
       "items": [
+        {
+          "id": "6a63a59267e1ba47e7d56b82",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T17:49:10.011Z",
+          "lastUpdated": "2026-07-24T17:49:10.011Z",
+          "createdOn": "2026-07-24T17:49:06.068Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tito Puente Jr. and his Latin Jazz Ensemble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-15T16:30:00.000Z",
+            "event-time": "12:30 & 2:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.15_puente",
+            "slug": "ny-26-08-15-puente",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a63a3510a8b12f5fdd67ca3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -16805,34 +16841,6 @@
             "city-name": "NYC",
             "venue-name": "Smalls",
             "venue-link": "https://www.smallslive.com/"
-          }
-        },
-        {
-          "id": "6a4de499320e4607480feeda",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-16T09:54:39.694Z",
-          "lastUpdated": "2026-07-15T07:25:41.906Z",
-          "createdOn": "2026-07-08T05:48:09.801Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Primary Influences Band feat. Steve Davis, Jaleel Shaw, Steve Nelson, David Hazeltine, David Williams and Byron Landham",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2ef6142243172b56b3a991",
-            "start-date": "2026-07-31T23:00:00.000Z",
-            "event-time": "7 & 9PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_26.07.31_primary_influences",
-            "slug": "ny-26-07-31-primary-influences",
-            "city-name": "NYC",
-            "venue-name": "Jazzcultural",
-            "venue-link": "https://www.jazzcultural.com/"
           }
         },
         {
