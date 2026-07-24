@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-24T06:31:20.456Z",
+  "fetchedAt": "2026-07-24T06:39:54.889Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1059,
+      "itemCount": 1061,
       "items": [
+        {
+          "id": "6a63081e366c808025cad1fc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T06:37:19.905Z",
+          "lastUpdated": "2026-07-24T06:37:19.905Z",
+          "createdOn": "2026-07-24T06:37:18.076Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brad Mehldau Quartet feat. Peter Bernstein, John Webber and Gregory Hutchinson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-08-11T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.11_mehldau",
+            "slug": "ny-26-08-11-mehldau",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
+        {
+          "id": "6a6307c3db58eadcea457f24",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T06:35:49.324Z",
+          "lastUpdated": "2026-07-24T06:35:49.324Z",
+          "createdOn": "2026-07-24T06:35:47.020Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brad Mehldau Quartet feat. Peter Bernstein, John Webber and Gregory Hutchinson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-08-10T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.10_mehldau",
+            "slug": "ny-26-08-10-mehldau",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
         {
           "id": "6a6305c3fcdcd62b63badfe5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
