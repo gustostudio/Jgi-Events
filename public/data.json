@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-24T04:43:22.384Z",
+  "fetchedAt": "2026-07-24T04:51:53.297Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1018,
+      "itemCount": 1020,
       "items": [
+        {
+          "id": "6a62ef083b0946f09c9a8e51",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T04:50:18.329Z",
+          "lastUpdated": "2026-07-24T04:50:18.329Z",
+          "createdOn": "2026-07-24T04:50:16.208Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Chris Morrissey Sans Vox Quintet feat. Aurora Nealand, Marvin Sewell, Dan Weiss and Steven Bernstein",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-08-19T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.19_morrissey",
+            "slug": "ny-26-08-19-morrissey",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
+        {
+          "id": "6a62ee3ca359f067e1df5858",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-24T04:46:54.936Z",
+          "lastUpdated": "2026-07-24T04:46:54.936Z",
+          "createdOn": "2026-07-24T04:46:52.139Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sylvie Courvoisier and Alden Hellmuth",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-08-13T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.13_courvoisier",
+            "slug": "ny-26-08-13-courvoisier",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
         {
           "id": "6a62ec73f55a11e63fe0f61e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
