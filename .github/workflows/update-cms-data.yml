@@ -2,17 +2,12 @@ name: Update Webflow CMS Data
 
 on:
   schedule:
-    # Fallback only — primary trigger is the Webflow webhook via
-    # netlify/functions/webflow-webhook.js (workflow_dispatch).
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-    inputs:
-      skip_wait:
-        description: Skip the batching wait (for manual test runs)
-        type: boolean
-        default: false
+    # Sole trigger — the Webflow webhook (netlify/functions/webflow-webhook.js)
+    # no longer dispatches this workflow, to keep Netlify build minutes down.
+    - cron: '0 */12 * * *'
+  workflow_dispatch: {}
 
-# Queue runs so simultaneous webhook dispatches can't race each other's push.
+# Queue runs so overlapping triggers can't race each other's push.
 concurrency:
   group: update-cms-data
   cancel-in-progress: false
@@ -22,13 +17,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Batching window: edits made while this run sleeps are captured by the
-      # fetch below. Later edits collapse into at most one queued run (see the
-      # concurrency group above), so a burst of CMS edits yields ~1-2 runs.
-      - name: Wait to batch CMS edits
-        if: github.event_name == 'workflow_dispatch' && inputs.skip_wait != true
-        run: sleep 240
-
       - name: Checkout repository
         uses: actions/checkout@v5
 
