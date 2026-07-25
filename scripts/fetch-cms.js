@@ -53,11 +53,11 @@ async function listAllItems(collectionId, useLive = false) {
   const limit = 100;
   let offset = 0;
   let allItems = [];
-  const path = useLive ? "items/live" : "items";
+  const endpoint = useLive ? "items/live" : "items";
 
   while (true) {
     const data = await webflowGet(
-      `${API_BASE}/collections/${collectionId}/${path}?limit=${limit}&offset=${offset}`
+      `${API_BASE}/collections/${collectionId}/${endpoint}?limit=${limit}&offset=${offset}`
     );
     const items = data.items || [];
     allItems = allItems.concat(items);
