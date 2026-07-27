@@ -1,12 +1,1234 @@
 {
-  "fetchedAt": "2026-07-26T15:47:41.025Z",
+  "fetchedAt": "2026-07-27T12:41:01.582Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1074,
+      "itemCount": 1107,
       "items": [
+        {
+          "id": "6a672c1b042f44eb80b5621f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:59:58.888Z",
+          "createdOn": "2026-07-27T09:59:55.573Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gilad Hekselman Trio with Harish Raghavan and Kendrick Scott",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-08-13T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.12_hekselman",
+            "slug": "ny-26-08-12-hekselman",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
+        {
+          "id": "6a672b1a4dcad100cc3acc8b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:55:41.223Z",
+          "createdOn": "2026-07-27T09:55:38.320Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Monty Alexander",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-16T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.15_alexander",
+            "slug": "ny-26-08-15-alexander",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a672af978fbd88497d8685b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:55:07.497Z",
+          "createdOn": "2026-07-27T09:55:05.437Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Monty Alexander",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-15T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.14_alexander",
+            "slug": "ny-26-08-14-alexander-2",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a672ac7c41687f1ff40bfac",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:54:20.693Z",
+          "createdOn": "2026-07-27T09:54:15.091Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Monty Alexander",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-13T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.13_alexander",
+            "slug": "ny-26-08-13-alexander-2",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a672ab51b6abd7ce6aeff06",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:54:00.106Z",
+          "createdOn": "2026-07-27T09:53:57.069Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Monty Alexander",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-12T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.12_alexander",
+            "slug": "ny-26-08-12-alexander",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a672a804dcad100cc3a6ada",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:53:07.065Z",
+          "createdOn": "2026-07-27T09:53:04.245Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Monty Alexander",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-11T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.11_alexander",
+            "slug": "ny-26-08-11-alexander",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a672a17f06bef429f81904e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:51:21.578Z",
+          "createdOn": "2026-07-27T09:51:19.399Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dabin Ryu with Simon Willson and Jonas Esser",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-12T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.11_ryu",
+            "slug": "ny-26-08-11-ryu",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
+        {
+          "id": "6a672952a5e61ce04f4da499",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:48:08.135Z",
+          "createdOn": "2026-07-27T09:48:02.299Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gaby Moreno and Jon Cowherd",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-10T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.09_moreno",
+            "slug": "ny-26-08-09-moreno",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
+        {
+          "id": "6a6727c6900b66cceee70899",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:41:29.996Z",
+          "createdOn": "2026-07-27T09:41:26.920Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-29T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.28_vanguard",
+            "slug": "ny-26-09-28-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6727aecfadff37a56eb14c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:41:06.185Z",
+          "createdOn": "2026-07-27T09:41:02.093Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-22T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.21_vanguard",
+            "slug": "ny-26-09-21-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a67277d0f59b2323e66bfb5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:40:16.794Z",
+          "createdOn": "2026-07-27T09:40:13.221Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-15T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.14_vanguard",
+            "slug": "ny-26-09-14-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a67275b9f5117e99151f669",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:39:41.408Z",
+          "createdOn": "2026-07-27T09:39:39.058Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-08T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.07_vanguard",
+            "slug": "ny-26-09-07-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a67273ca73946cf86016c64",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:39:11.470Z",
+          "createdOn": "2026-07-27T09:39:08.726Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-01T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.31_vanguard",
+            "slug": "ny-26-08-31-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a67271dd9c0a420412cdac5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:38:39.959Z",
+          "createdOn": "2026-07-27T09:38:37.097Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-25T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.24_vanguard",
+            "slug": "ny-26-08-24-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6726f0857e0e4bc6d90b3d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:37:55.416Z",
+          "createdOn": "2026-07-27T09:37:52.325Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-18T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.17_vanguard",
+            "slug": "ny-26-08-17-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6726d30ac0d556be4aef0a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:37:25.530Z",
+          "createdOn": "2026-07-27T09:37:23.473Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-11T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.10_vanguard",
+            "slug": "ny-26-08-10-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a672693d9c0a420412c5f84",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:36:22.832Z",
+          "createdOn": "2026-07-27T09:36:19.961Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-04T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.03_vanguard",
+            "slug": "ny-26-08-03-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6725e38548f5a02f599b09",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:33:25.395Z",
+          "createdOn": "2026-07-27T09:33:23.713Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vince Giordano and the Nighthawks ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-17T21:30:00.000Z",
+            "event-time": "5:30 & 8:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-59/",
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.17_giordano",
+            "slug": "ny-26-08-17-giordano",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6724d60a58a12ba1a3bf53",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:28:56.716Z",
+          "createdOn": "2026-07-27T09:28:54.153Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jerome Jennings Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-10T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.10_jennings",
+            "slug": "ny-26-08-10-jennings",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a67249876c8ee47253b52ba",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:27:55.491Z",
+          "createdOn": "2026-07-27T09:27:52.725Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eviatar Slivnik Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-11T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.10_slivnik",
+            "slug": "ny-26-08-10-slivnik",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a6721c56153eb8fab27c661",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:15:52.540Z",
+          "createdOn": "2026-07-27T09:15:49.726Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vince Giordano and the Nighthawks ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-11T21:30:00.000Z",
+            "event-time": "5:30 & 8:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-59/",
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.11_giordano",
+            "slug": "ny-26-08-11-giordano",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6721aad6a43b73ad2fd13f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:15:25.226Z",
+          "createdOn": "2026-07-27T09:15:22.755Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vince Giordano and the Nighthawks ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-10T21:30:00.000Z",
+            "event-time": "5:30 & 8:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-59/",
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.10_giordano",
+            "slug": "ny-26-08-10-giordano",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a67214eb37c289213513819",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:13:55.115Z",
+          "createdOn": "2026-07-27T09:13:50.604Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Birdland Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-31T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.30_birdland",
+            "slug": "ny-26-08-30-birdland",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a67212997ac4cd2df1949e9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:13:15.705Z",
+          "createdOn": "2026-07-27T09:13:13.840Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Birdland Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-24T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.23_birdland",
+            "slug": "ny-26-08-23-birdland",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a6721052a3b27e9e3382bd0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:12:39.581Z",
+          "createdOn": "2026-07-27T09:12:37.547Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Birdland Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-17T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_birdland",
+            "slug": "ny-26-08-16-birdland",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a6720d590c2d49389d063b7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T09:11:52.719Z",
+          "createdOn": "2026-07-27T09:11:49.601Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Birdland Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-10T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.09_birdland",
+            "slug": "ny-26-08-09-birdland",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a671e05a71a4fadd271b0a9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T08:59:52.804Z",
+          "createdOn": "2026-07-27T08:59:49.909Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ricky Ford Quartet feat. Mark Soskin, Jerome Harris and Barry Altschul",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-08T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.08_ford",
+            "slug": "ny-26-08-08-ford",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a671cea35c4e3114009d0e8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T10:17:33.065Z",
+          "lastUpdated": "2026-07-27T08:55:09.344Z",
+          "createdOn": "2026-07-27T08:55:06.577Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Elé Howell, Morgan Guerin, Cecil Alexander and Ryoma Takenaga ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-06T23:30:00.000Z",
+            "event-time": "7:30 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.06_howell",
+            "slug": "ny-26-08-06-howell",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/"
+          }
+        },
+        {
+          "id": "6a6670dbe4ed77a63e726580",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-26T20:40:59.746Z",
+          "lastUpdated": "2026-07-26T20:40:59.746Z",
+          "createdOn": "2026-07-26T20:40:59.746Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Atkins",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a5459cfa7e64d51039c2e14",
+            "start-date": "2026-07-29T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>NOCCA&nbsp;Music Program Director and pianist Victor Atkins presents a free community set. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_29_atkins_victor",
+            "slug": "no-26-07-29-atkins-victor",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz National Historic Park",
+            "venue-link": "https://www.nps.gov/jazz/index.htm",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a666ebc60c55a67beea1b39",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-26T20:31:56.792Z",
+          "lastUpdated": "2026-07-26T20:31:56.792Z",
+          "createdOn": "2026-07-26T20:31:56.792Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Yirmeyahu Yisrael Project",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cd673359de5208fc576e",
+            "start-date": "2026-07-30T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Yirmeyahu Yisrael Project </p><p>‍</p><p>Two Sets at 8pm &amp;&nbsp;9:45pm </p><p>‍</p><p>No Cover. One Drink Minimum per Guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.29_yisrael_yirmeyahu",
+            "slug": "no-26-07-29-yisrael-yirmeyahu",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Carousel Bar & Lounge (Hotel Monteleone) ",
+            "venue-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "contemporary jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a666c9ab6dcc4a8a90330db",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-26T20:22:50.825Z",
+          "lastUpdated": "2026-07-26T20:22:50.825Z",
+          "createdOn": "2026-07-26T20:22:50.825Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "New Breed Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-07-30T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><strong>2026 GRAMMY NOMINEES! &nbsp;New Breed Brass Band</strong> is the new sound of New Orleans, and its members have learned from the city's best, including bandmate cousin Troy “Trombone Shorty” Andrews and James “12” Andrews. New Breed takes the NOLA second-line brass band tradition to all-new places. </p><p>Cath them every-other Wednesday night here at the Blue Nile on the famed Frenchmen Street music strip. </p><p>8:30pm Doors </p><p>9:00pm Show </p><p>‍</p><p>No Cover!&nbsp; One Drink Minimum per guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3db10d06a35758469acd07",
+              "6a3e1976c393eb65ce7dee38",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_29_new_breed_bb",
+            "slug": "no-26-07-29-new-breed-bb-2",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk",
+              "funk fusion",
+              "R&B",
+              "hip-hop",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a666baaf310548aa65cfe15",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-26T20:18:50.714Z",
+          "lastUpdated": "2026-07-26T20:18:50.714Z",
+          "createdOn": "2026-07-26T20:18:50.714Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Lastie & The New Orleans Sound featuring Gregg Stafford ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-29T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Joe Lastie &amp; The New Orleans Sound featuring Gregg Stafford </p><p>‍</p><p>No Cover! But seating is very limited, so early arrival is strongly suggested. One Drink Minimum per guest. Great cocktail menu.</p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.28_lastie_joe_NOS",
+            "slug": "no-26-07-28-lastie-joe-nos",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "trad jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a66693ee419e49ca44f9a36",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T03:48:04.835Z",
+          "lastUpdated": "2026-07-26T20:14:15.053Z",
+          "createdOn": "2026-07-26T20:08:30.569Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Salvador Avila ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a6669a85105b573fd0e04b1",
+            "start-date": "2026-07-28T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong>Salvador Avila </strong>is a traveling 7-string guitarist and vocalist from Argentina based in New Orleans. He plays songs and rhythms from around the world, with an emphasis on Latin American styles like Latin Jazz, Bossa Nova, Boleros, and more.</p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>1 Drink Minimum Per Guest </p><p>Full Bar + Light Bites Menu Available </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://salonsalonnola.com/event/salvador-avila-2/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524683",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a666a439cfb1e90403e330a",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.28_avila_salvador",
+            "slug": "no-26-07-28-avila-salvador",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Salon Salon",
+            "venue-link": "https://salonsalonnola.com/upcoming/",
+            "tags-name": [
+              "New Orleans",
+              "No Cover",
+              "Free",
+              "Latin Jazz",
+              "Bossa Nova",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6668c2a28ca7d3ffdc03e4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T03:48:04.835Z",
+          "lastUpdated": "2026-07-26T20:06:30.380Z",
+          "createdOn": "2026-07-26T20:06:26.946Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The OGs with Peter Harris, Tony Dagradi, Stanton Moore, BC Coogan +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-07-29T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p><strong>Tonight, Harris presents The OGs collective, featuring: </strong></p><p>Stanton Moore - drums </p><p>Peter Harris - bass </p><p>BC Coogan - piano </p><p>Tony Dagradi - saxophones </p><p>+ special surprise guests </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.28_harris_peter_OGs",
+            "slug": "no-26-07-28-harris-peter-ogs-2",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a63a59267e1ba47e7d56b82",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -8327,62 +9549,6 @@
               "jazz fusion",
               "singer-songwriter",
               "lounge",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a54726d39c26a37457617f2",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T05:06:53.976Z",
-          "lastUpdated": "2026-07-13T05:06:53.976Z",
-          "createdOn": "2026-07-13T05:06:53.976Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Kevin Louis & The Hometeam",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a1387485d4aa63df2ceb86c",
-            "start-date": "2026-07-29T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>Kevin Louis &amp; The Hometeam for two sets </p>",
-            "button-text": "DETAILS",
-            "button-link": "https://www.mjhnola.com/",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a3832d81051ca44000ec45e",
-              "6a3d8dccfbaf1d80d9b7c0e8",
-              "6a3dc0500a022a5481a97926",
-              "6a3dc06345e26029b72db5fc",
-              "698171062ef8be261a524683",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.07.28_louis_kevin_hometeam Copy",
-            "slug": "no-26-07-28-louis-kevin-hometeam-copy",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Mahogany Jazz Hall",
-            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
-            "tags-name": [
-              "New Orleans",
-              "jazz",
-              "trad jazz",
-              "classic jazz",
-              "swingin' jazz",
-              "Free",
               "21+"
             ],
             "tags-link": [
