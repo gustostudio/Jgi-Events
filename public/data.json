@@ -1,12 +1,242 @@
 {
-  "fetchedAt": "2026-08-04T14:28:38.000Z",
+  "fetchedAt": "2026-08-05T02:55:44.577Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1318,
+      "itemCount": 1323,
       "items": [
+        {
+          "id": "6a724560495f8f18b149fd88",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T20:03:02.528Z",
+          "lastUpdated": "2026-08-04T20:03:02.528Z",
+          "createdOn": "2026-08-04T20:02:40.320Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a137dfbef532a5e2f39f34b",
+            "start-date": "2026-09-01T21:30:00.000Z",
+            "event-time": "5:30PM",
+            "event-description": "<p><em>Mbongi </em>[Bone-gee] in the Kikongo language and Congolese culture can refer to “a learning circle”. Composer, band leader, and master Congolese drummer Papa Titos Sompa will hold drumming workshops that will take place over the course of the Fall, leading up to a performance on December 15, 2026. Participants will learn Congolese terms for rhythms and songs, and understand the significance of the <em>mbongi</em> as a theory of music engagement/practice that is deeply respectful of community, promotes active listening and empathy, and foments togetherness.</p><p>‍</p><p>Participants of all ages are welcome. No prior drumming experience required. Please dress comfortably and bring your own drum, if you have one. There will also be extra drums on hand.</p><p>‍</p><p>MATONDO!</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a724550b5f0805650ff6b38"
+            ],
+            "thumbnail": {
+              "fileId": "6a72457203e587c821185e4d",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a72457203e587c821185e4d_Kingdom%2Bof%2BKongo%2Bpress%2Bphoto.webp",
+              "alt": null
+            },
+            "name": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "slug": "mbongi-of-drums-featuring-papa-titos-sompa",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's Episcopal Church",
+            "venue-link": "https://stlukesneworleans.org/",
+            "tags-name": [
+              "drumming workshop"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a7240036aba6c0637ea3702",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T19:39:50.733Z",
+          "lastUpdated": "2026-08-04T19:39:50.733Z",
+          "createdOn": "2026-08-04T19:39:47.909Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "An Oral History Program Series co- hosted by Herlin Riley and Lula Elzy; featuring Germaine Bazzle, and Lawrence Cotton",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a723f242564851862aa7a1f",
+            "start-date": "2026-08-17T21:00:00.000Z",
+            "event-time": "5:00PM",
+            "event-description": "<p>Jazz Generations Initiative New Orleans, in partnership with Lula Elzy and co-sponsored by the Jazz and Heritage Foundation Wein Center invites you to <em>Live Music in Conversation: </em>An Oral History Program co-hosted by Lula Elzy and Herlin Riley, featuring the “First Lady of Jazz” vocalist&nbsp; Germaine Bazzle and American R&amp;B and jazz pianist Lawrence Cotton.</p><p>‍</p><p>Riley and Elzy will take audiences on musical journeys chronicling the lives, musical influences, joys and challenges of these legendary New Orleans jazz artists while they tell their stories in their own words. The program will also feature a live set with Derek Douget, Oscar Rossignoli, Peter Harris, and Herlin Riley.</p><p>‍</p><p>5PM \t\tDoors</p><p>5:30PM\t\tProgram Begins</p><p>7:30PM\t\tProgram Concludes</p><p>‍</p><p>‍</p><p>Donations of $10 are appreciated.&nbsp;</p><p>‍</p><p>Tickets are available at Eventbrite: seating is limited 150</p><p>‍</p>",
+            "button-text": "Register Here",
+            "button-link": "https://www.eventbrite.com/e/live-music-in-conversation-an-oral-history-series-tickets-1996467478973",
+            "tags": [
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524679"
+            ],
+            "thumbnail": {
+              "fileId": "6a723ffa4a1f8e4c51684924",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a723ffa4a1f8e4c51684924_Lawrence-Cotton--scaled.jpg",
+              "alt": null
+            },
+            "name": "Live Music in Conversation: An Oral History Program Series ",
+            "slug": "live-music-in-conversation-an-oral-history-program-series",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "The George and Joyce Wein Jazz & Heritage Center",
+            "venue-link": "https://www.jazzandheritage.org/the-wein-center/",
+            "tags-name": [
+              "jazz",
+              "Limited seating"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a72002441dea047a9ba56a4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T15:07:16.682Z",
+          "lastUpdated": "2026-08-04T15:07:16.682Z",
+          "createdOn": "2026-08-04T15:07:16.682Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-08-27T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>‍</p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.27_brunious_wendell_PHAS",
+            "slug": "no-26-08-27-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a72000beb089fbd2ee98566",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T15:06:51.736Z",
+          "lastUpdated": "2026-08-04T15:06:51.736Z",
+          "createdOn": "2026-08-04T15:06:51.736Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-08-20T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>‍</p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.20_brunious_wendell_PHAS",
+            "slug": "no-26-08-20-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a71fff0eb089fbd2ee97975",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T15:06:24.915Z",
+          "lastUpdated": "2026-08-04T15:06:24.915Z",
+          "createdOn": "2026-08-04T15:06:24.915Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-08-13T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>‍</p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.13_brunious_wendell_PHAS",
+            "slug": "no-26-08-13-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a707bd8ca872d1b5a6deb7d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -3496,13 +3726,13 @@
         {
           "id": "6a70284f2b707ca87b95d6cb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T05:34:07.881Z",
-          "lastUpdated": "2026-08-03T05:34:07.881Z",
+          "lastPublished": "2026-08-04T15:04:20.730Z",
+          "lastUpdated": "2026-08-04T15:04:20.730Z",
           "createdOn": "2026-08-03T05:34:07.881Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -3543,13 +3773,13 @@
         {
           "id": "6a70283dd699d522952e2eab",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T05:33:49.368Z",
-          "lastUpdated": "2026-08-03T05:33:49.368Z",
+          "lastPublished": "2026-08-04T15:04:40.252Z",
+          "lastUpdated": "2026-08-04T15:04:40.252Z",
           "createdOn": "2026-08-03T05:33:49.368Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -3590,13 +3820,13 @@
         {
           "id": "6a70282dd9d88af337f12bd2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T05:33:33.016Z",
-          "lastUpdated": "2026-08-03T05:33:33.016Z",
+          "lastPublished": "2026-08-04T15:04:54.907Z",
+          "lastUpdated": "2026-08-04T15:04:54.907Z",
           "createdOn": "2026-08-03T05:33:33.016Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -3637,13 +3867,13 @@
         {
           "id": "6a7027bc717f26d20b02f920",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T05:31:40.539Z",
-          "lastUpdated": "2026-08-03T05:31:40.539Z",
+          "lastPublished": "2026-08-04T15:05:16.260Z",
+          "lastUpdated": "2026-08-04T15:05:16.260Z",
           "createdOn": "2026-08-03T05:31:40.539Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
