@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-08-20T01:36:18.401Z",
+  "fetchedAt": "2026-08-20T12:58:48.502Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1742,
+      "itemCount": 1743,
       "items": [
+        {
+          "id": "6a866513a0b1ddeffd3d582d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T02:23:20.833Z",
+          "lastUpdated": "2026-08-20T02:23:20.833Z",
+          "createdOn": "2026-08-20T02:23:15.019Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Saxophone Colossus: A Celebration of the Life and Music of Sonny Rollins",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a8664fb358b743f72bf9a79",
+            "start-date": "2026-09-19T17:00:00.000Z",
+            "event-time": "1PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.19_rollins",
+            "slug": "ny-2026-09-19-rollins",
+            "city-name": "NYC",
+            "venue-name": "The Cathedral of Saint John the Divine",
+            "venue-link": "https://www.stjohndivine.org/"
+          }
+        },
         {
           "id": "6a8613590c8d9708b81c8b02",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
