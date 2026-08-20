@@ -1,12 +1,104 @@
 {
-  "fetchedAt": "2026-08-19T12:56:39.442Z",
+  "fetchedAt": "2026-08-20T01:36:18.401Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1740,
+      "itemCount": 1742,
       "items": [
+        {
+          "id": "6a8613590c8d9708b81c8b02",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-19T20:34:33.569Z",
+          "lastUpdated": "2026-08-19T20:34:33.569Z",
+          "createdOn": "2026-08-19T20:34:33.569Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Sacred & The Sinful: Hymns & Blues in New Orleans Jazz with Dr. Michal White & The Original Liberty Jazz Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "6a6e344a56d8da3ef4de8e37",
+            "venue": "6a860abbeeb7e63e390055a2",
+            "start-date": "2026-08-23T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p><strong>Dr. Michael White</strong>, renowned dixieland jazz clarinetist, esteemed music historian, and retired Xavier University professor, presents his performance and lecture series, <strong><em>\"The Sacred and The Sinful: Hymns and Blues in New Orleans Jazz,\"</em></strong> alsofeaturing his <strong>Original Liberty Jazz Band. </strong></p><p>Presented by the Music, Worship, and Fine Arts Ministry of the Second Free Mission Baptist Church, with sponsorship support from the New Orleans Jazz &amp; Heritage Foundation.</p><p>‍</p><p>This event is free, all ages, and open to the public.</p><p>Doors Open at 2pm </p><p>Program Begins at 3pm </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.facebook.com/share/18GNJ93H9s/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a86130657e9ffd8de24021b",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": {
+              "fileId": "6a8613553b75437b61e8568c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a8613553b75437b61e8568c_Dr-Michael-White-Sacred%26Sinful-23AUG26.jpg",
+              "alt": null
+            },
+            "name": "no_26.08.23_white_michael_dr_sacred&sinful",
+            "slug": "no-26-08-23-white-michael-dr-sacred-sinful",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance + Conversation",
+            "category-link": null,
+            "venue-name": "Second Free Mission Baptist Church",
+            "venue-link": "https://secondfreemission.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "blues",
+              "gospel",
+              "trad jazz",
+              "Free",
+              "No Cover",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a85ff7cb565b546d0ef9838",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-19T19:10:18.029Z",
+          "lastUpdated": "2026-08-19T19:10:18.029Z",
+          "createdOn": "2026-08-19T19:09:48.924Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "\"John Coltrane: A Centennial Tribute to a Musical Legend\" with the James Carter Quintet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a85ff0813e1e13b8a524ddc",
+            "start-date": "2026-09-23T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.23_carter_coltrane",
+            "slug": "ny-2026-09-23-carter-coltrane",
+            "city-name": "NYC",
+            "venue-name": "Janes United Methodist Church",
+            "venue-link": "https://www.janesumc.org/"
+          }
+        },
         {
           "id": "6a84d211015d81c71b67b942",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
