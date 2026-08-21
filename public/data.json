@@ -1,12 +1,96 @@
 {
-  "fetchedAt": "2026-08-20T12:58:48.502Z",
+  "fetchedAt": "2026-08-21T01:41:15.437Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1743,
+      "itemCount": 1746,
       "items": [
+        {
+          "id": "6a872354cdf2b8e320fed67e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T15:55:02.835Z",
+          "lastUpdated": "2026-08-20T15:55:02.835Z",
+          "createdOn": "2026-08-20T15:55:00.828Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-27T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.27_wilson",
+            "slug": "ny-26-08-27-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a87232b2c372fce1546357e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T15:54:21.888Z",
+          "lastUpdated": "2026-08-20T15:54:21.888Z",
+          "createdOn": "2026-08-20T15:54:19.366Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-26T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.26_wilson",
+            "slug": "ny-26-08-26-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a87230ad3f523de8325b01d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T20:42:09.539Z",
+          "lastUpdated": "2026-08-20T20:42:09.539Z",
+          "createdOn": "2026-08-20T15:53:46.880Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-25T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.25_wilson",
+            "slug": "ny-26-08-25-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
         {
           "id": "6a866513a0b1ddeffd3d582d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -38,20 +122,20 @@
         {
           "id": "6a8613590c8d9708b81c8b02",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-19T20:34:33.569Z",
-          "lastUpdated": "2026-08-19T20:34:33.569Z",
+          "lastPublished": "2026-08-20T15:16:59.400Z",
+          "lastUpdated": "2026-08-20T15:16:59.400Z",
           "createdOn": "2026-08-19T20:34:33.569Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "The Sacred & The Sinful: Hymns & Blues in New Orleans Jazz with Dr. Michal White & The Original Liberty Jazz Band",
+            "event-title": "The Sacred & The Sinful: Hymns & Blues in New Orleans Jazz with Dr. Michael White & The Original Liberty Jazz Band",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "6a6e344a56d8da3ef4de8e37",
             "venue": "6a860abbeeb7e63e390055a2",
             "start-date": "2026-08-23T19:00:00.000Z",
             "event-time": "3PM",
-            "event-description": "<p><strong>Dr. Michael White</strong>, renowned dixieland jazz clarinetist, esteemed music historian, and retired Xavier University professor, presents his performance and lecture series, <strong><em>\"The Sacred and The Sinful: Hymns and Blues in New Orleans Jazz,\"</em></strong> alsofeaturing his <strong>Original Liberty Jazz Band. </strong></p><p>Presented by the Music, Worship, and Fine Arts Ministry of the Second Free Mission Baptist Church, with sponsorship support from the New Orleans Jazz &amp; Heritage Foundation.</p><p>‍</p><p>This event is free, all ages, and open to the public.</p><p>Doors Open at 2pm </p><p>Program Begins at 3pm </p>",
+            "event-description": "<p><strong>Dr. Michael White</strong>, renowned dixieland jazz clarinetist, esteemed music historian, and retired Xavier University professor, presents his performance and lecture series, <strong><em>\"The Sacred and The Sinful: Hymns and Blues in New Orleans Jazz,\"</em></strong> also featuring his <strong>Original Liberty Jazz Band. </strong></p><p>Presented by the Music, Worship, and Fine Arts Ministry of the Second Free Mission Baptist Church, with sponsorship support from the New Orleans Jazz &amp; Heritage Foundation.</p><p>‍</p><p>This event is free, all ages, and open to the public.</p><p>Doors Open at 2pm </p><p>Program Begins at 3pm </p>",
             "button-text": "DETAILS",
             "button-link": "https://www.facebook.com/share/18GNJ93H9s/",
             "tags": [
@@ -3055,8 +3139,8 @@
         {
           "id": "6a7f4978854f448147fff0c8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T02:37:22.121Z",
-          "lastUpdated": "2026-08-14T20:17:39.726Z",
+          "lastPublished": "2026-08-20T23:03:51.407Z",
+          "lastUpdated": "2026-08-20T23:03:51.407Z",
           "createdOn": "2026-08-14T16:59:36.601Z",
           "isArchived": false,
           "isDraft": false,
@@ -8428,8 +8512,8 @@
         {
           "id": "6a7b557be2e8ce5ff6645f43",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T18:38:19.354Z",
-          "lastUpdated": "2026-08-11T17:03:33.149Z",
+          "lastPublished": "2026-08-20T13:26:51.939Z",
+          "lastUpdated": "2026-08-20T13:26:51.939Z",
           "createdOn": "2026-08-11T17:01:47.224Z",
           "isArchived": false,
           "isDraft": false,
@@ -8438,7 +8522,7 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
-            "venue": "6a2cdbd3b79970e94d308683",
+            "venue": "6a306619334e31e75b40d623",
             "start-date": "2026-09-19T23:00:00.000Z",
             "event-time": "7PM",
             "event-description": null,
@@ -8449,8 +8533,8 @@
             "name": "ny_2026.09.19_AANI",
             "slug": "ny-2026-09-19-aani",
             "city-name": "NYC",
-            "venue-name": "The Cutting Room",
-            "venue-link": "https://thecuttingroomnyc.com/"
+            "venue-name": "Nublu",
+            "venue-link": "https://nublu.net/"
           }
         },
         {
@@ -17986,11 +18070,11 @@
           }
         },
         {
-          "id": "6a7030a18860947ad7ef2558",
+          "id": "6a703017dc811fd00ef96691",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:09:37.324Z",
-          "lastUpdated": "2026-08-03T06:09:37.324Z",
-          "createdOn": "2026-08-03T06:09:37.324Z",
+          "lastPublished": "2026-08-20T15:17:36.633Z",
+          "lastUpdated": "2026-08-20T15:17:36.633Z",
+          "createdOn": "2026-08-03T06:07:19.779Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
@@ -17999,7 +18083,7 @@
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a1387485d4aa63df2ceb86c",
-            "start-date": "2026-08-30T01:30:00.000Z",
+            "start-date": "2026-08-09T01:30:00.000Z",
             "event-time": "9:30PM",
             "event-description": "<p>Trumpet phenom Kid Chocolate leads the Mahogany Jazz Hall All-Stars for 2 sets </p><p>‍</p><p>NO&nbsp;COVER!&nbsp;</p>",
             "button-text": "DETAILS",
@@ -18012,8 +18096,8 @@
               "698171062ef8be261a524681"
             ],
             "thumbnail": null,
-            "name": "no_26.08.29_chocolate_kid_MJHAS",
-            "slug": "no-26-08-29-chocolate-kid-mjhas",
+            "name": "no_26.08.08_chocolate_kid_MJHAS",
+            "slug": "no-26-08-08-chocolate-kid-mjhas",
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
@@ -40909,8 +40993,8 @@
         {
           "id": "6a51546208f2a9dd6885745f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T14:26:52.659Z",
-          "lastUpdated": "2026-08-18T14:26:52.659Z",
+          "lastPublished": "2026-08-20T20:49:46.113Z",
+          "lastUpdated": "2026-08-20T20:49:46.113Z",
           "createdOn": "2026-07-10T20:21:54.982Z",
           "isArchived": false,
           "isDraft": false,
@@ -40919,9 +41003,9 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
-            "venue": "6a34bef0dcd860cf218771ed",
-            "start-date": "2026-08-20T22:00:00.000Z",
-            "event-time": "6PM",
+            "venue": "6a8766d71fd2332a303b1be6",
+            "start-date": "2026-08-21T23:00:00.000Z",
+            "event-time": "7PM",
             "event-description": "<p>Local arts presenter Pique-nique regularly offers some of the most thoughtful jazz (and jazz-adjacent) curation in the city. Complementing their popular Take Two series showcasing fresh interpretations of classic albums is Unheard, which presents from-scratch improvisations courtesy of a featured artist and their handpicked collaborators. We can’t wait to see who comes on board to join the rising tenor-saxophone star Emilio Modeste — known for his work with Kassa Overall, Stanley Clarke and Cindy Blackman Santana — in this week’s installment.</p>",
             "button-text": null,
             "button-link": null,
@@ -40930,8 +41014,8 @@
             "name": "ny_26.08.20_modeste",
             "slug": "ny-26-08-20-modeste",
             "city-name": "NYC",
-            "venue-name": "Domino Park",
-            "venue-link": "https://www.dominopark.com/"
+            "venue-name": "Banker's Anchor",
+            "venue-link": "https://www.instagram.com/bankersanchor/?hl=en"
           }
         },
         {
