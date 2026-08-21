@@ -1,12 +1,98 @@
 {
-  "fetchedAt": "2026-08-21T01:41:15.437Z",
+  "fetchedAt": "2026-08-21T12:58:04.564Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1746,
+      "itemCount": 1748,
       "items": [
+        {
+          "id": "6a87b547f55e4c39d2af5da8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-21T02:18:11.081Z",
+          "lastUpdated": "2026-08-21T02:18:11.081Z",
+          "createdOn": "2026-08-21T02:17:43.098Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marta Sanchez",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "691ccd0eb62c3b82ffb68615",
+            "venue": "6a199afc96df4f62c2da2655",
+            "start-date": "2026-09-17T23:00:00.000Z",
+            "event-time": "7 PM",
+            "event-description": "<p>Pianist Marta Sanchez brings her band to this week's edition of the Soundoff Sessions. Sets at 8&nbsp;and 9:30, Soundoff Session until late. Creatives, bring your axe — whatever it is — and your energy. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": {
+              "fileId": "6a87b561e82f6cbffd5cbecc",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a87b561e82f6cbffd5cbecc_images%20(1).webp",
+              "alt": null
+            },
+            "name": "soundoff_Marta Sanchez",
+            "slug": "soundoff-marta-sanchez",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Soundoff Session",
+            "category-link": null,
+            "venue-name": "Cafe Erzulie",
+            "venue-link": "https://www.cafeerzulie.com/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a87b4536e1d53a3f597cac1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-21T02:15:21.694Z",
+          "lastUpdated": "2026-08-21T02:15:21.694Z",
+          "createdOn": "2026-08-21T02:13:39.456Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Milena Casado",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "691ccd0eb62c3b82ffb68615",
+            "venue": "6a199afc96df4f62c2da2655",
+            "start-date": "2026-09-03T23:00:00.000Z",
+            "event-time": "7 PM",
+            "event-description": "<p>Trumpeter Milena Casado brings her band to this week's edition of the Soundoff Sessions. Sets at 8&nbsp;and 9:30, Soundoff Session until late. Creatives, bring your axe — whatever it is — and your energy. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": {
+              "fileId": "6a87b490807143dc77e1628f",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a87b490807143dc77e1628f_images.webp",
+              "alt": null
+            },
+            "name": "soundoff_Milena Casado",
+            "slug": "soundoff-milena-casado",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Soundoff Session",
+            "category-link": null,
+            "venue-name": "Cafe Erzulie",
+            "venue-link": "https://www.cafeerzulie.com/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a872354cdf2b8e320fed67e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
