@@ -1,12 +1,58 @@
 {
-  "fetchedAt": "2026-08-21T12:58:04.564Z",
+  "fetchedAt": "2026-08-22T01:35:00.388Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1748,
+      "itemCount": 1749,
       "items": [
+        {
+          "id": "6a88dde16abd673b63edb77a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-21T23:24:19.747Z",
+          "lastUpdated": "2026-08-21T23:24:19.747Z",
+          "createdOn": "2026-08-21T23:23:13.920Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Art Workshop: Mickalene Tomas, featuring artist Amy Bryan",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-09-05T14:00:00.000Z",
+            "event-time": "10:00AM",
+            "event-description": "<p>Explore the bold, glamorous world of Mickalene Thomas, whose portraits celebrate Black women, beauty, identity, and power through pattern, color, and collage. Inspired by her distinctive visual language, participants will create their own expressive portrait filled with color, texture, and personality.</p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/art-workshop-mickalene-thomas-featuring-artist-amy-bryan-tickets-1998448257535?aff=oddtdtcreator",
+            "tags": [
+              "6a88ddad28354cce4ed956c7",
+              "6a88ddbedcb79b2007b11d03"
+            ],
+            "thumbnail": {
+              "fileId": "6a88dddbdcb79b2007b12117",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a88dddbdcb79b2007b12117_ex_mickalenethomas_racquel_reclining_wearing_purple_jumpsuit_700x400.jpg",
+              "alt": null
+            },
+            "name": "Art Workshop: Mickalene Thomas, featuring artist Amy Bryan",
+            "slug": "art-workshop-mickalene-thomas-featuring-artist-amy-bryan",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "art",
+              "Workshop"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a87b547f55e4c39d2af5da8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
