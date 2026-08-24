@@ -1,12 +1,192 @@
 {
-  "fetchedAt": "2026-08-23T12:50:53.169Z",
+  "fetchedAt": "2026-08-24T01:41:57.806Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1749,
+      "itemCount": 1752,
       "items": [
+        {
+          "id": "6a8ba1430e0882c34efa34de",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-24T01:41:23.152Z",
+          "lastUpdated": "2026-08-24T01:41:23.152Z",
+          "createdOn": "2026-08-24T01:41:23.152Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tuesday Community Concert Series feat. Robin Barnes",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d5758911635dad0aa91",
+            "start-date": "2026-10-06T22:30:00.000Z",
+            "event-time": "6:30 - 8:00PM",
+            "event-description": "<p><strong>Robin Barnes, </strong>the acclaimed “<strong>Songbird of New Orleans,” </strong>is a Billboard Top 10 charting artist whose powerful voice bridges jazz, funk, soul, zydeco, Creole traditions, and Louisiana’s rich musical heritage. Her 2026 album, Louisiana Love, celebrates nine generations of Louisiana culture through collaborations with Ivan Neville, Big Freedia, The Soul Rebels, Rockin’ Dopsie Jr., and Cedric Watson. Barnes has performed at Jazz Fest, the Sundance Film Festival, London’s Royal Opera House, and beyond, delivering unforgettable performances rooted in joy, culture, and community. We’re thrilled to have her at the Ellis Marsalis Center for Music. </p><p><strong>Tickets:</strong> $15 General Admission | $45 Reserved Seating &nbsp;| $5 Student Tickets</p><p><strong>Ticket Pricing Update:</strong> For 13 years, we have been proud to offer discounted senior tickets for just $3. Beginning in September 2026, senior tickets will increase to $10 to help sustain the quality of the musical experiences we offer. Proceeds from every ticket sold directly support the musicians performing on our stage as well as help sustain our education program and community services. Thank you for your continued support.</p><p>Special discounted tickets are available for senior citizens and New Orleans residents receiving SNAP benefits. A valid benefits card and photo ID required to purchase discounted tickets for <strong>$10.00</strong> per person. Seating is limited and available on a first-come, first-served basis. Tickets can be purchased online but must be redeemed at the door by showing valid ID. </p><p>Guests are welcome to take photos and short video clips for personal enjoyment. When sharing on social media, we appreciate if you could tag both the Center and the artist. Please be aware that the Center retains the right to restrict photography and videography upon the request of artists or performers. Commercial photography and videography are strictly prohibited, and the use of flash is not allowed.</p><p>‍</p><p>6:00pm Doors </p><p>6:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.simpletix.com/e/emcm-presents-robin-barnes-tickets-265791",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a7627ad62e0f1dbf346c51c",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": {
+              "fileId": "6a8ba13c03656a0025d40927",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a8ba13c03656a0025d40927_Screen%20Shot%202026-08-23%20at%208.37.53%20PM.png",
+              "alt": null
+            },
+            "name": "no_26.10.06_barnes_robin_emc",
+            "slug": "no-26-10-06-barnes-robin-emc",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Ellis Marsalis Center for Music",
+            "venue-link": "https://www.ellismarsaliscenter.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "modern jazz",
+              "jazz fusion",
+              "soul",
+              "vocal jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a8ba05cca0caf4c8669f647",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-24T01:37:32.725Z",
+          "lastUpdated": "2026-08-24T01:37:32.725Z",
+          "createdOn": "2026-08-24T01:37:32.725Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Booker & Beyond Piano Series feat. Shea Siraj (Pierre)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d5758911635dad0aa91",
+            "start-date": "2026-09-15T22:30:00.000Z",
+            "event-time": "6:30 - 7:30PM",
+            "event-description": "<p><strong>Shea Pierre</strong> is a renowned pianist and composer from New Orleans, Louisiana. Using influences from the culture of his hometown and combining it his extensive touring across the globe as a pianist, he has developed a unique approach to his music and performance. We’re thrilled to have him at the Ellis Marsalis Center for Music.</p><p><strong>Tickets:</strong> $15 General Admission | $45 Reserved Seating &nbsp;| $5 Student Tickets</p><p><strong>Ticket Pricing Update:</strong> For 13 years, we have been proud to offer discounted senior tickets for just $3. Beginning in September 2026, senior tickets will increase to $10 to help sustain the quality of the musical experiences we offer. Proceeds from every ticket sold directly support the musicians performing on our stage as well as help sustain our education program and community services. Thank you for your continued support.</p><p>Special discounted tickets are available for senior citizens and New Orleans residents receiving SNAP benefits. A valid benefits card and photo ID required to purchase discounted tickets for <strong>$10.00</strong> per person. Seating is limited and available on a first-come, first-served basis. Tickets can be purchased online but must be redeemed at the door by showing valid ID. </p><p>Guests are welcome to take photos and short video clips for personal enjoyment. When sharing on social media, we appreciate if you could tag both the Center and the artist. Please be aware that the Center retains the right to restrict photography and videography upon the request of artists or performers. Commercial photography and videography are strictly prohibited, and the use of flash is not allowed. Thank you for your cooperation.</p><p>‍</p><p>6:00pm Doors </p><p>6:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.simpletix.com/e/booker-and-beyond-piano-series-shea-pierre-tickets-239883",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": {
+              "fileId": "6a8ba057e4a5911a5f4e092d",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a8ba057e4a5911a5f4e092d_Screen%20Shot%202026-08-23%20at%208.37.00%20PM.png",
+              "alt": null
+            },
+            "name": "no_26.09.15_shiraj_pierre_shea_EMC",
+            "slug": "no-26-09-15-shiraj-pierre-shea-emc",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Ellis Marsalis Center for Music",
+            "venue-link": "https://www.ellismarsaliscenter.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "modern jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a8b9ed6baea5142bce671be",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-24T01:31:02.275Z",
+          "lastUpdated": "2026-08-24T01:31:02.275Z",
+          "createdOn": "2026-08-24T01:31:02.275Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tuesday Community Concert Series feat. Ricardo Pascal",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d5758911635dad0aa91",
+            "start-date": "2026-09-01T22:30:00.000Z",
+            "event-time": "6:30 - 8:00PM",
+            "event-description": "<p><strong>Ricardo Pascal </strong>is a saxophonist, composer, arranger, and educator rooted in the Black American tradition—a blend of swing, bebop, blues, R&amp;B, and soul, all woven together with the heartbeat of New Orleans music. A longtime member of Marcus Roberts’ Modern Jazz Generation and Judith Owen and the Gentlemen Callers, he has also performed with artists such as Dee Dee Bridgewater, Herlin Riley, and Phillip Manuel. We’re thrilled to have him at the Ellis Marsalis Center for Music.</p><p><strong>Tickets:</strong> $15 General Admission | $45 Reserved Seating &nbsp;| $5 Student Tickets</p><p><strong>Ticket Pricing Update:</strong> For 13 years, we have been proud to offer discounted senior tickets for just $3. Beginning in September 2026, senior tickets will increase to $10 to help sustain the quality of the musical experiences we offer. Proceeds from every ticket sold directly support the musicians performing on our stage as well as help sustain our education program and community services. Thank you for your continued support.</p><p><strong>Concerts for All: </strong>Special discounted tickets are available for senior citizens and New Orleans residents receiving SNAP benefits. A valid benefits card and photo ID required to purchase discounted tickets for <strong>$10.00</strong> per person. Seating is limited and available on a first-come, first-served basis. Tickets can be purchased online but must be redeemed at the door by showing valid ID.</p><p>Guests are welcome to take photos and short video clips for personal enjoyment. When sharing on social media, we appreciate if you could tag both the Center and the artist. Please be aware that the Center retains the right to restrict photography and videography upon the request of artists or performers. Commercial photography and videography are strictly prohibited, and the use of flash is not allowed.</p><p>‍</p><p>6:00pm Doors </p><p>6:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ellismarsaliscenter.org/mc-events/emcm-presents-ricardo-pascal/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524675",
+              "6a3da8cbfa6118c2dd0e7287"
+            ],
+            "thumbnail": {
+              "fileId": "6a8b9ed0b6e2110cb86dbd56",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a8b9ed0b6e2110cb86dbd56_Ricardo-Pascal-EMC.png",
+              "alt": null
+            },
+            "name": "no_26.09.01_pascal_ricardo_EMC",
+            "slug": "no-26-09-01-pascal-ricardo-emc",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Ellis Marsalis Center for Music",
+            "venue-link": "https://www.ellismarsaliscenter.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "modern jazz",
+              "All ages",
+              "brass"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a88dde16abd673b63edb77a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -38126,7 +38306,7 @@
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
-            "venue-name": "Ellis Marsalis Center",
+            "venue-name": "Ellis Marsalis Center for Music",
             "venue-link": "https://www.ellismarsaliscenter.org/",
             "tags-name": [
               "New Orleans",
