@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T13:02:34.722Z",
+  "fetchedAt": "2026-08-27T08:38:22.842Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -526,8 +526,8 @@
         {
           "id": "6a87b547f55e4c39d2af5da8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-22T05:30:48.462Z",
-          "lastUpdated": "2026-08-21T02:18:11.343Z",
+          "lastPublished": "2026-08-26T14:54:47.924Z",
+          "lastUpdated": "2026-08-26T14:54:47.924Z",
           "createdOn": "2026-08-21T02:17:43.098Z",
           "isArchived": false,
           "isDraft": false,
@@ -550,7 +550,7 @@
               "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a87b561e82f6cbffd5cbecc_images%20(1).webp",
               "alt": null
             },
-            "name": "soundoff_Marta Sanchez",
+            "name": "ny_26.09.17_soundoff_Marta Sanchez",
             "slug": "soundoff-marta-sanchez",
             "city-name": "NYC",
             "feature-name": "JGI LIVE",
@@ -569,8 +569,8 @@
         {
           "id": "6a87b4536e1d53a3f597cac1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-22T05:30:48.462Z",
-          "lastUpdated": "2026-08-21T02:15:21.694Z",
+          "lastPublished": "2026-08-26T14:54:27.173Z",
+          "lastUpdated": "2026-08-26T14:54:27.173Z",
           "createdOn": "2026-08-21T02:13:39.456Z",
           "isArchived": false,
           "isDraft": false,
@@ -593,7 +593,7 @@
               "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a87b490807143dc77e1628f_images.webp",
               "alt": null
             },
-            "name": "soundoff_Milena Casado",
+            "name": "ny_26.09.03_soundoff_Milena Casado",
             "slug": "soundoff-milena-casado",
             "city-name": "NYC",
             "feature-name": "JGI LIVE",
@@ -3636,8 +3636,8 @@
         {
           "id": "6a7f5669dee876dbf9135337",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T18:38:19.354Z",
-          "lastUpdated": "2026-08-14T18:38:18.318Z",
+          "lastPublished": "2026-08-26T15:04:51.491Z",
+          "lastUpdated": "2026-08-26T15:04:51.491Z",
           "createdOn": "2026-08-14T17:54:49.034Z",
           "isArchived": false,
           "isDraft": false,
@@ -3648,7 +3648,7 @@
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a2ffdb68c49ff6b51abac51",
             "start-date": "2026-10-14T00:00:00.000Z",
-            "event-time": "8 PM",
+            "event-time": "8PM",
             "event-description": "<p>Celebrate the roots and pathways of the Black music diaspora in this show, featuring talents from New&nbsp;York, New Orleans and West Africa.</p><p><em>Family Affair</em>, a new album by Senegalese bassist and composer <a href=\"https://alunewade.net/\"><strong>Alune Wade</strong></a> in collaboration with New Orleans's Neighborhood Story Project, is rooted in Afro-Atlantic memory and contemporary dialogue. In the fall of 2026, it will be released alongside their documentary film <em>TUKKI: From the Roots to the Bayou</em> and accompanying book <em>A Family Affair: Conversations Across the Atlantic</em> (University of New Orleans Press). Building on the acclaimed album <em>New African Orleans</em> (2025), which drew widespread praise for its fluid dialogue between West African traditions, contemporary jazz, and Louisiana heritage, <em>Family Affair</em> has the feel of a reunion — one that stretches across centuries of shared and scattered memory. It is not a tribute project. It is a celebration of what these connections actually sound like when musicians on both sides of the Atlantic meet in a room.</p><p>With West Indian roots and a NYC upbringing emerges <a href=\"https://linktr.ee/faiith.mp3?utm_source=linktree_profile_share&ltsid=f03e08db-6abd-4971-a570-2ec8848f08d8\"><strong>faiith</strong></a>, the current generation's newest voice that amplifies the in-between. Hailing from deep-seeded jazz study and pulling from foundational R&amp;B culture, lives the compositions and eclectic energy and presence of faiith. Appearing on her debut album, <em>Answer to Love</em>, showcases genre bending artists and collaborations with kyngstxnn and donSMITH blending the sounds of Chicago, L.A and NYC into one seamless storyline. faiith’s emergence into the industry marks a turning point in self-development and an effortless blend between her traditional jazz training and her unique yet familiar songwriting. <em>Answer to Love</em> is a culmination of stories and responses to self-love, familial - love, romantic - love as well as love for the culture and the community. <em>Answer to Love</em> will be available on all streaming platforms August 2026 on Next Music Company.</p><p><em>Presented by the&nbsp;JGI&nbsp;in collaboration with National Sawdust.</em></p>",
             "button-text": "TICKETS",
             "button-link": "https://www.nationalsawdust.org/event/alune-wade-family-affair-faiith-presented-by-the-jazz-generations-initiative",
@@ -3659,7 +3659,7 @@
               "alt": null
             },
             "name": "ny_2026.10.13_jgi_alune-wade-faiith",
-            "slug": "ny-2026-10-13-jgi-alune-wade-faiith",
+            "slug": "alune-wade-faiith-national-sawdust",
             "city-name": "NYC",
             "feature-name": "JGI LIVE",
             "category-name": "Concert",
