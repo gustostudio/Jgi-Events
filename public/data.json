@@ -1,12 +1,82 @@
 {
-  "fetchedAt": "2026-08-27T22:05:15.026Z",
+  "fetchedAt": "2026-08-28T10:50:41.913Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1763,
+      "itemCount": 1765,
       "items": [
+        {
+          "id": "6a911287e4c5d27ac7975f1b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-28T04:46:02.992Z",
+          "lastUpdated": "2026-08-28T04:46:02.992Z",
+          "createdOn": "2026-08-28T04:45:59.949Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Godwin Louis",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a911163457b77efee32ed8d",
+            "start-date": "2026-10-29T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Saxophonist, composer and bandleader Godwin Louis performs as part of the JGI's monthly series at Medgar Evers College. More info and ticket link TBA.</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6a9112847bd23d2a1b80b6ca",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9112847bd23d2a1b80b6ca_godwin%20louis2.jpeg",
+              "alt": null
+            },
+            "name": "ny_2026.10.29_mec_godwin louis",
+            "slug": "godwin-louis-medgar-evers-college",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Founders Auditorium, Medgar Evers College",
+            "venue-link": "https://www.mec.cuny.edu/events/"
+          }
+        },
+        {
+          "id": "6a9111a54a80dca8e1d2eb4d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-28T04:52:04.127Z",
+          "lastUpdated": "2026-08-28T04:52:04.127Z",
+          "createdOn": "2026-08-28T04:42:13.696Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cyrus Chestnut Trio and Akili Bradley Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a911163457b77efee32ed8d",
+            "start-date": "2026-09-24T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>6PM&nbsp;—&nbsp;reception</p><p>7PM&nbsp;—&nbsp;concert</p><p>Sets from the Cyrus Chestnut Trio and the Akili Bradley&nbsp;Quartet</p><p>This reception and concert mark the beginning of the JGI's monthly series at Medgar Evers College, and the kickoff of the campaign to bring back the 100% free Jazzy Jazz Festival serving the Central Brooklyn community.</p>",
+            "button-text": "Tickets",
+            "button-link": "https://www.mec.cuny.edu/event/mary-umulo-jazzy-jazz-celebration/",
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6a9113f1a289531c5592a4f9",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9113f1a289531c5592a4f9_Copy%20of%20arced%20version%209.24-ChestnutBradley-MEC%20(1400%20x%201400%20px).png",
+              "alt": null
+            },
+            "name": "ny_2026.09.24_mec_cyrus chestnut and akili bradley",
+            "slug": "cyrus-chestnut-akili-bradley",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Founders Auditorium, Medgar Evers College",
+            "venue-link": "https://www.mec.cuny.edu/events/"
+          }
+        },
         {
           "id": "6a902840f0c087c8bdb1d208",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
