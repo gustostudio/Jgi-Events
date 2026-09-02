@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-09-01T16:23:11.773Z",
+  "fetchedAt": "2026-09-02T03:56:18.298Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1837,
+      "itemCount": 1838,
       "items": [
+        {
+          "id": "6a973178f539cac0d22bdc23",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-01T20:11:38.569Z",
+          "lastUpdated": "2026-09-01T20:11:38.569Z",
+          "createdOn": "2026-09-01T20:11:36.824Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz Memorial for James Blood Ulmer",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a45357e02cd28aeed4dfc7a",
+            "start-date": "2026-09-29T21:30:00.000Z",
+            "event-time": "5:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.29_ulmer_memorial",
+            "slug": "ny-2026-09-29-ulmer-memorial",
+            "city-name": "NYC",
+            "venue-name": "Saint Peter's Church",
+            "venue-link": "https://www.saintpeters.org"
+          }
+        },
         {
           "id": "6a959296fd541416c6a99045",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
