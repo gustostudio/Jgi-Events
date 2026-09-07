@@ -7,10 +7,11 @@ file, committed to this repo on a schedule, and served by Netlify.
 
 1. `scripts/fetch-cms.js` calls the Webflow API and writes `public/data.json`.
 2. `.github/workflows/update-cms-data.yml` runs that script on a schedule
-   (every 12 hours by default) via GitHub Actions, and commits the file if it
-   changed. The Webflow webhook (`netlify/functions/webflow-webhook.js`) no
-   longer triggers a run per CMS edit — this keeps Netlify build minutes down,
-   at the cost of edits taking up to 12h to go live.
+   (roughly every 2.5 hours, 10 times a day, by default) via GitHub Actions,
+   and commits the file if it changed. The Webflow webhook
+   (`netlify/functions/webflow-webhook.js`) no longer triggers a run per CMS
+   edit — this keeps Netlify build minutes down, at the cost of edits taking
+   up to ~2.5h to go live.
 3. Netlify is connected to this repo and auto-deploys on every push, so the
    JSON is always live at:
    `https://YOUR-SITE-NAME.netlify.app/data.json`
@@ -62,11 +63,15 @@ created/updated and pushed.
 
 ## Adjusting the schedule
 
-Edit the `cron` line in `.github/workflows/update-cms-data.yml`. Examples:
+Edit the `cron` line(s) in `.github/workflows/update-cms-data.yml`. Examples:
 
 - Every hour: `0 * * * *`
 - Every 12 hours: `0 */12 * * *`
 - Every day at 6am UTC: `0 6 * * *`
+
+Cron only supports whole-hour steps, so fractional intervals (like the
+current 2.5h cadence) need two `cron:` entries with offset minutes — see the
+comment above the schedule block for how that's built.
 
 ## Running locally
 

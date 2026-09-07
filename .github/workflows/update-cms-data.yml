@@ -4,7 +4,12 @@ on:
   schedule:
     # Sole trigger — the Webflow webhook (netlify/functions/webflow-webhook.js)
     # no longer dispatches this workflow, to keep Netlify build minutes down.
-    - cron: '0 */12 * * *'
+    # Cron has no fractional-hour step, so 2.5h is expressed as two schedules
+    # landing on fixed times: 00:00/05:00/10:00/15:00/20:00 and
+    # 02:30/07:30/12:30/17:30/22:30 UTC — 10 runs/day, 2.5h apart (except the
+    # 22:30 -> 00:00 wrap, which is 1.5h since 24 isn't divisible by 2.5).
+    - cron: '0 0,5,10,15,20 * * *'
+    - cron: '30 2,7,12,17,22 * * *'
   workflow_dispatch: {}
 
 # Queue runs so overlapping triggers can't race each other's push.
