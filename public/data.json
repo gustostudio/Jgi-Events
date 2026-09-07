@@ -1,12 +1,61 @@
 {
-  "fetchedAt": "2026-09-07T19:01:10.570Z",
+  "fetchedAt": "2026-09-07T22:34:06.960Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1993,
+      "itemCount": 1994,
       "items": [
+        {
+          "id": "6a9f36edbf5b465fd4344503",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-07T22:13:04.643Z",
+          "lastUpdated": "2026-09-07T22:13:04.643Z",
+          "createdOn": "2026-09-07T22:13:01.897Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-09-09T21:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p><p>Participants of all ages are welcome. No prior drumming experience required. Please dress comfortably and bring your own drum or hand percussion.</p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746114379",
+            "tags": [
+              "6a724550b5f0805650ff6b38",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6a34485985c35bb1302af3f2"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "Mbongi of Drums",
+            "slug": "mbongi-of-drums",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "drumming workshop",
+              "world music",
+              "New Orleans"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a9ed4e162047c233192551a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
