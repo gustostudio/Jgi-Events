@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-09-07T22:34:06.960Z",
+  "fetchedAt": "2026-09-08T00:35:50.716Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1994,
+      "itemCount": 1995,
       "items": [
+        {
+          "id": "6a9f438b6095194e2b7e13f6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-07T23:09:53.054Z",
+          "lastUpdated": "2026-09-07T23:09:53.054Z",
+          "createdOn": "2026-09-07T23:06:51.943Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Arto Lindsay and Melvin Gibbs + Dr. S+M + Beat Detectives + Exoplex + Stewey Decimal",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a7b3fb36ec4423f00305edb",
+            "start-date": "2026-10-03T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.10.03_lindsay_gibbs",
+            "slug": "ny-2026-10-03-lindsay-gibbs",
+            "city-name": "NYC",
+            "venue-name": "Light & Sound Design Studios",
+            "venue-link": "https://lightandsound.design/"
+          }
+        },
         {
           "id": "6a9f36edbf5b465fd4344503",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
