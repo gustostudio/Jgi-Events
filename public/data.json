@@ -1,12 +1,125 @@
 {
-  "fetchedAt": "2026-09-10T18:09:59.791Z",
+  "fetchedAt": "2026-09-10T19:56:22.076Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2014,
+      "itemCount": 2016,
       "items": [
+        {
+          "id": "6aa308fcbea295816e63ffcc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T19:46:04.350Z",
+          "lastUpdated": "2026-09-10T19:46:04.350Z",
+          "createdOn": "2026-09-10T19:46:04.350Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brother Tyrone & The Mindbenders",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-14T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>New Orleans old-school R&amp;B&nbsp;legends, Brother Tyrone &amp;&nbsp;The Mindbenders at the Leaf: </strong></p><p><strong>Tyrone Pollard</strong> (known as Brother Tyrone) is a New Orleans-born singer who has been performing since the 1970, celebrated for his \"old-school cool\" style, smooth baritone vocals, and sharp stage presentation. <strong>The Mindbenders</strong> feature seasoned local musicians—including guitarist Everette Eglin (who gave Tyrone his stage name)—playing deep Southern soul, funk, and vintage blues. Their music blends classic 1960s and 70s soul sensibilities with gritty, real-life lyrics about New Orleans, including the aftermath of Hurricane Katrina (such as their notable track \"When It's Gone, It's Gone\"). Recorded in a single day in 1999, their debut album <strong><em>\"Blue Ghetto\"</em></strong>&nbsp;became a local staple found on jukeboxes in neighborhood bars and taverns across New Orleans. Their sophomore recording, <em>\"Mindbender\"</em> was released in 2008 and garnered strong reviews from many music journals. </p><p>‍</p><p><strong>Two Sets, One Ticket: </strong></p><p>7pm Doors </p><p>Sets at 8pm &amp;&nbsp;10pm </p>",
+            "button-text": "DETAILS & TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "6a5409e42bdfdb9477100c16",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a5401d60e7b1cfef7fd6a81",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.13_brother_tyrone_mindbenders",
+            "slug": "no-26-09-13-brother-tyrone-mindbenders",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "R&B",
+              "funk fusion",
+              "blues",
+              "soul",
+              "Black American Music",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa3068664f780dc5f467682",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T19:37:31.248Z",
+          "lastUpdated": "2026-09-10T19:37:31.248Z",
+          "createdOn": "2026-09-10T19:35:34.718Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Alvin Ford Jr & Friends feat. Brandon Butler, Brad Walker, Max Bronstein, Jonquel ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-11T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Alvin Ford Jr. &amp; Friends returns tonight, featuring: </strong></p><p>‍</p><p>Alvin Ford Jr. - drums </p><p>Brandon Butler - keys, bass </p><p>Max Bronstein - guitar </p><p>Jonquel - vocals, loops </p><p>‍</p><p><strong>Two Sets, One Ticket: </strong></p><p>7pm Doors </p><p>Sets at 8pm. &amp;&nbsp;10pm </p>",
+            "button-text": "DETAILS & TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.10_ford_alvin_jr_friends",
+            "slug": "no-26-09-10-ford-alvin-jr-friends",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "R&B",
+              "funk fusion",
+              "jazz fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aa2c3e0fa2237a6b47162f6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
