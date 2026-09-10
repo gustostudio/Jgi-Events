@@ -1,12 +1,418 @@
 {
-  "fetchedAt": "2026-09-10T19:56:22.076Z",
+  "fetchedAt": "2026-09-10T22:17:58.980Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2016,
+      "itemCount": 2024,
       "items": [
+        {
+          "id": "6aa319c5935bad6808ce7c67",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:57:41.256Z",
+          "lastUpdated": "2026-09-10T20:57:41.256Z",
+          "createdOn": "2026-09-10T20:57:41.256Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "All Hail The Big Chief! An all-Star Tribute to Big Chief Monk Boudreaux",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3e1e9fce442fae52b0ee02",
+            "start-date": "2026-09-27T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": "<p><strong>All Hail The Big Chief! A Tribute to Big Chief Monk Boudreaux: </strong></p><p>Hosted By Paul Sanchez </p><p>THE&nbsp;GOLDEN&nbsp;EAGLES&nbsp;MARDI&nbsp;GRAS&nbsp;INDIAN&nbsp;BAND&nbsp;</p><p>With Special Guests: The Dirty Dozen Horns, Brian Stoltz, Papa Mali, Johnny Sansone, Joseph Boudreaux Jr., Bo Dollis, Jr., Jwan Boudreaux &amp; Marwan Boudreaux </p><p>Featuring: Aron Lambert, Tom Worrell, Kerry Vessell, Tom McDonald, and Mike Doussan </p><p>‍</p><p>7:30pm Doors </p><p>8:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/all-hail-the-big-chief-tipitinas-tickets/14272144?pl=tipitinas&REFID=website",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3db58d49b3972da8b7b5f0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.26_all_hail_big_chief_monk_boudreaux",
+            "slug": "no-26-09-26-all-hail-big-chief-monk-boudreaux",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Tipitina's",
+            "venue-link": "https://tipitinas.com/",
+            "tags-name": [
+              "New Orleans",
+              "Black American Music",
+              "funk",
+              "funk fusion",
+              "brass",
+              "blues"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa31364664f18eb1edad9ef",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:30:31.205Z",
+          "lastUpdated": "2026-09-10T20:30:31.205Z",
+          "createdOn": "2026-09-10T20:30:28.558Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-09-16T21:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746114379",
+            "tags": [
+              "6a825f250ffe83c819e760a4",
+              "6a724550b5f0805650ff6b38",
+              "6a34485985c35bb1302af3f2"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "Mbongi of Drums",
+            "slug": "mbongi-of-drums-2",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "afrobeat",
+              "drumming workshop",
+              "New Orleans"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa3106e2bfaa0923bada2b7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:17:50.809Z",
+          "lastUpdated": "2026-09-10T20:17:50.809Z",
+          "createdOn": "2026-09-10T20:17:50.809Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gov't Majik Dirty South Afrobeat Arkestra ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-20T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>New Orleans' own <a href=\"https://govtmajik.com/\"><strong>GOV'T&nbsp;MAJIK</strong></a><strong>&nbsp;Dirty South Afrobeat Arkestra </strong></p><p>‍</p><p>Two Sets, One Ticket: </p><p><strong>Sets at 8pm &amp;&nbsp;10pm </strong></p><p>7pm Doors </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a825f250ffe83c819e760a4",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a5409b58a3b83a3eda41c0e",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": {
+              "fileId": "6a825f5b905c4705e6df263a",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a825f5b905c4705e6df263a_Govt-Majik-2026-band.jpg",
+              "alt": null
+            },
+            "name": "no_26.09.19_govt_majik",
+            "slug": "no-26-09-19-govt-majik",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "afrobeat",
+              "funk",
+              "funk fusion",
+              "psych-funk",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa30fc554d810d1bd82ba0e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:15:01.634Z",
+          "lastUpdated": "2026-09-10T20:15:01.634Z",
+          "createdOn": "2026-09-10T20:15:01.634Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Very Good Tuesdays ft. Ari Teitel, Tony Hall, Andriu Yanovski, Deven Truslair +sg ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-16T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Alex Wasily &amp;&nbsp;Ari Teitel present:&nbsp;</p><p><strong>VERY&nbsp;GOOD&nbsp;TUESDAYS </strong></p><p>rotating weekly jam </p><p>‍</p><p><strong>THIS&nbsp;WEEK&nbsp;FEATURING: </strong></p><p>Deven Trusclair - drums </p><p>Tony Hall - bass </p><p>Andriu Yanovski - keys </p><p>Ari Teitel - guitar </p><p>‍</p><p>7pm Doors </p><p><strong>8pm First Set </strong></p><p>10pm Second Set </p><p>‍</p><p>$15 Advance // $20 Door </p><p>21+</p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.15_very_good_tuesdays",
+            "slug": "no-26-09-15-very-good-tuesdays",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa30efdfece8be7ffb6410a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:11:41.855Z",
+          "lastUpdated": "2026-09-10T20:11:41.855Z",
+          "createdOn": "2026-09-10T20:11:41.855Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Organ Hour Trio feat. Joe Ashlar, Stanton Moore, Ari Teitel ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-23T23:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p><strong>HAPPY&nbsp;\"ORGAN\" HOUR&nbsp;</strong>every Wednesday at the Leaf with <strong>Joe Ashlar &amp; Friends </strong></p><p>‍</p><p><strong>This week featuring: </strong></p><p>Joe Ashlar - keys </p><p>Stanton Moore - drums </p><p>Ari Teitel - guitar </p><p>‍</p><p>6pm Doors </p><p><strong>7pm Show </strong></p><p>Sets at 7:00pm &amp; 8:45pm </p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9963026d97ee38790b1"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.23_happy_hour_organ_trio",
+            "slug": "no-26-09-23-happy-hour-organ-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa30eaa0e14344d22056ee6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:10:18.935Z",
+          "lastUpdated": "2026-09-10T20:10:18.935Z",
+          "createdOn": "2026-09-10T20:10:18.935Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Organ Hour Trio feat. Joe Ashlar, Stanton Moore, Chris Adkins ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-16T23:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p><strong>HAPPY&nbsp;\"ORGAN\" HOUR&nbsp;</strong>every Wednesday at the Leaf with <strong>Joe Ashlar &amp; Friends </strong></p><p>‍</p><p><strong>This week featuring: </strong></p><p>Joe Ashlar - keys </p><p>Stanton Moore - drums </p><p>Chris Adkins - guitar </p><p>‍</p><p>6pm Doors </p><p><strong>7pm Show </strong></p><p>Sets at 7:00pm &amp; 8:45pm </p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9963026d97ee38790b1"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.16_happy_hour_organ_trio",
+            "slug": "no-26-09-16-happy-hour-organ-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa30e193bb901681f7eaf0e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:07:53.006Z",
+          "lastUpdated": "2026-09-10T20:07:53.006Z",
+          "createdOn": "2026-09-10T20:07:53.006Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Johnny Vidacovich Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-09-25T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Johnny Vidacovich Trio </strong>each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>‍</p><p><strong>This week's trio with: </strong></p><p>Pat Casey - bass </p><p>Brad Walker - saxophones </p><p>‍</p><p>Two Sets, One Ticket: </p><p><strong>Sets at 8pm &amp; 10pm </strong></p><p>Doors at 7pm </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_09_24_vidacovich_trio",
+            "slug": "no-26-09-24-vidacovich-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "jazz fusion",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aa30d2c38f182fe45e035bb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-10T20:03:56.321Z",
+          "lastUpdated": "2026-09-10T20:03:56.321Z",
+          "createdOn": "2026-09-10T20:03:56.321Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: The Rumble plays P-Funk",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3e1e9fce442fae52b0ee02",
+            "start-date": "2026-09-25T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>NOLAxNOLA &amp;&nbsp;Tipitina's present: </p><p><strong>THE&nbsp;RUMBLE&nbsp;plays P-FUNK </strong></p><p>with special guests: </p><p>Jamison Ross </p><p>Ian Neville </p><p>+&nbsp;More </p><p>‍</p><p>Plus DJ&nbsp;Soul Sister </p><p>‍</p><p>7pm Doors </p><p><strong>8pm Show </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/the-rumble-plays-p-funk-tipitinas-tickets/14290594?pl=tipitinas&REFID=website",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524677"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.24_the_rumble_plays_p-funk",
+            "slug": "no-26-09-24-the-rumble-plays-p-funk",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Tipitina's",
+            "venue-link": "https://tipitinas.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "18+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aa308fcbea295816e63ffcc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -1515,8 +1921,8 @@
         {
           "id": "6a9dd422f90085c11e4937d4",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-06T20:59:14.950Z",
-          "lastUpdated": "2026-09-06T20:59:14.950Z",
+          "lastPublished": "2026-09-10T19:58:01.232Z",
+          "lastUpdated": "2026-09-10T19:58:01.232Z",
           "createdOn": "2026-09-06T20:59:14.950Z",
           "isArchived": false,
           "isDraft": false,
@@ -1527,7 +1933,7 @@
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318eb6a828f23ff56d966f",
             "start-date": "2026-09-15T21:00:00.000Z",
-            "event-time": "5PM - 6M",
+            "event-time": "5PM - 6PM",
             "event-description": "<p>Kick off Hispanic Heritage Month with an unforgettable evening of Latin music at the New Orleans Jazz Museum as <strong>Jafet Perez presents A Tribute to Bad Bunny! </strong>A high-energy celebration of one of the most influential Latin artists of our time.</p><p>Jafet Perez is a Dominican drummer, composer, and producer based in New Orleans whose music bridges the vibrant rhythms of the Caribbean with the rich musical traditions of New Orleans. Known for his dynamic performances and collaborative spirit, he celebrates culture, fosters connection, and inspires audiences through the power of rhythm, creativity, and joy.</p><p>Experience an electrifying tribute to the music, energy, and cultural impact of Bad Bunny while celebrating the diversity and vibrancy of Hispanic Heritage Month.</p><p>‍</p><p>NO COVER </p><p>All Ages </p>",
             "button-text": "DETAILS",
             "button-link": "https://nolajazzmuseum.org/events/2026/9/15/hispanic-heritage-month-el-grito",
