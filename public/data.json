@@ -1,12 +1,66 @@
 {
-  "fetchedAt": "2026-09-15T14:40:08.308Z",
+  "fetchedAt": "2026-09-15T17:11:27.048Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2198,
+      "itemCount": 2199,
       "items": [
+        {
+          "id": "6aa9642a10d73296271aafc9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-15T15:28:42.244Z",
+          "lastUpdated": "2026-09-15T15:28:42.244Z",
+          "createdOn": "2026-09-15T15:28:42.244Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Boma Bango + The Tropicales (Double Record Release) ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3190743031319c406e4e1a",
+            "start-date": "2026-09-19T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><strong><em>“It’s not hard to imagine an only slightly alternate world in which a brand of rumba took root and flourished in the heart of Acadiana, just as it did in Africa in the heart of the Congo” </em>(<em>OffBeat Magazine</em>, Steve Hochman, Sept 2021), which is indeed the world that Lafayette/New Orleans based Boma Bango has created. Boma Bango takes the hypnotic, reverb drenched, tremolo-ed electric guitar heavy music from the 1960s in the Congo and reimagines it as if it came out of some humid outdoor bar in Southwest Louisiana.</strong></p><p>Boma Bango formed after Daniel Coolik became infatuated with <strong>1950s and 1960s Congolese Rumba. </strong>A music originally influenced by Cuban records from the 1930s and 40s and infused with melodies and instruments from the Congo. The ensemble, by taking musical cues from Congolese luminaries as Franco Luambo Makiadi &amp; le TPOK Jazz, L’Orchestra African Fiesta with Docteur Nico and Tabu Ley Rochereau, and Le Grand Kallé et l’African Jazz, has strived to create <strong>their own kind of improvisational music based upon the sounds from this golden age. </strong>Connecting with the <strong>Francophone ties</strong> of Congolese music and Louisiana French, they have been writing new songs in Louisiana French to further deepen their connection with the music and their local culture. </p><p>The band was started in 2018 and currently consists of a collective of musicians from Lafayette and New Orleans. The band is <strong>Daniel Coolik </strong>(electric guitar), <strong>Trey Boudreaux </strong>(bass), <strong>Megan Brown Constantin</strong> (vocals/percussion), <strong>Doug Garrison</strong> (drums), <strong>César Bacaro</strong> (congas/percussion), <strong>Tim McFatter</strong> (saxophones) and is often augmented with <strong>Jafet Pérez</strong> (drums/percussion), <strong>Aurora Nealand </strong>(saxophones), or <strong>Brad Webb</strong> (drums).</p><p>Tonight, BOMA&nbsp;BANGO&nbsp;presents the release of their new recording, <strong><em>\"On Va Voir\" </em></strong>!&nbsp;</p><p>‍</p><p>AND, tonight is a double-header co-billed with <strong>Charlie &amp; The Tropicales</strong>, also presenting their new album,<strong><em> \"New Orleans '26\"</em></strong> !&nbsp;</p><p>‍</p><p>8pm Doors </p><p><strong>9pm Show </strong></p><p>$15 </p><p>‍</p><p><strong><em>CASH&nbsp;ONLY</em></strong> </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.facebook.com/bomabangoband/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a544b7dbed6c6d576f29300",
+              "6aa962a9462ecd9abcfde3d4",
+              "6aa962bfe4951717245e17ea",
+              "6aa962ce06bf54cb126832d4",
+              "6aa962e0cf9ae404593c4ff6"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.18_boma_bango_vaughans",
+            "slug": "no-26-09-18-boma-bango-vaughans",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Vaughan's Lounge",
+            "venue-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags-name": [
+              "New Orleans",
+              "tropicalia",
+              "son",
+              "Louisiana Roots Music",
+              "Congolese",
+              "rumba"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aa94de9747ca4d484303e89",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
