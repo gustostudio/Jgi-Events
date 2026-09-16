@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T18:42:56.717Z",
+  "fetchedAt": "2026-09-16T20:20:04.230Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -5413,13 +5413,13 @@
         {
           "id": "6aa569335d98135219c62eeb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-14T07:45:09.283Z",
-          "lastUpdated": "2026-09-12T15:03:51.647Z",
+          "lastPublished": "2026-09-16T19:10:49.398Z",
+          "lastUpdated": "2026-09-16T19:10:49.398Z",
           "createdOn": "2026-09-12T15:01:07.538Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Selendis Big Band presents Cal Massey’s 'Black Liberation Suite' + Bomba + Caroline Davis + Brandon López + Tongo Eisen-Martin",
+            "event-title": "Selendis Big Band presents Cal Massey’s 'Black Liberation Movement Suite' + Bomba + Caroline Davis + Brandon López + Tongo Eisen-Martin",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -19713,13 +19713,13 @@
         {
           "id": "6a85ff7cb565b546d0ef9838",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-22T05:30:48.462Z",
-          "lastUpdated": "2026-08-19T19:10:18.029Z",
+          "lastPublished": "2026-09-16T19:11:10.134Z",
+          "lastUpdated": "2026-09-16T19:11:10.134Z",
           "createdOn": "2026-08-19T19:09:48.924Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "\"John Coltrane: A Centennial Tribute to a Musical Legend\" with the James Carter Quintet",
+            "event-title": "John Coltrane: A Centennial Tribute to a Musical Legend with the James Carter Quintet",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
