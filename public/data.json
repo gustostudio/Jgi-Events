@@ -1,12 +1,58 @@
 {
-  "fetchedAt": "2026-09-17T00:46:15.832Z",
+  "fetchedAt": "2026-09-17T03:48:33.600Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2199,
+      "itemCount": 2200,
       "items": [
+        {
+          "id": "6aab59c9e0ad1def564fbda5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-17T03:09:00.543Z",
+          "lastUpdated": "2026-09-17T03:09:00.543Z",
+          "createdOn": "2026-09-17T03:08:57.888Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a137dfbef532a5e2f39f34b",
+            "start-date": "2026-09-23T21:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746094319",
+            "tags": [
+              "6a825f250ffe83c819e760a4",
+              "6a724550b5f0805650ff6b38"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "Mbongi of Drums",
+            "slug": "mbongi-of-drums-0000j",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's Episcopal Church",
+            "venue-link": "https://stlukesneworleans.org/",
+            "tags-name": [
+              "afrobeat",
+              "drumming workshop"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aa9642a10d73296271aafc9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
