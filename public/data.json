@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T03:48:33.600Z",
+  "fetchedAt": "2026-09-17T07:54:29.441Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7970,13 +7970,13 @@
         {
           "id": "6aa1c94faa3b7534ff553913",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-14T07:45:09.283Z",
-          "lastUpdated": "2026-09-13T15:17:27.333Z",
+          "lastPublished": "2026-09-17T03:59:56.498Z",
+          "lastUpdated": "2026-09-17T03:59:56.498Z",
           "createdOn": "2026-09-09T21:02:07.414Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Sunday Sounds with Brandon López and Mat Maneri",
+            "event-title": "Sunday Sounds with Jules Gardener, Matt Moran and Michaël Attias + Brandon López and Mat Maneri",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -7988,8 +7988,8 @@
             "button-link": null,
             "tags": null,
             "thumbnail": null,
-            "name": "ny_2026.09.13_lopez",
-            "slug": "ny-2026-09-13-lopez",
+            "name": "ny_2026.09.20_lopez",
+            "slug": "ny-2026-09-20-lopez",
             "city-name": "NYC",
             "venue-name": "Peace Cafe",
             "venue-link": "https://peacecafe.nyc/"
