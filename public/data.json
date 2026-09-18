@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-09-18T09:25:07.774Z",
+  "fetchedAt": "2026-09-18T14:08:48.423Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2200,
+      "itemCount": 2202,
       "items": [
+        {
+          "id": "6aad24601de7d6e398ae5672",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-18T11:49:23.111Z",
+          "lastUpdated": "2026-09-18T11:49:23.111Z",
+          "createdOn": "2026-09-18T11:45:36.258Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Building Creative Futures with Marcus J. Moore + Jeffrey Zeigler + No Land, Luke Stewart and Daniel Carter + Dick Griffin + 'Sun Ra: Door of the Cosmos' (screening)",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ffdb68c49ff6b51abac51",
+            "start-date": "2026-09-20T15:00:00.000Z",
+            "event-time": "11AM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.20_sunradoc",
+            "slug": "ny-2026-09-20-sunradoc",
+            "city-name": "NYC",
+            "venue-name": "National Sawdust",
+            "venue-link": "https://www.nationalsawdust.org/"
+          }
+        },
+        {
+          "id": "6aad22f5a8c6494f67a21457",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-18T11:39:35.057Z",
+          "lastUpdated": "2026-09-18T11:39:35.057Z",
+          "createdOn": "2026-09-18T11:39:33.304Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Praise Day for David Henderson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6aa5609167c9f6de9848886c",
+            "start-date": "2026-09-19T17:00:00.000Z",
+            "event-time": "1PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.19_henderson",
+            "slug": "ny-2026-09-19-henderson",
+            "city-name": "NYC",
+            "venue-name": "St. Mark’s Church",
+            "venue-link": "https://www.poetryproject.org"
+          }
+        },
         {
           "id": "6aab59c9e0ad1def564fbda5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
