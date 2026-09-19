@@ -1,12 +1,1217 @@
 {
-  "fetchedAt": "2026-09-19T17:48:44.372Z",
+  "fetchedAt": "2026-09-19T19:27:41.114Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2216,
+      "itemCount": 2241,
       "items": [
+        {
+          "id": "6aaedab1188600ff4a911850",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:55:45.871Z",
+          "lastUpdated": "2026-09-19T18:55:45.871Z",
+          "createdOn": "2026-09-19T18:55:45.871Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Andrew Baham",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-16T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Andrew Baham</strong> leads the <strong>Preservation Hall All-Stars</strong> band for 4 separate ticketed 45-Minute sets. </p><p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.16_baham_andrew_PHAS",
+            "slug": "no-26-10-16-baham-andrew-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaeda23b5558e4668ebe6bd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:53:23.655Z",
+          "lastUpdated": "2026-09-19T18:53:23.655Z",
+          "createdOn": "2026-09-19T18:53:23.655Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Aurélien Barnes ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-25T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Aurélien Barnes</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.25_barnes_aurelien_PHAS",
+            "slug": "no-26-10-25-barnes-aurelien-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed9f0146a330691dbf2d8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:52:32.712Z",
+          "lastUpdated": "2026-09-19T18:52:32.712Z",
+          "createdOn": "2026-09-19T18:52:32.712Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Aurélien Barnes ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-09T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Aurélien Barnes</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.09_barnes_aurelien_PHAS",
+            "slug": "no-26-10-09-barnes-aurelien-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed8413ae8f604b0fe47b8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:45:21.341Z",
+          "lastUpdated": "2026-09-19T18:45:21.341Z",
+          "createdOn": "2026-09-19T18:45:21.341Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-31T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Legacy Band for 2 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation Hall Legacy Band</strong> for an afternoon of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 2:30pm &amp;3:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.31_brunious_wendell_PHLB",
+            "slug": "no-26-10-31-brunious-wendell-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed828fdfd853b3d94c621",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:44:56.739Z",
+          "lastUpdated": "2026-09-19T18:44:56.739Z",
+          "createdOn": "2026-09-19T18:44:56.739Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-24T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Legacy Band for 2 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation Hall Legacy Band</strong> for an afternoon of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 2:30pm &amp;3:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.24_brunious_wendell_PHLB",
+            "slug": "no-26-10-24-brunious-wendell-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed815307b5ad36efef270",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:44:37.432Z",
+          "lastUpdated": "2026-09-19T18:44:37.432Z",
+          "createdOn": "2026-09-19T18:44:37.432Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-17T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Legacy Band for 2 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation Hall Legacy Band</strong> for an afternoon of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 2:30pm &amp;3:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.17_brunious_wendell_PHLB",
+            "slug": "no-26-10-17-brunious-wendell-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed7eceb9437744ae0f91c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:43:56.934Z",
+          "lastUpdated": "2026-09-19T18:43:56.934Z",
+          "createdOn": "2026-09-19T18:43:56.934Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-10T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Legacy Band for 2 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation Hall Legacy Band</strong> for an afternoon of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 2:30pm &amp;3:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.10_brunious_wendell_PHLB",
+            "slug": "no-26-10-10-brunious-wendell-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed39200a522b95e9192ce",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:25:22.601Z",
+          "lastUpdated": "2026-09-19T18:25:22.601Z",
+          "createdOn": "2026-09-19T18:25:22.601Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-23T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Mark Braud</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Join <strong>Mark Braud </strong>and his <strong>Preservation All-Stars </strong>for an evening of Traditional New Orleans Music.</p><p>Born in 1973 into the musical <strong>Brunious</strong> and <strong>Santiago</strong> families,<strong> Mark Braud</strong> always wanted to be an entertainer. At age twelve, <strong>his uncle Wendell Brunious</strong> gave Braud a cornet, and soon after that he began playing jazz with <strong>Nicholas Payton</strong>. He recalls,<em> “I had always listened to my uncles and my grandfather [composer/trumpeter John ‘Picket’ Brunious Sr.]. . . . But when I started meeting younger guys who were into music, it was an inspiration for me to play jazz and get more into listening to records.”</em> Braud started his career with the <strong>Olympia Kids</strong>, an offshoot of the Olympia Brass Band for younger musicians, and soon began gigging, recording, and touring with New Orleans legends, including the Original Tuxedo Jazz Band, Eddie Bo, Henry Butler, Harry Connick Jr., and Dr. Michael White.</p><p>Braud began playing at the Hall when he was thirty-four, and he says a lot of people comment on how young he is. “But at some point,” says Braud, “all the other guys were young, too.” Still, the talk around the Hall is that Braud has filled his uncle John’s spot with the grace of a much older gentleman. He even tells “old man jokes.” Hall director Ben Jaffe notes, <em>“His uncles, Wendell Brunious and the late John Brunious, were both leaders of the Preservation Hall Band. . . . Mark recorded a wonderful tribute to his grandfather, ‘Hot Sausage Rag,’ a compilation of his grandfather’s compositions.”</em></p><p>‍</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.23_braud_mark_PHAS",
+            "slug": "no-26-10-23-braud-mark-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed3718838d4640a419841",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:24:49.352Z",
+          "lastUpdated": "2026-09-19T18:24:49.352Z",
+          "createdOn": "2026-09-19T18:24:49.352Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Mark Braud",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-02T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Mark Braud</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>Join <strong>Mark Braud </strong>and his <strong>Preservation All-Stars </strong>for an evening of Traditional New Orleans Music.</p><p>Born in 1973 into the musical <strong>Brunious</strong> and <strong>Santiago</strong> families,<strong> Mark Braud</strong> always wanted to be an entertainer. At age twelve, <strong>his uncle Wendell Brunious</strong> gave Braud a cornet, and soon after that he began playing jazz with <strong>Nicholas Payton</strong>. He recalls,<em> “I had always listened to my uncles and my grandfather [composer/trumpeter John ‘Picket’ Brunious Sr.]. . . . But when I started meeting younger guys who were into music, it was an inspiration for me to play jazz and get more into listening to records.”</em> Braud started his career with the <strong>Olympia Kids</strong>, an offshoot of the Olympia Brass Band for younger musicians, and soon began gigging, recording, and touring with New Orleans legends, including the Original Tuxedo Jazz Band, Eddie Bo, Henry Butler, Harry Connick Jr., and Dr. Michael White.</p><p>Braud began playing at the Hall when he was thirty-four, and he says a lot of people comment on how young he is. “But at some point,” says Braud, “all the other guys were young, too.” Still, the talk around the Hall is that Braud has filled his uncle John’s spot with the grace of a much older gentleman. He even tells “old man jokes.” Hall director Ben Jaffe notes, <em>“His uncles, Wendell Brunious and the late John Brunious, were both leaders of the Preservation Hall Band. . . . Mark recorded a wonderful tribute to his grandfather, ‘Hot Sausage Rag,’ a compilation of his grandfather’s compositions.”</em></p><p>‍</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_braud_mark_PHAS",
+            "slug": "no-26-10-02-braud-mark-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed297332cb149ee45302c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:21:11.630Z",
+          "lastUpdated": "2026-09-19T18:21:11.630Z",
+          "createdOn": "2026-09-19T18:21:11.630Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-29T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation All-Stars</strong> for an evening of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.29_brunious_wendell_PHAS",
+            "slug": "no-26-10-29-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed27f24518d980769dd77",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:20:47.512Z",
+          "lastUpdated": "2026-09-19T18:20:47.512Z",
+          "createdOn": "2026-09-19T18:20:47.512Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-22T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation All-Stars</strong> for an evening of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.22_brunious_wendell_PHAS",
+            "slug": "no-26-10-22-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed26ef92678907ecfaffb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:20:30.706Z",
+          "lastUpdated": "2026-09-19T18:20:30.706Z",
+          "createdOn": "2026-09-19T18:20:30.706Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-15T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation All-Stars</strong> for an evening of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.15_brunious_wendell_PHAS",
+            "slug": "no-26-10-15-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed25bf0e1dfdaf98df1ec",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:20:11.557Z",
+          "lastUpdated": "2026-09-19T18:20:11.557Z",
+          "createdOn": "2026-09-19T18:20:11.557Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-08T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation All-Stars</strong> for an evening of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.08_brunious_wendell_PHAS",
+            "slug": "no-26-10-08-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed245bf04139843116f9e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:19:49.270Z",
+          "lastUpdated": "2026-09-19T18:19:49.270Z",
+          "createdOn": "2026-09-19T18:19:49.270Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Wendell Brunious",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-01T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Wendell Brunious</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Join <strong>Wendell Brunious </strong>and his <strong>Preservation All-Stars</strong> for an evening of Traditional New Orleans Music.</p><p>Trumpeter and vocalist <strong>Wendell Brunious</strong> boasts a towering musical family tree primarily flowered with trumpets. He is the son of trumpet master John “Picket” (or “Picky”) Brunious Sr. and Nazimova “Chinee” Santiago, the niece of guitarist/banjoist Willie Santiago.</p><p>Brunious believes what’s considered the <strong>“Brunious sound” </strong>all began with his father’s influence. <em>“When my father first started to develop as a trumpet player was in an era before amplification, so you had to play loud enough to hear yourself and to be heard in the band. I kind of think that’s where what some people call the Brunious sound kind of started. That ‘sound’ is being able to interpret ballads when you are also trying to hear the actual words coming out of the end of the trumpet. What was important was the tone, playing in tune, and being able to play nice ballads—not just fast stuff. My daddy used to say this: ‘If you don’t know the melody, you don’t know the song. ‘Bourbon Street Parade,’ ‘Paul Barbarin’s Second Line,’ ‘Hold that Tiger’ and a million other songs have the same form but what segregates the tunes is the melody.”</em></p><p>The talented and dedicated Wendell Brunious credits some of his early development to having worked with the <strong>Olympia Brass Band </strong>under the direction of his cousin, bandleader/saxophonist <strong>Harold Dejan.</strong> Extremely knowledgeable in the music’s tradition and history, Brunious enjoys sprinkling his conversation with advisory quotes from his father and other artists who have crossed his musical path through his decades-long career.</p><p>‍</p><p><strong>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </strong></p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_brunious_wendell_PHAS",
+            "slug": "no-26-10-01-brunious-wendell-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed171bf04139843114708",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:16:17.619Z",
+          "lastUpdated": "2026-09-19T18:16:17.619Z",
+          "createdOn": "2026-09-19T18:16:17.619Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Branden Lewis",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-28T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Branden Lewis</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p><strong>Branden Lewis</strong> was raised playing trumpet: in church, in his school marching bands, and one of the top youth orchestras in Los Angeles. <em>“I have music in my heart and soul. I never planned on playing music for a living – I just always loved playing the trumpet.” </em><strong>His grandfather</strong> <strong>James Victor Lewis</strong> is a Grammy award-winning saxophone player, famous for his role in one of New Orleans’ most iconic early R&amp;B bands, <strong>Lil Millet and His Creoles</strong>. <em>“He moved to Los Angeles around 1960 in an attempt to escape some of the bitter realities of being a Black man in Louisiana at that time. Even though I grew up in Los Angeles, Grandpa never let us forget that we were from New Orleans.”</em></p><p>In <strong>2012</strong> Branden moved to New Orleans to discover a career as a full-time musician, and was immediately taken under the wing of <strong>Delfeayo Marsalis</strong>, performing with him at Frenchmen Street’s “modern jazz proving ground” – <strong>Snug Harbor.</strong> Since recording on <strong>Bobby Rush</strong>’s 2014 Grammy-nominated record with <strong>Dr. John</strong>, <strong><em>\"Decisions,\"</em></strong><em> </em>co-founding the international <strong>Trumpet Mafia</strong> collective with Ashlin Parker, touring with the New Orleans Jazz Orchestra; recording his first album as a bandleader –<strong><em> \"BLQ\"</em></strong> – and joining the Preservation Hall Jazz Band in <strong>2016</strong>, he has collaborated and performed alongside Stevie Wonder, Dee Dee Bridgewater, Arcade Fire, Chance the Rapper, Jon Batiste, Reggie Watts, Dave Matthews, Corinne Bailey Rae, Foo Fighters and many more.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_lewis_branden_PHAS",
+            "slug": "no-26-10-28-lewis-branden-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaed157f661aa2fdf9d64dd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:15:51.324Z",
+          "lastUpdated": "2026-09-19T18:15:51.324Z",
+          "createdOn": "2026-09-19T18:15:51.324Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall All-Stars feat. Branden Lewis",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-14T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Branden Lewis</strong> leads the Preservation Hall All-Stars band for 4 separate ticketed 45-Minute sets. </p><p><strong>Branden Lewis</strong> was raised playing trumpet: in church, in his school marching bands, and one of the top youth orchestras in Los Angeles. <em>“I have music in my heart and soul. I never planned on playing music for a living – I just always loved playing the trumpet.” </em><strong>His grandfather</strong> <strong>James Victor Lewis</strong> is a Grammy award-winning saxophone player, famous for his role in one of New Orleans’ most iconic early R&amp;B bands, <strong>Lil Millet and His Creoles</strong>. <em>“He moved to Los Angeles around 1960 in an attempt to escape some of the bitter realities of being a Black man in Louisiana at that time. Even though I grew up in Los Angeles, Grandpa never let us forget that we were from New Orleans.”</em></p><p>In <strong>2012</strong> Branden moved to New Orleans to discover a career as a full-time musician, and was immediately taken under the wing of <strong>Delfeayo Marsalis</strong>, performing with him at Frenchmen Street’s “modern jazz proving ground” – <strong>Snug Harbor.</strong> Since recording on <strong>Bobby Rush</strong>’s 2014 Grammy-nominated record with <strong>Dr. John</strong>, <strong><em>\"Decisions,\"</em></strong><em> </em>co-founding the international <strong>Trumpet Mafia</strong> collective with Ashlin Parker, touring with the New Orleans Jazz Orchestra; recording his first album as a bandleader –<strong><em> \"BLQ\"</em></strong> – and joining the Preservation Hall Jazz Band in <strong>2016</strong>, he has collaborated and performed alongside Stevie Wonder, Dee Dee Bridgewater, Arcade Fire, Chance the Rapper, Jon Batiste, Reggie Watts, Dave Matthews, Corinne Bailey Rae, Foo Fighters and many more.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.14_lewis_branden_PHAS",
+            "slug": "no-26-10-14-lewis-branden-phas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecfbe188600ff4a8f3459",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:09:02.799Z",
+          "lastUpdated": "2026-09-19T18:09:02.799Z",
+          "createdOn": "2026-09-19T18:09:02.799Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Brass",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-26T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Preservation Hall's house brass band holds down their Monday night residency each and every Monday as <strong>Preservation Brass.</strong></p><p><strong>Following in the footsteps of the great Dejan’s Olympia Brass Band</strong>, The Preservation Brass is the resident brass band of New Orleans most treasured jazz venue, Preservation Hall. &nbsp;Comprised of members of some of New Orleans’ finest brass band performers, this All-Star brass band lineup tours worldwide spreading the musical gospel of New Orleans’ unique musical and cultural heritage. &nbsp;Led by renowned trumpeter <strong>Mark Braud</strong>, and featuring members such as <strong>Kevin Louis</strong>, <strong>Roderick \"Reverand\" Paulin</strong> and more, the Brass’ repertoire spans from traditional New Orleans classics, spirituals, and the hard-hitting marching tunes heard in New Orleans parades.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets and early arrivals are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.26_preservation_brass",
+            "slug": "no-26-10-26-preservation-brass",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "brass band",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecfaba1d07fe4b40e2df9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:08:43.387Z",
+          "lastUpdated": "2026-09-19T18:08:43.387Z",
+          "createdOn": "2026-09-19T18:08:43.387Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Brass",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-19T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Preservation Hall's house brass band holds down their Monday night residency each and every Monday as <strong>Preservation Brass.</strong></p><p><strong>Following in the footsteps of the great Dejan’s Olympia Brass Band</strong>, The Preservation Brass is the resident brass band of New Orleans most treasured jazz venue, Preservation Hall. &nbsp;Comprised of members of some of New Orleans’ finest brass band performers, this All-Star brass band lineup tours worldwide spreading the musical gospel of New Orleans’ unique musical and cultural heritage. &nbsp;Led by renowned trumpeter <strong>Mark Braud</strong>, and featuring members such as <strong>Kevin Louis</strong>, <strong>Roderick \"Reverand\" Paulin</strong> and more, the Brass’ repertoire spans from traditional New Orleans classics, spirituals, and the hard-hitting marching tunes heard in New Orleans parades.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets and early arrivals are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.19_preservation_brass",
+            "slug": "no-26-10-19-preservation-brass",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "brass band",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecf966694a15782ef97c1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:08:22.727Z",
+          "lastUpdated": "2026-09-19T18:08:22.727Z",
+          "createdOn": "2026-09-19T18:08:22.727Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Brass",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-12T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Preservation Hall's house brass band holds down their Monday night residency each and every Monday as <strong>Preservation Brass.</strong></p><p><strong>Following in the footsteps of the great Dejan’s Olympia Brass Band</strong>, The Preservation Brass is the resident brass band of New Orleans most treasured jazz venue, Preservation Hall. &nbsp;Comprised of members of some of New Orleans’ finest brass band performers, this All-Star brass band lineup tours worldwide spreading the musical gospel of New Orleans’ unique musical and cultural heritage. &nbsp;Led by renowned trumpeter <strong>Mark Braud</strong>, and featuring members such as <strong>Kevin Louis</strong>, <strong>Roderick \"Reverand\" Paulin</strong> and more, the Brass’ repertoire spans from traditional New Orleans classics, spirituals, and the hard-hitting marching tunes heard in New Orleans parades.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets and early arrivals are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.12_preservation_brass",
+            "slug": "no-26-10-12-preservation-brass",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "brass band",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecf7f6694a15782ef948c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:07:59.763Z",
+          "lastUpdated": "2026-09-19T18:07:59.763Z",
+          "createdOn": "2026-09-19T18:07:59.763Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Brass",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-05T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Preservation Hall's house brass band holds down their Monday night residency each and every Monday as <strong>Preservation Brass.</strong></p><p><strong>Following in the footsteps of the great Dejan’s Olympia Brass Band</strong>, The Preservation Brass is the resident brass band of New Orleans most treasured jazz venue, Preservation Hall. &nbsp;Comprised of members of some of New Orleans’ finest brass band performers, this All-Star brass band lineup tours worldwide spreading the musical gospel of New Orleans’ unique musical and cultural heritage. &nbsp;Led by renowned trumpeter <strong>Mark Braud</strong>, and featuring members such as <strong>Kevin Louis</strong>, <strong>Roderick \"Reverand\" Paulin</strong> and more, the Brass’ repertoire spans from traditional New Orleans classics, spirituals, and the hard-hitting marching tunes heard in New Orleans parades.</p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets and early arrivals are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.05_preservation_brass",
+            "slug": "no-26-10-05-preservation-brass",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "brass band",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaece8560ae4e81d99dcdbb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:03:49.760Z",
+          "lastUpdated": "2026-09-19T18:03:49.760Z",
+          "createdOn": "2026-09-19T18:03:49.760Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leroy Jones & The Preservation Jazz Masters ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-25T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>THIS&nbsp;AFTERNOON, the &nbsp;Preservation Hall Legacy Band performs 2 special sets with renowned New Orleans trumpeter, <strong>Leroy Jones,</strong> as part of the NOLAxNOLA&nbsp;citywide Fall festival of New Orleans music venues. </p><p>‍</p><p>Join <strong>Leroy Jones</strong> and the <strong>Preservation Jazz Masters</strong> for an evening of Traditional New Orleans Music: </p><p>Born in 1958, trumpeter <strong>Leroy Jones</strong> was raised in New Orleans’s Seventh Ward. He started playing cornet at St. Leo the Great Elementary School and soon got a trumpet. When he was twelve, his neighbor Danny Barker heard him practicing and recruited him for the Fairview Baptist Church Band, which Jones later led. Sometimes after finishing Fairview gigs in the French Quarter, Jones and his bandmates would stop by Preservation Hall to listen.</p><p>Jones went on to play with Harry Connick Jr. and His Orchestra and become a member of the New Orleans Jazz Hall of Fame. Trumpeter and composer Terence Blanchard remembers growing up around Jones: “He was the guy that was well ahead of his time. He played with a command and maturity that is still unmatched. When I listened to him play I always imagined myself having that tone, or his sense of phrasing, and definitely his sense of rhythm. He was and still is my hero.” These days, when he’s not on tour, Jones leads his own band at the Hall each week, delighting audiences with his impeccable technique, modern swing, and warm, gentle voice. He is married to Hall trombonist Katja Toivola.</p><p>‍</p><p><strong>SHOWTIMES:&nbsp;</strong></p><p>2:30pm &amp; 3:45pm</p><p>All Ages </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/events/nolaxnola-the-preservation-all-stars-ft-leroy-jones/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.25_preservation_hall_with_leroy_jones",
+            "slug": "no-26-10-25-preservation-hall-with-leroy-jones",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "jazz fusion",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaece7476e3d9acaded2742",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:03:32.400Z",
+          "lastUpdated": "2026-09-19T18:03:32.400Z",
+          "createdOn": "2026-09-19T18:03:32.400Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leroy Jones & The Preservation Jazz Masters ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-18T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>THIS&nbsp;AFTERNOON, the &nbsp;Preservation Hall Legacy Band performs 2 special sets with renowned New Orleans trumpeter, <strong>Leroy Jones,</strong> as part of the NOLAxNOLA&nbsp;citywide Fall festival of New Orleans music venues. </p><p>‍</p><p>Join <strong>Leroy Jones</strong> and the <strong>Preservation Jazz Masters</strong> for an evening of Traditional New Orleans Music: </p><p>Born in 1958, trumpeter <strong>Leroy Jones</strong> was raised in New Orleans’s Seventh Ward. He started playing cornet at St. Leo the Great Elementary School and soon got a trumpet. When he was twelve, his neighbor Danny Barker heard him practicing and recruited him for the Fairview Baptist Church Band, which Jones later led. Sometimes after finishing Fairview gigs in the French Quarter, Jones and his bandmates would stop by Preservation Hall to listen.</p><p>Jones went on to play with Harry Connick Jr. and His Orchestra and become a member of the New Orleans Jazz Hall of Fame. Trumpeter and composer Terence Blanchard remembers growing up around Jones: “He was the guy that was well ahead of his time. He played with a command and maturity that is still unmatched. When I listened to him play I always imagined myself having that tone, or his sense of phrasing, and definitely his sense of rhythm. He was and still is my hero.” These days, when he’s not on tour, Jones leads his own band at the Hall each week, delighting audiences with his impeccable technique, modern swing, and warm, gentle voice. He is married to Hall trombonist Katja Toivola.</p><p>‍</p><p><strong>SHOWTIMES:&nbsp;</strong></p><p>2:30pm &amp; 3:45pm</p><p>All Ages </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/events/nolaxnola-the-preservation-all-stars-ft-leroy-jones/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.18_preservation_hall_with_leroy_jones",
+            "slug": "no-26-10-18-preservation-hall-with-leroy-jones",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "jazz fusion",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaece53efd182c8cdd1b5be",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T18:02:59.920Z",
+          "lastUpdated": "2026-09-19T18:02:59.920Z",
+          "createdOn": "2026-09-19T18:02:59.920Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leroy Jones & The Preservation Jazz Masters ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-11T18:30:00.000Z",
+            "event-time": "2:30PM & 3:45PM",
+            "event-description": "<p>Preservation Hall presents intimate acoustic concerts featuring ensembles from a current collective of 60+ local master Traditional New Orleans Jazz practitioners. These master musicians have learned the traditional style from the greats that played before them at Preservation Hall. With a line-up changing nightly, the Preservation All Stars provide an ever-evolving take on the New Orleans Jazz tradition.</p><p>THIS&nbsp;AFTERNOON, the &nbsp;Preservation Hall Legacy Band performs 2 special sets with renowned New Orleans trumpeter, <strong>Leroy Jones,</strong> as part of the NOLAxNOLA&nbsp;citywide Fall festival of New Orleans music venues. </p><p>‍</p><p>Join <strong>Leroy Jones</strong> and the <strong>Preservation Jazz Masters</strong> for an evening of Traditional New Orleans Music: </p><p>Born in 1958, trumpeter <strong>Leroy Jones</strong> was raised in New Orleans’s Seventh Ward. He started playing cornet at St. Leo the Great Elementary School and soon got a trumpet. When he was twelve, his neighbor Danny Barker heard him practicing and recruited him for the Fairview Baptist Church Band, which Jones later led. Sometimes after finishing Fairview gigs in the French Quarter, Jones and his bandmates would stop by Preservation Hall to listen.</p><p>Jones went on to play with Harry Connick Jr. and His Orchestra and become a member of the New Orleans Jazz Hall of Fame. Trumpeter and composer Terence Blanchard remembers growing up around Jones: “He was the guy that was well ahead of his time. He played with a command and maturity that is still unmatched. When I listened to him play I always imagined myself having that tone, or his sense of phrasing, and definitely his sense of rhythm. He was and still is my hero.” These days, when he’s not on tour, Jones leads his own band at the Hall each week, delighting audiences with his impeccable technique, modern swing, and warm, gentle voice. He is married to Hall trombonist Katja Toivola.</p><p>‍</p><p><strong>SHOWTIMES:&nbsp;</strong></p><p>2:30pm &amp; 3:45pm</p><p>All Ages </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/events/nolaxnola-the-preservation-all-stars-ft-leroy-jones/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.11_preservation_hall_with_leroy_jones",
+            "slug": "no-26-10-11-preservation-hall-with-leroy-jones",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "jazz fusion",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecc9b6f7fc58f0e1ef41d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T17:56:00.419Z",
+          "lastUpdated": "2026-09-19T17:56:00.419Z",
+          "createdOn": "2026-09-19T17:55:39.882Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Gregg Stafford",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-18T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Gregg Stafford</strong> leads the Preservation Hall Legacy Band for 4 separate ticketed 45-Minute sets. </p><p>‍</p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.18_stafford_gregg_PHLB",
+            "slug": "no-26-10-18-stafford-gregg-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaecc6576e3d9acadecc84b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-19T17:54:45.424Z",
+          "lastUpdated": "2026-09-19T17:54:45.424Z",
+          "createdOn": "2026-09-19T17:54:45.424Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Preservation Hall Legacy Band feat. Gregg Stafford",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318f2aaf8c17900974089f",
+            "start-date": "2026-10-04T21:00:00.000Z",
+            "event-time": "5:00PM - 8:45PM",
+            "event-description": "<p>Renowned New Orleans trumpeter <strong>Gregg Stafford</strong> leads the Preservation Hall Legacy Band for 4 separate ticketed 45-Minute sets. </p><p>Sets at 5:00pm, 6:15pm, 7:30pm, and 8:45pm </p><p>‍</p><p>Seating is very limited, so advance tickets are strongly suggested. Admission is All Ages. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.preservationhall.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_stafford_gregg_PHLB",
+            "slug": "no-26-10-04-stafford-gregg-phlb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Preservation Hall",
+            "venue-link": "https://www.preservationhall.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aae77502afee1100d1bc7e2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
