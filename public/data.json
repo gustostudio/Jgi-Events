@@ -1,12 +1,277 @@
 {
-  "fetchedAt": "2026-09-20T19:38:19.324Z",
+  "fetchedAt": "2026-09-20T22:13:54.869Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2293,
+      "itemCount": 2298,
       "items": [
+        {
+          "id": "6ab049589860715ea71ffeae",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T21:00:08.248Z",
+          "lastUpdated": "2026-09-20T21:00:08.248Z",
+          "createdOn": "2026-09-20T21:00:08.248Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Alexis & The Sanity + Aurora Nealand's Micro-Monocle",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a6ff46d6603b394b4d35656",
+            "start-date": "2026-10-04T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>A NOLAxNOLA special double-header featuring:&nbsp;</p><p><strong>ALEXIS&nbsp;&amp;&nbsp;THE&nbsp;SANITY&nbsp;</strong></p><p>plus </p><p><strong>AURORA&nbsp;NEALAND's MICRO-MONOCLE&nbsp;</strong></p><p>‍</p><p>8pm Doors </p><p><strong>9pm Show </strong></p><p>21+</p><p>‍</p><p>$10 Advance // $15 Door </p>",
+            "button-text": "TICKETS ",
+            "button-link": "https://events.ticketleap.com/tickets/carrolltonstation/alexis-the-sanity-aurora-nealand-s-micro-monocle",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6aa962bfe4951717245e17ea",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6a38d42dce24c9008ae4c85a",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc3b0493eb9ffc794a7f6",
+              "6aa79b17a68826156af2eb3d",
+              "6aa79b3e45bdcf809870ee27"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_aurora_and_alexis",
+            "slug": "no-26-10-03-aurora-and-alexis",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Carrollton Station",
+            "venue-link": "https://www.carrolltonstationnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "Louisiana Roots Music",
+              "experimental jazz",
+              "free jazz",
+              "contemporary jazz",
+              "folk",
+              "Cajun Music ",
+              "Electro-Cajun"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab0480b6bc167275a686536",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T20:54:39.956Z",
+          "lastUpdated": "2026-09-20T20:54:39.956Z",
+          "createdOn": "2026-09-20T20:54:35.563Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "DJ Carol C & Gitkin (Breezy's Courtyard)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "69159c0bed130091b8dafc7d",
+            "venue": "6a31d05b6ddbdc35b7c69506",
+            "start-date": "2026-10-03T22:00:00.000Z",
+            "event-time": "6pm - 8pm (FREE)",
+            "event-description": "<p>DJ Carol C wsg Gitkin spinning an eclectic world music dance party set in Breezy's Courtyard bar next to GASA&nbsp;GASA </p>",
+            "button-text": "DETAILS",
+            "button-link": "http://gasagasa.com",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6aaf82b67ded0efcbe177a6e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_carol_c_and_gitkin",
+            "slug": "no-26-10-03-carol-c-and-gitkin",
+            "city-name": "NOLA",
+            "category-name": "Listening",
+            "category-link": null,
+            "venue-name": "GASA GASA",
+            "venue-link": "https://www.gasagasanola.com/",
+            "tags-name": [
+              "New Orleans",
+              "world music",
+              "DJ Set",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab046f232db50dc781b1868",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T20:51:13.441Z",
+          "lastUpdated": "2026-09-20T20:51:13.441Z",
+          "createdOn": "2026-09-20T20:49:54.226Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Big Sam's Funky Nation",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-10-04T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Big Sam's Funky Nation</strong> for 2sets</p><p>‍</p><p>7pm Doors </p><p><strong>8pm Show</strong></p><p>21+ </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a38d5cd9d169080eff44009",
+              "6a3d97dc2feaaf8b3f175efa"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_big_sam_funky_nation",
+            "slug": "no-26-10-03-big-sam-funky-nation",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "funk",
+              "soul"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab0457448d3e222430ac86e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T20:43:32.588Z",
+          "lastUpdated": "2026-09-20T20:43:32.588Z",
+          "createdOn": "2026-09-20T20:43:32.588Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: ERICA FALLS & Friends: A Tribute to Marvin Gaye",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6aa792e58c87da4ea9998760",
+            "start-date": "2026-10-03T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Soul singer and songwriter <strong>Erica Falls</strong> credits her unique vintage sound to her childhood growing up in New Orleans’ 9th Ward, where her parents introduced her to Roberta Flack, Aretha Franklin, Stevie Wonder, Nina Simone, Sarah Vaughn, and Whitney Houston. &nbsp;Whether on stage or in the studio, she channels a sassy, soulful tone that recalls an earlier era. But Erica cautions her fans: “Vintage soul is not about bringing the listener back to a time of authentic music, it’s about reminding them that it never went anywhere,” she says. </p><p><strong>TONIGHT, Erica and her band host a cast of special guests to pay Tribute to the Music of Marvin Gaye. </strong></p><p>Tonight's show is sponsored in part by the NOLAxNOLA citywide festival of music venues. </p><p>‍</p><p>7:00pm Doors for seating &amp; cocktails </p><p><strong>9:00pm Showtime </strong></p><p>Ticket Options are GA&nbsp;Standing Room Only, or Limited Reserved Table Seating </p><p>21+</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/erica-falls-friends-present-chickie-wah-wah-tickets/14292454?theme=chickie",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a38d5cd9d169080eff44009"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_erica_falls_marvin_gaye_tribute",
+            "slug": "no-26-10-02-erica-falls-marvin-gaye-tribute",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Chickie Wah Wah",
+            "venue-link": "https://chickiewahwah.com/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "funk"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab0441762d0fc7da027cd1f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T20:37:43.193Z",
+          "lastUpdated": "2026-09-20T20:37:43.193Z",
+          "createdOn": "2026-09-20T20:37:43.193Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tank & The Bangas + Dawn Richard with the Louisiana Philharmonic Orchestra ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31d039e63a7701aa51dcb0",
+            "start-date": "2026-10-03T00:00:00.000Z",
+            "event-time": "8:00 - 9:30PM",
+            "event-description": "<p><strong>Tank and the Bangas</strong> have long challenged the boundaries between musical styles, creating performances that feel spry yet soft. Their music draws from the rhythms and traditions of New Orleans while reaching freely across genres, and their collaboration with the LPO offers another dimension to that musical language.</p><p>Fresh from the release of their new album, <em>The Last Balloon</em>, Tank and the Bangas are currently on tour, bringing their blend of soul, hip-hop, and spoken word to audiences around the world. On October 2, they return home. </p><p>Joining Tank and the Bangas is <strong>Dawn Richard</strong>, whose work as a singer, songwriter, producer, and performer has made her one of the most distinctive voices to emerge from New Orleans. Her music similarly moves between genres and traditions, connecting the city's rich musical history with a distinctly contemporary perspective.</p><p>‍</p><p>7:00pm Doors </p><p><strong>8:00pm Show </strong></p><p>All Ages </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://lpomusic.com/events/tank-bangas-dawn-richard-oct2-26",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6ab04378ba693cfeb281bdc3",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": {
+              "fileId": "6ab044106d44e135e298525a",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ab044106d44e135e298525a_Tank-Last-Balloon-album.jpeg",
+              "alt": null
+            },
+            "name": "no_26.10.02_lpo_tank_dawn",
+            "slug": "no-26-10-02-lpo-tank-dawn",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Orpheum Theater",
+            "venue-link": "https://orpheumnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "philharmonic orchestra",
+              "soul",
+              "funk",
+              "R&B",
+              "jazz",
+              "Black American Music",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aaf959f3ae8f604b0170256",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
