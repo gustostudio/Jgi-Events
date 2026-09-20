@@ -1,24 +1,181 @@
 {
-  "fetchedAt": "2026-09-20T07:51:48.261Z",
+  "fetchedAt": "2026-09-20T09:37:01.092Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2290,
+      "itemCount": 2293,
       "items": [
+        {
+          "id": "6aaf959f3ae8f604b0170256",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T08:14:40.834Z",
+          "lastUpdated": "2026-09-20T08:14:40.834Z",
+          "createdOn": "2026-09-20T08:13:19.462Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Alexey Martí & AfroGumbo Cuban Jazz Brunch ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a318acfa9a225edf9945fbf",
+            "start-date": "2026-10-04T16:00:00.000Z",
+            "event-time": "12PM - 3PM",
+            "event-description": "<p>Join us for an evening of music on the porch at The Columns featuring Alexey Marti &amp; Afrogumbo, as well as Havana on the Avenue Annual Cuban Pig Roast.</p><p>‍</p><p>Music is free to the public and will run alongside normal service. </p><p>Make your reservation for brunch through Resy.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://thecolumns.com/event/nolaxnola-alexey-marti-afrogumbo/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a9dd405dc2eadae3b72c055",
+              "6a3d90a72a61bee173063f0b",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_alexey_marti_columns",
+            "slug": "no-26-10-04-alexey-marti-columns",
+            "city-name": "NOLA",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Columns Hotel",
+            "venue-link": "https://thecolumns.com/events/",
+            "tags-name": [
+              "New Orleans",
+              "Latin Jazz",
+              "Latin Music",
+              "Cuban music",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaf93946694a15782074b01",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T08:04:36.652Z",
+          "lastUpdated": "2026-09-20T08:04:36.652Z",
+          "createdOn": "2026-09-20T08:04:36.652Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Leyla McCalla Supper Club ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6aaf7f070d94688ed97dbae0",
+            "start-date": "2026-09-27T23:00:00.000Z",
+            "event-time": "7PM - 9PM",
+            "event-description": "<p>Bywater Bakery in association with NOLAxNOLA Citywide Festival present: </p><p><strong>LEYLA&nbsp;MCCALLA'&nbsp;S&nbsp;SUPPER&nbsp;CLUB&nbsp;SHOW&nbsp;</strong></p><p>‍</p><p>$100 includes full-course dinner with goodies from Bywater Bakery + intimate performance by Leyla McCalla </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.bywaterbakery.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a67a09b27af7e5827de11ef",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6aa79b088d303f87567c56f7",
+              "6aa79bcf2125ef805b59af68",
+              "6a3dc3b0493eb9ffc794a7f6"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.27_leyla_mccalla_supper_club",
+            "slug": "no-26-09-27-leyla-mccalla-supper-club",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Bywater Bakery",
+            "venue-link": "https://www.bywaterbakery.com/",
+            "tags-name": [
+              "New Orleans",
+              "Black Americana",
+              "Black American Music",
+              "Roots Music",
+              "Creole Music",
+              "folk"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aaf92636694a15782072442",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-20T07:59:31.081Z",
+          "lastUpdated": "2026-09-20T07:59:31.081Z",
+          "createdOn": "2026-09-20T07:59:31.081Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Boutté",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6aaf7f070d94688ed97dbae0",
+            "start-date": "2026-09-27T15:00:00.000Z",
+            "event-time": "11AM",
+            "event-description": "<p>Bywater Bakery returns from summer break with its FREE&nbsp;Sunday outdoor live music series in the pocket park next door / directly across the street from the bakery, which is open for breakfast, brunch, lunchy things. </p><p><strong>THIS&nbsp;SUNDAY: legendary singer John Boutté </strong></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bywaterbakery.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.27_boutte_john",
+            "slug": "no-26-09-27-boutte-john",
+            "city-name": "NOLA",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Bywater Bakery",
+            "venue-link": "https://www.bywaterbakery.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "jazz fusion",
+              "Free",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aaf903305919fc71935623d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-20T07:50:11.348Z",
-          "lastUpdated": "2026-09-20T07:50:11.348Z",
+          "lastPublished": "2026-09-20T07:52:07.194Z",
+          "lastUpdated": "2026-09-20T07:52:07.194Z",
           "createdOn": "2026-09-20T07:50:11.348Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "event-title": "Black Americana Fest - DAY TWO feat. The Seratones, Lilli Lewis Project, Buddy Red, The Kentucky Gentlemen, Denitia, Dusky Waters, Banjo Workshop w/Leyla Mcalla & More",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a8ba5e6ab3a72ddeff04774",
             "venue": "6a31911583020f15259a92f1",
             "start-date": "2026-09-26T17:00:00.000Z",
@@ -37,11 +194,15 @@
               "6a3db8d5ea3bd0230cbe619f",
               "698171062ef8be261a524675"
             ],
-            "thumbnail": null,
+            "thumbnail": {
+              "fileId": "6aaf90839860715ea7fb285b",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6aaf90839860715ea7fb285b_Black%20Americana%20Fest%202026%20poster.jpeg",
+              "alt": null
+            },
             "name": "no_26.09.26_black_americana_fest_day_two",
             "slug": "no-26-09-26-black-americana-fest-day-two",
             "city-name": "NOLA",
-            "feature-name": "JGI Pick",
+            "feature-name": "JGI LIVE",
             "category-name": "Festival",
             "category-link": null,
             "venue-name": "The Broadside",
