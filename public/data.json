@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T22:13:54.869Z",
+  "fetchedAt": "2026-09-21T00:24:04.826Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -27490,8 +27490,8 @@
         {
           "id": "6a7f4a6f26f00601805686c7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T02:37:22.121Z",
-          "lastUpdated": "2026-08-14T20:17:23.301Z",
+          "lastPublished": "2026-09-20T22:17:04.661Z",
+          "lastUpdated": "2026-09-20T22:17:04.661Z",
           "createdOn": "2026-08-14T17:03:43.187Z",
           "isArchived": false,
           "isDraft": false,
@@ -27508,8 +27508,8 @@
             "button-link": "https://roulette.org/event/james-brandon-lewis-art-of-solo/",
             "tags": null,
             "thumbnail": {
-              "fileId": "6a7f6d394832fade57b90528",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a7f6d394832fade57b90528_jbl%20continuum%20image%2010-15-26.png",
+              "fileId": "6ab05b5c6e62aa082ab367f0",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ab05b5c6e62aa082ab367f0_4.png",
               "alt": null
             },
             "name": "ny_2026.10.15_continuum_art-of-solo",
@@ -27525,8 +27525,8 @@
         {
           "id": "6a7f4a0acedc5bab9b8c30ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-17T20:10:14.609Z",
-          "lastUpdated": "2026-09-17T20:10:14.609Z",
+          "lastPublished": "2026-09-20T22:17:34.860Z",
+          "lastUpdated": "2026-09-20T22:17:34.860Z",
           "createdOn": "2026-08-14T17:02:02.976Z",
           "isArchived": false,
           "isDraft": false,
@@ -27543,8 +27543,8 @@
             "button-link": "https://roulette.org/event/james-brandon-lewis-abiodun-oyweyole-taylor-pace-tuesday-taylor/",
             "tags": null,
             "thumbnail": {
-              "fileId": "6a98b4acac7f6fbb9d595af2",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a98b4acac7f6fbb9d595af2_jbl%20continuum%20image%2010-9-26%20(1).png",
+              "fileId": "6ab05b7b2da68cef12662be1",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ab05b7b2da68cef12662be1_3.png",
               "alt": null
             },
             "name": "ny_2026.10.09_continuum_find-your-own-voice",
@@ -27560,8 +27560,8 @@
         {
           "id": "6a7f4978854f448147fff0c8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-02T18:21:09.972Z",
-          "lastUpdated": "2026-09-02T18:21:09.972Z",
+          "lastPublished": "2026-09-20T22:17:21.354Z",
+          "lastUpdated": "2026-09-20T22:17:21.354Z",
           "createdOn": "2026-08-14T16:59:36.601Z",
           "isArchived": false,
           "isDraft": false,
@@ -27578,8 +27578,8 @@
             "button-link": "https://roulette.org/event/james-brandon-lewis-continuum/",
             "tags": null,
             "thumbnail": {
-              "fileId": "6a90940fd2083bd95398f1af",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a90940fd2083bd95398f1af_jbl%20continuum%20image%209-29-26%20(1).png",
+              "fileId": "6ab05b6d32db50dc781eca57",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ab05b6d32db50dc781eca57_2.png",
               "alt": null
             },
             "name": "ny_2026.09.29_continuum_bathed-in-sound",
