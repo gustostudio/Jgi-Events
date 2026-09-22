@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-09-22T20:21:17.225Z",
+  "fetchedAt": "2026-09-22T22:45:49.300Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2406,
+      "itemCount": 2407,
       "items": [
+        {
+          "id": "6ab2f5c43b9c331cc243fd44",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T21:40:22.447Z",
+          "lastUpdated": "2026-09-22T21:40:22.447Z",
+          "createdOn": "2026-09-22T21:40:20.690Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Unheard: Emilio Modeste and Friends",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6ab2f51f789acc7e44423023",
+            "start-date": "2026-10-10T21:00:00.000Z",
+            "event-time": "5PM",
+            "event-description": "<p>Local arts presenter Pique-nique regularly offers some of the most thoughtful jazz (and jazz-adjacent) curation in the city. Complementing their popular Take Two series showcasing fresh interpretations of classic albums is Unheard, which presents from-scratch improvisations courtesy of a featured artist and their handpicked collaborators. In this installment, the rising tenor-saxophone star Emilio Modeste — known for his work with Kassa Overall, Stanley Clarke and Cindy Blackman Santana — plays alongside the percussionist Daniel Moreno, the woodwind players Ben Solomon and Jordan Young, and the keyboardist Black Buttafly.</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_modeste",
+            "slug": "ny-26-10-10-modeste",
+            "city-name": "NYC",
+            "venue-name": "[location TBA / shared with ticketholders]",
+            "venue-link": null
+          }
+        },
         {
           "id": "6ab2c0b94ddb7eb8b3648d28",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
