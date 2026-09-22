@@ -1,12 +1,651 @@
 {
-  "fetchedAt": "2026-09-22T03:42:18.518Z",
+  "fetchedAt": "2026-09-22T07:52:11.847Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2374,
+      "itemCount": 2394,
       "items": [
+        {
+          "id": "6ab22b816bf7e13ace1f2d87",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:17:23.162Z",
+          "lastUpdated": "2026-09-22T07:17:23.162Z",
+          "createdOn": "2026-09-22T07:17:21.082Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Julian Davis Reid and Circle of Trust",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a306619334e31e75b40d623",
+            "start-date": "2026-10-07T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_reid",
+            "slug": "ny-26-10-07-reid",
+            "city-name": "NYC",
+            "venue-name": "Nublu",
+            "venue-link": "https://nublu.net/"
+          }
+        },
+        {
+          "id": "6ab22ae888301e4339130be1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:14:49.699Z",
+          "lastUpdated": "2026-09-22T07:14:49.699Z",
+          "createdOn": "2026-09-22T07:14:48.104Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kofi Hunter with Idris Frederick, Ben Sherman and Jason Clotter",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-10-07T23:30:00.000Z",
+            "event-time": "7:30 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_hunter",
+            "slug": "ny-26-10-07-hunter",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/"
+          }
+        },
+        {
+          "id": "6ab229900947f39ae1ff8e0c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:09:07.721Z",
+          "lastUpdated": "2026-09-22T07:09:07.721Z",
+          "createdOn": "2026-09-22T07:09:04.449Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jerome Sabbagh Trio with Peter Washington and Billy Drummond",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-10-08T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_sabbagh",
+            "slug": "ny-26-10-07-sabbagh",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
+        {
+          "id": "6ab2292c0947f39ae1ff4e5b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:07:26.776Z",
+          "lastUpdated": "2026-09-22T07:07:26.776Z",
+          "createdOn": "2026-09-22T07:07:24.629Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Renee Rosnes Quartet's Monk Sphere with Nicole Glover, David Wong and Carl Allen",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-10-10T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_rosnes",
+            "slug": "ny-26-10-10-rosnes",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6ab2290e62fbf7aee697ef0d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:06:56.952Z",
+          "lastUpdated": "2026-09-22T07:06:56.952Z",
+          "createdOn": "2026-09-22T07:06:54.839Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Renee Rosnes Quartet's Monk Sphere with Nicole Glover, David Wong and Carl Allen",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-10-09T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.09_rosnes",
+            "slug": "ny-26-10-09-rosnes",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6ab228ca88301e433911da19",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:05:57.147Z",
+          "lastUpdated": "2026-09-22T07:05:57.147Z",
+          "createdOn": "2026-09-22T07:05:46.657Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Renee Rosnes Quartet's Monk Sphere with Nicole Glover, David Wong and Carl Allen",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-10-08T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.08_rosnes",
+            "slug": "ny-26-10-08-rosnes",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6ab228b3400cf063570cc9fc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:05:25.862Z",
+          "lastUpdated": "2026-09-22T07:05:25.862Z",
+          "createdOn": "2026-09-22T07:05:23.796Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Renee Rosnes Quartet's Monk Sphere with Nicole Glover, David Wong and Carl Allen",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-10-07T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_rosnes",
+            "slug": "ny-26-10-07-rosnes",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6ab228270137b2b012560ffe",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:03:05.141Z",
+          "lastUpdated": "2026-09-22T07:03:05.141Z",
+          "createdOn": "2026-09-22T07:03:03.379Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Papo Vázquez Mighty Pirates Troubadours",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-10-07T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_vázquez",
+            "slug": "ny-26-10-07-vazquez",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
+        {
+          "id": "6ab2278df522fc6249e88b2a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T07:00:32.986Z",
+          "lastUpdated": "2026-09-22T07:00:32.986Z",
+          "createdOn": "2026-09-22T07:00:29.173Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Trap Music Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-10-07T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.07_trap",
+            "slug": "ny-26-10-07-trap",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
+        {
+          "id": "6ab2272e413668876046abb7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:58:57.915Z",
+          "lastUpdated": "2026-09-22T06:58:57.915Z",
+          "createdOn": "2026-09-22T06:58:54.795Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Robert Glasper and Terrace Martin with special guest Phoelix",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-11T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.10_glasper",
+            "slug": "ny-26-10-10-glasper",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab22711d22a35bf18b69c27",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:58:28.814Z",
+          "lastUpdated": "2026-09-22T06:58:28.814Z",
+          "createdOn": "2026-09-22T06:58:25.328Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Robert Glasper and Terrace Martin with special guest Phoelix",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-10T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.09_glasper",
+            "slug": "ny-26-10-09-glasper",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab226f29194645d00b35c36",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:57:59.025Z",
+          "lastUpdated": "2026-09-22T06:57:59.025Z",
+          "createdOn": "2026-09-22T06:57:54.707Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Robert Glasper and Terrace Martin with special guest Phoelix",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-09T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.08_glasper",
+            "slug": "ny-26-10-08-glasper",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21e02c46a254d92404d67",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:57:25.005Z",
+          "lastUpdated": "2026-09-22T06:57:25.005Z",
+          "createdOn": "2026-09-22T06:19:46.359Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Robert Glasper and Terrace Martin with special guest Phoelix",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-08T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.07_glasper",
+            "slug": "ny-26-10-07-glasper",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21db5bbc7c9f7ec2338a6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:18:31.893Z",
+          "lastUpdated": "2026-09-22T06:18:31.893Z",
+          "createdOn": "2026-09-22T06:18:29.244Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ron Carter Foursight Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-11T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.10_carter_ron",
+            "slug": "ny-26-10-10-carter-ron",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21d98862520d773cc1be7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:18:07.429Z",
+          "lastUpdated": "2026-09-22T06:18:07.429Z",
+          "createdOn": "2026-09-22T06:18:00.119Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ron Carter Foursight Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-10T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.09_carter_ron",
+            "slug": "ny-26-10-09-carter-ron",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21d665abeda339e8559a4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:17:15.646Z",
+          "lastUpdated": "2026-09-22T06:17:15.646Z",
+          "createdOn": "2026-09-22T06:17:10.588Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ron Carter Foursight Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-08T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.08_carter_ron Copy",
+            "slug": "ny-26-10-08-carter-ron-copy",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21d473b3abeffe8e02f83",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:16:42.580Z",
+          "lastUpdated": "2026-09-22T06:16:42.580Z",
+          "createdOn": "2026-09-22T06:16:39.815Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ron Carter Foursight Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-07T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.07_carter_ron",
+            "slug": "ny-26-10-07-carter-ron",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21cd041366887604107a0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:14:43.751Z",
+          "lastUpdated": "2026-09-22T06:14:43.751Z",
+          "createdOn": "2026-09-22T06:14:40.017Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Plays Monk feat. Chris Potter, Larry Grenadier and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-07T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.07_iverson",
+            "slug": "ny-26-10-07-iverson",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab21c5d9f608d8185cf098e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:12:49.494Z",
+          "lastUpdated": "2026-09-22T06:12:49.494Z",
+          "createdOn": "2026-09-22T06:12:45.926Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Block Open Heart Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-10-06T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_block",
+            "slug": "ny-26-10-06-block",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab21b58fb681075ae0b7706",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-22T06:08:27.103Z",
+          "lastUpdated": "2026-09-22T06:08:27.103Z",
+          "createdOn": "2026-09-22T06:08:24.499Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Summer Camargo Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-10-06T23:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_camargo",
+            "slug": "ny-26-10-06-camargo",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
         {
           "id": "6ab17ee33f3c985b1bb7d0e8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -14878,13 +15517,13 @@
         {
           "id": "6aa24d7af1ed215f50aa5ccc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-14T07:45:09.283Z",
-          "lastUpdated": "2026-09-10T06:26:04.459Z",
+          "lastPublished": "2026-09-22T04:59:30.448Z",
+          "lastUpdated": "2026-09-22T04:59:30.448Z",
           "createdOn": "2026-09-10T06:26:02.099Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Kevin Oliver Jr. with Miles WIlkins, Devon Gates and Ethan Oliver",
+            "event-title": "Kevin Oliver Jr. with Miles Wilkins, Devon Gates and Ethan Oliver",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
