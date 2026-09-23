@@ -1,12 +1,67 @@
 {
-  "fetchedAt": "2026-09-23T17:21:36.118Z",
+  "fetchedAt": "2026-09-23T18:53:03.154Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2407,
+      "itemCount": 2408,
       "items": [
+        {
+          "id": "6ab405f5326c17a7fda912d1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-23T17:31:40.965Z",
+          "lastUpdated": "2026-09-23T17:31:40.965Z",
+          "createdOn": "2026-09-23T17:01:41.941Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "JGI presents A Tribute to Abdullah Ibrahim with Courtney Bryan & Friends ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-09T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><em>Jazz Generations Initiative (JGI) New Orleans presents: </em></p><p><strong>A&nbsp;TRIBUTE&nbsp;TO&nbsp;ABDULLAH&nbsp;IBRAHIM with COURTNEY BRYAN&nbsp;&amp;&nbsp;FRIENDS&nbsp;</strong></p><p><em>featuring </em></p><p><strong>Courtney Bryan - piano </strong></p><p><strong>Max Moran - bass </strong></p><p><strong>Jason Marsalis - drums </strong></p><p>+ <em>special surprise guests </em></p><p>‍</p><p>On what would have been the late, great South African pianist and composer's <strong>92nd Birthday</strong>, New Orleans pianist, composer and co-founder of JGI, <strong>Courtney Bryan</strong> hosts a special pair of musical tribute sets to influential anti-apartheid activist <strong>Abdullah Ibrahim</strong>. Bryan and friends will present a tribute to this ambassador of the South African anti-apartheid movement, who died this summer at the age of 91, including classic pieces by Ibrahim, as well as other songs of freedom. </p><p>‍</p><p><strong>ABOUT&nbsp;ABDULLAH&nbsp;IBRAHIM:&nbsp;</strong></p><p><a href=\"https://abdullahibrahim.co.za/\"><strong>Abdullah Ibrahim</strong></a>, a jazz pianist and composer whose elegant, meditative style mingled the sounds of his native Cape Town with musical traditions from around the world, making him an admired ambassador of the anti-apartheid movement, died on June 15, 2026 in Prien am Chiemsee, a town south of Munich. He was 91. </p><p>Mr. Ibrahim — who was known as his given name <strong>Dollar Brand</strong> before converting to Islam in the late 1960s — folded the music of his South African hometown into an ongoing conversation with the latest evolutions in American and European jazz. For years, he was embraced by the standard-bearers of the avant-garde music scene, including saxophonist Ornette Coleman.</p><p>For all its disparate components, Mr. Ibrahim’s music never sounded like a crude synthesis — perhaps by dint of the unhurried grace of his playing and the deep spirituality of his approach. In his frequent solo concerts, he often performed lengthy, unbroken sets, fluidly folding together different themes and compositions as inspiration dictated. </p><p><strong><em>“Improvisation is really becoming one with nature,”</em></strong> <a href=\"https://tidal.com/magazine/article/abdullah-ibrahim/1-95073\" target=\"_blank\">he told Tidal</a> in a 2024 interview. <strong><em>“Becoming one with our real self.”</em></strong></p><p>~ Read the full NYT&nbsp;obituary by JGI&nbsp;NYC&nbsp;Creative Director, Giovanni Russonello <a href=\"https://www.nytimes.com/2026/06/15/arts/music/abdullah-ibrahim-dead.html\">here</a> </p><p>‍</p><p><strong>ABOUT&nbsp;COURTNEY&nbsp;BRYAN:&nbsp;</strong></p><p>New Orleans composer and pianist <a href=\"https://www.courtneybryan.com/\"><strong>Courtney Bryan</strong></a> is a Steinway Artist and 2023 MacArthur Fellow, and currently serves as composer-in-residence with the New Haven Symphony Orchestra.</p><p>Recent works include <em>Suddenly Last Summer</em>, an opera commissioned by the Fisher Center at Bard; <em>DREAMING (Freedom Sounds)</em>, premiered by the International Contemporary Ensemble; <em>Visual Rhythms</em>, an art-inspired orchestral piece for Jacksonville Symphony; <em>House of Pianos</em>, which Bryan premiered in 2023 with the LA Phil New Music Group and the Cincinnati Symphony Orchestra; and <em>Gathering Song</em>, commissioned by the New York Philharmonic.</p><p>Bryan has held composer residencies with Opera Philadelphia, the Louisiana Philharmonic Orchestra, and Jacksonville Symphony; is a co-founder of the Jazz Generations Initiative, a Mellon Foundation funded program in New Orleans and New York; and is the Albert and Linda Mintz Professor of Music at Newcomb College in the School of Liberal Arts at Tulane University. Her music is published by Boosey &amp; Hawkes. </p><p><strong>Learn More about JGI at</strong> <a href=\"http://jazzgenerations.org\">jazzgenerations.org </a>and <a href=\"http://instagram.com/jgi.neworleans\">@jgi.neworleans</a> on socials </p><p>***</p><p>‍</p><p>Doors at 7:00pm &amp; 9:00pm </p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong></p><p>Tickets for each at <a href=\"http://snugjazz.com\">SnugJazz.com</a> </p>",
+            "button-text": "TICKETS",
+            "button-link": "http://snugjazz.com",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": {
+              "fileId": "6ab40cf83d2384693e0b9d0b",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ab40cf83d2384693e0b9d0b_Abdullah%20Ibrahim%20x%20Courtney%20Bryan%20v1%20collage%2009OCT2026.jpg",
+              "alt": null
+            },
+            "name": "no_26.10.09_bryan_courtney_tribute_to_abdullah_ibrahim",
+            "slug": "no-26-10-09-bryan-courtney-tribute-to-abdullah-ibrahim",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Black American Music",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ab2f5c43b9c331cc243fd44",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
