@@ -1,12 +1,42 @@
 {
-  "fetchedAt": "2026-09-23T20:35:51.177Z",
+  "fetchedAt": "2026-09-23T22:45:00.161Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2409,
+      "itemCount": 2410,
       "items": [
+        {
+          "id": "6ab43b3f9d5e742e8a833427",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-23T20:50:19.662Z",
+          "lastUpdated": "2026-09-23T20:50:19.662Z",
+          "createdOn": "2026-09-23T20:49:03.450Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Pi Recordings 25th Anniversary Celebration: Luke Stewart Silt Trio + with Brian Settles, Daniel Carter and Trae Crudup",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-10-10T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_stewart",
+            "slug": "ny-26-10-10-stewart",
+            "city-name": "NYC",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
         {
           "id": "6ab42c40a474187a61f5ab99",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
