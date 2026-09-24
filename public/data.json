@@ -1,12 +1,72 @@
 {
-  "fetchedAt": "2026-09-24T18:50:58.016Z",
+  "fetchedAt": "2026-09-24T20:40:10.094Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2410,
+      "itemCount": 2413,
       "items": [
+        {
+          "id": "6ab5775f38dc025c87d29c3e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-24T19:17:53.864Z",
+          "lastUpdated": "2026-09-24T19:17:53.864Z",
+          "createdOn": "2026-09-24T19:17:51.509Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Billy Mintz Quintet with Anton Denner, Dave Scott, Roberta Piket and John Hébert",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-10-11T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_mintz",
+            "slug": "ny-26-10-10-mintz",
+            "city-name": "NYC",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
+        {
+          "id": "6ab576d0f5b74a96415bf361",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-24T19:15:35.198Z",
+          "lastUpdated": "2026-09-24T19:15:35.198Z",
+          "createdOn": "2026-09-24T19:15:28.187Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Thelonious Monk Birthday Celebration with Uri Caine, Ben Allison and Steve Smith",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-10T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_caine",
+            "slug": "ny-26-10-10-caine",
+            "city-name": "NYC",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/"
+          }
+        },
         {
           "id": "6ab43b3f9d5e742e8a833427",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -35,6 +95,36 @@
             "category-link": null,
             "venue-name": "Jazz Gallery",
             "venue-link": "https://jazzgallery.org/"
+          }
+        },
+        {
+          "id": "6ab42d0f0feb29d4f3df6ed6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-24T19:24:33.904Z",
+          "lastUpdated": "2026-09-24T19:24:33.904Z",
+          "createdOn": "2026-09-23T19:48:31.458Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Steve Davis with Tony Davis, Rick Germanson, Ugonna Okegwo and Jason Tiemann",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-10-11T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.10_davis_steve",
+            "slug": "ny-26-10-10-davis-steve",
+            "city-name": "NYC",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/"
           }
         },
         {
