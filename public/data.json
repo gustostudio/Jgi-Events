@@ -1,12 +1,118 @@
 {
-  "fetchedAt": "2026-09-27T18:55:04.902Z",
+  "fetchedAt": "2026-09-27T20:17:08.390Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2425,
+      "itemCount": 2427,
       "items": [
+        {
+          "id": "6ab976017e32879b4586d153",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-27T20:01:05.547Z",
+          "lastUpdated": "2026-09-27T20:01:05.547Z",
+          "createdOn": "2026-09-27T20:01:05.547Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Solid Harmony feat. Yolanda Robinson, Jolynda 'Kiki' Chapman, Joe Ashlar, Gerald Watkins Jr.",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-10-03T00:00:00.000Z",
+            "event-time": "8:00 & 10:00PM",
+            "event-description": "<p><strong>Solid Harmony</strong> is the family band founded by New Orleans late, great vocal legend <strong>Topsy Chapman</strong> shortly after her rise to notoriety with her starring role in the hit Off-Broadway musical, <em>\"One Mo' Time\"</em> in the 1980s. Topsy and her singing daughters, Yolanda &amp; Kiki, swiftly became staples among the jazz, blues and soul circuits, singing with some of the top musicians in New Orleans over the past 30 years. Today, Topsy's daughters, each respected local vocalists in their own right, continue the family band's legacy with Topsy's grandson on brass, and a rotating cast of players who've been a part of the band over the years. </p><p>TONIGHT: Expect a mosaic of unique swing harmonies backed by an all-star New Orleans band. </p><p><strong>Featuring: </strong></p><p>Yolanda Robinson - lead vocals </p><p>Jolynda \"Kiki\" Chapman - lead vocals </p><p>Caleb Windsay - trombone, vocals </p><p>Peter Harris - bass </p><p>Gerald Watkins Jr. - drums </p><p>Joe Ashlar - keys </p><p>+sg </p><p>‍</p><p><strong>Sets at 8pm - 9:30pm &amp; 10pm -11:30pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is limited and first-come, first-served, so early arrival is suggested. OR, Reserved Seating is $25 Per Table in advance online. Full bar &amp;&nbsp;food menu available. One drink minimum per guest. ~&nbsp;Last Call at 11:30pm. </p>",
+            "button-text": "DETAILS & TABLE RESERVATIONS",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_solid_harmony",
+            "slug": "no-26-10-02-solid-harmony",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "21+",
+              "No Cover",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab97463d078f406ebd65f1c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-27T19:54:27.666Z",
+          "lastUpdated": "2026-09-27T19:54:27.666Z",
+          "createdOn": "2026-09-27T19:54:11.840Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Double Bird with Peter Harris, Ashlin Parker, David Torkanowsky, Nygel Anderson +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-09-30T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p>‍</p><p><strong>Tonight, Harris presents the Double Bird collective, featuring: </strong></p><p>Nygel Anderson - drums </p><p>Peter Harris - bass </p><p>David Torkanowsky - piano </p><p>Ashlin Parker - trumpet </p><p>+ special surprise guests </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.29_harris_peter_double_bird",
+            "slug": "no-26-09-29-harris-peter-double-bird",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ab95b6e310af94e01b514ad",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
