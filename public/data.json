@@ -1,12 +1,56 @@
 {
-  "fetchedAt": "2026-09-27T17:08:11.710Z",
+  "fetchedAt": "2026-09-27T18:55:04.902Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2424,
+      "itemCount": 2425,
       "items": [
+        {
+          "id": "6ab95b6e310af94e01b514ad",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-27T18:40:22.466Z",
+          "lastUpdated": "2026-09-27T18:40:22.466Z",
+          "createdOn": "2026-09-27T18:07:42.484Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Twilight Tuesdays feat. Chucky C & Friends",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6ab95ce76dad3acf60b5c441",
+            "start-date": "2026-10-06T22:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p><strong>New Orleans City Park Conservancy</strong> hosts <a href=\"https://neworleanscitypark.org/event/tuesdays-at-twilight/2026-10-06/\"><strong>Twilight Tuesdays</strong></a> at the <strong>Pavilion of the Two Sisters</strong> inside City Park's incredible <strong>Botanical Gardens </strong>with rotating special guest jazz and blues musicians during sunset: </p><p>‍</p><p><strong>October 6th</strong> featuring: saxophonist <strong>Chucky C &amp;&nbsp;Friends </strong></p><p>‍</p><p><strong>Chucky C /aka/ \"The King of Feel Good\"</strong>&nbsp;is a veteran New Orleans saxophonist, multi-instrumentalist, vocalist and all-around entertainer with a 50-year career under his belt. He's known for performing a soulful blend of blues, jazz, pop hits, and Dixieland music across several different ensembles. His popular Chucky C &amp; The Clearly Blue Variety Band is a hit among a broad spectrum of audiences, and this evening he presents his more intimate jazz ensemble. </p><p>‍</p><p><strong>ABOUT&nbsp;CHUCKY&nbsp;C: </strong></p><p>Charles Elam III, a/k/a \"Chucky C\" has been in the music business for over 50+ years. He started his musical journey when he was about 10 years old with the clarinet, and played the drums in church. He reports that his parents loved music and both had a quite different taste; \"My Mother loved ballads and country but my Father loved jazz. However, I was inspired by Fats Domino and give him credit for the spark in my musical career.\" &nbsp;</p><p>Charles Elam graduated from Joseph S. Clark High School in New Orleans, Louisiana, and went on to Xavier University to study Music Education. He is a regular at the New Orleans Jazz Fest and French Quarter Festival. Chucky C can easily take the lead role in a backup band for a headlining artist or MC an opening set, as he's played with the best &nbsp;To name a few: Percy Mayfield, O.V. Wright, and Syl Johnson; Edie Brickell, Maria Muldaur, and Bo Diddley; Irma Thomas, Marva Wright, Marcia Ball, Tracy Nelson, and Aaron Neville. &nbsp;</p><p>The résumés of his band members in \"Clearly Blue\" are equally impressive (including gigs with Gatemouth Brown, The Neville Brothers, Boz Scaggs, Percy Sledge, Allen Toussaint, and Buddy Miles, just to name a few). Together, they create a seamless blend of smoothly rendered, R&amp;B with distinctive jazz and blues touches, occasionally mounting musical forays into the straight blues (with Willie Dixon’s “Hoochie Coochie Man”), slinky R&amp;B jazz (Van Morrison’s “Moondance,” with Chucky C on lead flute), and full-bore R&amp;B (“Untouchable Glide,” Ben E. King’s “Stand by Me”). In all cases, what Chucky C and Clearly Blue offer are expertly played ensemble arrangements with smokin’ solos and locked-in backup grooves. </p><p>‍</p><p>‍</p><p>Admission is $15 with proceeds benefiting the City Park Conservancy </p><p>Cash Bar and Local Food options for purchase </p>",
+            "button-text": "DETAILS & TICKETS",
+            "button-link": "https://neworleanscitypark.org/event/tuesdays-at-twilight/2026-10-06/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3db58d49b3972da8b7b5f0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.06_twilight_tuesdays_chucky_c",
+            "slug": "no-26-10-06-twilight-tuesdays-chucky-c",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Pavilion of the Two Sisters at New Orleans City Park",
+            "venue-link": "https://maps.app.goo.gl/6HjKmHGfgHudNtqR9",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "blues"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ab8faeb2d1723dd3837d742",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
