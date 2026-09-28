@@ -1,12 +1,3811 @@
 {
-  "fetchedAt": "2026-09-28T04:06:42.123Z",
+  "fetchedAt": "2026-09-28T08:52:10.707Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2442,
+      "itemCount": 2530,
       "items": [
+        {
+          "id": "6aba2a498796a17f0c80eb07",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:50:37.535Z",
+          "lastUpdated": "2026-09-28T08:50:37.535Z",
+          "createdOn": "2026-09-28T08:50:17.400Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Peter Brendler Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-10-13T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.13_brendler",
+            "slug": "ny-26-10-13-brendler",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba29f78c3ad0a33b2bc773",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:49:00.678Z",
+          "lastUpdated": "2026-09-28T08:49:00.678Z",
+          "createdOn": "2026-09-28T08:48:55.055Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Frank Catalano Quintet feat. Randy Brecker",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-13T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.13_catalano",
+            "slug": "ny-26-10-13-catalano",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba2994310af94e01f102c8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:47:19.150Z",
+          "lastUpdated": "2026-09-28T08:47:19.150Z",
+          "createdOn": "2026-09-28T08:47:16.054Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Corcoran Holt Quintet with Josh Evans, Abraham Burton, Benito Gonzalez and Kweku Sumbry",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ee19e1ea9436a608308f5",
+            "start-date": "2026-10-13T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": "<p>‘Freedom of Art’ Album Release</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.13_holt",
+            "slug": "ny-26-10-13-holt",
+            "city-name": "NYC",
+            "venue-name": "Dizzy's Club",
+            "venue-link": "https://jazz.org/dizzys",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba28fb556f97c19eefa556",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:44:45.685Z",
+          "lastUpdated": "2026-09-28T08:44:45.685Z",
+          "createdOn": "2026-09-28T08:44:43.219Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-30T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.29_moran",
+            "slug": "ny-26-11-29-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba28ead35448ef7872e52a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:44:29.805Z",
+          "lastUpdated": "2026-09-28T08:44:29.805Z",
+          "createdOn": "2026-09-28T08:44:26.535Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-29T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.28_moran",
+            "slug": "ny-26-11-28-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba28d9368357c6ba6e9989",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:44:12.927Z",
+          "lastUpdated": "2026-09-28T08:44:12.927Z",
+          "createdOn": "2026-09-28T08:44:09.952Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-28T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.27_moran",
+            "slug": "ny-26-11-27-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba28c5b23523126c3c5191",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:43:51.471Z",
+          "lastUpdated": "2026-09-28T08:43:51.471Z",
+          "createdOn": "2026-09-28T08:43:49.314Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-27T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.26_moran",
+            "slug": "ny-26-11-26-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba28b3063e3a2aec15c9ca",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:43:34.587Z",
+          "lastUpdated": "2026-09-28T08:43:34.587Z",
+          "createdOn": "2026-09-28T08:43:31.424Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-26T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.25_moran",
+            "slug": "ny-26-11-25-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba289ba25a7ca3e0bbcfec",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:43:10.072Z",
+          "lastUpdated": "2026-09-28T08:43:10.072Z",
+          "createdOn": "2026-09-28T08:43:07.712Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Moran & The Bandwagon with Tarus Mateen and Nasheet Waits",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-25T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.24_moran",
+            "slug": "ny-26-11-24-moran",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba287130b29a259bab552d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:42:28.396Z",
+          "lastUpdated": "2026-09-28T08:42:28.396Z",
+          "createdOn": "2026-09-28T08:42:25.717Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-23T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.22_zorn",
+            "slug": "ny-26-11-22-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba285429d60185923a88a6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:42:10.156Z",
+          "lastUpdated": "2026-09-28T08:42:10.156Z",
+          "createdOn": "2026-09-28T08:41:56.937Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-22T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.21_zorn",
+            "slug": "ny-26-11-21-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba283e3c5a2a7f5f75de1a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:41:40.122Z",
+          "lastUpdated": "2026-09-28T08:41:40.122Z",
+          "createdOn": "2026-09-28T08:41:34.308Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-21T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.20_zorn",
+            "slug": "ny-26-11-20-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2828c8d03db24df7fec9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:41:16.324Z",
+          "lastUpdated": "2026-09-28T08:41:16.324Z",
+          "createdOn": "2026-09-28T08:41:12.428Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-20T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.19_zorn",
+            "slug": "ny-26-11-19-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2800489fca412d341123",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:40:46.340Z",
+          "lastUpdated": "2026-09-28T08:40:46.340Z",
+          "createdOn": "2026-09-28T08:40:32.780Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-19T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.18_zorn",
+            "slug": "ny-26-11-18-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba27ef927ba57c82fdb9ac",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:40:17.537Z",
+          "lastUpdated": "2026-09-28T08:40:17.537Z",
+          "createdOn": "2026-09-28T08:40:14.989Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Zorn: New Masada Quartet with Julian Lage, Jorge Roeder and Kenny Wolleson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-18T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.17_zorn",
+            "slug": "ny-26-11-17-zorn",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba27a4556f97c19eee5c74",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:39:03.197Z",
+          "lastUpdated": "2026-09-28T08:39:03.197Z",
+          "createdOn": "2026-09-28T08:39:00.687Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-16T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.15_sorey",
+            "slug": "ny-26-11-15-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba279424b4dd222a9e3486",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:38:46.616Z",
+          "lastUpdated": "2026-09-28T08:38:46.616Z",
+          "createdOn": "2026-09-28T08:38:44.276Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-15T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.14_sorey",
+            "slug": "ny-26-11-14-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba27826dad3acf60f16b08",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:38:28.762Z",
+          "lastUpdated": "2026-09-28T08:38:28.762Z",
+          "createdOn": "2026-09-28T08:38:26.486Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-14T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.13_sorey",
+            "slug": "ny-26-11-13-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba276df43ea7c4e04b3990",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:38:09.554Z",
+          "lastUpdated": "2026-09-28T08:38:09.554Z",
+          "createdOn": "2026-09-28T08:38:05.430Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-13T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.12_sorey",
+            "slug": "ny-26-11-12-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2758cc0f7e435f83dbc6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:37:47.720Z",
+          "lastUpdated": "2026-09-28T08:37:47.720Z",
+          "createdOn": "2026-09-28T08:37:44.541Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-12T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.11_sorey",
+            "slug": "ny-26-11-11-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2741bc9469648f32089b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:37:24.064Z",
+          "lastUpdated": "2026-09-28T08:37:24.064Z",
+          "createdOn": "2026-09-28T08:37:21.665Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tyshawn Sorey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-11T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.10_sorey",
+            "slug": "ny-26-11-10-sorey",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba271ed56e14733ea48c32",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:36:49.117Z",
+          "lastUpdated": "2026-09-28T08:36:49.117Z",
+          "createdOn": "2026-09-28T08:36:46.127Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-09T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.08_iverson",
+            "slug": "ny-26-11-08-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2708695659c782aa6a86",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:36:28.074Z",
+          "lastUpdated": "2026-09-28T08:36:28.074Z",
+          "createdOn": "2026-09-28T08:36:24.778Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-08T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.07_iverson",
+            "slug": "ny-26-11-07-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba26d324b4dd222a9daddd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:35:33.683Z",
+          "lastUpdated": "2026-09-28T08:35:33.683Z",
+          "createdOn": "2026-09-28T08:35:31.396Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-07T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.06_iverson",
+            "slug": "ny-26-11-06-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba26b724b4dd222a9d9b65",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:35:52.139Z",
+          "lastUpdated": "2026-09-28T08:35:52.139Z",
+          "createdOn": "2026-09-28T08:35:03.831Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-06T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.05_iverson",
+            "slug": "ny-26-11-05-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2689d078f406eb0c1425",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:34:22.391Z",
+          "lastUpdated": "2026-09-28T08:34:22.391Z",
+          "createdOn": "2026-09-28T08:34:17.144Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-05T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.04_iverson",
+            "slug": "ny-26-11-04-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2673ca42617a3c301c87",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:34:40.904Z",
+          "lastUpdated": "2026-09-28T08:34:40.904Z",
+          "createdOn": "2026-09-28T08:33:55.036Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-04T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.03_iverson",
+            "slug": "ny-26-11-03-iverson",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba25f1864bddda3da1f1d2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:32:00.454Z",
+          "lastUpdated": "2026-09-28T08:32:00.454Z",
+          "createdOn": "2026-09-28T08:31:45.674Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-02T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.01_parks",
+            "slug": "ny-26-11-01-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba25cacd6cf1a8548c1388",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:31:09.032Z",
+          "lastUpdated": "2026-09-28T08:31:09.032Z",
+          "createdOn": "2026-09-28T08:31:06.819Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-01T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.31_parks",
+            "slug": "ny-26-10-31-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba25baa25a7ca3e0ba06a3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:30:53.315Z",
+          "lastUpdated": "2026-09-28T08:30:53.315Z",
+          "createdOn": "2026-09-28T08:30:50.797Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-31T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.30_parks",
+            "slug": "ny-26-10-30-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba25a9bc9469648f310533",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:30:36.336Z",
+          "lastUpdated": "2026-09-28T08:30:36.336Z",
+          "createdOn": "2026-09-28T08:30:33.569Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-30T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.29_parks",
+            "slug": "ny-26-10-29-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2599bdf94165b1c90f01",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:30:20.205Z",
+          "lastUpdated": "2026-09-28T08:30:20.205Z",
+          "createdOn": "2026-09-28T08:30:17.812Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-29T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.28_parks",
+            "slug": "ny-26-10-28-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2588f20bcab37b2ce291",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:30:04.999Z",
+          "lastUpdated": "2026-09-28T08:30:04.999Z",
+          "createdOn": "2026-09-28T08:30:00.352Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aaron Parks Trio with Ben Street and Billy Hart ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-28T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.27_parks",
+            "slug": "ny-26-10-27-parks",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba251b8bc0556737e2b7b4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:28:14.988Z",
+          "lastUpdated": "2026-09-28T08:28:14.988Z",
+          "createdOn": "2026-09-28T08:28:11.880Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-26T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.25_hersch",
+            "slug": "ny-26-10-25-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba2507bc9469648f30abce",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:27:55.359Z",
+          "lastUpdated": "2026-09-28T08:27:55.359Z",
+          "createdOn": "2026-09-28T08:27:51.522Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-25T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.24_hersch",
+            "slug": "ny-26-10-24-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba24ea8c3ad0a33b28b771",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:27:24.416Z",
+          "lastUpdated": "2026-09-28T08:27:24.416Z",
+          "createdOn": "2026-09-28T08:27:22.137Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-24T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.23_hersch",
+            "slug": "ny-26-10-23-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba24d7b4ebeb080bad5978",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:27:05.850Z",
+          "lastUpdated": "2026-09-28T08:27:05.850Z",
+          "createdOn": "2026-09-28T08:27:03.875Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-23T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.22_hersch",
+            "slug": "ny-26-10-22-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba24c6368357c6ba6bf982",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:26:48.320Z",
+          "lastUpdated": "2026-09-28T08:26:48.320Z",
+          "createdOn": "2026-09-28T08:26:46.465Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-22T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.21_hersch",
+            "slug": "ny-26-10-21-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba24b4c8d03db24df5df12",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:26:30.762Z",
+          "lastUpdated": "2026-09-28T08:26:30.762Z",
+          "createdOn": "2026-09-28T08:26:28.908Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Fred Hersch Trio + 2 with Tony Malaby, Ralph Alessi, Drew Gress and Joe Dyson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-21T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.20_hersch",
+            "slug": "ny-26-10-20-hersch",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba245465165b004799b90f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:24:55.186Z",
+          "lastUpdated": "2026-09-28T08:24:55.186Z",
+          "createdOn": "2026-09-28T08:24:52.441Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with Johnathan Finlayson, Gadi Lehavi and Anwar Marshall",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-19T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.18_coltrane_ravi",
+            "slug": "ny-26-10-18-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba243cc5c4fb977fa5a9a3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:24:34.003Z",
+          "lastUpdated": "2026-09-28T08:24:34.003Z",
+          "createdOn": "2026-09-28T08:24:28.919Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with Johnathan Finlayson, Gadi Lehavi and Anwar Marshall",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-18T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.17_coltrane_ravi",
+            "slug": "ny-26-10-17-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba24258796a17f0c7bb36c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:24:08.725Z",
+          "lastUpdated": "2026-09-28T08:24:08.725Z",
+          "createdOn": "2026-09-28T08:24:05.444Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with Johnathan Finlayson, Gadi Lehavi and Anwar Marshall",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-17T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.16_coltrane_ravi",
+            "slug": "ny-26-10-16-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba23f1d078f406eb0a5a05",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:23:15.487Z",
+          "lastUpdated": "2026-09-28T08:23:15.487Z",
+          "createdOn": "2026-09-28T08:23:13.752Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with David Virelles, Dezron Douglas and Johnathan Blake",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-16T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.15_coltrane_ravi",
+            "slug": "ny-26-10-15-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba23df26dcf5fc15acaac2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:22:58.385Z",
+          "lastUpdated": "2026-09-28T08:22:58.385Z",
+          "createdOn": "2026-09-28T08:22:55.139Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with David Virelles, Dezron Douglas and Johnathan Blake",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-15T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.14_coltrane_ravi",
+            "slug": "ny-26-10-14-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba23c2a25a7ca3e0b8ea35",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:22:30.116Z",
+          "lastUpdated": "2026-09-28T08:22:30.116Z",
+          "createdOn": "2026-09-28T08:22:26.950Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ravi Coltrane Cenennial Celebration with David Virelles, Dezron Douglas and Johnathan Blake",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-14T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.13_coltrane_ravi",
+            "slug": "ny-26-10-13-coltrane-ravi",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba224e30b29a259ba75b5e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:16:17.501Z",
+          "lastUpdated": "2026-09-28T08:16:17.501Z",
+          "createdOn": "2026-09-28T08:16:14.693Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jonathan Paik Trio with Shogo Yamagishi and Max Nguyen",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-10-13T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": "<p>Album Release</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_paik",
+            "slug": "ny-26-10-12-paik",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba21c630b29a259ba6f227",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:14:51.592Z",
+          "lastUpdated": "2026-09-28T08:14:51.592Z",
+          "createdOn": "2026-09-28T08:13:58.166Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Steven Feifke Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ee19e1ea9436a608308f5",
+            "start-date": "2026-10-12T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": "<p>Album Release</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_feifke",
+            "slug": "ny-26-10-12-feifke",
+            "city-name": "NYC",
+            "venue-name": "Dizzy's Club",
+            "venue-link": "https://jazz.org/dizzys",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba21210b20448acd7ae52b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:11:17.861Z",
+          "lastUpdated": "2026-09-28T08:11:17.861Z",
+          "createdOn": "2026-09-28T08:11:13.017Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Yvonne Rogers with Henry Fraser and Kayvon Gordon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-10-12T23:30:00.000Z",
+            "event-time": "7:30 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_rogers",
+            "slug": "ny-26-10-12-rogers",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba20b6cc0f7e435f7fa041",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:09:29.471Z",
+          "lastUpdated": "2026-09-28T08:09:29.471Z",
+          "createdOn": "2026-09-28T08:09:26.931Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Willie Green Project",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a306619334e31e75b40d623",
+            "start-date": "2026-10-12T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_green_willie",
+            "slug": "ny-26-10-12-green-willie",
+            "city-name": "NYC",
+            "venue-name": "Nublu",
+            "venue-link": "https://nublu.net/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba1fc6cd6cf1a854889b2d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:06:57.873Z",
+          "lastUpdated": "2026-09-28T08:06:57.873Z",
+          "createdOn": "2026-09-28T08:05:26.244Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Pasquale Grasso Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-10-13T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_grasso",
+            "slug": "ny-26-10-12-grasso",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba1f8fcc0f7e435f7ebf1a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T08:04:33.598Z",
+          "lastUpdated": "2026-09-28T08:04:33.598Z",
+          "createdOn": "2026-09-28T08:04:31.392Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eliot Zigmund Quintet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-10-12T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.12_zigmund",
+            "slug": "ny-26-10-12-zigmund",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6aba0aaed51743b8d3aa5235",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:35:26.517Z",
+          "lastUpdated": "2026-09-28T06:35:26.517Z",
+          "createdOn": "2026-09-28T06:35:26.517Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "ALL HAIL THE DIVAS: Ladies Jazz Jam feat. Sasha Masakowski, Aurora Nealand, Amina Scott & More",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2026-09-30T23:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p>Come dressed as your favorite woman of Jazz for the very first “All Hail the Divas!” The New Orleans Jazz Museum will be hosting this concert and featured costume contest with a night dedicated to the incredible women that shaped the history and future of Jazz. The Diva Costume Contest theme is: Choose your diva. Choose your decade. Come dressed to rule. There is a $200 gift certificate to I Heart Divas for the winner!</p><p>This night of celebration will feature live music by<strong> Sasha Masakowski, Aurora Nealand, Audrey LeCrone, Jenna McSwain, Amina Scott, Raph Zee, and more! </strong></p><p>Come prepared to immerse yourself in the Just Girls Jazz Jam from 9pm - 10pm, enjoy burlesque performances by Betsy Propane, and participate in the silent auction. Prizes include a two-night hotel stay, high end beauty treatments, psychic reading, TedX tickets, and Improvisation Gala tickets.</p><p>Cash Bar </p><p>21+</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://nolajazzmuseum.org/events/2026/9/30/celebrating-women-in-jazz",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.30_all_hall_the_divas_jazz_jam",
+            "slug": "no-26-09-30-all-hall-the-divas-jazz-jam",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba06dfe339f0ab7c7c34e6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:19:49.283Z",
+          "lastUpdated": "2026-09-28T06:19:49.283Z",
+          "createdOn": "2026-09-28T06:19:11.119Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kermit Ruffins & The BBQ Swingers",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-10-03T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p>Kermit Ruffins &amp; The BBQ&nbsp;Swingers for two sets </p><p>‍</p><p>9pm Doors |&nbsp;10pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_ruffins_kermit_bbq",
+            "slug": "no-26-10-02-ruffins-kermit-bbq",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "jazz fusion",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba0620f20bcab37b199203",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:16:00.659Z",
+          "lastUpdated": "2026-09-28T06:16:00.659Z",
+          "createdOn": "2026-09-28T06:16:00.659Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Merv & All That Jazz",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318b98db57c3c8fbba33fb",
+            "start-date": "2026-10-03T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Kid Merv &amp; All That Jazz</strong> is a renowned New Orleans band led by trumpeter and vocalist <strong>Mervin Campbell</strong>. Known for his traditional jazz, brass, and funk performances, Campbell heavily emulates the classic styles of two of his largest influences, Louis Armstrong and Louis Prima. <strong>Mervin \"Kid Merv\" Campbell</strong> is a deeply rooted New Orleans musician. His career began in his youth, playing trumpet in the famous St. Augustine High School Marching 100 and the legendary <strong>Olympia Brass Band</strong>. He went on to form <strong>The</strong> <strong>Young Olympians</strong>, which ultimately morphed into the now globally recognized <strong>Soul Rebels Brass Band,</strong> aka now<strong> The Soul Rebels. </strong>Over his career, he has also played with notable groups like the Treme Brass Band, the Louis Armstrong Society Band, and the Original Royal Players Brass Band. Kid Merv &amp; All That Jazz are a staple on the local festival circuit, performing regularly at major events like the French Quarter Festival, Satchmo SummerFest, and the New Orleans Jazz &amp; Heritage Festival, among many others. </p><p>Catch a healthy dose of the Spirit of New Orleans on Monday nights with Kid Merv &amp;All That Jazz at the Bourbon 'O' Bar inside the Bourbon Orleans Hotel in the heart of the French Quarter and travel back in time a bit. </p><p>‍</p><p>No Cover!&nbsp;</p><p>One Drink Minimum per guest.</p><p>Full food &amp; drink menu available. | Table reservations available. </p>",
+            "button-text": "DETAILS & RESERVATIONS ",
+            "button-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_02_merv_kid_atj",
+            "slug": "no-26-10-02-merv-kid-atj",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bourbon 'O' Bar  (Bourbon Orleans Hotel)",
+            "venue-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "classic jazz",
+              "swingin' jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba05c62d1723dd3871d562",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:14:30.191Z",
+          "lastUpdated": "2026-09-28T06:14:30.191Z",
+          "createdOn": "2026-09-28T06:14:30.191Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Merv & All That Jazz",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318b98db57c3c8fbba33fb",
+            "start-date": "2026-10-06T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Kid Merv &amp; All That Jazz</strong> is a renowned New Orleans band led by trumpeter and vocalist <strong>Mervin Campbell</strong>. Known for his traditional jazz, brass, and funk performances, Campbell heavily emulates the classic styles of two of his largest influences, Louis Armstrong and Louis Prima. <strong>Mervin \"Kid Merv\" Campbell</strong> is a deeply rooted New Orleans musician. His career began in his youth, playing trumpet in the famous St. Augustine High School Marching 100 and the legendary <strong>Olympia Brass Band</strong>. He went on to form <strong>The</strong> <strong>Young Olympians</strong>, which ultimately morphed into the now globally recognized <strong>Soul Rebels Brass Band,</strong> aka now<strong> The Soul Rebels. </strong>Over his career, he has also played with notable groups like the Treme Brass Band, the Louis Armstrong Society Band, and the Original Royal Players Brass Band. Kid Merv &amp; All That Jazz are a staple on the local festival circuit, performing regularly at major events like the French Quarter Festival, Satchmo SummerFest, and the New Orleans Jazz &amp; Heritage Festival, among many others. </p><p>Catch a healthy dose of the Spirit of New Orleans on Monday nights with Kid Merv &amp;All That Jazz at the Bourbon 'O' Bar inside the Bourbon Orleans Hotel in the heart of the French Quarter and travel back in time a bit. </p><p>‍</p><p>No Cover!&nbsp;</p><p>One Drink Minimum per guest.</p><p>Full food &amp; drink menu available. | Table reservations available. </p>",
+            "button-text": "DETAILS & RESERVATIONS ",
+            "button-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_05_merv_kid_atj",
+            "slug": "no-26-10-05-merv-kid-atj",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bourbon 'O' Bar  (Bourbon Orleans Hotel)",
+            "venue-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass",
+              "classic jazz",
+              "swingin' jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba055ba6e9cc7152800683",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:12:43.343Z",
+          "lastUpdated": "2026-09-28T06:12:43.343Z",
+          "createdOn": "2026-09-28T06:12:43.343Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Willie Green Project",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1383852539d75e9dd3d4d8",
+            "start-date": "2026-10-02T23:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p>The Willie Green Project holds down their Friday evening residency at Bacchanal for the perfect way to wind down the work week.</p><p>Sets at 7:00pm &amp;&nbsp;8:45pm </p><p>‍</p><p>NO&nbsp;COVER, wide specialty wine menu, select bar &amp;&nbsp;food menus; first-come, first-served seating. </p><p><em>*Mostly Outdoor Venue, limited indoor seating* </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bacchanalwine.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_green_willie",
+            "slug": "no-26-10-02-green-willie",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bacchanal",
+            "venue-link": "https://www.bacchanalwine.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "contemporary jazz",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba05164762b9e6144942c2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:11:34.155Z",
+          "lastUpdated": "2026-09-28T06:11:34.155Z",
+          "createdOn": "2026-09-28T06:11:34.155Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Byron Asher & Friends ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1383852539d75e9dd3d4d8",
+            "start-date": "2026-10-05T22:00:00.000Z",
+            "event-time": "6PM - 9PM",
+            "event-description": "<p><strong>Byron Asher</strong> is a saxophonist, clarinetist and composer based in New Orleans and working at <strong>the intersection of broadly experimental composition and jazz and improvised music.</strong> </p><p>Since arriving there in 2011, he has become an integral member of New Orleans’ creative music community as a bandleader, collaborator, improviser, composer, and curator. His practice is dedicated to exploring new sounds across genre, and he is committed to building community through assembling and participating in ensembles that bring together musicians from a diversity of training and aesthetic backgrounds. </p><p>Raised in Maryland, he has performed across Europe and the US at major art centers and festivals as well as at dive bars and DIY spaces. Festivals include the New Orleans Jazz &amp; Heritage Festival and French Quarter Festival, the Montreux Jazz Festival, Switzerland, Jazz a Vienne, France, and the Karlovy Vary Jazz Festival, Czech Republic. He has also played shows and festivals in Germany, Poland, and Slovakia and has had his compositions featured at the Kennedy Center in Washington, DC. </p><p>He was a 2022 OneBeat Fellow, a program of the US State Department, for which he was an artist in residence at the Atlantic Center for the Arts (Florida). As a composer, Byron has held residencies at MacDowell (New Hampshire), A Studio In The Woods (New Orleans) and Barn Arts (Maine). His work has been funded by the Doris Duke Foundation, the Foundation for Contemporary Arts (NYC), South Arts (Atlanta), the Jazz And Heritage Foundation (NOLA), the Threadhead Cultural Foundation (NOLA), and the Puffin Foundation (Teaneck, NJ). </p><p>Byron maintains an active performing and recording schedule in New Orleans and around the US as a leader and a sideman. His award-winning<strong> Skrontch Music </strong>large ensemble released its second recording, <strong><em>Lord, when you send the rain,</em></strong> on Sinking City Records in 2024. Their 2019 debut recording was named a top 20 jazz release of the year by textura.org. Byron’s “free jazz party band” Basher’s 2022 release <em>Doubles</em> received 4 stars from <em>Downbeat Magazine</em> and was called <em>“unbearably beautiful”</em> by <em>Pitchfork.</em> A new Basher recording, <em>May Day,</em> was released in May 2024. He has released three albums with his collaboratively led trio, Nutria. In 2021, his duo recording with drummer Brad Webb, <em>Little Bigby, </em>was nominated for Best Contemporary Jazz Recording by New Orleans’ <em>Offbeat Magazine</em>. </p><p>Byron is also adjunct music faculty at the University of New Orleans, where he teaches classes and ensembles for undergraduate and graduate students. </p><p>For his rolling residency at Bacchanal on <strong>Monday evenings</strong>, Byron invites a rotating cast of collaborators and local musicians each week, ranging from intimate duo performances to some of his larger ensembles. </p><p>‍</p><p><strong>6pm - 9pm </strong></p><p>No Cover </p><p>Full Bar, Specialty Wine &amp; Food Menu Available </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bacchanalwine.com/music#musicians",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d42dce24c9008ae4c85a",
+              "6a38d43dfeb11fdc96ee3b41",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.05_asher_byron",
+            "slug": "no-26-10-05-asher-byron",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bacchanal",
+            "venue-link": "https://www.bacchanalwine.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "free jazz",
+              "experimental jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba04cbbc9469648f1de5b0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:10:19.415Z",
+          "lastUpdated": "2026-09-28T06:10:19.415Z",
+          "createdOn": "2026-09-28T06:10:19.415Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Christien Bold",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1383852539d75e9dd3d4d8",
+            "start-date": "2026-10-04T17:00:00.000Z",
+            "event-time": "1PM - 4PPM",
+            "event-description": "<p>Rising young New Orleans jazz singer <strong>Christien Bold</strong> and bandfor two lovely brunch sets. </p><p>Sets at 1:00pm &amp;&nbsp;3:45pm </p><p>‍</p><p>NO&nbsp;COVER, wide specialty wine menu, select bar &amp;&nbsp;food menus; first-come, first-served seating. </p><p><em>*Mostly Outdoor Venue, limited indoor seating* </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bacchanalwine.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_bold_christien",
+            "slug": "no-26-10-04-bold-christien",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bacchanal",
+            "venue-link": "https://www.bacchanalwine.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "contemporary jazz",
+              "jazz fusion",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba03d92d1723dd3870d3c7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:06:17.192Z",
+          "lastUpdated": "2026-09-28T06:06:17.192Z",
+          "createdOn": "2026-09-28T06:06:17.192Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Noah Young Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1383852539d75e9dd3d4d8",
+            "start-date": "2026-10-04T23:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p><strong>Noah Young </strong>is a young lion of a bass player, holding down the grooves for the internationally acclaimed Naughty Professor as well as for his own band, the Noah Young Trio. When not touring, Young can be found recording and performing across the city with luminaries including Mahmoud Chouki and Jamison Ross.</p><p>‍</p><p>Rising young bassist Noah Young presents his band for two sets on Sunday evening. </p><p>Sets at 7:00pm &amp;&nbsp;8:45pm </p><p>‍</p><p>NO&nbsp;COVER, wide specialty wine menu, select bar &amp;&nbsp;food menus; first-come, first-served seating. </p><p><em>*Mostly Outdoor Venue, limited indoor seating* </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bacchanalwine.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_noah_young",
+            "slug": "no-26-10-04-noah-young",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bacchanal",
+            "venue-link": "https://www.bacchanalwine.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "contemporary jazz",
+              "jazz fusion",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba0352f43ea7c4e034251b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:04:02.890Z",
+          "lastUpdated": "2026-09-28T06:04:02.890Z",
+          "createdOn": "2026-09-28T06:04:02.890Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Soul Rebels",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-10-10T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p><a href=\"https://thesoulrebels.com/\"><strong>The Soul Rebels</strong></a> are an eight-piece New Orleans brass band known for mashing up traditional jazz and marching band roots with funk, hip-hop, soul, and rock. Founded in 1991 by percussionists Lumar LeBlanc and Derrick Moss, they have become a globally touring phenomenon. </p><p>Originating from the Young Olympia Brass Band, the members decided to break away to incorporate contemporary radio hits and hip-hop into their arrangements. Performing at the iconic Uptown New Orleans club Tipitina's in 1991, Cyril Neville suggested they name their group after the Bob Marley song \"Soul Rebels,\" cementing their new progressive direction. </p><p>The collective has since become renowned for crossing genres and performing with massive stars. They have collaborated with hip-hop and pop legends including Nas, Katy Perry, Metallica, GZA (Wu-Tang Clan), G-Eazy, and DMX. Their energetic sound has also made them a staple in film and television, scoring original music for Disney's 2023 movie <em>Haunted Mansion</em> and appearing on the soundtrack for <em>Girls Trip. </em>They have also appeared on <em>The Late Show with Stephen Colbert </em>and <em>NPR</em>'s Tiny Desk.</p><p>Among several other hits, their song \"Let Your Mind Be Free\"&nbsp;remains one of the most popular New Orleans brass band staples to-date. </p><p>Catch them tonight at their monthly Frenchmen Street residency - one of only two rare opportunities these days to experience The Rebels live in a tony intimate room, the size of the ones they started out in over 30+&nbsp;years ago.</p><p><strong>Two Sets: 10pm &amp;&nbsp;Midnight</strong></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.dbaneworleans.com/shows",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.09_soul_rebels_dba",
+            "slug": "no-26-10-09-soul-rebels-dba",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "funk",
+              "funk fusion",
+              "hip-hop",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba02f4d35448ef785ad8e4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T06:02:28.849Z",
+          "lastUpdated": "2026-09-28T06:02:28.849Z",
+          "createdOn": "2026-09-28T06:02:28.849Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Kid Chocolate & The Free P.O.C. ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-10-03T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p><a href=\"https://www.facebook.com/DBAKidchocolate/\"><strong>Kid Chocolate &amp; The Free P.O.C.</strong></a> present their monthly residency on the famed Frenchmen Street music strip, featuring:&nbsp;</p><p>‍</p><p>Kid Chocolate - trumpet </p><p>Deuce Brown - trumpet, guitar </p><p>Keiko Komaki - keys </p><p>Donald Ramsey - bass </p><p>John Stutts - drums </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.dbaneworleans.com/shows",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_03_kid_chocolate_POC_dba",
+            "slug": "no-26-10-03-kid-chocolate-poc-dba",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "21+",
+              "soul",
+              "jazz fusion",
+              "funk fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba017cbabc2dcac3cd3a8e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:56:12.203Z",
+          "lastUpdated": "2026-09-28T05:56:12.203Z",
+          "createdOn": "2026-09-28T05:56:12.203Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Young Lion Showcase with Deuce Brown +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-10-03T18:30:00.000Z",
+            "event-time": "2:30PM",
+            "event-description": "<p>Weekly Y<strong>oung Lion Showcase </strong>featuring rising young trumpeter <strong>Deuce Brown</strong> plus special guests: </p><p>Nurturing the next wave of New Orleans sound — DBA opens its stage to young musicians stepping into their own. Come witness tomorrow’s legends in the making.</p><p>+&nbsp;Crawfish Boil by Gourmet Sacred Soul Kitchen Therapy </p><p>‍</p><p>2pm Doors | Sets at 2:30pm &amp;&nbsp;4pm </p><p>NO&nbsp;COVER&nbsp;|&nbsp;All Ages until 5pm </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.dbaneworleans.com/shows",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524675",
+              "6a3da8cbfa6118c2dd0e7287"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_young_lion_showcase",
+            "slug": "no-26-10-03-young-lion-showcase",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "modern jazz",
+              "jazz fusion",
+              "No Cover",
+              "All ages",
+              "brass"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba014b063e3a2aecfd4956",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:55:23.446Z",
+          "lastUpdated": "2026-09-28T05:55:23.446Z",
+          "createdOn": "2026-09-28T05:55:23.446Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kermit Ruffins & The BBQ Swingers",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3db0cb3bc6a444994fadb1",
+            "start-date": "2026-10-03T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>Kermit Ruffins &amp; The BBQ&nbsp;Swingers on the hometurf to setup your Saturday evening real right. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.kermitslounge.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_ruffins_kermit_bbq_MIL",
+            "slug": "no-26-10-03-ruffins-kermit-bbq-mil",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Kermit's Tremé Mother-in-Law Lounge",
+            "venue-link": "https://www.kermitslounge.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "jazz fusion",
+              "funk",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba00fc04b9aed0dcbe426e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:54:04.151Z",
+          "lastUpdated": "2026-09-28T05:54:04.151Z",
+          "createdOn": "2026-09-28T05:54:04.151Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Nayo Jones Experience ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fbdb2dd8a1b4e859eea",
+            "start-date": "2026-10-03T23:30:00.000Z",
+            "event-time": "7:30 & 9:00PM",
+            "event-description": "<p><a href=\"https://www.nayojones.com/\"><strong>Nayo Jones </strong></a>(pronounced Nīyō) was born in Chicago, Illinois into a family of musicians and destined to be in show business. As an accomplished jazz musician and music educator, her father William “Doc” Jones groomed and nurtured her natural ability from a very young age. Nayo grew up listening to Jazz standards that proved to be a solid foundation and would later become a signature in her own show. Accomplished in her own right, Jones is also a classically trained flutist.</p><p>Currently Nayo is based in New Orleans, LA where she performs regularly with her band <strong>“The Nayo Jones Experience”.</strong> In addition to her own show, Ms. Jones also tours alongside New Orleans iconic jazz trumpeter, <strong>Kermit Ruffins </strong>as the featured vocalist and has toured with the <strong>New Orleans Jazz Orchestra lead by Adonis Rose</strong> and is a featured vocalist on their album celebrating the famed Allen Toussaint with a beautiful rendition of <em>\"Ruler of My Heart.\"</em></p><p>Nayo’s vocal range has been compared to the likes of Natalie Cole, Nancy Wilson, even Whitney Houston. She has been the opening act for artists such as the legendary George Benson, Chris Botti, Rick Braun &amp; Richard Elliot and more.</p><p>Nayo has performed at the New Orleans Jazz &amp; Heritage Festival, French Quarter Fest, Satchmo SummerFest, and many other Louisiana festivals annually since 2012. She has consistently drawn rave reviews for her performances. Nayo and her band, “The Nayo Jones Experience” has a &nbsp;longstanding residency at the Carousel Lounge located in the historic <strong>Hotel Montelone</strong> and The Jazz Playhouse at the <strong>Royal Sonesta Hotel </strong>in the French Quarter. She has also performed at the Scottsdale Jazz Festival, Twin Cities Jazz Festival, Iowa City Jazz Festival and the Ascona, Switzerland Jazz Festival with the New Orleans Jazz Orchestra and more</p><p>Nayo’s body of original work includes the realses <em>\"Nayo, My Name is Nayo Jones,\"</em> a holiday album, <em>\"The Nayo Jones Experience Live at the Kerr Cultural Center,\" </em>and most recently her EP entitled, <em>\"With Love, Nayo Jones,\"</em> which is available on all music streaming platforms. </p><p>‍</p><p><strong>7:00pm Doors</strong></p><p>7:30pm Show</p><p><strong>Two Sets at 7:30pm &amp; 9:00pm</strong> | &nbsp;One Ticket, Two Sets</p><p>‍</p><p>Seating is limited and first-come, first-served, so early arrival and/or advance tickets are strongly suggested. Full bar and light bites menu available.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.thejazzplayhouse.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9aeece73087b968fb39b",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_jones_nayo_experience_JPH",
+            "slug": "no-26-10-03-jones-nayo-experience-jph",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Jazz Playhouse (Royal Sonesta Hotel) ",
+            "venue-link": "https://www.thejazzplayhouse.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "lounge",
+              "classic jazz",
+              "swingin' jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba00ca525e130282d46c7b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:53:14.539Z",
+          "lastUpdated": "2026-09-28T05:53:14.539Z",
+          "createdOn": "2026-09-28T05:53:14.539Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Nayo Jones Experience ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cd673359de5208fc576e",
+            "start-date": "2026-10-03T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><a href=\"https://www.nayojones.com/\"><strong>Nayo Jones </strong></a>(pronounced Nīyō) was born in Chicago, Illinois into a family of musicians and destined to be in show business. As an accomplished jazz musician and music educator, her father William “Doc” Jones groomed and nurtured her natural ability from a very young age. Nayo grew up listening to Jazz standards that proved to be a solid foundation and would later become a signature in her own show. Accomplished in her own right, Jones is also a classically trained flutist.</p><p>Currently Nayo is based in New Orleans, LA where she performs regularly with her band <strong>“The Nayo Jones Experience”.</strong> In addition to her own show, Ms. Jones also tours alongside New Orleans iconic jazz trumpeter, <strong>Kermit Ruffins </strong>as the featured vocalist and has toured with the <strong>New Orleans Jazz Orchestra lead by Adonis Rose</strong> and is a featured vocalist on their album celebrating the famed Allen Toussaint with a beautiful rendition of <em>\"Ruler of My Heart.\"</em></p><p>Nayo’s vocal range has been compared to the likes of Natalie Cole, Nancy Wilson, even Whitney Houston. She has been the opening act for artists such as the legendary George Benson, Chris Botti, Rick Braun &amp; Richard Elliot and more.</p><p>Nayo has performed at the New Orleans Jazz &amp; Heritage Festival, French Quarter Fest, Satchmo SummerFest, and many other Louisiana festivals annually since 2012. She has consistently drawn rave reviews for her performances. Nayo and her band, “The Nayo Jones Experience” has a &nbsp;longstanding residency at the Carousel Lounge located in the historic <strong>Hotel Montelone</strong> and The Jazz Playhouse at the <strong>Royal Sonesta Hotel </strong>in the French Quarter. She has also performed at the Scottsdale Jazz Festival, Twin Cities Jazz Festival, Iowa City Jazz Festival and the Ascona, Switzerland Jazz Festival with the New Orleans Jazz Orchestra and more</p><p>Nayo’s body of original work includes the realses <em>\"Nayo, My Name is Nayo Jones,\"</em> a holiday album, <em>\"The Nayo Jones Experience Live at the Kerr Cultural Center,\" </em>and most recently her EP entitled, <em>\"With Love, Nayo Jones,\"</em> which is available on all music streaming platforms. </p><p><strong>9:00pm Showtime </strong></p><p>Sets at 9pm &amp; 10:45pm </p><p>‍</p><p>NO&nbsp;COVER, but seating is limited and first-come, first-served, so early arrival is suggested. One drink minimum per guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9aeece73087b968fb39b",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_jones_nayo_experience",
+            "slug": "no-26-10-02-jones-nayo-experience",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Carousel Bar & Lounge (Hotel Monteleone) ",
+            "venue-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "lounge",
+              "classic jazz",
+              "swingin' jazz",
+              "straight ahead jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aba008c30b29a259b9303ee",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:52:12.692Z",
+          "lastUpdated": "2026-09-28T05:52:12.692Z",
+          "createdOn": "2026-09-28T05:52:12.692Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Free Agents Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a9de736b058bd328089bb58",
+            "start-date": "2026-10-02T22:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Free Agents Brass Band for two sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://bluecrawfish.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_free_agents_brass_band",
+            "slug": "no-26-10-02-free-agents-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Blue Crawfish",
+            "venue-link": "https://bluecrawfish.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9ffb7063e3a2aecfcae2f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:48:39.718Z",
+          "lastUpdated": "2026-09-28T05:48:39.718Z",
+          "createdOn": "2026-09-28T05:48:39.718Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Whitney Mixon Trio (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-03T20:30:00.000Z",
+            "event-time": "4:30PM (FREE) ",
+            "event-description": "<p><strong>Whitney Mixon </strong>is a New Orleans-based vocalist, songwriter and performer whose style fuses funk, soul, jazz and ’90s R&amp;B with the vibrant musical DNA of her hometown. She leads the band <strong>\"Whit It\"</strong> and is known for energetic live shows that balance intimate moments with full-on groove. In 2023 she took home the title of Stage Door Idol winner, and her debut studio album, <strong><em>Mix Up</em></strong>, released in October 2025, explores themes of love, growth and self-discovery while inviting listeners into her journey both on stage and beyond. </p><p>‍</p><p><strong>The Whitney Mixon Trio this evening features: </strong></p><p>Whitney Mixon - vocals </p><p>Travis Simmons - drums </p><p>Paul Stewart - piano, keys </p><p>‍</p><p>‍</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/whitney-mixon-trio-featuring-paul-stewart-and-travis-simmons/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_03_mixon_whitney_trio",
+            "slug": "no-26-10-03-mixon-whitney-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+",
+              "jazz fusion",
+              "soul",
+              "funk fusion",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9fdcca677752c97bb0c60",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:40:28.759Z",
+          "lastUpdated": "2026-09-28T05:40:28.759Z",
+          "createdOn": "2026-09-28T05:40:28.759Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jelly Joseph ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-10-10T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><strong>Jelly Joseph</strong> is a Grammy Nominated singer/songwriter whose musical talents and gifts have taken her far beyond her hometown of New Orleans, Louisiana. Born to a mother with gospel roots and a father known for soulful blues, Joseph's voice is a perfect combination of spiritual, soulful and raw. </p><p>Internationally known for her work with Tank and The Bangas, HaSizzle, and as the current frontwoman of popular New Orleans funk fusion band Galactic, traveling and sharing her eccentric and sassy vocals is the singer's main passion. In 2024 she and her own band appeared in the Amazon movie, \"Roadhouse.\" Her new single \"Thru The Roof\" was released on 04.20.2025. </p><p>‍</p><p><strong>Sets at 9:00pm &amp;&nbsp;10:30pm </strong></p><p>Full bar and bar food menu available. </p><p>NO&nbsp;COVER, with standing room and some seating on a first-come, first-serve basis. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.09_joseph_jelly_good_measure",
+            "slug": "no-26-10-09-joseph-jelly-good-measure",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "soul",
+              "R&B"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9fc38e339f0ab7c782623",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:33:44.550Z",
+          "lastUpdated": "2026-09-28T05:33:44.550Z",
+          "createdOn": "2026-09-28T05:33:44.550Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "YUSA",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-10-02T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Regarded as an Ambassador of 21st Century Cuban Music, guitarist, bassist, vocalist, composer and tres player, <a href=\"https://www.instagram.com/yusa_music/?hl=en\"><strong>YUSA</strong></a>, is no stranger to New Orleans, as she has been spending time in the city and collaborating with many of our esteemed musicians since 2016 when she first performed with the Cuban band <strong>Telmary</strong> at the New Orleans Jazz &amp; Heritage Festival, and officially made the Crescent City her home in 2019, after spending some time in Miami and Argentina.</p><p>YUSA is recognized as one of the leading voices of Cuban music today. Her compositions have earned the acclaim of both her contemporaries on the island and international admirers. Born in Havana, music and the ocean have been central to her artistic production as a singer-songwriter. </p><p>She signed to the UK label <strong>Tumi Music</strong> in 2002 and released a handful of albums to critical acclaim, including multiple <strong>CubaDisco Awards</strong> and a <strong>BBC Radio World Music Award.</strong> In 2008, she founded her own label, Yusa Music, on which she released her 5th album in 2012. </p><p>YUSA blazed trails in early years as a member of the all-women improvisational quintet <strong>Quasi Jazz</strong>, cementing her voice in the jazz fusion world, but she is perhaps most known as one of the core members of Quasi-Jazz to then go on and found the popular all-star Cuban timba-funk band<a href=\"https://www.instagram.com/interactivo_de_cuba/?hl=en\"><strong> Interactivo, </strong></a>serving as one its central composers.</p><p>She brings her vibrant blend of trova, son, pop, jazz, Cuban and Brasilian rhythms to the stage and leaves the audience always wanting more. Yusa draws the listener in with her uncommon and very personal style, integrating Cuban music with music from around the globe, avoiding clichés and achieving the ever-elusive “fusion.”</p><p>If you've seen Yusa live once, you still haven't seen her.</p><p>‍</p><p><strong>Two Sets at 8pm &amp; 10pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_yusa_good_measure",
+            "slug": "no-26-10-01-yusa-good-measure",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "modern jazz",
+              "contemporary jazz",
+              "blues",
+              "world music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9fab74762b9e6144583c9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:27:19.776Z",
+          "lastUpdated": "2026-09-28T05:27:19.776Z",
+          "createdOn": "2026-09-28T05:27:19.776Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Corey Henry & The Tremé Funktet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3190743031319c406e4e1a",
+            "start-date": "2026-10-02T02:30:00.000Z",
+            "event-time": "10:30PM",
+            "event-description": "<p>One of New Orleans' longest running residencies, launched by Kermit Ruffins and passed on to the next young gun, 6th Ward trombone player <strong>Corey Henry</strong>, who's been lighting up this bywater watering hole since 2013 with the <strong>Tremé Funktet</strong> with rotating special guests weekly. </p><p><strong>Sets at 10:30pm &amp;&nbsp;12:30am </strong></p><p><em>*&nbsp;CASH&nbsp;ONLY!&nbsp;*&nbsp; </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_henry_corey_treme_funktet",
+            "slug": "no-26-10-01-henry-corey-treme-funktet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Vaughan's Lounge",
+            "venue-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "jazz",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9fa602d8a785370c57017",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:25:52.487Z",
+          "lastUpdated": "2026-09-28T05:25:52.487Z",
+          "createdOn": "2026-09-28T05:25:52.487Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brass-A-Holics",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fbdb2dd8a1b4e859eea",
+            "start-date": "2026-10-01T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Funkin' it up on Thursday nights at The Jazz Playhouse with The Brass-A-Holics for New Orleans second line brass beat meets DC&nbsp;go-go beat like no one else can shake it!&nbsp;</p><p>7:00pm Doors </p><p>7:30pm Show </p><p>Two Sets at 7:30pm &amp;&nbsp;9:00pm |&nbsp; One Ticket, Two Sets </p><p>‍</p><p>Seating is very limited and first-come, first-served, so early arrival and/or advance tickets is strongly suggested. Full bar and light bites menu available. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.thejazzplayhouse.com/calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a5436bdcf879add14955368",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10.01_brass_a_holics",
+            "slug": "no-26-10-01-brass-a-holics",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Jazz Playhouse (Royal Sonesta Hotel) ",
+            "venue-link": "https://www.thejazzplayhouse.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "funk fusion",
+              "brass",
+              "brass band",
+              "go-go",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f9f704b9aed0dcbc3228",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:24:07.107Z",
+          "lastUpdated": "2026-09-28T05:24:07.107Z",
+          "createdOn": "2026-09-28T05:24:07.107Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-10-02T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_da_lovebirds",
+            "slug": "no-26-10-01-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f7d49f9e16c99cf675e9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:15:00.834Z",
+          "lastUpdated": "2026-09-28T05:15:00.834Z",
+          "createdOn": "2026-09-28T05:15:00.834Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "JUICE presents Sypher Sundays",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "6912eddbd0ba2a21bf7661ca",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-10-04T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong>JUICE&nbsp;presents Sypher Sundays </strong></p><p>Open hip-hop, R&amp;B, cross-genre experimental open mic cypher, hosted by JUICE aka Julian Gosin. </p><p>National recording artist, Juice, brings originality to the stage. The music is for the people, and this time the people are involved. He presents a \"Sypher Sunday\" series that highlights New Orleans' local Hip Hop scene that is looking for a voice. Two sets of great music and storytelling.</p><p>‍</p><p>7pm - 10pm </p><p>NO&nbsp;COVER&nbsp;</p><p>21+</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-/juice-2026-sypher-sundays-htlj4",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3e1976c393eb65ce7dee38",
+              "6a5409e42bdfdb9477100c16",
+              "6a53e1fbdad8a3ee74b90c63",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_juice_sypher_sundays",
+            "slug": "no-26-10-04-juice-sypher-sundays",
+            "city-name": "NOLA",
+            "category-name": "Jam Session",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "hip-hop",
+              "funk fusion",
+              "jam",
+              "No Cover",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f7a0f43ea7c4e030811b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:14:08.284Z",
+          "lastUpdated": "2026-09-28T05:14:08.284Z",
+          "createdOn": "2026-09-28T05:14:08.284Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Johnny Vidacovich Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-10-02T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Johnny Vidacovich Trio </strong>each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>‍</p><p><strong>This week's trio with: </strong></p><p>James Singleton - bass </p><p>Brian Haas - keys </p><p>‍</p><p>Two Sets, One Ticket: </p><p><strong>Sets at 8pm &amp; 10pm </strong></p><p>Doors at 7pm </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_01_vidacovich_trio",
+            "slug": "no-26-10-01-vidacovich-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "jazz fusion",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f6caa25a7ca3e09ecea4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T05:10:34.470Z",
+          "lastUpdated": "2026-09-28T05:10:34.470Z",
+          "createdOn": "2026-09-28T05:10:34.470Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOLAxNOLA: Jamison Ross, Wil Blades & Ari Teitel ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-10-01T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>NOLAxNOLA&nbsp;&amp; The Blue Nile Live present: </p><p>Supersession with </p><p>JAMISON&nbsp;ROSS&nbsp;- drums </p><p>WIL&nbsp;BLADES&nbsp;- keys </p><p>ARI&nbsp;TEITEL - guitar </p><p>+sg</p><p>‍</p><p>9pm - 12am </p><p>21+</p>",
+            "button-text": "TICKETS ",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-/wil-blades-ari-teitel-jamison-ross-nolaxnola",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2"
+            ],
+            "thumbnail": null,
+            "name": "no_26.09.30_ross_blades_teitel",
+            "slug": "no-26-09-30-ross-blades-teitel",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f396babc2dcac3c8db15",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:56:54.749Z",
+          "lastUpdated": "2026-09-28T04:56:54.749Z",
+          "createdOn": "2026-09-28T04:56:54.749Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jamil Sharif & The New Orleans Extravaganza ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-09T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Renowned NewOrleans trumpeter <strong>Jamil Sharif</strong> presents his New Orleans Extravaganza Band for two sets. </p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>1 Drink Minimum per Guest </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.08_sharif_jamil_NOE",
+            "slug": "no-26-10-08-sharif-jamil-noe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f3662d1723dd386b8ec7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:56:06.847Z",
+          "lastUpdated": "2026-09-28T04:56:06.847Z",
+          "createdOn": "2026-09-28T04:56:06.847Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Lastie & The New Orleans Sound featuring Gregg Stafford ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-07T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Joe Lastie &amp; The New Orleans Sound featuring Gregg Stafford </p><p>‍</p><p>No Cover! But seating is very limited, so early arrival is strongly suggested. One Drink Minimum per guest. Great cocktail menu.</p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.06_lastie_joe_NOS",
+            "slug": "no-26-10-06-lastie-joe-nos",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "trad jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f33479fdd6acfa822e73",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:55:16.305Z",
+          "lastUpdated": "2026-09-28T04:55:16.305Z",
+          "createdOn": "2026-09-28T04:55:16.305Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Campbell (solo piano)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-05T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>2026 JGI&nbsp;Jazz Cohort Fellow, <strong>Victor Campbell </strong>is a young jazz piano player hailing from <strong>Camagüey, Cuba.</strong> His compelling style combines virtuosity, whimsy, charisma and technical prowess. Notably, it is just plain fun to watch Victor perform. He started playing piano at age 5 and went on to train at <strong>Cuba’s National School of the Arts.</strong> He has since played all over the United States, and internationally. Victor first visited New Orleans in 2012 as a teenager, part of an exchange program with the <strong>Louis Armstrong Summer Jazz Camp</strong>. That visit changed his life and in 2019 Victor decided to move to New Orleans. He has been feverishly studying all styles of New Orleans music ever since, and incorporating it into his own musical language. He can effortlessly transition from a blues solo, to a Cuban timba montuno, and then right into a classical piano selection. In a 2019 interview, the great <strong>Chucho Valdés</strong> predicted that, <em>“Victor will revolutionize Cuban jazz piano.”</em></p><p>After performing as a featured new artist at several CubaNOLA showcases, Victor now has several New Orleans-based bands and collaborations, including his high-energy big band <strong>Timba Swamp</strong>, and is a fervent leader of the city’s growing Cuba-New Orleans fusion renaissance scene, which also includes collaborations with the Cuban funk phenomenon, <strong>Cimafunk, </strong>and New Orleans legends like <strong>Delfeayo Marsalis’ Uptown Jazz Orchestra.</strong> Most recently, he was recruited by renowned musical director <strong>Raphael Saadiq</strong> to play piano on the Oscar-nominated soundtrack for 2025’s Academy Award-winning film by director Ryan Coogler, \"<strong><em>SINNERS.” </em></strong></p><p>‍</p><p>This evening, Victor performs one of his acclaimed solo piano shows. </p><p>*This performance is no cover!</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d2dd1458bd4b79c78b32",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.05_campbell_victor-solo",
+            "slug": "no-26-10-05-campbell-victor-solo",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "Cuban",
+              "jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f2d2fd66024363455d40",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:53:38.634Z",
+          "lastUpdated": "2026-09-28T04:53:38.634Z",
+          "createdOn": "2026-09-28T04:53:38.634Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Hot 8 Brass Band ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a826a060aadc1f23df0e8e4",
+            "start-date": "2026-10-05T02:00:00.000Z",
+            "event-time": "10:30PM",
+            "event-description": "<p>The Grammy Award-winning <strong>HOT&nbsp;8 BRASS&nbsp;BAND</strong>&nbsp;hold down their long-running Sunday night residency inside The Howlin' Wolf's intimate little side bar, The Den. </p><p>‍</p><p>10:00pm Doors </p><p>Sets at 10:30pm &amp;&nbsp;12:00am </p><p>$20 |&nbsp;21+ </p><p>‍</p><p>Full Bar &amp;&nbsp;Kitchen Grill </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/events/org/13741?pl=howlin",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a794f040fce7dcd2b311550",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_hot_8_bb",
+            "slug": "no-26-10-04-hot-8-bb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Den at The Howlin' Wolf",
+            "venue-link": "https://www.thehowlinwolf.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "second line music",
+              "funk",
+              "funk fusion",
+              "hip-hop",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f29c4c7299bd3898135f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:52:44.840Z",
+          "lastUpdated": "2026-09-28T04:52:44.840Z",
+          "createdOn": "2026-09-28T04:52:44.840Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Roderick Paulin & The Swingsters",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-05T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>If the name Paulin sounds familiar, there’s a reason for that – <a href=\"https://roderickpaulinmusic.com/\"><strong>Roderick Paulin</strong></a> is the son of legendary New Orleans bandleader Ernest “Doc” Paulin who led brass bands on the streets of New Orleans for over 70 years. Doc insisted that musicians in his bands adhere to certain professional standards on and off stage. Many young players began their music career by performing with Doc Paulin and have gone on to achieve musical prominence, such as clarinetist Dr. Michael White, alto saxophonist Donald Harrison, Jr, and trumpeter Gregg Stafford, among scores of local New Orleans musicians. </p><p>Roderick’s musical career spans over four decades collaborating with artists such as <strong>John Legend, Harry Connick Jr, Aaron Neville, Allen Toussaint, Maceo Parker, Fred Wesley, Christian McBride, Trombone ‘Shorty’ Andrews, Wynton Marsalis, The Grateful Dead, PJ Morton, The Brand New Heavies, The Afghan Whigs, Branford Marsalis, and the ReBirth Brass Band.</strong> </p><p>Paulin’s experience as an arranger, producer, saxophonist/clarinetist continues to serve him well as he’s a highly sought after clinician/master class educator teaching the fundamentals of music and economic empowerment to students of all ages and demographics. In addition to teaching on the faculty at <strong>Southern University at New Orleans</strong>' music department, for the last 10 years, Paulin has also served on the faculty of the<strong> Louis Armstrong Summer Jazz Camp</strong> of New Orleans which is the longest running, minority-owned and operated music organization that serves public and private school students of New Orleans and surrounding communities. </p><p>Join us tonight to experience \"Reverend\"&nbsp;Roderick Paulin in his element as he leads The Swingsters band for his Sunday night residency. </p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.04_paulin_roderick_swingsters",
+            "slug": "no-26-10-04-paulin-roderick-swingsters",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Black American Music",
+              "BAM",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f26c30dc52f289a78c32",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:51:56.823Z",
+          "lastUpdated": "2026-09-28T04:51:56.823Z",
+          "createdOn": "2026-09-28T04:51:56.823Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Chocolate & The Mahogany Jazz Hall All-Stars",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-04T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p>Trumpet phenom <strong>Kid Chocolate</strong> leads the Mahogany Jazz Hall All-Stars for 2 sets, then Midnight Burlesque brings the climax of the evening. </p><p>‍</p><p>NO&nbsp;COVER!&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_chocolate_kid_MJHAS",
+            "slug": "no-26-10-03-chocolate-kid-mjhas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f23abc9469648f18963d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:51:06.160Z",
+          "lastUpdated": "2026-09-28T04:51:06.160Z",
+          "createdOn": "2026-09-28T04:51:06.160Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gerald French Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-03T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Gerald French Trio for 2 sets</p><p>‍</p><p>NO&nbsp;COVER!&nbsp; </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_french_gerald_trio",
+            "slug": "no-26-10-03-french-gerald-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f218a677752c97b7922a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:50:32.872Z",
+          "lastUpdated": "2026-09-28T04:50:32.872Z",
+          "createdOn": "2026-09-28T04:50:32.872Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stephen Walker N'Em",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-03T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>Stephen Walker N'Em for 2 sets at 3pm. Easy like Saturday afternoon.</p><p>‍</p><p>NO&nbsp;COVER! </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_walker_stephen",
+            "slug": "no-26-10-03-walker-stephen",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f1e52d1723dd386ae3f9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:49:41.384Z",
+          "lastUpdated": "2026-09-28T04:49:41.384Z",
+          "createdOn": "2026-09-28T04:49:41.384Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis Quintet ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-02T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong>GRAMMY Award-winning</strong><a href=\"https://www.dmarsalis.com/\"> Delfeayo Marsalis</a> is one of the top trombonists, composers, and producers in jazz today. Known for his <em>“technical excellence, inventive mind and frequent touches of humor…”</em> (Leonard Feather, <em>Los Angeles Times</em>), he is <em>“…one of the best, most imaginative and musical of the trombonists of his generation.”</em> (Philip Elwood, <em>San Francisco Examiner</em>). In 2011, Delfeayo and the Marsalis family (father Ellis and brothers Branford, Wynton, and Jason) earned the nation’s highest jazz honor – a <strong>National Endowment for the Arts (NEA) Jazz Masters Award</strong>, thus dubbing them \"America's First Family of Jazz.\" <strong>With more than a dozen record releases </strong>under his own name and as leader of the Uptown Jazz Orchestra since his debut in 1992, Delfeayo has since proven himself an exceptional trombonist who has toured internationally with his own groups, as well as those led by handfuls of other renowned bandleaders. </p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>Seating is first-come, first-served. </p><p>1 Drunk Minimum per Guest. </p><p>21+ </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_marsalis_delfeayo_quintet",
+            "slug": "no-26-10-02-marsalis-delfeayo-quintet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "modern jazz",
+              "classic jazz",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f19b2d1723dd386acf00",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:48:27.278Z",
+          "lastUpdated": "2026-09-28T04:48:27.278Z",
+          "createdOn": "2026-09-28T04:48:27.278Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Khris Royal Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-02T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>Khris Royal Trio for 2 sets </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.02_royal_khris_trio",
+            "slug": "no-26-10-02-royal-khris-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "straight ahead jazz",
+              "Black American Music",
+              "BAM",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f166babc2dcac3c82337",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:47:34.906Z",
+          "lastUpdated": "2026-09-28T04:47:34.906Z",
+          "createdOn": "2026-09-28T04:47:34.906Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kermit Ruffins & The BBQ Swingers",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-01T22:00:00.000Z",
+            "event-time": "6:00- 7:30PM",
+            "event-description": "<p>Kermit Ruffins &amp; The BBQ&nbsp;Swingers </p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>1 Drink Minimum per Guest </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/music",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_ruffins_kermit_mjh",
+            "slug": "no-26-10-01-ruffins-kermit-mjh",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "trad jazz",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9f06bc5c4fb977f8b09c7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:43:23.632Z",
+          "lastUpdated": "2026-09-28T04:43:23.632Z",
+          "createdOn": "2026-09-28T04:43:23.632Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jamil Sharif & The New Orleans Extravaganza ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-10-02T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Renowned NewOrleans trumpeter <strong>Jamil Sharif</strong> presents his New Orleans Extravaganza Band for two sets. </p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>1 Drink Minimum per Guest </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.01_sharif_jamil_NOE Copy",
+            "slug": "no-26-10-01-sharif-jamil-noe-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab9ee46bf647a4d8c6a1990",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-28T04:39:12.676Z",
+          "lastUpdated": "2026-09-28T04:39:12.676Z",
+          "createdOn": "2026-09-28T04:34:14.725Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Feel The Rhythm Of The Drums 4",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "6a8ba5e6ab3a72ddeff04774",
+            "venue": "6ab9ee68b4ebeb080b914a6a",
+            "start-date": "2026-10-03T19:00:00.000Z",
+            "event-time": "3PM - 9PM",
+            "event-description": "<p>New Orleans Airlift is excited to host the fourth annual Feel the Rhythm of the Drums Festival at Music Box Village in the Bywater neighborhood of New Orleans on October 3rd, 2026. This year’s event capitalizes on the joy and dynamic energy of last year’s gathering and brings to it new voices from within our city.</p><p><strong>Orlando Primo, </strong>festival curator and founder of <strong>Majek Fingers International School of Drumming </strong>is the creative force behind this unique event that shares folkloric drum and dance styles from across the African diaspora, and invites audience members to learn and engage with what they are hearing. The combination of interactivity and performance educates and inspires as it encourages artists and attendees alike to participate in cross-cultural exchange.</p><ul><li><strong>Orlando Primo</strong>, founder and director of <strong>Majek Fingers Drumming School</strong>, is a master percussionist whose artistic brilliance is deeply intertwined with his passion for education and community empowerment. As the visionary behind the Feel the Rhythm of the Drums Festival, Primo continues to connect cultures and generations through rhythm, movement, and storytelling. </li></ul><ul><li>This year’s festival shines a spotlight on folkloric traditions that, while not always widely known among New Orleanians, are deeply embedded in the Afro-Caribbean rhythms that fuel the city's vibrant musical identity. Audiences will be treated to the powerful sounds of <strong>Bomba </strong>from <strong>Puerto Rico</strong>, performed by the dynamic <strong>Bombazo Dance Company </strong>led by Milteri Tucker, and the rich, soulful rhythms of <strong>Brazil</strong>, brought to life by the electrifying group <strong>Tamojunto</strong>.</li></ul><ul><li>In keeping with its growing international vision, the festival proudly welcomes the return of cherished collaborators. <strong>Bill Summers </strong>will open the event with a spirited drumming workshop and dance from Cuba, setting the tone for a day of cultural celebration. Beloved local performers the <strong>Silhouette Dance Ensemble </strong>led by Mama Kai Knight—will bring the rhythms of Haiti to the stage, honoring the enduring legacy of African diasporic traditions. <strong>Group Uramana</strong> performs both drum and dance from Honduras. </li></ul><ul><li>We’re also thrilled to welcome youth-focused groups like the inspiring <strong>Colu Drum and Dance Company </strong>and the energetic <strong>Watotos of Kumbuka and Dance Ensemble</strong>, adding youthful vibrancy and global perspective to the festival experience.<br>Together, these extraordinary artists and ensembles will create a powerful, joyful celebration of rhythm and resilience—unifying communities through the universal heartbeat of the drum. </li></ul><ul><li>Special Guest <strong>Papa Titos Sompa </strong>of the Congo </li></ul><p>‍</p><p>ALL&nbsp;AGES&nbsp;</p><p>$20 Adults </p><p>$10 Youth </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.tixr.com/groups/musicboxvillage/events/feel-the-rhythm-of-the-drums-pt-4-202310",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a825f250ffe83c819e760a4",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.03_feel_the_rhythm_of_the_drums_4",
+            "slug": "no-26-10-03-feel-the-rhythm-of-the-drums-4",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Festival",
+            "category-link": null,
+            "venue-name": "Music Box Village",
+            "venue-link": "https://musicboxvillage.com/",
+            "tags-name": [
+              "New Orleans",
+              "afrobeat",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ab9def50b20448acd5c0168",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
