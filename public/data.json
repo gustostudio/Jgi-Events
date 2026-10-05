@@ -1,12 +1,55 @@
 {
-  "fetchedAt": "2026-10-05T16:20:36.608Z",
+  "fetchedAt": "2026-10-05T21:51:18.960Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2641,
+      "itemCount": 2642,
       "items": [
+        {
+          "id": "6ac3f4b23d6eeac7f96daa5f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-05T19:04:55.120Z",
+          "lastUpdated": "2026-10-05T19:04:55.120Z",
+          "createdOn": "2026-10-05T19:04:18.829Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kenyatta the Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "691ccd0eb62c3b82ffb68615",
+            "venue": "6a199afc96df4f62c2da2655",
+            "start-date": "2026-10-15T23:00:00.000Z",
+            "event-time": "7 PM",
+            "event-description": "<p>Playing their first NYC show as one of Baltimore's premier live bands, Kenyatta brings the multifaceted forms of Black music to this week's edition of the Soundoff Sessions. Sets at 8&nbsp;and 9:30, Soundoff Session until late. Creatives, bring your axe — whatever it is — and your energy. </p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://posh.vip/e/soundoff-session-w-kenyatta-the-band?t=kenyattatheband&utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": {
+              "fileId": "6ac3f382d9034ff00240b9d0",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ac3f382d9034ff00240b9d0_10.15.26.jpg",
+              "alt": null
+            },
+            "name": "ny_26.10.15_soundoff_Kenyatta",
+            "slug": "soundoff-kenyatta",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Soundoff Session",
+            "category-link": null,
+            "venue-name": "Cafe Erzulie",
+            "venue-link": "https://www.cafeerzulie.com/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6ac36b5f38ec69acfa8fb18a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -869,13 +912,13 @@
         {
           "id": "6ac35f6a2ed40eec565c1e75",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-05T08:27:22.591Z",
-          "lastUpdated": "2026-10-05T08:27:22.591Z",
+          "lastPublished": "2026-10-05T20:11:07.130Z",
+          "lastUpdated": "2026-10-05T20:11:07.130Z",
           "createdOn": "2026-10-05T08:27:22.591Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Oscar Rossignoli & Bras Walker Duo (FREE)",
+            "event-title": "Oscar Rossignoli & Brad Walker Duo (FREE)",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
@@ -2149,20 +2192,20 @@
         {
           "id": "6ac32007bbe68b6c3bb28de0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-05T03:56:55.418Z",
-          "lastUpdated": "2026-10-05T03:56:55.418Z",
+          "lastPublished": "2026-10-05T20:10:14.497Z",
+          "lastUpdated": "2026-10-05T20:10:14.497Z",
           "createdOn": "2026-10-05T03:56:55.418Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Amina Scot & Cyrus Nabipoor ",
+            "event-title": "Amina Scott & Cyrus Nabipoor ",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a31cc9f80b504544407bb30",
             "start-date": "2026-10-06T00:30:00.000Z",
             "event-time": "8:30PM",
-            "event-description": "<p><a href=\"https://www.aminascott.com/#intro-horizon-section\">Amina Scott</a>, born and raised in Oakland, CA, is an upright and electric bassist, composer, and arranger. Her interest in music began at an early age when her grandmother began giving her piano lessons. Her love of music grew as she began to play bass in various bands in Oakland. She relocated to New Orleans in 2012 where she quickly became a part of the vibrant music scene. In 2017, she was a fellow at <strong>Ravinia Steans Institute of Music</strong> where she was under the mentorship of <strong>Billy Childs.</strong> Now, Amina leads her own bands and she has performed and toured with various artists including <strong>Nicholas Payton, Ingrid Jensen, Dee Dee Bridgewater, Johnny Vidacovich, Steve Turre, Joanne Brackeen, Don Vappie, Herlin Riley, Chief Xian Atunde Adjuah</strong>, and more. In May 2024, she released her debut album, <a href=\"https://aminascottmusic.bandcamp.com/album/where-the-wild-seed-grows\" target=\"_blank\"><strong><em>Where the Wild Seed Grows</em></strong></a>. In recent years, Scott has toured with her group across the country including Brooklyn, NY, Oakland, CA, San Francisco, CA, and Ascona Switzerland. She has headlined <strong>Healdsburg Jazz Festival</strong> serving as their rising star artist in residence as well as the <strong>Ascona Jazz Festival.</strong> She has recently recorded with French pianist <strong>Amaury Faye</strong> on his latest project <strong><em>Rust</em></strong> which features saxophonist Julian Lee and drummer Herlin Riley.</p><p>Combining elements of the avant-garde and enticing grooves,, her new project, <strong><em>Explorations</em></strong>, is a quartet that combines musical interplay, strong compositions, and emotional storytelling that showcases the artistry of all involved. The core group features <strong>Scott Johnson</strong> on saxophone, <strong>Arnold Little III</strong> on guitar, and <strong>Peter Varnado</strong> on drums. The group recently recorded their first record together and will be releasing the project in early 2027.</p><p>‍</p><p><strong>Tonight, with special guest from Portland, OR: </strong></p><p><a href=\"https://cyrusnabipoor.com/\">Cyrus Nabipoor</a> delivers a bold and singular expression of American Music, cutting edge yet steeped in tradition. Known for unmistakable originals &amp; unique covers, Cyrus presents a deeply emotional and energetic performance.</p><p>A distinctive voice both on the horn and in his writing, Cyrus Nabipoor’s singular sound has garnered him international acclaim. He has been a featured festival artist at PDX Jazz, Cathedral Park, Montavilla Jazz, Mt. Hood Jazz, New Orleans French Quarter, and Chicago Instigation. To date, he has released 3 albums under his own name, and collaborated on numerous more. In addition to his self-titled work, Cyrus runs the Puddletown Stompers, is a member of Reb &amp; The Good News, and works as a freelance trumpeter &amp; music director.</p><p><em>“unapologetically expressive…vaporlike elegance and the limber smoothness of a dancer.”<br>-Willamette Week</em></p><p><em> “It is never possible to anticipate his next move…his trumpet chops are deadly.”<br>-JazzTimes</em></p><p><em><br>“A bandleader and composer/arranger for whom no style or emotion is off limits.”<br>-Offbeat Magazine</em></p><p>‍</p><p><strong>8:00pm Doors </strong></p><p><strong>8:30pm Show </strong></p>",
+            "event-description": "<p><a href=\"https://www.aminascott.com/#intro-horizon-section\">Amina Scott</a>, born and raised in Oakland, CA, is an upright and electric bassist, composer, and arranger. Her interest in music began at an early age when her grandmother began giving her piano lessons. Her love of music grew as she began to play bass in various bands in Oakland. She relocated to New Orleans in 2012 where she quickly became a part of the vibrant music scene. In 2017, she was a fellow at <strong>Ravinia Steans Institute of Music</strong> where she was under the mentorship of <strong>Billy Childs.</strong> Now, Amina leads her own bands and she has performed and toured with various artists including <strong>Nicholas Payton, Ingrid Jensen, Dee Dee Bridgewater, Johnny Vidacovich, Steve Turre, Joanne Brackeen, Don Vappie, Herlin Riley, Chief Xian Atunde Adjuah</strong>, and more. In May 2024, she released her debut album, <a href=\"https://aminascottmusic.bandcamp.com/album/where-the-wild-seed-grows\" target=\"_blank\"><strong><em>Where the Wild Seed Grows</em></strong></a>. In recent years, Scott has toured with her group across the country including Brooklyn, NY, Oakland, CA, San Francisco, CA, and Ascona Switzerland. She has headlined <strong>Healdsburg Jazz Festival</strong> serving as their rising star artist in residence as well as the <strong>Ascona Jazz Festival.</strong> She has recently recorded with French pianist <strong>Amaury Faye</strong> on his latest project <strong><em>Rust</em></strong> which features saxophonist Julian Lee and drummer Herlin Riley.</p><p>Combining elements of the avant-garde and enticing grooves,, her new project, <strong><em>Explorations</em></strong>, is a quartet that combines musical interplay, strong compositions, and emotional storytelling that showcases the artistry of all involved. The core group features <strong>Scott Johnson</strong> on saxophone, <strong>Arnold Little III</strong> on guitar, and <strong>Peter Varnado</strong> on drums. The group recently recorded their first record together and will be releasing the project in early 2027.</p><p>‍</p><p><strong>Tonight, with special guest from Portland, OR: </strong></p><p><a href=\"https://cyrusnabipoor.com/\">Cyrus Nabipoor</a> delivers a bold and singular expression of American Music, cutting edge yet steeped in tradition. Known for unmistakable originals &amp; unique covers, Cyrus presents a deeply emotional and energetic performance.</p><p>A distinctive voice both on the horn and in his writing, Cyrus Nabipoor’s singular sound has garnered him international acclaim. He has been a featured festival artist at PDX Jazz, Cathedral Park, Montavilla Jazz, Mt. Hood Jazz, New Orleans French Quarter, and Chicago Instigation. To date, he has released 3 albums under his own name, and collaborated on numerous more. In addition to his self-titled work, Cyrus runs the Puddletown Stompers, is a member of Reb &amp; The Good News, and works as a freelance trumpeter &amp; music director.</p><p><em>“unapologetically expressive…vaporlike elegance and the limber smoothness of a dancer.”<br>-Willamette Week</em></p><p><em> “It is never possible to anticipate his next move…his trumpet chops are deadly.”<br>-JazzTimes</em></p><p><em>‍<br>“A bandleader and composer/arranger for whom no style or emotion is off limits.”<br>-Offbeat Magazine</em></p><p>‍</p><p><strong>8:00pm Doors </strong></p><p><strong>8:30pm Show </strong></p>",
             "button-text": "TICKETS",
             "button-link": "https://newmarignytheatre.com/event/cyrus-nabipoor-amina-scott-doors-8pm-show-830pm/",
             "tags": [
