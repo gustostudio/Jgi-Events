@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T18:27:16.862Z",
+  "fetchedAt": "2026-10-09T20:00:20.676Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -43211,13 +43211,13 @@
         {
           "id": "6a7f4a6f26f00601805686c7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-25T10:40:50.054Z",
-          "lastUpdated": "2026-09-20T22:17:04.661Z",
+          "lastPublished": "2026-10-09T19:09:48.186Z",
+          "lastUpdated": "2026-10-09T19:09:48.186Z",
           "createdOn": "2026-08-14T17:03:43.187Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Art of Solo (James Brandon presents Thru Line)",
+            "event-title": "Art of Solo (James Brandon Lewis presents Thru Line)",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a10bdf5c8f6338c6fee5020",
@@ -49298,13 +49298,13 @@
         {
           "id": "6a7b3e53d0b23d06c68863bf",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T18:38:19.354Z",
-          "lastUpdated": "2026-08-11T15:23:01.729Z",
+          "lastPublished": "2026-10-09T19:15:00.754Z",
+          "lastUpdated": "2026-10-09T19:15:00.754Z",
           "createdOn": "2026-08-11T15:22:59.684Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "BRICJazz Fest: Mohini Dey + Braxton Cook + Tyreek McDole + Salin + Melvis Santa presents Gata Jazz",
+            "event-title": "BRIC JazzFest: Mohini Dey + Braxton Cook + Tyreek McDole + Salin + Melvis Santa presents Gata Jazz",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -49326,13 +49326,13 @@
         {
           "id": "6a7b3e20f4286f5136e128fb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T18:38:19.354Z",
-          "lastUpdated": "2026-08-11T15:23:24.639Z",
+          "lastPublished": "2026-10-09T19:15:07.966Z",
+          "lastUpdated": "2026-10-09T19:15:07.966Z",
           "createdOn": "2026-08-11T15:22:08.265Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "BRICJazz Fest: Bilal + Arturo O’Farrill and the Afro Latin Jazz Orchestra + Marcus Gilmore and more",
+            "event-title": "BRIC JazzFest: Bilal + Arturo O’Farrill and the Afro Latin Jazz Orchestra + Marcus Gilmore and more",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
