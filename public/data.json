@@ -1,12 +1,58 @@
 {
-  "fetchedAt": "2026-10-15T00:43:21.250Z",
+  "fetchedAt": "2026-10-15T03:33:30.236Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3085,
+      "itemCount": 3086,
       "items": [
+        {
+          "id": "6ad03ff3d00cec0d6867be0d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-15T02:52:39.045Z",
+          "lastUpdated": "2026-10-15T02:52:39.045Z",
+          "createdOn": "2026-10-15T02:52:35.308Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Pattern and Tone: An Art Workshop with Amy Bryan",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-10-17T14:00:00.000Z",
+            "event-time": "10:00AM-12:00PM",
+            "event-description": "<p>Kerry James Marshall's paintings center Black life, history, beauty, and visibility through rich color and carefully composed scenes.</p><p>Participants will create an original artwork inspired by his approach to representing everyday Black experiences.</p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/art-workshop-with-amy-bryan-inspired-by-the-work-of-kerry-james-marshall-tickets-2001155740690",
+            "tags": [
+              "6a88ddbedcb79b2007b11d03",
+              "6a88ddad28354cce4ed956c7"
+            ],
+            "thumbnail": {
+              "fileId": "6ad03feeea6ba2178a04a4d6",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ad03feeea6ba2178a04a4d6_images-2.jpg",
+              "alt": null
+            },
+            "name": "Pattern and Tone: An Art Workshop with Amy Bryan",
+            "slug": "pattern-and-tone-an-art-workshop-with-amy-bryan",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "Workshop",
+              "art"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6acff3608988f04b853173c6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
