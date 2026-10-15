@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T18:54:03.593Z",
+  "fetchedAt": "2026-10-15T20:27:37.227Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3140,
+      "itemCount": 3139,
       "items": [
         {
           "id": "6ad08fda5f99780727ae5d84",
@@ -16020,34 +16020,6 @@
             "thumbnail": null,
             "name": "ny_2026.10.29_falljazz",
             "slug": "ny-2026-10-29-falljazz",
-            "city-name": "NYC",
-            "venue-name": "Cafe Erzulie",
-            "venue-link": "https://www.cafeerzulie.com/"
-          }
-        },
-        {
-          "id": "6ac6fbb6df1439b0c9cb4988",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-08T09:09:33.481Z",
-          "lastUpdated": "2026-10-08T02:11:04.886Z",
-          "createdOn": "2026-10-08T02:11:02.888Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Fall Jazz with Jayden Richardson",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a199afc96df4f62c2da2655",
-            "start-date": "2026-10-22T22:00:00.000Z",
-            "event-time": "6PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.10.22_falljazz Copy",
-            "slug": "ny-2026-10-22-falljazz-copy",
             "city-name": "NYC",
             "venue-name": "Cafe Erzulie",
             "venue-link": "https://www.cafeerzulie.com/"
