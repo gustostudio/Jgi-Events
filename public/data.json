@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-10-16T03:29:25.663Z",
+  "fetchedAt": "2026-10-16T07:25:48.098Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3139,
+      "itemCount": 3140,
       "items": [
+        {
+          "id": "6ad1c9ce4c422eeedc9edc60",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-16T06:53:02.619Z",
+          "lastUpdated": "2026-10-16T06:53:02.619Z",
+          "createdOn": "2026-10-16T06:53:02.619Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "NOL FUNK FEST Afterparty: Let Me Stand Next To Your Fire with Marcus Machado, Eric Bolivar, Stanton Moore, Chali 2Na, Robert Walter & More",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3e1e9fce442fae52b0ee02",
+            "start-date": "2026-10-17T03:00:00.000Z",
+            "event-time": "11PM - 2AM",
+            "event-description": "<p>LET&nbsp;ME&nbsp;STAND&nbsp;NEXT&nbsp;TO&nbsp;YOUR&nbsp;FIRE</p><p>NOLA&nbsp;FUNK&nbsp;FEST&nbsp;2026 Official Afterparty </p><p>‍</p><p>featuring </p><p>Marcus Machado </p><p>Chali 2Na </p><p>Eric Bolivar </p><p>Stanton Moore </p><p>Robert Walter </p><p>Tony Hall </p><p>Eddie Roberts </p><p>Jen Hartswick </p><p>Jake Eckert </p><p>+ Special Guests </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/let-me-stand-next-to-tipitinas-tickets/15044203?pl=tipitinas&REFID=website",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a5409b58a3b83a3eda41c0e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.16_let_me_stand",
+            "slug": "no-26-10-16-let-me-stand",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Tipitina's",
+            "venue-link": "https://tipitinas.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "psych-funk"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ad08fda5f99780727ae5d84",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
