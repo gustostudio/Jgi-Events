@@ -1,12 +1,58 @@
 {
-  "fetchedAt": "2026-10-17T21:59:06.019Z",
+  "fetchedAt": "2026-10-18T00:09:10.446Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3142,
+      "itemCount": 3143,
       "items": [
+        {
+          "id": "6ad3f83a67f07039578f7eb7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-17T22:35:40.583Z",
+          "lastUpdated": "2026-10-17T22:35:40.583Z",
+          "createdOn": "2026-10-17T22:35:38.216Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Pattern and Tone: An Art Workshop with Amy Bryan, featuring the work of Jacob Lawrence",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-10-24T14:00:00.000Z",
+            "event-time": "10:00AM-12:00PM",
+            "event-description": "<p>Learn about Jacob Lawrence and his dynamic storytelling through bold shapes, vibrant colors, and simplified forms. Participants will create a narrative artwork that tells a personal or community story through a series of expressing shapes and colors.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/pattern-and-tone-an-art-workshop-inspired-by-jacob-lawrence-tickets-2002065294189",
+            "tags": [
+              "6a88ddad28354cce4ed956c7",
+              "6aadad194bcfd5be44c3dd3b"
+            ],
+            "thumbnail": {
+              "fileId": "6ad3f8361f8931ced03bc4f5",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ad3f8361f8931ced03bc4f5_images.jpg",
+              "alt": null
+            },
+            "name": "no-261024_patternandtone",
+            "slug": "no-261024-patternandtone",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "art",
+              "workshop"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ad28190f329cc9c5fa42049",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
