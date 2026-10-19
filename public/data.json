@@ -1,12 +1,120 @@
 {
-  "fetchedAt": "2026-10-19T03:36:08.957Z",
+  "fetchedAt": "2026-10-19T07:59:56.555Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3151,
+      "itemCount": 3153,
       "items": [
+        {
+          "id": "6ad59b7f39eac7580cc6588a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-19T04:24:31.886Z",
+          "lastUpdated": "2026-10-19T04:24:31.886Z",
+          "createdOn": "2026-10-19T04:24:31.886Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mahmoud Chouki & Friends",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a6ff46d6603b394b4d35656",
+            "start-date": "2026-10-23T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Mahmoud Chouki &amp;&nbsp;Friends for 2 sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.carrolltonstationnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a3dbe6a496c109a25be6519",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6a6ff7752b707ca87b87deda"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.22_chouki_mahmoud_friends",
+            "slug": "no-26-10-22-chouki-mahmoud-friends",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Carrollton Station",
+            "venue-link": "https://www.carrolltonstationnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "Latin Jazz",
+              "contemporary jazz",
+              "world music",
+              "samba"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad599070154caee47451ef6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-19T04:22:27.109Z",
+          "lastUpdated": "2026-10-19T04:22:27.109Z",
+          "createdOn": "2026-10-19T04:13:59.859Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "She JAMS: Benefit for Girls Play Trumpets Too",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6ad599531748b2a150865783",
+            "start-date": "2026-10-20T21:00:00.000Z",
+            "event-time": "5PM - 8PM",
+            "event-description": "<p>Join us for <strong>She JAMS</strong>, a Community Art Night featuring Girls Play Trumpets Too.</p><p><strong>Your night includes:</strong></p><ul><li><strong>Girls Play Trumpets Too</strong> taking the spotlight with a live performance</li><li><strong>JAMNOLA artists</strong> sharing their art and music throughout the space</li><li><strong>DJ Lady B</strong> keeping you moving all evening</li><li><strong>Complimentary bites and sips</strong> to make the night even sweeter</li></ul><p>At JAMNOLA, giving back to the community that inspires us means making room for its next generation of artists to shine.</p><p>Girls Play Trumpets Too empowers girls ages 8–19 through music, mentorship, leadership, performance, and cultural exchange.</p><p>When you show up for She JAMS, you show up for these girls. 100% of net proceeds benefit Girls Play Trumpets Too, helping more girls find their voices onstage and beyond.</p><p><strong>Come for the art, music, and community.<br>Stay for the joy!</strong></p><p>‍</p><p><strong>Featuring Performances From: </strong></p><p>Rockin' Dopsie Jr. </p><p>Jelly Joseph </p><p>Big Chief Victor Harris </p><p>DJ Lady B&nbsp;</p><p>+ and of course.... The Girls!&nbsp;</p>",
+            "button-text": "TICKETS ",
+            "button-link": "https://tickets.jamnola.com/she-jams",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "6acc7bcaf993e067e02c890e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.20_she_jams",
+            "slug": "no-26-10-20-she-jams",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "JAMNOLA",
+            "venue-link": "https://jamnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "benefit concert"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ad4e0945fdd8793449bbabc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
