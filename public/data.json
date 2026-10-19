@@ -1,12 +1,115 @@
 {
-  "fetchedAt": "2026-10-19T10:32:57.213Z",
+  "fetchedAt": "2026-10-19T18:47:32.304Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3153,
+      "itemCount": 3155,
       "items": [
+        {
+          "id": "6ad652d8c4391a0cc1fcce63",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-19T17:26:48.237Z",
+          "lastUpdated": "2026-10-19T17:26:48.237Z",
+          "createdOn": "2026-10-19T17:26:48.237Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Film Premiere: VICTORY: The Irma Thomas Story ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "696f4efd3d68506bb904ea7d",
+            "venue": "6ad650f01c0f283eb8f5ab6c",
+            "start-date": "2026-10-22T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>World Premiere Film Screening - Opening Night at the New Orleans Film Festival:&nbsp;</p><p><a href=\"https://nofs.eventive.org/schedule/6aa318524abd6cd1a31931c8\"><strong>VICTORY:&nbsp;THE&nbsp;IRMA&nbsp;THOMAS&nbsp;STORY&nbsp;</strong></a></p><p><strong><em>Irma Thomas, a trailblazing figure in New Orleans music, revisits her gospel roots in a recording session that spans genres and generations.</em></strong><br></p><p>At 83 years old, Thomas brings together a diverse group of musicians in New Orleans to create a gospel album that speaks to her life’s journey, legacy, and enduring faith. The film captures intimate moments from the recording process with a remarkable ensemble of collaborators: Brazilian legend Jorge Ben, Christian music superstar Lauren Daigle, indie folk singer Valerie June, and pillars of the New Orleans music culture Cyril and Ivan Neville, Charlie Gabriel, Trombone Shorty, and Big Chiefs Shaka Zulu and David Montana. <br></p><p>Beyond the studio Thomas reflects on her incredible life story, from her early days as a teenage mother of four, trying to break into the music business in the Segregation era, to becoming a beloved musical matriarch and the center of a large blended family with her husband and manager of 50 years, Emile Jackson. A portrait of a legendary artist: it is a testament to resilience, love, and the enduring power of music. </p><p>‍</p><p><strong>ABOUT&nbsp;THE&nbsp;DIRECTOR:&nbsp;</strong></p><p>A musician and filmmaker, Ben Chace makes music full of images and films rich with sound. He has worked in Jamaica, Cuba, New Orleans, Nashville and his work is inspired by his curiosity for history and the threads of culture which link disparate people across time and space. He was raised in Providence, Rhode Island and now lives in Paris.</p><p>‍</p><p><strong>7:00pm Doors | 7:30pm Screening </strong></p><p>Talk-Back immediately following the screenings </p><p>+&nbsp;Opening Night Afterparty to follow at Gallier Hall </p><p>‍</p><p><strong>DETAILS &amp;&nbsp;PASSES: |&nbsp;</strong><a href=\"https://neworleansfilmsociety.org/lineup-events/\"><strong>https://neworleansfilmsociety.org/lineup-events/</strong></a><strong> </strong></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://nofs.eventive.org/schedule/6aa318524abd6cd1a31931c8",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a86130657e9ffd8de24021b",
+              "6ad651bec4391a0cc1fc5f2f",
+              "6ad651ca0984524d04618df6"
+            ],
+            "thumbnail": {
+              "fileId": "6ad652cffcd640b0e22cee99",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ad652cffcd640b0e22cee99_Irma-Thomas-Victory-square.jpeg",
+              "alt": null
+            },
+            "name": "no_26.10.22_victory_irma_thomas_film",
+            "slug": "no-26-10-22-victory-irma-thomas-film",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Film",
+            "category-link": null,
+            "venue-name": "Contemporary Arts Center New Orleans",
+            "venue-link": "https://www.cacno.org/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "gospel",
+              "film",
+              "film screening"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad61a5e989dbee4eb03b7e7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-19T13:25:50.760Z",
+          "lastUpdated": "2026-10-19T13:25:50.760Z",
+          "createdOn": "2026-10-19T13:25:50.760Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Snarky Puppy (Somni Tour)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cff9f5437c6b32bee065",
+            "start-date": "2026-10-23T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><em>“Maybe you didn’t notice, but this is Snarky Puppy’s world, and the rest of us only live in it.”—The New York Times</em></p><p><em>‍</em>Snarky Puppy, the five times Grammy® winning collective, “has always been a band that prioritizes the sound of the music,” says bandleader and bassist Michael League. Displaying a wide array of influences including funk, rhythm &amp; blues, hard rock, classic soul, modern gospel, new tech, fusion and jazz, Snarky Puppy isn’t exactly a jazz band, it’s not a fusion band and it’s definitely not a jam band. It’s probably best to take Nate Chinen of the New York Times’ advice, as stated in an online discussion about the group, to “take them for what they are, rather than judge them for what they’re not.”</p><p>“Our soundscape has expanded dramatically over the years” says League. “When the band started, we were jazzier, brainy and music oriented. Moving into the Dallas scene we became groovier, more emotional, deeper in a sense. We focused more on communicating a clear message, understandable to a listener without dumbing things down”. In January 2025 the band collaborated once more with the Metropole Orkest– the Netherlands-based hybrid ensemble renowned for fusing jazz, classical, and popular music on a symphonic scale. Captured live over three nights (January 17–19, 2025) in Utrecht, the project reunites the two groups a decade after their first joint effort, Sylva — an orchestral suite released in 2015 that earned the GRAMMY for Best Contemporary Instrumental Album the following year. The result of this collaboration - Somni - was released in November 2025 via GroundUP Music.</p><p>“It’s by far the most ambitious project we’ve ever done … and it was one of the smoothest records we’ve ever made,” he says. “Every individual team just absolutely did their job with so much care and love — from the camera operators to our production team.” That spirit was reflected in the room. “The instant feedback was the warmest we’ve ever had. It was encouraging to know that after 22 years of doing what we do, the music is reaching people.” Always evolving in its musical output, each new record brings a new vision and progressive direction, “Our rule is that it can’t sound like it sounded before” comments League, he continues, “the music has to feel like it’s moving somewhere”</p><p>This also raises the question – where will Snarky Puppy go next? For Snarky Puppy fans, the answer to this is a very exciting prospect. </p><p>‍</p><p>7pm Doors |&nbsp;8pm Show </p><p>All Ages</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketmaster.com/snarky-puppy-somni-us-tour-26-new-orleans-louisiana-10-22-2026/event/1B00643DDC68F364",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc9a31d702c15e46d73e2"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.22_snarky_puppy",
+            "slug": "no-26-10-22-snarky-puppy",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Joy Theater",
+            "venue-link": "https://thejoytheater.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "contemporary jazz",
+              "jazz fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ad59b7f39eac7580cc6588a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
