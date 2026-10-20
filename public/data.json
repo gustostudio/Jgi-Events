@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T09:49:52.370Z",
+  "fetchedAt": "2026-10-20T14:44:38.696Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -306,7 +306,7 @@
         {
           "id": "6ad6ff6d6637ac5988a766ed",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T05:44:25.578Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
           "lastUpdated": "2026-10-20T05:44:25.578Z",
           "createdOn": "2026-10-20T05:43:09.465Z",
           "isArchived": false,
@@ -861,8 +861,8 @@
         {
           "id": "6ad599070154caee47451ef6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-19T04:22:27.109Z",
-          "lastUpdated": "2026-10-19T04:22:27.109Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
+          "lastUpdated": "2026-10-19T04:22:27.504Z",
           "createdOn": "2026-10-19T04:13:59.859Z",
           "isArchived": false,
           "isDraft": false,
@@ -1396,8 +1396,8 @@
         {
           "id": "6ad3f83a67f07039578f7eb7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-17T22:35:40.583Z",
-          "lastUpdated": "2026-10-17T22:35:40.583Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
+          "lastUpdated": "2026-10-17T22:35:40.884Z",
           "createdOn": "2026-10-17T22:35:38.216Z",
           "isArchived": false,
           "isDraft": false,
@@ -1442,8 +1442,8 @@
         {
           "id": "6ad28190f329cc9c5fa42049",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-16T19:57:05.390Z",
-          "lastUpdated": "2026-10-16T19:57:05.390Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
+          "lastUpdated": "2026-10-16T19:57:05.778Z",
           "createdOn": "2026-10-16T19:57:04.115Z",
           "isArchived": false,
           "isDraft": false,
@@ -1470,8 +1470,8 @@
         {
           "id": "6ad2811e673adecdd360621c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-16T19:55:18.553Z",
-          "lastUpdated": "2026-10-16T19:55:18.553Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
+          "lastUpdated": "2026-10-16T19:55:18.859Z",
           "createdOn": "2026-10-16T19:55:10.309Z",
           "isArchived": false,
           "isDraft": false,
@@ -3096,7 +3096,7 @@
         {
           "id": "6ad07e9f07c2de5dc78d1630",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-16T07:28:48.858Z",
+          "lastPublished": "2026-10-16T11:41:48.551Z",
           "lastUpdated": "2026-10-16T07:28:48.858Z",
           "createdOn": "2026-10-15T07:19:59.667Z",
           "isArchived": false,
@@ -3152,7 +3152,7 @@
         {
           "id": "6ad06684951ddf89914f3e4d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-15T18:19:27.194Z",
+          "lastPublished": "2026-10-16T11:41:48.551Z",
           "lastUpdated": "2026-10-15T18:19:27.194Z",
           "createdOn": "2026-10-15T05:37:08.591Z",
           "isArchived": false,
@@ -7929,7 +7929,7 @@
         {
           "id": "6accd2008bce20b4fa4a4754",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-16T19:44:03.552Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
           "lastUpdated": "2026-10-16T19:44:03.552Z",
           "createdOn": "2026-10-12T12:26:40.258Z",
           "isArchived": false,
@@ -9660,7 +9660,7 @@
         {
           "id": "6acc6f368cefba012e814f2f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-18T15:06:15.080Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
           "lastUpdated": "2026-10-18T15:06:15.080Z",
           "createdOn": "2026-10-12T05:25:10.944Z",
           "isArchived": false,
@@ -43720,7 +43720,7 @@
         {
           "id": "6aa55895a0a0a0b60d9ed3c7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-16T19:58:48.435Z",
+          "lastPublished": "2026-10-20T10:22:09.506Z",
           "lastUpdated": "2026-10-16T19:58:48.435Z",
           "createdOn": "2026-09-12T13:50:13.276Z",
           "isArchived": false,
