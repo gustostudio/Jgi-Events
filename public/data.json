@@ -1,12 +1,703 @@
 {
-  "fetchedAt": "2026-10-20T03:47:03.327Z",
+  "fetchedAt": "2026-10-20T07:50:03.037Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3155,
+      "itemCount": 3169,
       "items": [
+        {
+          "id": "6ad70491f361cac7bde1c738",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T06:05:05.198Z",
+          "lastUpdated": "2026-10-20T06:05:05.198Z",
+          "createdOn": "2026-10-20T06:05:05.198Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brad Walker Quartet with Stanton Moore ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-25T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Brad Walker</strong> is one of the most active and sought-after saxophonists in the city of New Orleans today. Perhaps best known for his “soaring” (Rolling Stone), “energetic” (NPR), and “tasteful” (Relix) solos on Saturday Night Live, the 2017 Grammy Awards, and The Tonight Show with Nashville mega-star Sturgill Simpson, Walker is with six full-length releases under his own name and over a decade of music-making in the Crescent City under his belt.<br><br>Tonight, Brad Walker presents his quartet alongside master drummer, Stanton Moore:&nbsp;<br><br>Brad Walker - saxophone<br>Stanton Moore - drums<br>Joe Ashlar - piano<br>Martin Masakowski - bass</p><p>‍</p><p><strong>Shows at 7:30pm &amp; 9:30pm</strong><br>Doors 7:00pm &amp; 9:00pm </p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime:</strong><br>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/brad-walker-quartet-with-stanton-moore/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.25_walker_brad_quartet",
+            "slug": "no-26-10-25-walker-brad-quartet",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad703c88c1ad7ae8c54ff22",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T06:01:44.009Z",
+          "lastUpdated": "2026-10-20T06:01:44.009Z",
+          "createdOn": "2026-10-20T06:01:44.009Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Nickel-A-Dance: A Tribute to Jelly Roll Morton with Steve Pistorius and the Southern Syncopators",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-25T19:00:00.000Z",
+            "event-time": "3PM - 6PM",
+            "event-description": "<p><strong>Nickel-A-Dance</strong> is a free, family-friendly jazz concert series in New Orleans, celebrating the city’s rich musical heritage. Founded in 1994, it features top local jazz musicians performing classic jazz, blues, and swing. Originally held at Café Brasil on Frenchmen Street, the series now takes place at <strong>Snug Harbor Jazz Bistro</strong> on Sundays from 3:00–6:00 PM. The event is open to all ages and aims to make live jazz accessible to everyone.</p><p>Celebrate the music and legacy of one of New Orleans’ most influential musical pioneers with <strong>Steve Pistorius and the Southern Syncopators</strong> in a special tribute to <strong>Jelly Roll Morton</strong>.</p><p>Widely recognized as one of the key architects of early jazz, <strong>Jelly Roll Morton</strong> was a groundbreaking pianist, composer, arranger, and bandleader whose music helped define the sound of New Orleans jazz in the early 20th century. His compositions—including classics such as “King Porter Stomp,” “Black Bottom Stomp,” and “Jelly Roll Blues”—remain an essential part of the jazz tradition.</p><p>Led by acclaimed pianist and New Orleans traditional jazz authority <strong>Steve Pistorius</strong>, the Southern Syncopators bring Morton’s spirited compositions and distinctive musical language back to life. Expect an evening filled with hot jazz, swinging rhythms, intricate arrangements, and the unmistakable spirit of New Orleans.</p><p>Join us at Snug Harbor Jazz Bistro for a musical celebration of <strong>Jelly Roll Morton</strong>, presented by musicians deeply connected to the living tradition he helped establish.<br>‍</p><p>‍<br>This is a free progam with no ticketing. &nbsp;Just come ready to dance.<br><br>For more info on Nickel-A-Dance, visit: &nbsp;<a href=\"https://www.nojc.org/nickel-a-dance?utm_source=chatgpt.com\">https://www.nojc.org/nickel-a-dance</a></p><p><strong>Sets at 3:00pm &amp;&nbsp;4:45pm </strong></p><p>Doors at 2:30pm | All Ages </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/nickel-a-dance-norbert-susemihls-new-orleans-jazz-blues-band/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a79508f29b87b61559907e9",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.25_pistorius_jellyroll_tribute",
+            "slug": "no-26-10-25-pistorius-jellyroll-tribute",
+            "city-name": "NOLA",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "trad jazz",
+              "ragtime",
+              "classic jazz",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad702f8819877ec5d7bb01e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:58:16.890Z",
+          "lastUpdated": "2026-10-20T05:58:16.890Z",
+          "createdOn": "2026-10-20T05:58:16.890Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Amina Figarova Sextet with the Matsiko World Orphan Choir",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-24T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>Hailing from Azerbaijan, then New Orleans by way of New York, <strong>Amina Figarova</strong> is an internationally influenced—and recognized—composer, pianist, and bandleader. Her roles come to the forefront with her sextet band and with a remarkable chemistry that brings her detailed arrangements to life. Every member of the group stands out, but their dedication to Figarova’s eclectic and powerful compositions gives the group its depth of feeling.</p><p>In 2018, Amina composed a suite for a South African children’s choir and her sextet, which was performed at the “Joy of Jazz” Festival in Johannesburg, South Africa with a student choir from Soweto. Her aspiration was to record this masterpiece with the choir, but due to COVID-19 travel restrictions, it was impossible. However, fate intervened when Amina and Bart found themselves on the same flight from Europe to NYC with the <strong>Matsiko World Orphan Choir from Liberia</strong>. After conversing with the choir director, they decided to perform and record music together that was originally intended for South Africa.</p><p>The choir consists of 24 orphaned and at-risk children from Liberia in West Africa. They have performed at jazz festivals and venues with the Amina Figarova Sextet, and churches across the USA in efforts to gain educational sponsors for their siblings, friends and families.<br><br><strong>The performance features:</strong><br>Amina Figarova - piano<br>Bart Platteau - flutes<br>Eric Siereveld - trumpet<br>Brad Walker - tenor sax<br>Nick Benoit - bass<br>Gerald Watkins Jr. - drums <br>Matsiko World Orphan Choir from Liberia - vocals</p><p>‍</p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong></p><p><strong>‍</strong>‍<strong>D</strong>oors at 7:00pm &amp; 9:00pm </p><p><strong>‍</strong>‍<strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime.</strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/amina-figarova-sextet-with-matsiko-world-orphan-choir/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.24_figarova_amina_world_orphan_choir",
+            "slug": "no-26-10-24-figarova-amina-world-orphan-choir",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad701a5243908f964996c82",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:52:37.615Z",
+          "lastUpdated": "2026-10-20T05:52:37.615Z",
+          "createdOn": "2026-10-20T05:52:37.615Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Giulia Coba Trio ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-24T20:30:00.000Z",
+            "event-time": "4:30PM (FREE) ",
+            "event-description": "<p><strong>Giulia Coba</strong> is a vocalist, guitarist and composer from São Paulo, Brazil. Her compositions weave genres of Brazilian music, jazz, as well as funk and R&amp;B to tell a story of a well-rounded musician who sees the inner child as her compass.</p><p>Based in New Orleans since 2019, she has performed with local legends such as Doreen Ketchens, Leah Chase, and Herlin Riley, and taught Bossa Nova for Jazz at Lincoln Center's Swing University.</p><p><strong>This performance features:</strong><br>Giulia Coba - vocals, guitar<br>Steve Lands - trumpet<br>Filipe Leite - drums</p><p>‍</p><p>4:00pm Doors </p><p>4:30pm - 6:00pm Show </p><p>NO&nbsp;COVER&nbsp; |&nbsp; 18+ </p><p>‍</p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SET SERIES</em> </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show.</strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/guilia-coba-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a78c2257e6816676b233536",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.24_giulia_coba_trio",
+            "slug": "no-26-10-24-giulia-coba-trio",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "Brasilian Music",
+              "jazz",
+              "jazz fusion",
+              "funk",
+              "funk fusion",
+              "R&B",
+              "Free",
+              "No Cover",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad70148a81659197e14b2cb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:51:04.737Z",
+          "lastUpdated": "2026-10-20T05:51:04.737Z",
+          "createdOn": "2026-10-20T05:51:04.737Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mahmoud Chouki New World Ensemble ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-23T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Mahmoud “Mood” Chouki</strong> is a Moroccan master guitarist, multi-instrumentalist, composer, and educator currently living and working in New Orleans. His art draws together music from around the globe.. In addition to training and performing with conservatories around the world, Chouki also teaches music at the Lycée Français de la Nouvelle Orléans and is the music curator for the New Orleans Museum of Art (NOMA). Most recently, he composed the music score for the 2021 Sundance Award winning film, “<em>Ma Belle, Ma Beauty.” </em>Chouki was also awarded 2020’s “Best Emerging Artist” by <em>OffBeat Magazine’</em>s annual Best of the Beat Awards. His New World Ensemble has been steadily gaining acclaim, earning him <em>Gambit Weekly'</em>s 2022 \"Best World Music Artist'' Award at their annual Big Easy Awards. </p><p>‍</p><p>Tonight, he presents his acclaimed New World Ensemble. <br> </p><p>‍</p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong></p><p>Doors at 7:00pm &amp; 9:00pm </p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your ticketed showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/mahmoud-chouki-new-world-ensemble/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.23_Chouki_Mahmoud_NWE",
+            "slug": "no-26-10-23-chouki-mahmoud-nwe",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad7009f13bec3deef030e81",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:48:15.089Z",
+          "lastUpdated": "2026-10-20T05:48:15.089Z",
+          "createdOn": "2026-10-20T05:48:15.089Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Live at Jazz Ascona: Record Release with Adonis Rose Sextet feat. Phillip Manuel ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-22T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Live at Jazz Ascona Record Release</strong></p><p>Celebrate the release of <strong><em>Adonis Rose Live at Jazz Ascona: The Music of Gregg Hill </em></strong><em>,</em> the new album from Grammy Award-winning drummer<strong> Adonis Rose</strong>, with a special performance at Snug Harbor featuring acclaimed New Orleans vocalist <strong>Phillip Manuel</strong>. Recorded at Switzerland’s historic Jazz Ascona festival, the album marks the first official live recording in the festival’s more than 40-year history. Released on Cold Plunge Records, the project features compositions by Gregg Hill, lyrics by Phillip Manuel, and arrangements by Rex Gregory.</p><p>A celebrated voice in New Orleans music, <strong>Phillip Manuel </strong>brings his signature soulful sound and remarkable versatility to the stage. Throughout his career, he has performed and recorded with jazz greats including Terence Blanchard, Nicholas Payton, Ellis Marsalis, Jon Hendricks, Fats Domino, Dr. John, the Meters, and Allen Toussaint. Blending the rich traditions of jazz, R&amp;B, and gospel, Manuel joins Adonis Rose for a special evening celebrating this landmark live recording and the enduring spirit of New Orleans music.<br><br><strong>This performance features:</strong><br>Adonis Rose - drums<br>Phillip Manuel - vocals<br>Rex Gregory - saxophone<br>Miles Berry - saxophone<br>Ashlin Parker - trumpet<br>Seth Finch - piano<br>Max Moran - bass<br>‍</p><p>‍<br><strong>Shows at 7:30pm &amp; 9:30pm</strong><br>Doors at 7:00pm &amp; 9:00pm </p><p><strong>Restaurant is Open 5pm - 11pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/phillip-manuel-record-release-party/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.22_rose_adonis_jazz_ascona_release",
+            "slug": "no-26-10-22-rose-adonis-jazz-ascona-release",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6ff6d6637ac5988a766ed",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:44:25.578Z",
+          "lastUpdated": "2026-10-20T05:44:25.578Z",
+          "createdOn": "2026-10-20T05:43:09.465Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Grayson Brockamp & Seth Finch Duo",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-10-21T21:00:00.000Z",
+            "event-time": "5PM - 6PM",
+            "event-description": "<p>Jazz Foundation of American presents:&nbsp;</p><p><strong>The Wildlife Duo</strong> showcases the music of bassist, composer, and arranger <strong>Grayson Brockamp</strong>, whose repertoire spans Wayne Shorter to Eminem and Geri Allen to Busta Rhymes. Equally at home singing a traditional New Orleans tune or delivering a spoken-word poem about a feisty chihuahua, Brockamp explores the shared threads connecting blues, gospel, hip-hop, and other musical traditions. For this performance, he is joined by pianist <strong>Seth Finch.</strong></p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 5:00pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/grayson-brockamp-and-seth-finch/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_10_21_brockamp_grayson_finch_seth",
+            "slug": "no-26-10-21-brockamp-grayson-finch-seth",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6fed17714721b9545dfd0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:40:33.412Z",
+          "lastUpdated": "2026-10-20T05:40:33.412Z",
+          "createdOn": "2026-10-20T05:40:33.412Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz Brunch: Jeremy Phipps Brass Band ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-10-25T15:00:00.000Z",
+            "event-time": "11AM - 2PM",
+            "event-description": "<p>Jeremy Phipps Brass Band for two sets during brunch. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.25_phipps_jeremy_brass_band",
+            "slug": "no-26-10-25-phipps-jeremy-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6fd837f79a4d345da0d69",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:34:59.503Z",
+          "lastUpdated": "2026-10-20T05:34:59.503Z",
+          "createdOn": "2026-10-20T05:34:59.503Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kirk Whalum",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a6fdc66a85d134a14dbf9de",
+            "start-date": "2026-10-25T01:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><strong><em>“During his four-decade career, Grammy-winning saxophonist Kirk Whalum has played numerous genres of music, infusing it all with his gospel and Memphis-soul roots. As a collaborator, he was worked with such high-profile artists as Whitney Houston, Marcus Miller, Bob James and Quincy Jones,” states DOWNBEAT MAGAZINE.</em></strong></p><p>GRAMMY® Award-Winner &amp; 12x-GRAMMY® Award Nominated Jazz Saxophonist, Composer &amp; Bandleader <strong>KIRK WHALUM’</strong>s music is usually described as soulful, passionate &amp; stirring. </p><p>Prior to his solo career, Kirk became an in demand session player for top artists like Barbara Streisand, Al Jarreau, Luther Vandross, Larry Carlton, Quincy Jones &amp; most notably, Whitney Houston, amongst many others. Kirk toured with Whitney Houston for more than 7 years and it?s his sax heard on the mega-hit, “I Will Always Love You”, the best-selling single by a female artist in music history. </p><p>Kirk soon followed that career high point with his phenomenal hit album on Warner Bros. Records,<strong><em> ‘For You’,</em></strong> perhaps the most successful of over 25 solo recordings to date. Other albums include his eclectic &amp; much lauded, <em>‘Gospel According to Jazz’ </em>series, (Chapters 1, 2, 3 and 4). Chapter 2 &amp; 4 both received GRAMMY® Award Nominations.<em> “Awesome chops”</em> says ALL ABOUT JAZZ while JAZZ TIMES describes him as “Sensual and Funky.”</p><p>‍</p><p>8:00pm Doors | 9:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://jazzandbluesmarket.com/event/kirk-whalum-4/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc9a31d702c15e46d73e2"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.24_whalum_kirk",
+            "slug": "no-26-10-24-whalum-kirk",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz & Blues Market",
+            "venue-link": "https://jazzandbluesmarket.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "jazz fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6fc8a25cb97d262c3d8fc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:30:50.384Z",
+          "lastUpdated": "2026-10-20T05:30:50.384Z",
+          "createdOn": "2026-10-20T05:30:50.384Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sabine & The Helots ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a3191836c7556447bb46dc0",
+            "start-date": "2026-10-25T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Sabine McCalla &amp; The Helots for two sets!&nbsp;</p><p>‍</p><p>‍</p><p>***CASH&nbsp;ONLY***</p><p>at the door and at the bar |&nbsp;21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.instagram.com/bjslounge/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3dc3b0493eb9ffc794a7f6",
+              "6ad6fc767b0fe08ed36d5a2d"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.24_sabine_helots",
+            "slug": "no-26-10-24-sabine-helots",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "BJ's Bywater Lounge",
+            "venue-link": "https://www.facebook.com/bjs.bywater/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "R&B",
+              "folk",
+              "surf rock"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6fa74155418fc2358a631",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:21:56.699Z",
+          "lastUpdated": "2026-10-20T05:21:56.699Z",
+          "createdOn": "2026-10-20T05:21:56.699Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "GUITARMY featuring Raja Kasis, Danny Abel, Yusa, Chris Adkins, plus Roland Guerin, Pat Casey, Kalif Brown ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-10-24T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>It's an army of New Orleans' best guitarists ~&nbsp;It's a GUITARMY!&nbsp;</p><p>Featuring:&nbsp;</p><p>Raja Kasis </p><p>Danny Abel </p><p>Yusa </p><p>Chris Adkins </p><p>+sg </p><p>‍</p><p>Backed by: </p><p>Roland Guerin </p><p>Pat Casey </p><p>Kalif Brown </p><p>‍</p><p>7pm Doors | 8pm&nbsp;Show </p><p>Two Sets at 8pm &amp; 10pm </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/events/guitarmy",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.23_guitarmy",
+            "slug": "no-26-10-23-guitarmy",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6f7ef491f17f6faeb347c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:11:11.956Z",
+          "lastUpdated": "2026-10-20T05:11:11.956Z",
+          "createdOn": "2026-10-20T05:11:11.956Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz Flow with selectors Noel Spiva, Makeda Kravitz, +sg RQ Away ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "6aaf889b60ae4e81d9b64bb5",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-10-23T00:00:00.000Z",
+            "event-time": "8PM - 12AM",
+            "event-description": "<p>Join selectors Noel Spiva, Makeda Kravitz, plusspecial guest DJ&nbsp;RQ Away for a curated, jazz ambience experience in the Commons Club. </p><p>‍</p><p>No Cover |&nbsp;21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://virginhotels.com/new-orleans/entertainment/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6aaf82b67ded0efcbe177a6e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.22_jazz_flow",
+            "slug": "no-26-10-22-jazz-flow",
+            "city-name": "NOLA",
+            "category-name": "DJ Set",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "DJ Set",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6f733028c30f7b670a51b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:08:03.112Z",
+          "lastUpdated": "2026-10-20T05:08:03.112Z",
+          "createdOn": "2026-10-20T05:08:03.112Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Geovane Santos Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-10-21T22:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p><strong>Geovane Santos Brasilian Trio </strong></p><p>6PM - 8PM </p><p>‍</p><p>FREE and Open to the Public </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://virginhotels.com/new-orleans/entertainment/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a78c2257e6816676b233536",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.21_geovane_santos_trio",
+            "slug": "no-26-10-21-geovane-santos-trio",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "Brasilian Music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ad6f6386a02ade9ca6443c0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-20T05:03:52.301Z",
+          "lastUpdated": "2026-10-20T05:03:52.301Z",
+          "createdOn": "2026-10-20T05:03:52.301Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "CCNOSF Happy Hour Balcony Concert feat. BassX",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "6aaf491b5dba02b8a0f90581",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2026-10-20T20:00:00.000Z",
+            "event-time": "4PM - 6PM",
+            "event-description": "<p>Back from six months in Millau, France, CCNOSF founder Laurence Copel invites you to join us Tuesday October 20th at the New Orleans Jazz Museum's weekly Balcony Concert Series to learn about CCNOSF's progress and help support the project. &nbsp;</p><p>Come out early to learn about what CCNOSF has accomplished in Millau since March. Come ask questions, share your own ideas, and support the new Cultural Center for New Orleans in the South of France. </p><p>‍</p><p>4:00pm: Gates Open with Cash Bar </p><p>4:30pm: CCNOSF Info Session &nbsp;</p><p>5:00pm - 6:00pm: Live Performance by <strong>Julius McKee's BassX &nbsp;</strong></p><p>‍</p><p>Admission to the Jazz Museum courtyard lawn is Free and Open to All Ages, however, a Suggested Sliding Scale Donation of $5 - $50 to CCNOSF on-site is kindly and gratefully requested. </p><p>Support the preservation and dissemination of New Orleans culture through this new program in partnership with the New Orleans Jazz Museum providing opportunities to New Orleans culture bearers in the South of France! </p><p><strong>Learn More: </strong><a href=\"https://url.usb.m.mimecastprotect.com/s/B8qICDwOgYTEq9AIWfG6sjMpTN?domain=ccnosf.org\" target=\"_blank\"><strong> </strong></a><a href=\"http://ccnosf.org/\"><strong>CCNOSF.org</strong></a> </p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://nolajazzmuseum.org/events/2026/10/20/the-cultural-center-for-new-orleans-in-the-south-of-france-event",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.20_CCNOSF_BassX",
+            "slug": "no-26-10-20-ccnosf-bassx",
+            "city-name": "NOLA",
+            "category-name": "Concert + Presentation",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ad652d8c4391a0cc1fcce63",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
