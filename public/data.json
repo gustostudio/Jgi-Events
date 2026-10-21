@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-10-21T14:53:53.498Z",
+  "fetchedAt": "2026-10-21T17:31:16.081Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3187,
+      "itemCount": 3188,
       "items": [
+        {
+          "id": "6ad8ef94d3890a5292d5c467",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-21T17:00:06.600Z",
+          "lastUpdated": "2026-10-21T17:00:06.600Z",
+          "createdOn": "2026-10-21T17:00:04.951Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tim Berne, Tom Rainey, Scott Colley and Gregg Belisle-Chi",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a340400e1d5eeca71bcf8c5",
+            "start-date": "2026-11-04T02:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.03_berne",
+            "slug": "ny-2026-11-03-berne",
+            "city-name": "NYC",
+            "venue-name": "Lowlands",
+            "venue-link": "https://www.lowlandsbar.com"
+          }
+        },
         {
           "id": "6ad829d6028d8d1e69635be3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
