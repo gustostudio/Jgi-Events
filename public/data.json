@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-22T20:44:11.035Z",
+  "fetchedAt": "2026-10-22T22:59:45.605Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3189,
+      "itemCount": 3188,
       "items": [
         {
           "id": "6ad9871af4db9b49120fab09",
@@ -2155,7 +2155,7 @@
             "name": "ny_26.11.22_charlap",
             "slug": "ny-26-11-22-charlap",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -2183,7 +2183,7 @@
             "name": "ny_26.11.18_charlap",
             "slug": "ny-26-11-18-charlap",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -2211,7 +2211,7 @@
             "name": "ny_26.11.19_charlap",
             "slug": "ny-26-11-19-charlap",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -2239,7 +2239,7 @@
             "name": "ny_26.11.20_charlap",
             "slug": "ny-26-11-20-charlap",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -2267,7 +2267,7 @@
             "name": "ny_26.11.21_charlap",
             "slug": "ny-26-11-21-charlap",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -2295,7 +2295,7 @@
             "name": "ny_26.11.21_jlco",
             "slug": "ny-26-11-21-jlco",
             "city-name": "NYC",
-            "venue-name": "The Appel Room",
+            "venue-name": "The Appel Room, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/about-us/visit-our-venue/the-appel-room/"
           }
         },
@@ -2323,7 +2323,7 @@
             "name": "ny_26.11.20_jlco",
             "slug": "ny-26-11-20-jlco",
             "city-name": "NYC",
-            "venue-name": "The Appel Room",
+            "venue-name": "The Appel Room, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/about-us/visit-our-venue/the-appel-room/"
           }
         },
@@ -3284,7 +3284,7 @@
             "name": "ny_26.11.14_palmieri",
             "slug": "ny-26-11-14-palmieri",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -3312,7 +3312,7 @@
             "name": "ny_26.11.13_palmieri",
             "slug": "ny-26-11-13-palmieri",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -3396,7 +3396,7 @@
             "name": "ny_26.11.09_donaldson",
             "slug": "ny-26-11-09-donaldson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -3480,7 +3480,7 @@
             "name": "ny_26.11.08_pelt",
             "slug": "ny-26-11-08-pelt",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -3508,7 +3508,7 @@
             "name": "ny_26.11.07_pelt",
             "slug": "ny-26-11-07-pelt",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -3536,7 +3536,7 @@
             "name": "ny_26.11.07_marsalis_wynton",
             "slug": "ny-26-11-07-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -3564,7 +3564,7 @@
             "name": "ny_26.11.06_marsalis_wynton",
             "slug": "ny-26-11-06-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -5240,7 +5240,7 @@
             "name": "ny_26.10.31_hutchinson",
             "slug": "ny-26-10-31-hutchinson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -5268,7 +5268,7 @@
             "name": "ny_26.10.30_hutchinson",
             "slug": "ny-26-10-30-hutchinson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -5296,7 +5296,7 @@
             "name": "ny_26.10.29_hutchinson",
             "slug": "ny-26-10-29-hutchinson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -5324,7 +5324,7 @@
             "name": "ny_26.10.28_hutchinson",
             "slug": "ny-26-10-28-hutchinson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -5835,8 +5835,8 @@
         {
           "id": "6acfcc5c434497c84b1ac66b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-15T08:53:50.780Z",
-          "lastUpdated": "2026-10-14T18:39:26.483Z",
+          "lastPublished": "2026-10-22T21:16:58.723Z",
+          "lastUpdated": "2026-10-22T21:16:58.723Z",
           "createdOn": "2026-10-14T18:39:24.586Z",
           "isArchived": false,
           "isDraft": false,
@@ -5847,7 +5847,7 @@
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
             "start-date": "2026-11-08T23:00:00.000Z",
-            "event-time": "6, 8 & 10PM ",
+            "event-time": "6 & 8PM",
             "event-description": null,
             "button-text": null,
             "button-link": null,
@@ -6332,7 +6332,7 @@
             "name": "ny_26.10.27_oneal",
             "slug": "ny-26-10-27-oneal",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -6757,7 +6757,7 @@
             "name": "ny_26.10.26_ledonne",
             "slug": "ny-26-10-26-ledonne",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -7353,7 +7353,7 @@
             "name": "ny_26.10.24_marsalis_wynton",
             "slug": "ny-26-10-24-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -7577,7 +7577,7 @@
             "name": "ny_26.10.25_allen_carl",
             "slug": "ny-26-10-25-allen-carl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -7605,7 +7605,7 @@
             "name": "ny_26.10.24_allen_carl",
             "slug": "ny-26-10-24-allen-carl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -7633,7 +7633,7 @@
             "name": "ny_26.10.23_allen_carl",
             "slug": "ny-26-10-23-allen-carl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -7661,7 +7661,7 @@
             "name": "ny_26.10.23_marsalis_wynton",
             "slug": "ny-26-10-23-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -16656,7 +16656,7 @@
             "name": "ny_26.10.22_allen_carl",
             "slug": "ny-26-10-22-allen-carl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -16964,7 +16964,7 @@
             "name": "ny_26.10.21_faddis",
             "slug": "ny-26-10-21-faddis",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -19036,7 +19036,7 @@
             "name": "ny_26.10.20_now_beauty",
             "slug": "ny-26-10-20-now-beauty",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -19266,7 +19266,7 @@
             "name": "ny_26.10.19_julliard",
             "slug": "ny-26-10-19-julliard",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -19949,7 +19949,7 @@
             "name": "ny_26.10.18_nkwelle",
             "slug": "ny-26-10-18-nkwelle",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -19979,7 +19979,7 @@
             "name": "ny_26.10.17_nkwelle",
             "slug": "ny-26-10-17-nkwelle",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -20009,7 +20009,7 @@
             "name": "ny_26.10.16_nkwelle",
             "slug": "ny-26-10-16-nkwelle",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -20039,7 +20039,7 @@
             "name": "ny_26.10.17_valdés",
             "slug": "ny-26-10-17-valdes",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/",
             "tags-name": [],
             "tags-link": []
@@ -20069,7 +20069,7 @@
             "name": "ny_26.10.16_valdés",
             "slug": "ny-26-10-16-valdes",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/",
             "tags-name": [],
             "tags-link": []
@@ -20099,7 +20099,7 @@
             "name": "ny_26.10.15_gibson",
             "slug": "ny-26-10-15-gibson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -23593,7 +23593,7 @@
             "name": "ny_26.10.14_tabackin",
             "slug": "ny-26-10-14-tabackin",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -24706,7 +24706,7 @@
             "name": "ny_26.10.13_holt",
             "slug": "ny-26-10-13-holt",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -25363,13 +25363,13 @@
         {
           "id": "6aba271ed56e14733ea48c32",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:36:49.403Z",
+          "lastPublished": "2026-10-22T21:30:59.366Z",
+          "lastUpdated": "2026-10-22T21:30:59.366Z",
           "createdOn": "2026-09-28T08:36:46.127Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Jason Palmer",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -25399,13 +25399,13 @@
         {
           "id": "6aba2708695659c782aa6a86",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:36:28.314Z",
+          "lastPublished": "2026-10-22T21:24:42.099Z",
+          "lastUpdated": "2026-10-22T21:24:42.099Z",
           "createdOn": "2026-09-28T08:36:24.778Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Jason Palmer",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -25435,13 +25435,13 @@
         {
           "id": "6aba26d324b4dd222a9daddd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:35:33.957Z",
+          "lastPublished": "2026-10-22T21:24:03.816Z",
+          "lastUpdated": "2026-10-22T21:24:03.816Z",
           "createdOn": "2026-09-28T08:35:31.396Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Skylar Tang",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -25471,13 +25471,13 @@
         {
           "id": "6aba26b724b4dd222a9d9b65",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:35:52.139Z",
+          "lastPublished": "2026-10-22T21:24:14.848Z",
+          "lastUpdated": "2026-10-22T21:24:14.848Z",
           "createdOn": "2026-09-28T08:35:03.831Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Skylar Tang",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -25507,13 +25507,13 @@
         {
           "id": "6aba2689d078f406eb0c1425",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:34:22.912Z",
+          "lastPublished": "2026-10-22T21:24:19.938Z",
+          "lastUpdated": "2026-10-22T21:24:19.938Z",
           "createdOn": "2026-09-28T08:34:17.144Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Skylar Tang",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -25543,13 +25543,13 @@
         {
           "id": "6aba2673ca42617a3c301c87",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-03T13:12:29.996Z",
-          "lastUpdated": "2026-09-28T08:34:40.904Z",
+          "lastPublished": "2026-10-22T21:24:25.392Z",
+          "lastUpdated": "2026-10-22T21:24:25.392Z",
           "createdOn": "2026-09-28T08:33:55.036Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchick, Peter Washington, Kush Abadey and Skylar Tang",
+            "event-title": "Ethan Iverson Sextet with Sam Newsome, Jacob Garchik, Peter Washington, Kush Abadey and Skylar Tang",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -26278,7 +26278,7 @@
             "name": "ny_26.10.12_feifke",
             "slug": "ny-26-10-12-feifke",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -29719,7 +29719,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -29785,7 +29785,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -30048,7 +30048,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "The Appel Room",
+            "venue-name": "The Appel Room, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/about-us/visit-our-venue/the-appel-room/"
           }
         },
@@ -30078,7 +30078,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "The Appel Room",
+            "venue-name": "The Appel Room, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/about-us/visit-our-venue/the-appel-room/"
           }
         },
@@ -30108,7 +30108,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -30138,7 +30138,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -30168,7 +30168,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -31287,7 +31287,7 @@
             "name": "ny_26.10.06_wamble",
             "slug": "ny-26-10-06-wamble",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [],
             "tags-link": []
@@ -31619,7 +31619,7 @@
             "name": "ny_26.10.05_nash",
             "slug": "ny-26-10-05-nash",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -32358,7 +32358,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -32388,7 +32388,7 @@
             "city-name": "NYC",
             "category-name": "Conversation",
             "category-link": null,
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -38602,7 +38602,7 @@
             "name": "ny_26.09.20_andreu",
             "slug": "ny-26-09-20-andreu",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -44417,34 +44417,6 @@
           }
         },
         {
-          "id": "6aa557259365cab3f825f8fe",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-14T07:45:09.283Z",
-          "lastUpdated": "2026-09-12T13:44:07.530Z",
-          "createdOn": "2026-09-12T13:44:05.951Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Queens Jazz Orchestra: The Jimmy Heath Centennial Concert",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a34b16e4340b50bc70a5cee",
-            "start-date": "2026-11-08T01:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.11.07_heath",
-            "slug": "ny-2026-11-07-heath",
-            "city-name": "NYC",
-            "venue-name": "Flushing Town Hall",
-            "venue-link": "https://www.flushingtownhall.org"
-          }
-        },
-        {
           "id": "6aa555b0eecd5f7cc31b859f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
           "lastPublished": "2026-10-12T09:44:23.570Z",
@@ -49330,7 +49302,7 @@
             "name": "ny_2026.09.09_thompson",
             "slug": "ny-2026-09-09-thompson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -49358,7 +49330,7 @@
             "name": "ny_2026.09.08_thompson",
             "slug": "ny-2026-09-08-thompson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -57171,8 +57143,8 @@
         {
           "id": "6a911287e4c5d27ac7975f1b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T18:29:05.821Z",
-          "lastUpdated": "2026-10-22T18:29:05.821Z",
+          "lastPublished": "2026-10-22T22:10:21.455Z",
+          "lastUpdated": "2026-10-22T22:10:21.455Z",
           "createdOn": "2026-08-28T04:45:59.949Z",
           "isArchived": false,
           "isDraft": false,
@@ -57189,8 +57161,8 @@
             "button-link": "https://dice.fm/partner/tickets/event/8edlw5-godwin-louis-29th-oct-founders-auditorium-at-medgar-evers-college-new-york-city-tickets?dice_id=10838340&dice_channel=web&dice_tags=organic&dice_campaign=The+Jazz+Foundation+of+America&dice_feature=mio_marketing&_branch_match_id=1641570641252687902&utm_source=web&utm_campaign=The+Jazz+Foundation+of+America&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1a8wTzU3TzNOTjM3M7evK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDJVlteOwAAAA%3D%3D",
             "tags": [],
             "thumbnail": {
-              "fileId": "6ada55ec158feddd91d9b7cd",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ada55ec158feddd91d9b7cd_Copies%20of%20MEC%20flyers%20.jpg",
+              "fileId": "6ada89c4cbafa06e1e23eefe",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6ada89c4cbafa06e1e23eefe_godwinlouis1029.jpg",
               "alt": null
             },
             "name": "ny_2026.10.29_mec_godwin louis",
@@ -62682,7 +62654,7 @@
             "name": "ny_26.08.20_johns",
             "slug": "ny-26-08-20-johns",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62738,7 +62710,7 @@
             "name": "ny_26.09.30_atom",
             "slug": "ny-26-09-30-atom",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62766,7 +62738,7 @@
             "name": "ny_26.09.29_cohen_emmet",
             "slug": "ny-26-09-29-cohen-emmet",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62794,7 +62766,7 @@
             "name": "ny_26.09.28_block",
             "slug": "ny-26-09-28-block",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62822,7 +62794,7 @@
             "name": "ny_26.09.27_coltrane_john",
             "slug": "ny-26-09-27-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62850,7 +62822,7 @@
             "name": "ny_26.09.26_coltrane_john",
             "slug": "ny-26-09-26-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62878,7 +62850,7 @@
             "name": "ny_26.09.25_coltrane_john",
             "slug": "ny-26-09-25-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62906,7 +62878,7 @@
             "name": "ny_26.09.24_coltrane_john",
             "slug": "ny-26-09-24-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62934,7 +62906,7 @@
             "name": "ny_26.09.23_coltrane_john",
             "slug": "ny-26-09-23-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62962,7 +62934,7 @@
             "name": "ny_26.09.22_coltrane_john",
             "slug": "ny-26-09-22-coltrane-john",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -62990,7 +62962,7 @@
             "name": "ny_26.09.21_carlberg",
             "slug": "ny-26-09-21-carlberg",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63018,7 +62990,7 @@
             "name": "ny_26.09.19_marsalis_wynton",
             "slug": "ny-26-09-19-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -63046,7 +63018,7 @@
             "name": "ny_26.09.18_marsalis_wynton",
             "slug": "ny-26-09-18-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -63074,7 +63046,7 @@
             "name": "ny_26.09.17_marsalis_wynton",
             "slug": "ny-26-09-17-marsalis-wynton",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -63102,7 +63074,7 @@
             "name": "ny_26.09.19_diehl",
             "slug": "ny-26-09-19-diehl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63130,7 +63102,7 @@
             "name": "ny_26.09.18_diehl",
             "slug": "ny-26-09-18-diehl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63158,7 +63130,7 @@
             "name": "ny_26.09.17_diehl",
             "slug": "ny-26-09-17-diehl",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63186,7 +63158,7 @@
             "name": "ny_26.09.16_watson",
             "slug": "ny-26-09-16-watson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63214,7 +63186,7 @@
             "name": "ny_26.09.13_wilmer",
             "slug": "ny-26-09-13-wilmer",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63242,7 +63214,7 @@
             "name": "ny_26.09.12_wilmer",
             "slug": "ny-26-09-12-wilmer",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63270,7 +63242,7 @@
             "name": "ny_26.09.11_wilmer",
             "slug": "ny-26-09-11-wilmer",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63298,7 +63270,7 @@
             "name": "ny_26.09.10_rollins",
             "slug": "ny-26-09-10-rollins",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -63326,7 +63298,7 @@
             "name": "ny_26.09.03_foster_ronnie",
             "slug": "ny-26-09-03-foster-ronnie",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -70304,7 +70276,7 @@
             "name": "ny_26.08.08_wolfe",
             "slug": "ny-26-08-08-wolfe",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -73072,7 +73044,7 @@
             "name": "ny_26.08.31_dorham",
             "slug": "ny-26-08-31-dorham",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -73321,7 +73293,7 @@
             "name": "ny_26.08.30_clayton Copy",
             "slug": "ny-26-08-30-clayton-copy",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -73349,7 +73321,7 @@
             "name": "ny_26.08.29_clayton",
             "slug": "ny-26-08-29-clayton",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -73377,7 +73349,7 @@
             "name": "ny_26.08.28_clayton",
             "slug": "ny-26-08-28-clayton",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -80292,7 +80264,7 @@
             "name": "ny_26.08.24_schonig",
             "slug": "ny-26-08-24-schonig",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -80743,7 +80715,7 @@
             "name": "ny_26.08.22_rubin",
             "slug": "ny-26-08-22-rubin",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -80771,7 +80743,7 @@
             "name": "ny_26.08.21_rubin",
             "slug": "ny-26-08-21-rubin",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -80799,7 +80771,7 @@
             "name": "ny_26.08.20_rubin",
             "slug": "ny-26-08-20-rubin",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -80827,7 +80799,7 @@
             "name": "ny_26.08.19_pelled",
             "slug": "ny-26-08-19-pelled",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -81303,7 +81275,7 @@
             "name": "ny_26.08.25_sexmob",
             "slug": "ny-26-08-25-sexmob",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -81331,7 +81303,7 @@
             "name": "ny_26.08.17_marshall_jason",
             "slug": "ny-26-08-17-marshall-jason",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -84430,7 +84402,7 @@
             "name": "ny_26.08.16_wolf",
             "slug": "ny-26-08-16-wolf",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -84458,7 +84430,7 @@
             "name": "ny_26.08.15_wolf",
             "slug": "ny-26-08-15-wolf",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -84486,7 +84458,7 @@
             "name": "ny_26.08.14_wolf",
             "slug": "ny-26-08-14-wolf",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -84514,7 +84486,7 @@
             "name": "ny_26.08.13_wolf",
             "slug": "ny-26-08-13-wolf",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -84542,7 +84514,7 @@
             "name": "ny_26.08.11_nelson",
             "slug": "ny-26-08-11-nelson",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -88527,7 +88499,7 @@
             "name": "ny_26.08.07_wolfe",
             "slug": "ny-26-08-07-wolfe",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -88555,7 +88527,7 @@
             "name": "ny_26.08.06_wolfe",
             "slug": "ny-26-08-06-wolfe",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -88583,7 +88555,7 @@
             "name": "ny_26.08.02_fonseca",
             "slug": "ny-26-08-02-fonseca",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -88611,7 +88583,7 @@
             "name": "ny_26.08.01_fonseca",
             "slug": "ny-26-08-01-fonseca",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -100850,7 +100822,7 @@
             "name": "ny_26.07.28_makhathini",
             "slug": "ny-26-07-28-makhathini",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -100889,7 +100861,7 @@
             "name": "ny_26.07.27_makhathini",
             "slug": "ny-26-07-27-makhathini",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -100967,7 +100939,7 @@
             "name": "ny_26.07.26_faddis",
             "slug": "ny-26-07-26-faddis",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -101006,7 +100978,7 @@
             "name": "ny_26.07.25_faddis",
             "slug": "ny-26-07-25-faddis",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -101045,7 +101017,7 @@
             "name": "ny_26.07.24_faddis",
             "slug": "ny-26-07-24-faddis",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -101084,7 +101056,7 @@
             "name": "ny_26.07.23_faddis",
             "slug": "ny-26-07-23-faddis",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "8+",
@@ -102791,7 +102763,7 @@
             "name": "ny_26_07_22_harper",
             "slug": "ny-26-07-22-harper",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "Full menu",
@@ -102830,7 +102802,7 @@
             "name": "ny_26_07_21_harper",
             "slug": "ny-26-07-21-harper",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "Full menu",
@@ -102866,7 +102838,7 @@
             "name": "ny_26_07_20_ginita",
             "slug": "ny-26-07-20-ginita",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -103329,7 +103301,7 @@
             "name": "ny_26_07_24_jlco",
             "slug": "ny-26-07-24-jlco",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -103357,7 +103329,7 @@
             "name": "ny_26_07_23_jlco",
             "slug": "ny-26-07-23-jlco",
             "city-name": "NYC",
-            "venue-name": "Rose Theater",
+            "venue-name": "Rose Theater, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/"
           }
         },
@@ -111490,7 +111462,7 @@
             "name": "whitaker 26.06.28",
             "slug": "whitaker-26-06-28",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -111518,7 +111490,7 @@
             "name": "reed 26.06.27",
             "slug": "reed-26-06-27",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -111546,7 +111518,7 @@
             "name": "reed 26.06.26",
             "slug": "reed-26-06-26",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -112575,7 +112547,7 @@
             "name": "mcpherson 26.07.19",
             "slug": "mcpherson-26-07-19",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -112603,7 +112575,7 @@
             "name": "mcpherson 26.07.18",
             "slug": "mcpherson-26-07-18",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -112631,7 +112603,7 @@
             "name": "mcpherson 26.07.17",
             "slug": "mcpherson-26-07-17",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -113185,7 +113157,7 @@
             "name": "miggy 26.07.13",
             "slug": "miggy-26-07-13",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys"
           }
         },
@@ -119318,7 +119290,7 @@
             "name": "o'connell 26.06.24",
             "slug": "oconnell-26-06-24",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "Full menu",
@@ -119357,7 +119329,7 @@
             "name": "o'connell 26.06.23",
             "slug": "oconnell-26-06-23",
             "city-name": "NYC",
-            "venue-name": "Dizzy's Club",
+            "venue-name": "Dizzy's Club, Jazz at Lincoln Center",
             "venue-link": "https://jazz.org/dizzys",
             "tags-name": [
               "Full menu",
