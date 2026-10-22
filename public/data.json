@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T23:02:34.996Z",
+  "fetchedAt": "2026-10-22T00:47:08.472Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -57143,8 +57143,8 @@
         {
           "id": "6a911287e4c5d27ac7975f1b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-21T21:10:24.783Z",
-          "lastUpdated": "2026-10-21T21:10:24.783Z",
+          "lastPublished": "2026-10-22T00:16:18.416Z",
+          "lastUpdated": "2026-10-22T00:16:18.416Z",
           "createdOn": "2026-08-28T04:45:59.949Z",
           "isArchived": false,
           "isDraft": false,
@@ -57157,9 +57157,9 @@
             "start-date": "2026-10-29T23:00:00.000Z",
             "event-time": "7PM",
             "event-description": "<p>Saxophonist, composer and bandleader Godwin Louis performs with his quintet as part of the JGI's monthly series at Medgar Evers College. </p>",
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
+            "button-text": "TICKETS",
+            "button-link": "https://dice.fm/partner/tickets/event/8edlw5-godwin-louis-29th-oct-founders-auditorium-at-medgar-evers-college-new-york-city-tickets?dice_id=10838340&dice_channel=web&dice_tags=organic&dice_campaign=The+Jazz+Foundation+of+America&dice_feature=mio_marketing&_branch_match_id=1641570641252687902&utm_source=web&utm_campaign=The+Jazz+Foundation+of+America&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1a8wTzU3TzNOTjM3M7evK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDJVlteOwAAAA%3D%3D",
+            "tags": [],
             "thumbnail": {
               "fileId": "6a9112847bd23d2a1b80b6ca",
               "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9112847bd23d2a1b80b6ca_godwin%20louis2.jpeg",
@@ -57172,7 +57172,9 @@
             "category-name": "Concert",
             "category-link": null,
             "venue-name": "Founders Auditorium, Medgar Evers College",
-            "venue-link": "https://www.mec.cuny.edu/events/"
+            "venue-link": "https://www.mec.cuny.edu/events/",
+            "tags-name": [],
+            "tags-link": []
           }
         },
         {
