@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T09:45:59.564Z",
+  "fetchedAt": "2026-10-23T14:42:09.229Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,8 +10,8 @@
         {
           "id": "6ad9871af4db9b49120fab09",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T03:47:05.385Z",
-          "lastUpdated": "2026-10-22T03:47:05.385Z",
+          "lastPublished": "2026-10-22T03:47:05.629Z",
+          "lastUpdated": "2026-10-22T03:47:05.629Z",
           "createdOn": "2026-10-22T03:46:34.976Z",
           "isArchived": false,
           "isDraft": false,
@@ -38,8 +38,8 @@
         {
           "id": "6ad8ef94d3890a5292d5c467",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-21T17:00:06.600Z",
-          "lastUpdated": "2026-10-21T17:00:06.600Z",
+          "lastPublished": "2026-10-21T17:00:06.867Z",
+          "lastUpdated": "2026-10-21T17:00:06.867Z",
           "createdOn": "2026-10-21T17:00:04.951Z",
           "isArchived": false,
           "isDraft": false,
@@ -121,7 +121,7 @@
         {
           "id": "6ad7de53aa595f2d297745ba",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:34:18.504Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:34:18.504Z",
           "createdOn": "2026-10-20T21:34:11.594Z",
           "isArchived": false,
@@ -149,7 +149,7 @@
         {
           "id": "6ad7d99e7fc8de024da69389",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:32:54.251Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:32:54.251Z",
           "createdOn": "2026-10-20T21:14:06.725Z",
           "isArchived": false,
@@ -177,7 +177,7 @@
         {
           "id": "6ad7d90c2b0a5ac0b3cbe7e1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:11:48.519Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:11:48.519Z",
           "createdOn": "2026-10-20T21:11:40.233Z",
           "isArchived": false,
@@ -205,7 +205,7 @@
         {
           "id": "6ad7d860c8d1cf9d5943de34",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:08:50.093Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:08:50.093Z",
           "createdOn": "2026-10-20T21:08:48.592Z",
           "isArchived": false,
@@ -233,7 +233,7 @@
         {
           "id": "6ad7d810d128b7b67caa546e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:07:29.654Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:07:29.654Z",
           "createdOn": "2026-10-20T21:07:28.224Z",
           "isArchived": false,
@@ -261,7 +261,7 @@
         {
           "id": "6ad7d8019cb6b1e2eac80524",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:07:17.085Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:07:17.085Z",
           "createdOn": "2026-10-20T21:07:13.914Z",
           "isArchived": false,
@@ -289,7 +289,7 @@
         {
           "id": "6ad7d7e87a30a8e1e25e371c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:07:02.148Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:07:02.148Z",
           "createdOn": "2026-10-20T21:06:48.570Z",
           "isArchived": false,
@@ -317,7 +317,7 @@
         {
           "id": "6ad7d7de19e32863527fe420",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:06:40.318Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:06:40.318Z",
           "createdOn": "2026-10-20T21:06:38.439Z",
           "isArchived": false,
@@ -345,7 +345,7 @@
         {
           "id": "6ad7d7bf0de50caf05cdabc4",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:06:12.783Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:06:12.783Z",
           "createdOn": "2026-10-20T21:06:07.763Z",
           "isArchived": false,
@@ -373,7 +373,7 @@
         {
           "id": "6ad7d7aedbd99a9a21a56401",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:05:55.021Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:05:55.021Z",
           "createdOn": "2026-10-20T21:05:50.110Z",
           "isArchived": false,
@@ -401,7 +401,7 @@
         {
           "id": "6ad7d7a2908733230b52d94c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:10:51.780Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:10:51.780Z",
           "createdOn": "2026-10-20T21:05:38.116Z",
           "isArchived": false,
@@ -429,7 +429,7 @@
         {
           "id": "6ad7d6780c8c070f5e5d683a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T21:00:47.406Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T21:00:47.406Z",
           "createdOn": "2026-10-20T21:00:40.987Z",
           "isArchived": false,
@@ -457,7 +457,7 @@
         {
           "id": "6ad7d54d1dd51079eb29bb5b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:55:47.035Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:55:47.035Z",
           "createdOn": "2026-10-20T20:55:41.875Z",
           "isArchived": false,
@@ -485,7 +485,7 @@
         {
           "id": "6ad7d52cc3b7830c5adf7578",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:55:12.390Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:55:12.390Z",
           "createdOn": "2026-10-20T20:55:08.987Z",
           "isArchived": false,
@@ -513,7 +513,7 @@
         {
           "id": "6ad7d4fab95cb193ecfe1e6e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:54:20.445Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:54:20.445Z",
           "createdOn": "2026-10-20T20:54:18.538Z",
           "isArchived": false,
@@ -541,7 +541,7 @@
         {
           "id": "6ad7d48fa39d2731b513844a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:52:33.607Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:52:33.607Z",
           "createdOn": "2026-10-20T20:52:31.699Z",
           "isArchived": false,
@@ -569,7 +569,7 @@
         {
           "id": "6ad7ccdbfc49e5fad182920d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:19:41.313Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:19:41.313Z",
           "createdOn": "2026-10-20T20:19:39.303Z",
           "isArchived": false,
@@ -63677,7 +63677,7 @@
         {
           "id": "6a7d5a9ad031abbefd70a91b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-20T20:13:49.304Z",
+          "lastPublished": "2026-10-21T12:25:42.135Z",
           "lastUpdated": "2026-10-20T20:13:49.304Z",
           "createdOn": "2026-08-13T05:48:10.635Z",
           "isArchived": false,
