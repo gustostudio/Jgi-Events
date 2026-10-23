@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T14:42:09.229Z",
+  "fetchedAt": "2026-10-23T17:21:04.780Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,7 +10,7 @@
         {
           "id": "6ad9871af4db9b49120fab09",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T03:47:05.629Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T03:47:05.629Z",
           "createdOn": "2026-10-22T03:46:34.976Z",
           "isArchived": false,
@@ -38,7 +38,7 @@
         {
           "id": "6ad8ef94d3890a5292d5c467",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-21T17:00:06.867Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-21T17:00:06.867Z",
           "createdOn": "2026-10-21T17:00:04.951Z",
           "isArchived": false,
@@ -66,7 +66,7 @@
         {
           "id": "6ad829d6028d8d1e69635be3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T15:43:12.907Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T15:43:12.907Z",
           "createdOn": "2026-10-21T02:56:22.540Z",
           "isArchived": false,
@@ -5835,7 +5835,7 @@
         {
           "id": "6acfcc5c434497c84b1ac66b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:16:58.723Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:16:58.723Z",
           "createdOn": "2026-10-14T18:39:24.586Z",
           "isArchived": false,
@@ -25363,7 +25363,7 @@
         {
           "id": "6aba271ed56e14733ea48c32",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:30:59.366Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:30:59.366Z",
           "createdOn": "2026-09-28T08:36:46.127Z",
           "isArchived": false,
@@ -25399,7 +25399,7 @@
         {
           "id": "6aba2708695659c782aa6a86",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:24:42.099Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:24:42.099Z",
           "createdOn": "2026-09-28T08:36:24.778Z",
           "isArchived": false,
@@ -25435,7 +25435,7 @@
         {
           "id": "6aba26d324b4dd222a9daddd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:24:03.816Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:24:03.816Z",
           "createdOn": "2026-09-28T08:35:31.396Z",
           "isArchived": false,
@@ -25471,7 +25471,7 @@
         {
           "id": "6aba26b724b4dd222a9d9b65",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:24:14.848Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:24:14.848Z",
           "createdOn": "2026-09-28T08:35:03.831Z",
           "isArchived": false,
@@ -25507,7 +25507,7 @@
         {
           "id": "6aba2689d078f406eb0c1425",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:24:19.938Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:24:19.938Z",
           "createdOn": "2026-09-28T08:34:17.144Z",
           "isArchived": false,
@@ -25543,7 +25543,7 @@
         {
           "id": "6aba2673ca42617a3c301c87",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T21:24:25.392Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T21:24:25.392Z",
           "createdOn": "2026-09-28T08:33:55.036Z",
           "isArchived": false,
@@ -57143,7 +57143,7 @@
         {
           "id": "6a911287e4c5d27ac7975f1b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-22T22:10:21.455Z",
+          "lastPublished": "2026-10-23T14:32:29.949Z",
           "lastUpdated": "2026-10-22T22:10:21.455Z",
           "createdOn": "2026-08-28T04:45:59.949Z",
           "isArchived": false,
