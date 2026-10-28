@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-10-28T11:01:42.833Z",
+  "fetchedAt": "2026-10-28T18:25:51.280Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3281,
+      "itemCount": 3282,
       "items": [
+        {
+          "id": "6ae2139220adc1e4b176ac14",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T15:24:02.925Z",
+          "lastUpdated": "2026-10-28T15:24:02.925Z",
+          "createdOn": "2026-10-28T15:24:02.925Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sally Baby's Silver Dollars ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3191836c7556447bb46dc0",
+            "start-date": "2026-10-09T18:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Sally Baby's Silver Dollars </p><p>‍</p><p><strong><em>*CASH&nbsp;ONLY&nbsp;at the Door and at the Bar*</em></strong>&nbsp; </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.facebook.com/bjs.bywater/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dc3b0493eb9ffc794a7f6",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3db10d06a35758469acd07",
+              "6a3832d81051ca44000ec45e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.29_sally_baby_silver_dollars_BJs",
+            "slug": "no-26-10-29-sally-baby-silver-dollars-bjs",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "BJ's Bywater Lounge",
+            "venue-link": "https://www.facebook.com/bjs.bywater/",
+            "tags-name": [
+              "New Orleans",
+              "folk",
+              "blues",
+              "R&B",
+              "jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ae191d353d347b4de6d4a4d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
