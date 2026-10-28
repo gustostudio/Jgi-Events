@@ -1,12 +1,418 @@
 {
-  "fetchedAt": "2026-10-28T04:26:25.253Z",
+  "fetchedAt": "2026-10-28T08:51:34.929Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3273,
+      "itemCount": 3281,
       "items": [
+        {
+          "id": "6ae191d353d347b4de6d4a4d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T06:18:35.564Z",
+          "lastUpdated": "2026-10-28T06:18:35.564Z",
+          "createdOn": "2026-10-28T06:10:27.846Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "IMOX Jazz Ensemble wsg Patrice Fisher + Día de los Muertos Altar by Huge Montero ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6ae1924b5c0b24ca03785bba",
+            "start-date": "2026-10-28T21:00:00.000Z",
+            "event-time": "5:00PM - 7:30PM (FREE) ",
+            "event-description": "<p>WEDNESDAY&nbsp;EVENINGS&nbsp;with ENRIQUE&nbsp;in the BOTANICAL&nbsp;GARDEN are LATIN MUSIC&nbsp;NIGHT: </p><p>Every Wednesday in October, the Botanical Garden will extend its hours – offering all Louisiana residents free entry – courtesy of The Helis Foundation. Attendees will enjoy local Latin American artists and ensembles while imbibing in beverages and savoring dishes prepared by Chef Pat White at the Kitchen in the Garden. No outside food or drink allowed.</p><p>Local artist Hugo Montero will unveil his Día de los Muertos (Day of the Dead) altar inside the Conservatory of the Two Sisters on Wednesday, October 21. The altar will remain on display through Monday, November 2.</p><p><strong>2026 Fall Lineup:&nbsp;</strong><br>October 7: Choro Collective<br>October 14: Geovane Santos and his Orchestra Fumaça<br>October 21: Papo &amp; Son Mandao<br><strong>October 28: Imox Jazz (Guatemala)&nbsp;&amp; special guest, harpist Patrice Fisher</strong></p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://neworleanscitypark.org/event/evenings-with-enrique/2026-10-28/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a9dd405dc2eadae3b72c055",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_IMOX_garden",
+            "slug": "no-26-10-28-imox",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Botanical Garden at New Orleans City Park",
+            "venue-link": "https://neworleanscitypark.org/visit-city-park/botanical-garden/",
+            "tags-name": [
+              "New Orleans",
+              "Latin Jazz",
+              "Latin Music",
+              "Free",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae190b56cc67b702c77dd83",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T06:05:41.864Z",
+          "lastUpdated": "2026-10-28T06:05:41.864Z",
+          "createdOn": "2026-10-28T06:05:41.864Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Zombie Jamboree with Charlie & The Tropicales",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318bfe54c045b2f3bca972",
+            "start-date": "2026-10-29T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>A&nbsp;pre-Halloween Zombie Jamboree with Charlie &amp;&nbsp;The Tropicales costumed dance party</p><p>‍</p><p>$10 |&nbsp;21+</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://dice.fm/event/ryervq-the-tropicales-zombie-jamboree-28th-oct-saturn-bar-new-orleans-tickets?pid=705fb2ad&_branch_match_id=1643869947656710365&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q82NE81SzUxTE41SrQvyEyxNTcwTUsySkxRqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUA6uZ1FEgAAAA%3D",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a544b7dbed6c6d576f29300"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_tropicales_zombie_jamboree",
+            "slug": "no-26-10-28-tropicales-zombie-jamboree",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Saturn Bar",
+            "venue-link": "https://www.thesaturnbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "tropicalia"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18fe45ce560024d6f5b0d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T06:02:12.406Z",
+          "lastUpdated": "2026-10-28T06:02:12.406Z",
+          "createdOn": "2026-10-28T06:02:12.406Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ms. Betty Shirley Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cdf892acd00125669db4",
+            "start-date": "2026-10-29T00:00:00.000Z",
+            "event-time": "8PM - 11PM",
+            "event-description": "<p><strong>Betty Shirley </strong>is a renowned jazz vocalist and visual artist based in New Orleans known for her rich, expressive voice and improvisational style that blends jazz, blues, R&amp;B, and bossa nova. Originally from Jackson, Mississippi, and raised in Chicago, she studied music in New York before settling in New Orleans in the early 1990s. She has performed at iconic locals venues like Snug Harbor and global festivals including the New Orleans Jazz &amp; Heritage Festival and Essence Fest, sharing stages with legends such as Ellis Marsalis and Benny Green. Honored as a Jazz All-Star by <em>New Orleans Magazine</em> and a<em> Gambit Weekly</em> Magazine Big Easy Award winner, Shirley has released several acclaimed albums, including <em>Unveiled</em>, <em>Close Your Eyes</em>, and <em>With the Red Organ Trio</em>, solidifying her legacy as a vital force in the city’s jazz scene.</p><p>Tonight, she performs with the <strong>Will Thompson Trio</strong>, featuring: </p><p>Betty Shirley - vocals <br>Will Thompson - piano<br>Quinn Sternberg - bass<br>Simon Lott - drums </p><p> </p><p><strong>Two Sets: 8:00pm &amp; 9:45pm</strong></p><p>‍</p><p><strong>NO&nbsp;COVER |&nbsp; 1 Drink Minimum per Guest </strong></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.3musesnola.com/music",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a7627ad62e0f1dbf346c51c",
+              "6a3db58d49b3972da8b7b5f0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_shirley_betty_muses",
+            "slug": "no-26-10-28-shirley-betty-muses",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Three Muses",
+            "venue-link": "https://www.3musesnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "vocal jazz",
+              "blues"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18ee90d7c605b0bbedaab",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T05:58:01.359Z",
+          "lastUpdated": "2026-10-28T05:58:01.359Z",
+          "createdOn": "2026-10-28T05:58:01.359Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz at the Sandbar feat. Yusa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6acc878fe9731573a679e50a",
+            "start-date": "2026-10-28T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>JAZZ&nbsp;AT&nbsp;THE&nbsp;SANDBAR&nbsp;FALL&nbsp;2026 SEASON&nbsp;IS&nbsp;HERE: </p><p>(though the venue has moved from The Cove to the 4th Floor Lounge of the Earl K. Long Library)&nbsp;</p><p>Students from the Jazz Studies department that the late, great Ellis Marsalis<strong> </strong>created at the University of New Orleans (UNO - now LSU) perform with a different guest teaching artist each week at the Jazz at the Sandbar season. </p><p>This week, the band is led by Cuban guitarist and bassist, <strong>YUSA. </strong></p><p>‍</p><p>6pm Doors | 7pm Show </p><p>$10 Suggested Donation, no one turned away for lack of funds, free for LSU&nbsp;students and faculty. </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a5401d60e7b1cfef7fd6a81"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_sandbar_yusa",
+            "slug": "no-26-10-28-sandbar-yusa",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "410 Lounge (UNO/LSU Campus)",
+            "venue-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Black American Music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18e9b5ce560024d6ed00e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T05:56:43.758Z",
+          "lastUpdated": "2026-10-28T05:56:43.758Z",
+          "createdOn": "2026-10-28T05:56:43.758Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "James Jordan Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-10-28T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>Rising young powerhouse vocalist <strong>James Jordan </strong>presents his jazz trio with his signature throwback style do-wop style and a jazzy Motown feel, for two sets. </p><p>Led by vocalist James Jordan, this rising New Orleans based band's influences span from artists like D'Angelo and Jill Scott to Earth Wind and Fire to Ella Fitzgerald and Duke Ellington. They bring life and energy to their original music and arrangements, only highlighted more by the chemistry between these young musicians.</p><p><strong>James Jordan </strong>is a New Orleans-based vocalist whose rich baritone blends R&amp;B, funk, jazz, and swing with timeless style. Born in Washington, D.C., he has earned a reputation as a dynamic and versatile performer whose soulful interpretations captivate audiences in settings ranging from intimate duos to big bands. His 2026 debut album, <strong><em>Reflections,</em></strong> explores finding freedom, joy, and growth through life's challenges.</p><p>‍</p><p>NO&nbsp;COVER</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_jordan_james_trio",
+            "slug": "no-26-10-28-jordan-james-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "R&B",
+              "jazz",
+              "jazz fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18d3f9a62378235853e28",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T05:50:55.687Z",
+          "lastUpdated": "2026-10-28T05:50:55.687Z",
+          "createdOn": "2026-10-28T05:50:55.687Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "WWNO FM Benefest featuring Tank & Norm of The Bangas, Leyla McCalla, Helen Gillet & More ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31911583020f15259a92f1",
+            "start-date": "2026-10-28T21:30:00.000Z",
+            "event-time": "5:30PM - 7:30PM",
+            "event-description": "<p>WWNO&nbsp;FM presents its annual BENEFEST&nbsp;Fundraiser Concert</p><p>featuring </p><p>Tank &amp;&nbsp;Norm of Tank &amp; The Bangas </p><p>Leyla McCalla </p><p>Helen Gillet </p><p>+ More </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://broadsidenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6acc7bcaf993e067e02c890e",
+              "6adeed053158f0f8fd20e851",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db8d5ea3bd0230cbe619f"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.28_WWNO_Benefest",
+            "slug": "no-26-10-28-wwno-benefest",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Broadside",
+            "venue-link": "https://broadsidenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "benefit concert",
+              "folks music",
+              "soul",
+              "singer-songwriter"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18c68b2a12043bb294435",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T05:47:20.782Z",
+          "lastUpdated": "2026-10-28T05:47:20.782Z",
+          "createdOn": "2026-10-28T05:47:20.782Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Arrowhead Jazz Band wsg James Jordan",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a5459cfa7e64d51039c2e14",
+            "start-date": "2026-10-27T19:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>The New Orleans Jazz National Historic Park house band, the Arrowhead Jazz Band, collaborates with rising young vocalist <strong>James Jordan </strong>for this week's edition of the center's free Tuesday afternoon concert series. <br></p><p><strong>3pm - 4pm Set </strong></p><p>‍</p><p>Performance is FREE&nbsp;and Open to the Public of All Ages. Space is limited, so early arrival is strongly suggested. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.nps.gov/jazz/index.htm",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401c170dbe02d7e893dca",
+              "6a5401d60e7b1cfef7fd6a81",
+              "69de3d2f73b19959770800ba",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.27_arrowhead_jordan_james",
+            "slug": "no-26-10-27-arrowhead-jordan-james",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz National Historic Park",
+            "venue-link": "https://www.nps.gov/jazz/index.htm",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "BAM",
+              "Black American Music",
+              "13+",
+              "classic jazz",
+              "swingin' jazz",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae18c39350ae7d223afb6f0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-10-28T05:46:33.045Z",
+          "lastUpdated": "2026-10-28T05:46:33.045Z",
+          "createdOn": "2026-10-28T05:46:33.045Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kayla Jasmine",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce54ef1ae9bd7963a4e5",
+            "start-date": "2026-10-28T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><a href=\"https://www.instagram.com/kaylaxjasmin/\"><strong>Vocalist Kayla Jasmine</strong></a> and The Experience band for two sets at 9:00pm &amp; 10:45pm </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.3090-nola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.10.27_jasmine_kayla",
+            "slug": "no-26-10-27-jasmine-kayla",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "30 / 90",
+            "venue-link": "https://www.3090-nola.com/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "R&B",
+              "funk fusion",
+              "jazz fusion",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ae055235b9131ba36b7a2fe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -4783,8 +5189,8 @@
         {
           "id": "6ad4da94c677397c9b10fc03",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-10-18T14:41:24.255Z",
-          "lastUpdated": "2026-10-18T14:41:24.255Z",
+          "lastPublished": "2026-10-28T05:47:01.620Z",
+          "lastUpdated": "2026-10-28T05:47:01.620Z",
           "createdOn": "2026-10-18T14:41:24.255Z",
           "isArchived": false,
           "isDraft": false,
@@ -4810,7 +5216,7 @@
               "698171062ef8be261a524683"
             ],
             "thumbnail": null,
-            "name": "no_2610.20_arrowhead_jordan_james",
+            "name": "no_26.10.20_arrowhead_jordan_james",
             "slug": "no-2610-20-arrowhead-jordan-james",
             "city-name": "NOLA",
             "category-name": "Concert",
