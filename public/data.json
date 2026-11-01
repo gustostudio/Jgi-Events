@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-11-01T19:23:08.353Z",
+  "fetchedAt": "2026-11-01T23:23:53.105Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3438,
+      "itemCount": 3439,
       "items": [
+        {
+          "id": "6ae792054c5f5b90311830a3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-01T19:24:53.264Z",
+          "lastUpdated": "2026-11-01T19:24:53.264Z",
+          "createdOn": "2026-11-01T19:24:53.264Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dr. Sick Quartet feat. Brian Haas, Dr. Sick, Alizah Starr, James Evans ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d963e5f1f8d15e2934e",
+            "start-date": "2026-11-04T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Dr. Sick Quartet feat. Brian Haas, Dr. Sick, Alizah Starr, James Evans</p><p>‍</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.zeitgeistnola.org/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d42dce24c9008ae4c85a",
+              "6a38d43dfeb11fdc96ee3b41"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.03_dr_sick_zeitgeist",
+            "slug": "no-26-11-03-dr-sick-zeitgeist",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Zeitgeist Multi-Disciplinary Arts Center",
+            "venue-link": "https://www.zeitgeistnola.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "free jazz",
+              "experimental jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ae79120fca4b838e496058f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
