@@ -1,12 +1,661 @@
 {
-  "fetchedAt": "2026-11-02T04:49:04.264Z",
+  "fetchedAt": "2026-11-02T09:46:32.451Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3467,
+      "itemCount": 3480,
       "items": [
+        {
+          "id": "6ae81fb3e86c687666c99d03",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:29:23.273Z",
+          "lastUpdated": "2026-11-02T05:29:23.273Z",
+          "createdOn": "2026-11-02T05:29:23.273Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Brad Walker & Willis Delony (FREE) ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-08T21:30:00.000Z",
+            "event-time": "4:30PM (FREE)",
+            "event-description": "<p><strong>Brad Walker </strong>is one of New Orleans’ most sought-after saxophonists, with acclaimed performances on Saturday Night Live, the Grammy Awards, and The Tonight Show alongside Sturgill Simpson. A six-time album artist, he has collaborated with musicians including Anders Osborne, George Porter Jr., and Rickie Lee Jones. Joining him is <strong>Willis Delony,</strong> an acclaimed pianist and Boyd Professor at Louisiana State University, known for blending classical and jazz traditions and performing internationally, including at Carnegie Hall. Together, they bring their musical versatility and artistry to the stage for a special performance.</p><p><strong>This performance features:</strong><br>Brad Walker - saxophone<br>Willis Delony - piano</p><p>‍</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SET SERIES</em> </p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show.</strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/brad-walker-willis-delony/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_11.08_walker_brad_delony_willis",
+            "slug": "no-26-11-08-walker-brad-delony-willis",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81f275ad378d32bb8e4ec",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:27:03.450Z",
+          "lastUpdated": "2026-11-02T05:27:03.450Z",
+          "createdOn": "2026-11-02T05:27:03.450Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Autumn Dominguez & Seth Finch (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-07T21:30:00.000Z",
+            "event-time": "4:30PM (FREE)",
+            "event-description": "<p>New Orleans-based saxophonist, vocalist, and composer <strong>Autumn Dominguez</strong> brings a dynamic, genre-blending approach to jazz, with credits including the New Orleans Jazz Orchestra, Ashlin Parker’s Trumpet Mafia, and the New Orleans Jazz &amp; Heritage Festival. Joining her is rising New Orleans pianist <strong>Seth Finch,</strong> originally from Baton Rouge, who has performed internationally with the National Youth Orchestra Jazz ensemble under Sean Jones and Kurt Elling and shared the stage with jazz greats Dianne Reeves and Wycliffe Gordon. Together, these talented musicians bring fresh perspectives, expressive improvisation, and exciting musical chemistry to the stage.</p><p>‍</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SET SERIES</em> </p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show.</strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/autumn-dominguez/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_11.07_dominguez_autumn_finch_seth",
+            "slug": "no-26-11-07-dominguez-autumn-finch-seth",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81e9c30e2464948e4d277",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:24:44.821Z",
+          "lastUpdated": "2026-11-02T05:24:44.821Z",
+          "createdOn": "2026-11-02T05:24:44.821Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Soul Sensations",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-04T21:30:00.000Z",
+            "event-time": "4:30PM (FREE)",
+            "event-description": "<p>Jazz Foundation of America presents:&nbsp;</p><p><strong>The Soul Sensations</strong> were a teen band originating in New Orleans' Gentilly Ponchartrain Park neighborhood in the late 1960s by brothers, Warren Nabonne, Jr. (guitar) and Gary Nabonne (drums), and a few friends in the area. They were later joined by their cousin, Sharon Nabonne (vocals). They captivated audiences at house parties, weddings, family gatherings, and other local venues.</p><p>By the next decade, other seasoned musicians like Wendell Brunious, Marilyn Barbarin, Cynthia Williams, the legendary duo, \"The Aubry Twins\"-Jerome and Tyrone Aubert, and others joined and entertained crowds at popular, local venues like The Coachman’s Lounge, The Nightcap, and LaStrada’s throughout the years. This mix of multi-talented musicians, showcasing the latest R &amp; B and soul hits of the era, were always favorable to their audiences. Join us for this special reunion performance!</p><p><strong>The featured artists include:</strong><br>Sharon Nabonne - vocals<br>Warren Nabonne Jr. - guitar<br>Gary Nabonne - drums<br>Marilyn Barbarin - vocals <br>Emile Hall - saxophone <br>Percy Williams - trumpet<br>Sylvester \"Snap\" Andrews - &nbsp;bass<br>Brian Toval - piano</p><p>‍</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SET SERIES</em> </p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show.</strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/the-soul-sensations-band/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401c170dbe02d7e893dca",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26_11.04.soul_sensations",
+            "slug": "no-26-11-04-soul-sensations",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "BAM",
+              "Black American Music",
+              "modern jazz",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81dc930f4461b2a30df67",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:21:13.538Z",
+          "lastUpdated": "2026-11-02T05:21:13.538Z",
+          "createdOn": "2026-11-02T05:21:13.538Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tribute to Alvin Batiste with the Wess Anderson Quintet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-08T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p>Virtuoso modern jazz clarinetist, composer, recording artist, and educator,<strong> Alvin Batiste</strong> made his greatest impact as a beloved mentor to generations of jazz musicians. <strong>He founded and led the Jazz Institute at Southern University in Baton Rouge</strong> and helped create the <strong>New Orleans Center for Creative Arts (NOCCA)</strong>.</p><p> Many of the students Batiste taught during his more than 30 years at Southern University became major figures in music, including Branford Marsalis, Randy Jackson, Herlin Riley, Henry Butler, Donald Harrison Jr, Roland Guerin, Max Moran and Gregory Agid. Branford Marsalis expressed his esteem for<strong> “Mr. Bat,”</strong> as Batiste was known, by producing the clarinetist’s 2007 album, <em>Marsalis Music Honors Alvin Batiste,</em> and releasing the recording through his Marsalis Music label. </p><p>Busy with his music education work, Batiste recorded only a handful of albums as a leader, including 1988’s <em>Bayou Magic, </em>1999’s <em>Songs,Words and Messages</em>,<em> Connections</em>, and the major label debut he released at sixty years old via Columbia Records, 1993’s <em>Late.</em>Though Batiste was an adventurous modern jazz master and composer, he played the clarinet in the vocal-oriented style of traditional jazz clarinetists in New Orleans. A continuously searching artist, he practiced daily into his seventies. <strong><em>“There’s no static condition in aesthetic expression,” </em></strong>Batiste was known to say.Bat passed away not long after Hurricane Katrina, in 2007.<br><br><br><strong>Tonight's Annual Birthday Tribute to Bat features the Wess Anderson Quintet:</strong></p><p><strong>Wess “Warmdaddy” Anderson </strong>is a celebrated classic swing saxophonist known for his big sound and irresistible charm. After beginning saxophone at age 14 and studying with jazz greats Frank Wess, Frank Foster, and Charles Davis, Anderson attended Southern University, <strong>where he studied with legendary New Orleans clarinetist and educator Alvin Batiste.</strong> In 1988, Anderson joined Wynton Marsalis’ Septet, touring and recording with the group for 20 years. He also performed with the Lincoln Center Jazz Orchestra and released four solo albums. Tonight, Anderson pays tribute to his former mentor, Alvin Batiste, celebrating what would have been the pioneering musician’s 93rd birthday and honoring his lasting influence on New Orleans jazz.</p><p>‍</p><p><strong>Shows at 7:00pm &amp; 9:00pm &nbsp;</strong><br><strong>Doors at 6:30pm &amp; 8:30pm</strong></p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/alvin-batiste-birthday-tribute-with-wess-anderson-quintet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.07_batiste_alvin_tribute_with_wess_anderson",
+            "slug": "no-26-11-07-batiste-alvin-tribute-with-wess-anderson",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81c9542eb2faf11a4e534",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:16:05.619Z",
+          "lastUpdated": "2026-11-02T05:16:05.619Z",
+          "createdOn": "2026-11-02T05:16:05.619Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Chuck Redd: Bebop o Brazil",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-07T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong>Chuck Redd</strong> is well known internationally as a performer on drums and vibraphone. Chuck began recording and touring the globe when he joined the Charlie Byrd Trio at the age of 21. He also became a member of the Great Guitars (Barney Kessel, Byrd and Herb Ellis.) To his credit are 25 European tours and six tours of Japan, with the Barney Kessel Trio, Ken Peplowski and the Benny Goodman Tribute Orchestra, Terry Gibbs and Conte Candoli. He served as Artist-In-Residence at The Smithsonian Jazz Café in Washington, DC from 2004-2008. </p><p>Chuck is the 2019 musical director of The Oregon Festival of American Music. He is a featured soloist, annually at The W.C. Handy Music Festival, The Newport Beach Jazz Party, The West Texas Jazz Party, The North Carolina Jazz Festival and The Roswell Jazz Festival.<br><br>Tonight, Chuck performs his Bebop to Brazil series. </p><p>‍</p><p><strong>Shows at 7:00pm &amp; 9:00pm <br>Doors at &nbsp;6:30pm &amp; 8:30pm </strong></p><p>‍<strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/chuck-redd-bebop-to-brazil/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6ae81c88ed8cfdd1b7c8720e",
+              "6a78c2257e6816676b233536"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_redd_chuck_bebop_to_brazil",
+            "slug": "no-26-11-06-redd-chuck-bebop-to-brazil",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "bebop",
+              "Brasilian Music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81bc2ed8cfdd1b7c84d12",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:12:34.640Z",
+          "lastUpdated": "2026-11-02T05:12:34.640Z",
+          "createdOn": "2026-11-02T05:12:34.640Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tony Dagradi Quartet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-06T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p>For more than four decades, <strong>Tony Dagradi</strong> has been a fixture of the New Orleans music scene, performing with legends including Ellis Marsalis, Allen Toussaint, Professor Longhair, Dr. John, The Meters, and Gatemouth Brown. His career also includes five years with the internationally acclaimed Carla Bley Band, collaborations with Bobby McFerrin and Mose Allison, and membership in the innovative New Orleans jazz quartet Astral Project. </p><p>‍</p><p><strong>This performance features: </strong></p><p>Tony Dagradi - saxophone </p><p>Oscar Rossignoli - piano </p><p>Grayson Brockamp - bass </p><p>Nygel Anderson - drums </p><p>‍</p><p><strong>Shows at 7:00pm &amp; 9:00pm<br>Doors at &nbsp;6:30 pm &amp; 8:30 pm</strong></p><p><strong>Restaurant is Open 5pm - 11pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/tony-dagradi-new-orleans-saxophone-quartet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.05_dagradi_tony_quartet",
+            "slug": "no-26-11-05-dagradi-tony-quartet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81a9f1593f02f21bf650e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:07:43.185Z",
+          "lastUpdated": "2026-11-02T05:07:43.185Z",
+          "createdOn": "2026-11-02T05:07:43.185Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. Terrance Taplin",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-05T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p>Tonight, the band is led by trombonist, <a href=\"https://theujo.org/musicians/\"><strong>Terrance \"Hollywood\" Taplin</strong></a><strong>, </strong>often known also for his film roles in <em>\"Ma Rainey's Black Bottom\"</em> and \"<em>The Loss of a Teardrop Diamond,\" </em>as well as a longtime member of the historic Tremé Brass Band. </p><p><br><strong>Shows at 7:00pm &amp; 9:00pm </strong><br><strong>Doors at 6:30pm &amp; 8:30pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/the-uptown-jazz-orchestra-with-terrence-taplin-3/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a54804649ee9f2a9442960b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.04_marsalis_delfeayo_uptown_jazz_orchestra_taplin_terrance",
+            "slug": "no-26-11-04-marsalis-delfeayo-uptown-jazz-orchestra-taplin-terrance",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "big band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81a1b0959019a6cf48229",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T05:05:31.202Z",
+          "lastUpdated": "2026-11-02T05:05:31.202Z",
+          "createdOn": "2026-11-02T05:05:31.202Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Aktins Quartet with Ingrid Jensen",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-04T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong>Victor Atkins </strong>is a celebrated pianist, composer, and educator. Born and raised in Selma, Alabama, Atkins developed a deep passion for music early in life, influenced by gospel and blues traditions, he honed his craft through formal studies, earning a Bachelor of Music degree from Berklee College of Music and a Master of Music from Manhattan School of Music. Atkins gained prominence in the 1990s as a key member of the Grammy Award-winning jazz group Los Hombres Calientes, where his innovative arrangements and dynamic performances captivated audiences worldwide. &nbsp;Victor has toured and performed with an impressive list of artists including Freddie Hubbard, Aaron Neville, Brian Blade, Lalah Hathaway, and Nicholas Payton.</p><p>Tonight Victor will play alongside his quintet featuring very special guest, <strong>Ingrid Jensen. </strong>Jensen is an internationally celebrated jazz musician and trumpet player known for her distinctive voice and close musical collaboration. &nbsp;Renowned for her lyrical, powerful sound and Jensen has performed with artists such as Maria Schneider, the Vanguard Jazz Orchestra and ARTEMIS, a powerhouse all-women jazz supergroup co-founded under the International Women in Jazz banner.</p><p>‍</p><p>Shows at 7:00pm &amp; 9:00pm </p><p>Doors at 6:30pm &amp; 8:30pm </p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner <em>before</em> or <em>after</em> your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/victor-atkins-quartet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.03_atkins_victor_quartet_with_ingrid_jensen",
+            "slug": "no-26-11-03-atkins-victor-quartet-with-ingrid-jensen",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae817d8eb208fddd5ff6da5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:55:52.192Z",
+          "lastUpdated": "2026-11-02T04:55:52.192Z",
+          "createdOn": "2026-11-02T04:55:52.192Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Andrew Baham & The Mahogany Jazz Hall All-Stars",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-08T02:30:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p><strong>Andrew Baham </strong>has been determined to become a major force in the music industry since he began playing the trumpet at age 11, inspired by the discipline and appeal of the marching bands in New Orleans. Upon auditioning for and enrolling in the New Orleans Center for the Creative Arts (NOCCA)&nbsp;high school, in 1998 he received an endorsed trumpet from the Yamaha Corporation of America and became the first recipient of the Doc Cheatham Memorial Scholarship.</p><p>Baham has performed and recorded as a member of several prestigious ensembles, including the<strong> Ellis Marsalis Quintet, Delfeayo Marsalis and The Uptown Jazz Orchestra, </strong>Jesse McBride and The Next Generation, Big Sam's Funky Nation, The Stooges Brass Band, Soul Rebels Brass Band, and more. He has produced albums for The Stooges Brass Band (<em>It's About Time, Thursday Night House Party</em>), Big Sam's Funky Nation' (King Of The Party, Evolution), Tonya Boyd-Cannon (of <em>The Voice</em> Season 8, <em>Muzic Is Life</em>), in addition to recording 3 of his own solo albums (<em>Introducing Andrew Baham, From Whence We Came, …And They Called It Love</em>). He has also written and recorded soundtracks for <em>NCIS:New Orleans</em>, ESPN, Rockstar Games, and more. He currently tours with <strong>Big Sam’s Funky Nation </strong>and <strong>Delfeayo Marsalis.</strong></p><p>‍</p><p>Tonight, he leads the Mahogany Jazz Hall All-Stars for raucous trip in the wayback machine, followed by Midnight Burlesque. </p><p>9:00pm Doors </p><p>9:30pm Show </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.07_baham_andrew_MJHAS",
+            "slug": "no-26-11-07-baham-andrew-mjhas",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae817a44f5e256fa6134456",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:55:00.957Z",
+          "lastUpdated": "2026-11-02T04:55:00.957Z",
+          "createdOn": "2026-11-02T04:55:00.957Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gerald French Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-08T00:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Gerald French Trio for 2 sets</p><p>‍</p><p>NO&nbsp;COVER!&nbsp; </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.07_french_gerald_trio",
+            "slug": "no-26-11-07-french-gerald-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8176c9ac36d58723c3bfd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:54:04.929Z",
+          "lastUpdated": "2026-11-02T04:54:04.929Z",
+          "createdOn": "2026-11-02T04:54:04.929Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stephen Walker N'Em",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-07T20:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>Stephen Walker N'Em for 2 sets at 3pm. Easy like Saturday afternoon.</p><p>‍</p><p>NO&nbsp;COVER! </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.07_walker_stephen",
+            "slug": "no-26-11-07-walker-stephen",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8171c3d74b3f3431ecabc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:52:44.570Z",
+          "lastUpdated": "2026-11-02T04:52:44.570Z",
+          "createdOn": "2026-11-02T04:52:44.570Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Una Noche de Musica Latina con La Tran-K",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318bfe54c045b2f3bca972",
+            "start-date": "2026-11-07T03:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p>Latin Night with La Tran-K Band </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.thesaturnbar.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_la_tran_k_band",
+            "slug": "no-26-11-06-la-tran-k-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Saturn Bar",
+            "venue-link": "https://www.thesaturnbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "Latin Jazz",
+              "world music",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae816c2e1b0ba8cd7cc82b7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:51:14.674Z",
+          "lastUpdated": "2026-11-02T04:51:14.674Z",
+          "createdOn": "2026-11-02T04:51:14.674Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mark Braud Jazz Orchestra ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2026-11-06T20:00:00.000Z",
+            "event-time": "3PM - 4PM (FREE)",
+            "event-description": "<p>Gallatin Streets Free Fridays Concert Series </p><p>featuring </p><p>Mark Braud Jazz Orchestra </p><p>‍</p><p>FREE |&nbsp;All Ages </p>",
+            "button-text": "DETTAILS ",
+            "button-link": "https://nolajazzmuseum.org/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a54804649ee9f2a9442960b",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_braud_mark_jazz_orchestra",
+            "slug": "no-26-11-06-braud-mark-jazz-orchestra",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "big band",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ae8160aeb208fddd5ff07d3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -4033,15 +4682,15 @@
         {
           "id": "6ae782c051e9ca54c2cc6dc7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-01T18:19:44.368Z",
-          "lastUpdated": "2026-11-01T18:19:44.368Z",
+          "lastPublished": "2026-11-02T05:33:22.700Z",
+          "lastUpdated": "2026-11-02T05:33:22.700Z",
           "createdOn": "2026-11-01T18:19:44.368Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "event-title": "WAMM Quartet feat. Brad Walker, Joe Ashlar, Martin Masakowski, Stanton Moore",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318acfa9a225edf9945fbf",
             "start-date": "2026-11-03T23:30:00.000Z",
@@ -4060,6 +4709,7 @@
             "name": "no_26.11.03_WAMM",
             "slug": "no-26-11-03-wamm",
             "city-name": "NOLA",
+            "feature-name": "JGI Pick",
             "category-name": "Concert",
             "category-link": null,
             "venue-name": "Columns Hotel",
