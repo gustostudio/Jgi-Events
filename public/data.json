@@ -1,12 +1,819 @@
 {
-  "fetchedAt": "2026-11-02T01:41:40.386Z",
+  "fetchedAt": "2026-11-02T04:49:04.264Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3451,
+      "itemCount": 3467,
       "items": [
+        {
+          "id": "6ae8160aeb208fddd5ff07d3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:48:10.105Z",
+          "lastUpdated": "2026-11-02T04:48:10.105Z",
+          "createdOn": "2026-11-02T04:48:10.105Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Khris Royal Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-06T20:00:00.000Z",
+            "event-time": "3PM",
+            "event-description": "<p>Khris Royal Trio for 2 sets </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_royal_khris_trio",
+            "slug": "no-26-11-06-royal-khris-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "straight ahead jazz",
+              "Black American Music",
+              "BAM",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae815bf93217a08340a304f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:46:55.951Z",
+          "lastUpdated": "2026-11-02T04:46:55.951Z",
+          "createdOn": "2026-11-02T04:46:55.951Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Victor Campbell Quintet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-07T00:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>2026 JGI&nbsp;Jazz Cohort Fellow, <strong>Victor Campbell </strong>is a young jazz piano player hailing from <strong>Camagüey, Cuba.</strong> His compelling style combines virtuosity, whimsy, charisma and technical prowess. Notably, it is just plain fun to watch Victor perform. He started playing piano at age 5 and went on to train at <strong>Cuba’s National School of the Arts.</strong> He has since played all over the United States, and internationally. Victor first visited New Orleans in 2012 as a teenager, part of an exchange program with the <strong>Louis Armstrong Summer Jazz Camp</strong>. That visit changed his life and in 2019 Victor decided to move to New Orleans. He has been feverishly studying all styles of New Orleans music ever since, and incorporating it into his own musical language. He can effortlessly transition from a blues solo, to a Cuban timba montuno, and then right into a classical piano selection. In a 2019 interview, the great <strong>Chucho Valdés</strong> predicted that, <em>“Victor will revolutionize Cuban jazz piano.”</em></p><p>After performing as a featured new artist at several CubaNOLA showcases, Victor now has several New Orleans-based bands and collaborations, including his high-energy big band <strong>Timba Swamp</strong>, and is a fervent leader of the city’s growing Cuba-New Orleans fusion renaissance scene, which also includes collaborations with the Cuban funk phenomenon, <strong>Cimafunk, </strong>and New Orleans legends like <strong>Delfeayo Marsalis’ Uptown Jazz Orchestra.</strong> Most recently, he was recruited by renowned musical director <strong>Raphael Saadiq</strong> to play piano on the Oscar-nominated soundtrack for 2025’s Academy Award-winning film by director Ryan Coogler, \"<strong><em>SINNERS.” </em></strong></p><p>‍</p><p>This evening, Victor presents his quintet. </p><p>*This performance is no cover!</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d2dd1458bd4b79c78b32",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_campbell_victor-quintet",
+            "slug": "no-26-11-06-campbell-victor-quintet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "Cuban",
+              "jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81550fcd56e4a1fbe8d0d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:45:04.075Z",
+          "lastUpdated": "2026-11-02T04:45:04.075Z",
+          "createdOn": "2026-11-02T04:45:04.075Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "BassX featuring Julius McKee ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce27bcdc72821f1231a8",
+            "start-date": "2026-11-07T02:00:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p>Redefining modern jazz through a sousaphone lens, <a href=\"https://us.list-manage.com/SXzkc0Wrw1p?e=2a4b8946ba&c2id=f7a968b7b5f00f0ee07cfb4545563b11\" target=\"_blank\"><strong>BassX</strong></a> is a rising New Orleans jazz fusion collective led by GRAMMY-nominated artist <strong>Julius McKee</strong>. Rooted in the city’s rich jazz tradition, <strong>BassX </strong>reimagines traditional jazz through a progressive lens—honoring its origins while allowing the music to evolve in real time. </p><p>Drawing from a classic New Orleans traditional setup, BassX revisits the early foundations of the music by reintroducing the sousaphone, an instrument that once played a central role in the tradition before the upright bass became standard. This approach reconnects the sound to its historical roots while opening space for new rhythmic, melodic, and textural possibilities. Rather than reproducing tradition note-for-note, BassX treats it as a living language. Performances balance structure and spontaneity, emphasizing groove, deep listening, and collective interaction. The result is music that feels familiar yet forward-looking—grounded in history, shaped by the moment, and responsive to the room.BassX operates as a collective, reminiscent of traditions of several eras past such as that of Art Blakey &amp; The Jazz Messengers or Herbie Hancock's Headhunters, collaborating with a rotating roster of New Orleans musicians drawn from the city’s deep and diverse jazz community. Line-ups vary by project, venue, and context, allowing the music to remain flexible and rooted in collaboration rather than fixed personnel. </p><p><strong>Doors at 9pm </strong></p><p><strong>Sets at 9:30pm &amp;&nbsp;11:00pm </strong></p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://dosjefes.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_BassX",
+            "slug": "no-26-11-06-bassx",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Dos Jefes Bar & Cigar Lounge",
+            "venue-link": "https://dosjefes.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "modern jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81521f56a03d13d59f23d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:44:17.081Z",
+          "lastUpdated": "2026-11-02T04:44:17.081Z",
+          "createdOn": "2026-11-02T04:44:17.081Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Soul Rebels",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-11-07T03:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p><a href=\"https://thesoulrebels.com/\"><strong>The Soul Rebels</strong></a> are an eight-piece New Orleans brass band known for mashing up traditional jazz and marching band roots with funk, hip-hop, soul, and rock. Founded in 1991 by percussionists Lumar LeBlanc and Derrick Moss, they have become a globally touring phenomenon. </p><p>Originating from the Young Olympia Brass Band, the members decided to break away to incorporate contemporary radio hits and hip-hop into their arrangements. Performing at the iconic Uptown New Orleans club Tipitina's in 1991, Cyril Neville suggested they name their group after the Bob Marley song \"Soul Rebels,\" cementing their new progressive direction. </p><p>The collective has since become renowned for crossing genres and performing with massive stars. They have collaborated with hip-hop and pop legends including Nas, Katy Perry, Metallica, GZA (Wu-Tang Clan), G-Eazy, and DMX. Their energetic sound has also made them a staple in film and television, scoring original music for Disney's 2023 movie <em>Haunted Mansion</em> and appearing on the soundtrack for <em>Girls Trip. </em>They have also appeared on <em>The Late Show with Stephen Colbert </em>and <em>NPR</em>'s Tiny Desk.</p><p>Among several other hits, their song \"Let Your Mind Be Free\"&nbsp;remains one of the most popular New Orleans brass band staples to-date. </p><p>Catch them tonight at their monthly Frenchmen Street residency - one of only two rare opportunities these days to experience The Rebels live in a tony intimate room, the size of the ones they started out in over 30+&nbsp;years ago.</p><p><strong>Two Sets: 10pm &amp;&nbsp;Midnight</strong></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.dbaneworleans.com/shows",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_soul_rebels_dba",
+            "slug": "no-26-11-06-soul-rebels-dba",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "funk",
+              "funk fusion",
+              "hip-hop",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae814e111f1a87357182100",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:43:13.970Z",
+          "lastUpdated": "2026-11-02T04:43:13.970Z",
+          "createdOn": "2026-11-02T04:43:13.970Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Free Agents Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a9de736b058bd328089bb58",
+            "start-date": "2026-11-27T23:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Free Agents Brass Band for two sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://bluecrawfish.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.27_free_agents_brass_band",
+            "slug": "no-26-11-27-free-agents-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Blue Crawfish",
+            "venue-link": "https://bluecrawfish.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae814d24c5f5b903131f16b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:42:58.187Z",
+          "lastUpdated": "2026-11-02T04:42:58.187Z",
+          "createdOn": "2026-11-02T04:42:58.187Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Free Agents Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a9de736b058bd328089bb58",
+            "start-date": "2026-11-20T23:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Free Agents Brass Band for two sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://bluecrawfish.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.20_free_agents_brass_band",
+            "slug": "no-26-11-20-free-agents-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Blue Crawfish",
+            "venue-link": "https://bluecrawfish.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae814c1eb208fddd5fed699",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:42:41.149Z",
+          "lastUpdated": "2026-11-02T04:42:41.149Z",
+          "createdOn": "2026-11-02T04:42:41.149Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Free Agents Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a9de736b058bd328089bb58",
+            "start-date": "2026-11-13T23:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Free Agents Brass Band for two sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://bluecrawfish.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.13_free_agents_brass_band",
+            "slug": "no-26-11-13-free-agents-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Blue Crawfish",
+            "venue-link": "https://bluecrawfish.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae814b00959019a6cf3307d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:42:24.263Z",
+          "lastUpdated": "2026-11-02T04:42:24.263Z",
+          "createdOn": "2026-11-02T04:42:24.263Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Free Agents Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a9de736b058bd328089bb58",
+            "start-date": "2026-11-06T23:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": "<p>The Free Agents Brass Band for two sets</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://bluecrawfish.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_free_agents_brass_band",
+            "slug": "no-26-11-06-free-agents-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Blue Crawfish",
+            "venue-link": "https://bluecrawfish.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8143b1fa908282022ba43",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:40:27.775Z",
+          "lastUpdated": "2026-11-02T04:40:27.775Z",
+          "createdOn": "2026-11-02T04:40:27.775Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-11-27T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.26_da_lovebirds",
+            "slug": "no-26-11-26-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8142ac68664c0236b5128",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:40:10.422Z",
+          "lastUpdated": "2026-11-02T04:40:10.422Z",
+          "createdOn": "2026-11-02T04:40:10.422Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-11-20T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.19_da_lovebirds",
+            "slug": "no-26-11-19-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae81418dd229cd3f4ac0e11",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:39:52.339Z",
+          "lastUpdated": "2026-11-02T04:39:52.339Z",
+          "createdOn": "2026-11-02T04:39:52.339Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-11-13T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.12_da_lovebirds",
+            "slug": "no-26-11-12-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae813fcfca4b838e4ae3a8c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:39:24.162Z",
+          "lastUpdated": "2026-11-02T04:39:24.162Z",
+          "createdOn": "2026-11-02T04:39:24.162Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Da Lovebirds feat. Robin Barnes & Pat Casey",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31903a67f180d3ea2230db",
+            "start-date": "2026-11-06T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Da Lovebirds, songstress Robin Barnes and bassist Pat Casey, host their Thursday night residency at The Peacock Room inside the Hotel Fontenot. </p><p>8pm - 10pm </p><p>‍</p><p>NO COVER, but seating is limited and first-come, first-served, so early arrival or advance table reservation is suggested. Food &amp; Cocktail Menu available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelfontenot.com/new-orleans-restaurant/peacock-room/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.05_da_lovebirds",
+            "slug": "no-26-11-05-da-lovebirds",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Peacock Room (Hotel Fontenot) ",
+            "venue-link": "https://www.peacockroomnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae813ca9ac36d58723b5b6e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:38:34.874Z",
+          "lastUpdated": "2026-11-02T04:38:34.874Z",
+          "createdOn": "2026-11-02T04:38:34.874Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jamil Sharif & The New Orleans Extravaganza ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-11-06T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Renowned NewOrleans trumpeter <strong>Jamil Sharif</strong> presents his New Orleans Extravaganza Band for two sets. </p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>1 Drink Minimum per Guest </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.05_sharif_jamil_NOE",
+            "slug": "no-26-11-05-sharif-jamil-noe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8138c0959019a6cf2f2a7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:37:32.310Z",
+          "lastUpdated": "2026-11-02T04:37:32.310Z",
+          "createdOn": "2026-11-02T04:37:32.310Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mahmoud Chouki",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-11-07T01:00:00.000Z",
+            "event-time": "8PM - 11PM",
+            "event-description": "<p><strong>Mahmoud “Mood” Chouki</strong> is a Moroccan master guitarist, multi-instrumentalist, composer and educator currently living and working in New Orleans since 2019. His art draws together music from around the globe, exploring how music may speak across cultural divides. </p><p>In addition to training and performing with conservatories around the world, Chouki also teaches music at the Lycée Français de la Nouvelle Orléans and is ta music curator for monthly programs at the New Orleans Museum of Art (NOMA). Most recently, he composed the music score for the 2021 Sundance Award winning film,<strong><em> “Ma Belle, Ma Beauty,” </em></strong>directed by New Orleans based filmmaker, Marion Hill. Also in 2021, Chouki was awarded 2020’s “Best Emerging Artist” by OffBeat Magazine’s annual Best of the Beat Awards. His New World Ensemble has been steadily wow'ing audiences for the past year, growing with acclaim, and earning him Gambit Weekly's 2022 \"Best World Music Artist\" Award at their annual Big Easy Awards.</p><p>He released his debut US&nbsp;album <em>\"Mood 's Blues\" </em>in 2023, and is preparing for his sophomore local record release in 2026 on the New Orleans Jazz Museum's Gallatin Street Records imprint. His expertise in a variety of handheld string instruments has also led to Mood becoming a core artist with the annual Danny Barker Banjo, Guitar &amp;&nbsp;Cigar Box Guitar Festival. </p><p>Join us tonight for Mahmoud's monthly residency at Good Measure, where each time is something completely fresh and different. </p><p><strong>Two Sets at 8:00pm &amp; 9:45pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; </p><p>But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.06_chouki_mahmoud",
+            "slug": "no-26-11-06-chouki-mahmoud",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz fusion",
+              "contemporary jazz",
+              "blues",
+              "world music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8131611f1a8735717ca09",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:35:34.854Z",
+          "lastUpdated": "2026-11-02T04:35:34.854Z",
+          "createdOn": "2026-11-02T04:35:34.854Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Helen Gillet wsg Rex Gregory ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-11-06T01:00:00.000Z",
+            "event-time": "8PM - 10PM",
+            "event-description": "<p><strong>Helen Gillet</strong> is a Belgian-born cellist, singer, and composer who has made New Orleans her home since 2002. She holds degrees in music and anthropology from Beloit College and a master's in music from Loyola University New Orleans, and her training under Hindustani cellist Nancy Lesh launched her into a career built around live looping, layering cello and vocal lines into a singular, genre-resistant style. She has performed at the New Orleans Jazz and Heritage Festival, Voodoo Festival, the Kennedy Center, Lincoln Center, and the Copenhagen Jazz Festival, and has recorded with Arcade Fire, Dr. John, and Marianne Faithful. Her original score for <em>Katrina &amp; Beyond</em> plays above Fats Domino's wrecked piano in a permanent exhibit at the Louisiana State Museum.</p><p>‍</p><p>Sets at 8:00pm &amp; 9:15pm </p><p>NO COVER&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc3b0493eb9ffc794a7f6",
+              "6a8212437a61e6094a1229d4",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.05_gillet_helen_gm",
+            "slug": "no-26-11-05-gillet-helen-gm",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "folk",
+              "electronic jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ae8117d1fa9082820220f2a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-02T04:28:45.657Z",
+          "lastUpdated": "2026-11-02T04:28:45.657Z",
+          "createdOn": "2026-11-02T04:28:45.657Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Film Screening: IRMA: My Life In Music ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "696f4efd3d68506bb904ea7d",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2026-11-04T23:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p>WYES presents the Emmy Award-winning documentary on the life of GRAMMY Award winner Irma Thomas, whose career spans an amazing half-century. For the film, WYES partnered with The New Orleans Jazz &amp; Heritage Foundation and Michael Murphy Productions.</p><p>The 90-minute program included an extensive interview with Irma herself, as well as commentary from many of her colleagues. Included are archival performances and interview footage culled from decades of performances filmed by Michael Murphy Productions at The New Orleans Jazz &amp; Heritage Festival. The footage is now part of The New Orleans Jazz &amp; Heritage Foundation Archive. The program also includes rare photos from her career and family. </p><p>“Being a partner in this program is so in keeping with the New Orleans Jazz &amp; Heritage Festival Foundation’s mission to honor and support New Orleans musicians,” according to Don Marshall, executive director of the Foundation. “We are in awe of her huge talent and delighted we can put a spotlight on her amazing career utilizing materials from across our Archive.” &nbsp;</p><p>First and foremost, the program is a visual storytelling at its best as Irma will tell her own story, allowing audiences to relish the opportunity to get to know the artist and woman that quoting Bonnie Raitt, “Her voice today is as—just as beautiful and sultry and powerful as it was on her first records. And she’s a legend. She’s as good today as she was the day she came out of the church singing.”</p><p>Born in Ponchatoula, Louisiana as Irma Lee, Thomas first sang with a Baptist church choir as a teenager. By the age of 19, she had already been married twice and had four children. Retaining the last name of her second husband, she worked as a waitress and occasionally sang with bandleader Tommy Ridgley. With his help, she landed a record deal with Ron Records and by 1959 her first single, “Don’t Mess With My Man,” ranked number 22 on the U. S. Billboard R&amp;B record chart. </p><p>In numerous interviews New Orleans music legend Allen Toussaint often noted that he often wrote songs with Irma Thomas’ voice “in his head.” As the producer, composer and pianist of many Minit Label recordings, Toussaint hired Thomas; and out of this collaboration came such beloved recordings as “It’s Raining,” “Ruler Of My Heart” and “Wish Someone Would Care.”</p><p>Throughout the Sixties, Thomas found work playing locally and on the Gulf Coast at clubs, proms and other high school dances. “I have fans who have been with me since they were teenagers,” she said in a recent magazine interview. Thomas later recorded for Imperial Records and Chess Records and ultimately moved to California in the late ‘60s. She returned to New Orleans in the early 1980s and opened a music club. </p><p>In 1991 she was signed by Rounder Records and received her first GRAMMY nomination for<em> Live! Simply The Best. </em>She recorded numerous gospel albums and received yet another GRAMMY nomination in 1999 for the album<em> Sing It! &nbsp;</em></p><p>In 2005 Hurricane Katrina forced her to relocate to Gonzales, Louisiana, and she returned as soon as her home is eastern New Orleans was restored. Teaming up with Scott Billington and Rounder again, she recorded the album <em>After The Rain,</em> which was awarded the GRAMMY for Best Contemporary Blues Album in 2007.</p><p>Thomas has performed with James Taylor, Paul Simon and Marcia Ball and has performed around the world. Her 1964 rendition of “Time Is On My Side” inspired a version by the Rolling Stones, and she plays annually at the New Orleans Jazz &amp; Heritage Festival. </p><p><em>“No matter what kind of song she is singing, Irma’s big, warm voice has more honesty in it than just about any you will ever hear,” </em>states Scott Billington, who produced her albums for Rounder Records. </p><p><strong>IRMA: MY LIFE IN MUSIC</strong> is produced by Cilista Eberle, Michael Murphy, Jim Moriarty and Rachel Lyons. Serving as executive producers are Peggy Scott Laborde and Don Marshall. </p><p>‍</p><p>5:30pm Doors | 6:00pm Screening </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://friendsofthecabildo.org/foc-events-calendar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a86130657e9ffd8de24021b",
+              "6ad651ca0984524d04618df6"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.04_Irma_my_life_in_music",
+            "slug": "no-26-11-04-irma-my-life-in-music",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Film",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "gospel",
+              "film screening"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6ae7d2d651e9ca54c2db5868",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
