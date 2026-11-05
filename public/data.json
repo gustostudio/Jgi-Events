@@ -1,12 +1,61 @@
 {
-  "fetchedAt": "2026-11-04T22:45:27.967Z",
+  "fetchedAt": "2026-11-05T05:30:21.632Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3562,
+      "itemCount": 3563,
       "items": [
+        {
+          "id": "6aebd4c46521f0a9aaed3551",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-05T00:58:46.621Z",
+          "lastUpdated": "2026-11-05T00:58:46.621Z",
+          "createdOn": "2026-11-05T00:58:44.409Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "JGI New Orleans presents Byron Asher's Skrontch",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "6aaf491b5dba02b8a0f90581",
+            "venue": "6aebd42a9424f15c281f85e1",
+            "start-date": "2026-11-19T23:00:00.000Z",
+            "event-time": "6:00PM-8:15PM",
+            "event-description": "<p>Byron Asher’s Skrontch Music performs original music exploring the history of jazz in New Orleans and investigating its relationship to lineages of Black radicalism. Through ongoing archival research, contemporary composition, and collective improvisation, the music looks backwards to see forward, reminding listeners of where the music has come from and suggesting where it might go.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/jgi-new-orleans-presents-byron-ashers-skrontch-tickets-2004406333300",
+            "tags": [
+              "6a3dbe6a496c109a25be6519",
+              "6a8212437a61e6094a1229d4",
+              "6aadacdaeb48990e43789d93"
+            ],
+            "thumbnail": {
+              "fileId": "6aebd4c0773f3ed889991327",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6aebd4c0773f3ed889991327_241025MBVbyronasher_skrontch_credit_Katie_Sikora.jpg",
+              "alt": null
+            },
+            "name": "no_261119_skrontch",
+            "slug": "no-261119-skrontch",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Concert + Presentation",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "contemporary jazz",
+              "electronic jazz",
+              "conference"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aebad4b5d06c336edce3dc6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
