@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-11-06T20:42:33.672Z",
+  "fetchedAt": "2026-11-06T22:15:03.820Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3605,
+      "itemCount": 3606,
       "items": [
+        {
+          "id": "6aee40e617cbf28a918028ac",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-06T21:04:43.228Z",
+          "lastUpdated": "2026-11-06T21:04:43.228Z",
+          "createdOn": "2026-11-06T21:04:38.268Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Branford Marsalis Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6aee40bf636f8707a972c968",
+            "start-date": "2026-12-22T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.12.21_marsalis",
+            "slug": "ny-2026-12-21-marsalis",
+            "city-name": "NYC",
+            "venue-name": "Ginny's Supper Club",
+            "venue-link": "https://www.ginnyssupperclub.com/"
+          }
+        },
         {
           "id": "6aee2f106ed648d728d4e7f3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
