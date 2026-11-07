@@ -1,12 +1,161 @@
 {
-  "fetchedAt": "2026-11-07T11:36:58.466Z",
+  "fetchedAt": "2026-11-07T17:48:50.600Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3606,
+      "itemCount": 3609,
       "items": [
+        {
+          "id": "6aef542b1be9d7c3868ab8e8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-07T16:39:07.664Z",
+          "lastUpdated": "2026-11-07T16:39:07.664Z",
+          "createdOn": "2026-11-07T16:39:07.664Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vocal Master Class with tenor Joshua Stewart ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a31cce0443de5ee4a023312",
+            "start-date": "2026-11-10T23:00:00.000Z",
+            "event-time": "6PM - 8PM ",
+            "event-description": "<h1>Vocal Masterclass: Joshua Stewart</h1><p>Free vocal masterclass with international acclaimed star tenor,<strong> Joshua Stewart.</strong></p><p>New Orleans native and internationally acclaimed tenor Joshua Stewart brings a career spanning major opera houses, concert stages, and festivals around the world to this free public masterclass at the Marigny Opera House.</p><p>Joshua will share insight from his experience performing internationally, with a focus on vocal interpretation, performance, storytelling, career development, and building an authentic artistic identity. Rooted in New Orleans and shaped by a global career, his approach connects world-class professional experience with the artistic community that helped form him.</p><p>Free and open to the public, the class welcomes singers, performers, students, and anyone interested in the craft and career of a performing artist. Donations are always welcome and go directly to the Marigny Opera House Foundation, supporting future free masterclasses, educational initiatives, and community programming. </p><p><strong><em>FREE&nbsp;with REGISTRATION&nbsp;at link below!&nbsp;</em></strong></p><p>Sliding Scale Donations Welcome. </p>",
+            "button-text": "REGISTER HERE",
+            "button-link": "https://marignyoperahouse.org/upcoming-events/vocal-masterclass-joshua-stewart/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6aef53cde4b35bc4103b4b0c",
+              "6a7627ad62e0f1dbf346c51c",
+              "6aadad194bcfd5be44c3dd3b",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.10_stewart_josh_vocal_masterclass",
+            "slug": "no-26-11-10-stewart-josh-vocal-masterclass",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Marigny Opera House",
+            "venue-link": "https://marignyoperahouse.org/",
+            "tags-name": [
+              "New Orleans",
+              "opera",
+              "vocal jazz",
+              "workshop",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aef529deb3307f077eabac6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-07T16:32:29.615Z",
+          "lastUpdated": "2026-11-07T16:32:29.615Z",
+          "createdOn": "2026-11-07T16:32:29.615Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Liam Escame Quintet ft. Diego B. Delgado, Izzy Chase, Camara Dupree Jr, Nygel Anderson",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cce0443de5ee4a023312",
+            "start-date": "2026-11-10T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Join saxophonist <strong><em>Liam Escame</em></strong> and his quintet for an intimate evening of live jazz at the historic Marigny Opera House.</p><p>Originally from the Pacific Northwest, Escame has established himself in the New Orleans jazz community while studying at Loyola University. An accomplished alto saxophonist, he has performed at the French Quarter Festival and brings a deep appreciation for jazz improvisation, musical expression, and collaboration to his performances.</p><p>For this special concert, Escame brings together five musicians for an evening of dynamic ensemble playing in the intimate, acoustically rich setting of Marigny Opera House.</p><p><strong><em>Featuring:</em></strong></p><ul><li>Liam Escame</li><li>Diego Benjamin Delgado</li><li>Izzy Chase</li><li>Camara Dupree Jr.</li><li>Nygel Anderson</li></ul><p>Experience an evening of live jazz in one of New Orleans’ most distinctive performance spaces.</p><p>Doors at 7:30PM</p><p>Show at 8:00PM&nbsp;</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://marignyoperahouse.org/upcoming-events/liam-escame-quintet-live/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.09_escame_liam_quintet",
+            "slug": "no-26-11-09-escame-liam-quintet",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Marigny Opera House",
+            "venue-link": "https://marignyoperahouse.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aef4e0fc1cdfc9640dfdde8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-07T16:22:12.423Z",
+          "lastUpdated": "2026-11-07T16:22:12.423Z",
+          "createdOn": "2026-11-07T16:13:03.007Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Emily Mikesell's Ambient Orchestra with Gabrielle Fischler & Amina Scott ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6aef4e3991b2e5be020f77af",
+            "start-date": "2026-11-09T00:30:00.000Z",
+            "event-time": "7:30PM - 9PM",
+            "event-description": "<p>Trumpeter <strong>Emily Mikesell </strong>is joined by<strong> Gabrielle Fischler </strong>on violin, and <strong>Amina Scott</strong> on bass for a beautiful night of sonic exploration and relaxation featuring <strong><em>Emily Mikesell's Ambient Orchestra</em></strong> inside the sanctuary. </p><p>‍</p><p>$15 at the Door </p><p>Cash or CC&nbsp;Bar </p><p>All Ages </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://ash.world/hotels/peter-and-paul/calendar/?event=hotels%2Fpeter-and-paul%2Fcalendar%2Femily-mikesell-s-ambient-orchestra",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6aef4ee73b038cb069fbe69c",
+              "6a3832d81051ca44000ec45e",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6aef502df3645e139136effd"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.08_mikesell_emily_ambient_orchestra",
+            "slug": "no-26-11-08-mikesell-emily-ambient-orchestra",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Hotel Peter and Paul ",
+            "venue-link": "https://ash.world/hotels/peter-and-paul/",
+            "tags-name": [
+              "New Orleans",
+              "ambient",
+              "jazz",
+              "experimental jazz",
+              "orchestral"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aee40e617cbf28a918028ac",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
