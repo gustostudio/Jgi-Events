@@ -1,12 +1,163 @@
 {
-  "fetchedAt": "2026-11-08T19:21:53.925Z",
+  "fetchedAt": "2026-11-08T23:26:54.621Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3699,
+      "itemCount": 3702,
       "items": [
+        {
+          "id": "6af0f7781f688606c03b6032",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T22:28:08.405Z",
+          "lastUpdated": "2026-11-08T22:28:08.405Z",
+          "createdOn": "2026-11-08T22:28:08.405Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "COMPERSION QUARTET feat. Skerik, James Singleton, Brian Haas, Simon Lott",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31911583020f15259a92f1",
+            "start-date": "2026-11-10T01:00:00.000Z",
+            "event-time": "8PM - 10PM",
+            "event-description": "<p>Seattle’s beloved subterranean music iconoclast <strong><em>Skerik</em></strong> has long found the city of New Orleans a balm for his inherently subversive musical instincts. Currently calling the Crescent City his second home, the saxophonist fully embraces this dichotomy between the profane and ritualistic with <em>Compersion Quartet</em>, for which he’s joined by pianist Brian Haas, bassist James Singleton and drummer Simon Lott. Recorded in New Orleans, the quartet’s debut collects a series of studio improvisations that are amalgamated in fits and starts of cinematic beauty, syncopated melodism and mystic sonic experimentalism.</p><p><strong><em>Compersion Quartet</em></strong> is in many ways an outgrowth of Saucefest, the multimedia festival within a festival—founded and curated by Skerik—that happens annually on the middle Tuesday night of New Orleans Jazzfest when a disparate gathering of local and traveling musicians come together in various configurations for an evening of fearless, no-holds-barred musical collaboration.</p><p><em>“The history between the four of us goes way back, but this specific quartet would eventually come together through Saucefest,”</em> explains Skerik. <em>“I met Brian Haas in the early years of his trio Jacob Jazz Odyssey after he heard me with Critters Buggin. I used to play with Simon Lott in Malestrom Trio along with Brian \"BC\" Coogan. They were both part of the early Saucefest events. I started playing with James Singleton on Johnny Vidacovich gigs and in other combinations. He also did some early Saucefest performances. We share a related collective history. We all are from the same mother of music, siblings without rivalry.”</em></p><p>Throughout the album’s 11 tracks, <em>Compersion Quartet</em> explores deconstruction and rebirth, while undermining the math of music through the enigmatic human vibrations intrinsic to improvisation. Like the green lizard adorning the album’s cover art, just when the listener thinks they’ve captured the essence, its tail detaches and it escapes back into the unknown.</p><p> </p><p><em>“To us, Compersion Quartet means to support each other and everyone on earth. Let’s leave it at that. I want there to be more mystery and less analytical talk about this music,” concludes Skerik. “There’s really no point in trying to describe the indescribable.”</em><br></p><p><strong>Listen Here -</strong><a href=\"https://skerik.bandcamp.com/album/compersion-quartet-2\"> https://skerik.bandcamp.com/album/compersion-quartet-2</a></p><p><em>This show is Inside the Pavilion Room</em>&nbsp; </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.simpletix.com/e/compersion-quartet-tickets-294191",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d42dce24c9008ae4c85a"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.09_compersion_quartet",
+            "slug": "no-26-11-09-compersion-quartet",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Broadside",
+            "venue-link": "https://broadsidenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "experimental jazz",
+              "contemporary jazz",
+              "free jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af0cf87f1f7f9c3e5cc1f6b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T19:37:43.140Z",
+          "lastUpdated": "2026-11-08T19:37:43.140Z",
+          "createdOn": "2026-11-08T19:37:43.140Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Michot & McCalla: Courtyard Concert with Louis Michot & Leyla McCalla",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3191836c7556447bb46dc0",
+            "start-date": "2026-11-16T00:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong><em>MICHOT&nbsp;&amp;&nbsp;MCCALLA </em></strong></p><p>Lafayette, LA's <strong><em>Louis Michot</em></strong> of Lost Bayou Ramblers &amp; Swamp Magic and Haiti by way of NYC's <strong><em>Leyla McCalla</em></strong> join forces once more for one of their intimate duo shows merging Haitian and Cajun folk music into one transformative Créole set. </p><p>6pm Doors | 7pm Show </p><p><strong><em>CASH&nbsp;ONLY&nbsp;at the DOOR&nbsp;and at the BAR</em></strong> </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.instagram.com/bjslounge/?hl=en",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a5467f548dc54aff904083d",
+              "6aa79b6879cc6cc7689e6566",
+              "6abfd0e4925adf03fb136d5d",
+              "6aa79bcf2125ef805b59af68",
+              "6adeed053158f0f8fd20e851"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.15_michot_and_mccalla",
+            "slug": "no-26-11-15-michot-and-mccalla",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "BJ's Bywater Lounge",
+            "venue-link": "https://www.facebook.com/bjs.bywater/",
+            "tags-name": [
+              "New Orleans",
+              "cajun music",
+              "Modern Cajun",
+              "Haitian music",
+              "Creole Music",
+              "folks music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af0cc03f1f7f9c3e5cb5ada",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T19:22:43.375Z",
+          "lastUpdated": "2026-11-08T19:22:43.375Z",
+          "createdOn": "2026-11-08T19:22:43.375Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Krown",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce27bcdc72821f1231a8",
+            "start-date": "2026-11-25T02:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Joe Krown solo piano, or sometimes with his trio.</p><p><strong><em>Joe Krown</em></strong> is a New Orleans piano and B-3 master, known for his prowess in the funk, blues, boogie-woogie and jazz arenas, and for his work with The Joe Krown Organ Combo, for his legacy with the late Clarence “Gatemouth” Brown and, presently, as a member of the hard-touring Kenny Wayne Shepard Band, among others. </p><p>‍</p><p><strong><em>NO&nbsp;COVER&nbsp;</em></strong></p><p>Full Bar &amp;&nbsp;Cigar Lounge </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://dosjefes.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3832d81051ca44000ec45e",
+              "6a3db8d5ea3bd0230cbe619f"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.24_krown_joe",
+            "slug": "no-26-11-24-krown-joe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Dos Jefes Bar & Cigar Lounge",
+            "venue-link": "https://dosjefes.com/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "jazz",
+              "singer-songwriter"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6af0cbd15db187a49d163e98",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -768,13 +919,13 @@
         {
           "id": "6af0c2455c6726282c7b9a85",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-08T18:41:09.523Z",
-          "lastUpdated": "2026-11-08T18:41:09.523Z",
+          "lastPublished": "2026-11-08T21:55:09.877Z",
+          "lastUpdated": "2026-11-08T21:55:09.877Z",
           "createdOn": "2026-11-08T18:41:09.523Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Jamison Ross & The UNO ll-Stars ",
+            "event-title": "Jamison Ross & The UNO All-Stars ",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "690c1347dcc89dd7991187eb",
@@ -11794,8 +11945,8 @@
         {
           "id": "6ae78efd6c066111f03f7018",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-01T19:11:57.641Z",
-          "lastUpdated": "2026-11-01T19:11:57.641Z",
+          "lastPublished": "2026-11-08T19:28:48.726Z",
+          "lastUpdated": "2026-11-08T19:28:48.726Z",
           "createdOn": "2026-11-01T19:11:57.641Z",
           "isArchived": false,
           "isDraft": false,
@@ -11807,7 +11958,7 @@
             "venue": "6a3190743031319c406e4e1a",
             "start-date": "2026-11-25T03:00:00.000Z",
             "event-time": "10PM - 1AM",
-            "event-description": "<p>Cuttin' Up with the Youngbloods Tuesday Night Jam Session led by young trombonist Orlando Gilbert and a rotating assembly of the city's rising players. Drop-ins welcome. </p><p>‍</p><p>$5 - $10 Suggested Band Donation at the Door </p><p><strong><em>CASH&nbsp;ONLY&nbsp;at the Door and at the Bar</em></strong> </p>",
+            "event-description": "<p>Cuttin' Up with the Youngbloods Tuesday Night Jam Session led by young trombonist <strong><em>Orlando Gilbert</em></strong> and a rotating assembly of the city's rising players, including Robbie Wallace, Camara Dupree Jr, Karen Shiraishi, Raph Zee, and Jarrel Allen +sg. </p><p>‍</p><p>Drop-ins and Sit-ins welcome. </p><p>$5 - $10 Suggested Band Donation at the Door </p><p><strong><em>CASH&nbsp;ONLY&nbsp;at the Door and at the Bar</em></strong> </p>",
             "button-text": "DETAILS",
             "button-link": "https://www.instagram.com/vaughansloungenola/?hl=en",
             "tags": [
