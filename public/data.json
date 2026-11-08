@@ -1,12 +1,247 @@
 {
-  "fetchedAt": "2026-11-07T23:28:15.334Z",
+  "fetchedAt": "2026-11-08T01:41:30.371Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3609,
+      "itemCount": 3614,
       "items": [
+        {
+          "id": "6aefc43d70b280d3a4195beb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T00:37:44.780Z",
+          "lastUpdated": "2026-11-08T00:37:44.780Z",
+          "createdOn": "2026-11-08T00:37:17.622Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Film Screening: The Sons of Tennessee Williams",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "696f4efd3d68506bb904ea7d",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2027-02-24T23:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p>WYES - PBS- New Orleans and Friends of the Cabildo Louisiana State Museum present: </p><p><strong><em>The Sons of Tennessee Williams</em></strong></p><p>A 2010 American documentary film directed and produced by Tim Wolff that chronicles five decades of gay Mardi Gras krewes and drag balls in New Orleans, Louisiana. </p><p>‍</p><p>5:30pm Doors | 6:00pm Screening |&nbsp;Brief Talk-Back following the film </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://friendsofthecabildo4.ticketing.veevartapp.com/tickets/view/list/2026-2027-foc-film-series",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6ad651ca0984524d04618df6"
+            ],
+            "thumbnail": null,
+            "name": "no_27.02.24_williams_tennessee",
+            "slug": "no-27-02-24-williams-tennessee",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Film",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "film screening"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aefc384f1f7f9c3e5a69241",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T00:34:12.509Z",
+          "lastUpdated": "2026-11-08T00:34:12.509Z",
+          "createdOn": "2026-11-08T00:34:12.509Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Film Screening: Dr. Norman C. Francis: A Legacy of Leadership",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "696f4efd3d68506bb904ea7d",
+            "venue": "6a318eb6a828f23ff56d966f",
+            "start-date": "2027-01-13T23:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p>WYES - PBS- New Orleans and Friends of the Cabildo Louisiana State Museum present: </p><p><a href=\"https://www.google.com/search?kgmid=%2Fg%2F11t89gp3b1&q=Dr.+Norman+C.+Francis%3A+A+Legacy+of+Leadership\"><strong><em>Dr. Norman C. Francis: A Legacy of Leadership</em></strong></a></p><p><strong>Xavier University Presidency:</strong> Chronicles his 47-year tenure as the first lay and longest-serving president of <a href=\"https://www.xula.edu/news/2022/09/xavier-university-of-louisianas-president-emeritus-dr.-norman-c.-francis-honored-with-documentary-on-wyes.html\" target=\"_blank\"><strong>Xavier University of Louisiana</strong></a> (1968–2015), transforming it into a national leader in science and pre-medical education.</p><p><strong>Civil Rights &amp; Community Work:</strong> Highlights his time as Loyola University School of Law's first Black graduate, his representation of civil rights activists, housing Freedom Riders on campus, and co-founding Liberty Bank.</p><p><strong>Civic &amp; National Leadership:</strong> Covers his role advising eight U.S. presidents, co-chairing the Louisiana Recovery Authority after Hurricane Katrina, and receiving the Presidential Medal of Freedom in 2006.</p><p>5:30pm Doors | 6:00pm Screening |&nbsp;Brief Talk-Back following the film </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://friendsofthecabildo4.ticketing.veevartapp.com/tickets/view/list/2026-2027-foc-film-series",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6ad651ca0984524d04618df6"
+            ],
+            "thumbnail": null,
+            "name": "no_27.01.13_francis_norman_film",
+            "slug": "no-27-01-13-francis-norman-film",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Film",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz Museum",
+            "venue-link": "https://nolajazzmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "film screening"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aefc1cb0317fcc619c68b28",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T00:26:51.750Z",
+          "lastUpdated": "2026-11-08T00:26:51.750Z",
+          "createdOn": "2026-11-08T00:26:51.750Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dane Harter Group",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cce0443de5ee4a023312",
+            "start-date": "2026-12-05T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<h1>Dane Harter Group</h1><p>Join bassist Dane Harter and his ensemble for an evening of live jazz at Marigny Opera House.</p><p>A standout bassist in New Orleans, Harter is joined by: </p><p>Rex Gregory - reeds </p><p>Jarrett Gustafson -guitar </p><p>Seth Finch - piano </p><p>Nygel Anderson - drums </p><p>‍</p><p>7:30pm Doors </p><p>8:00pm Show </p><p>Discount Tickets available with valid Student ID&nbsp;</p><p>‍</p>",
+            "button-text": "TICKETS ",
+            "button-link": "https://marignyoperahouse.org/upcoming-events/dane-harter-group/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc0500a022a5481a97926"
+            ],
+            "thumbnail": null,
+            "name": "no_26.12.04_harter_dane",
+            "slug": "no-26-12-04-harter-dane",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Marigny Opera House",
+            "venue-link": "https://marignyoperahouse.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "contemporary jazz",
+              "classic jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aefc0bb7934ba396f920a23",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T00:22:19.379Z",
+          "lastUpdated": "2026-11-08T00:22:19.379Z",
+          "createdOn": "2026-11-08T00:22:19.379Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Who's Who feat. Emily Mikesell, Mike Dillon, Cliff Hines, Robin Sherman",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cce0443de5ee4a023312",
+            "start-date": "2026-11-16T01:00:00.000Z",
+            "event-time": "8PM - 9:30PM",
+            "event-description": "<h1>Emily Mikesell, Mike Dillon, Cliff Hines &amp; Robin Sherman</h1><p>An evening of improvised acoustic-electric music featuring four of New Orleans’ most creative improvisers.</p><p>Join us at Marigny Opera House for an evening of improvised acoustic-electric music featuring trumpeter Emily Mikesell alongside Mike Dillon, Cliff Hines, and Robin Sherman.</p><p>Blending trumpet, vibes, percussion, guitar, modular synth, bass, and electronic effects, the quartet creates spontaneous music that moves between acoustic textures and experimental sound worlds.</p><p><strong>Featuring: </strong><br>Emily Mikesell — trumpet &amp; effects<br>Mike Dillon — vibes &amp; percussion<br>Cliff Hines — guitar &amp; modular synth<br>Robin Sherman — bass &amp; effects</p><p>The performance will run approximately 75 minutes with no intermission.</p><p>All ages welcome.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://marignyoperahouse.org/upcoming-events/emily-mikesell-mike-dillon-cliff-hines-robin-sherman/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6a8212437a61e6094a1229d4"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.15_whos_who",
+            "slug": "no-26-11-15-whos-who",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Marigny Opera House",
+            "venue-link": "https://marignyoperahouse.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "contemporary jazz",
+              "experimental jazz",
+              "electronic jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6aefbfae77d123fd03bd7e28",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-08T00:17:50.072Z",
+          "lastUpdated": "2026-11-08T00:17:50.072Z",
+          "createdOn": "2026-11-08T00:17:50.072Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Americana: Tucker Fuller | Philip Glass",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cce0443de5ee4a023312",
+            "start-date": "2026-11-13T00:30:00.000Z",
+            "event-time": "7:30PM - 10PM",
+            "event-description": "<h1>Americana: Tucker Fuller | Philip Glass</h1><p>Contemporary American music pairing New Orleans composer Tucker Fuller with Philip Glass.</p><p><strong>Tucker Fuller: Americana</strong> features violinist <strong>Moises Cunha</strong> and pianist <strong>Justin Snyder</strong> in a program of music for violin and piano.</p><p>Written specifically for these performers, Fuller’s new sonata, <strong>Americana</strong>, explores four moments of American instability: the Great Depression, the AIDS crisis, a 1970s summer gathering, and the turmoil surrounding present-day immigration raids. Across four movements, grandeur, longing, flirtation, and unrest reveal lives shaped by hope and uncertainty. Presented alongside <strong>Philip Glass’s Sonata for Violin and Piano</strong>, the concert pairs a new work with a defining voice of contemporary American music.</p><p>7:00pm Doors </p><p>7:30pm Show </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://marignyoperahouse.org/upcoming-events/americana-tucker-fuller-philip-glass/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6aef502df3645e139136effd",
+              "6aefbf63b7732a98e31f083c",
+              "6aa789d2ad56c86481acfa0b",
+              "6aefbf95e1b4c17634a7241b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.12_americana_glass_fuller",
+            "slug": "no-26-11-12-americana-glass-fuller",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Marigny Opera House",
+            "venue-link": "https://marignyoperahouse.org/",
+            "tags-name": [
+              "New Orleans",
+              "orchestral",
+              "contemporary",
+              "Americana",
+              "American Music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6aef542b1be9d7c3868ab8e8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
