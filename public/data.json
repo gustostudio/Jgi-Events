@@ -1,12 +1,346 @@
 {
-  "fetchedAt": "2026-11-09T13:46:14.734Z",
+  "fetchedAt": "2026-11-09T22:37:04.581Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3703,
+      "itemCount": 3711,
       "items": [
+        {
+          "id": "6af24a643963589a7647a9d6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T22:34:12.331Z",
+          "lastUpdated": "2026-11-09T22:34:12.331Z",
+          "createdOn": "2026-11-09T22:34:12.331Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "ACC HOMECOMING: An A.J. Haynes & Friends Benefit Concert",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "6aaf491b5dba02b8a0f90581",
+            "venue": "6ad82a3138e8dd5281b7eb17",
+            "start-date": "2026-11-15T01:00:00.000Z",
+            "event-time": "8PM - 11PM",
+            "event-description": "<p>A night of word and music on what it means to be home, curated and headlined by A.J. Haynes, </p><p>featuring spoken word artists:</p><p>‍</p><p><strong>TETRA</strong> (Sherina Rodriguez Sharpe and Chace Morris)</p><p><strong>Donney Rose</strong></p><p><strong>Kristiana Rae Colón</strong></p><p><strong>Ever Taylor</strong></p><p><strong>Yusa</strong></p><p>The concert closes the <strong><em>\"Reckoning and Remembrance\" all-day procession,</em></strong> the day we welcome the community home to 2541 Bayou Road, and every seat benefits the André Cailloux Center.</p><p>More Info on <em>Reckoning &amp; Remembrance</em><strong> </strong><a href=\"https://www.caillouxprocession.com/\"><strong>here</strong></a><strong>. </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://app.arts-people.com/index.php?show=373676",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6af24a10c86f61f30384042b",
+              "6af24a25c4db38fda3ec8195",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3d90a72a61bee173063f0b"
+            ],
+            "thumbnail": {
+              "fileId": "6af24a5f488e27d53323761f",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6af24a5f488e27d53323761f_Screen%20Shot%202026-11-09%20at%204.02.40%20PM.png",
+              "alt": null
+            },
+            "name": "no_26.11.14_acc_homecoming",
+            "slug": "no-26-11-14-acc-homecoming",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert + Presentation",
+            "category-link": null,
+            "venue-name": "André Cailloux Center for Performing Arts & Cultural Justice ",
+            "venue-link": "https://www.accneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "spoken word",
+              "poetry",
+              "soul",
+              "Cuban music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af23702cfd621cbaf1cd63b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T21:11:30.145Z",
+          "lastUpdated": "2026-11-09T21:11:30.145Z",
+          "createdOn": "2026-11-09T21:11:30.145Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Donna's Bar & Grill Reunion Series feat. Mark Braud's Jazz Giants",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6aa792e58c87da4ea9998760",
+            "start-date": "2026-11-13T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<h1>Donna's Bar &amp; Grill Residency featuring Mark Braud's Jazz Giants with Craig Klein, Gerald French, Tyler Thomson, Bruce Brackman, and Mari Watanabe</h1><p>‍</p><p>Free Red Beans &amp;&nbsp;Rice, just like the old days at Donna's on Rampart Street! </p><p>7pm Doors | 8pm Show </p><p>Tickets: $20 GA, $45 Reserved Table Seating </p><p>18+&nbsp;</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/donnas-bar-and-grill-residency-chickie-wah-wah-tickets/14379434?theme=chickie",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.12_donnas_reunion_mark_braud",
+            "slug": "no-26-11-12-donnas-reunion-mark-braud",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Chickie Wah Wah",
+            "venue-link": "https://chickiewahwah.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "trad jazz",
+              "classic jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af2318344a3c2b06ef907d1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T20:48:03.750Z",
+          "lastUpdated": "2026-11-09T20:48:03.750Z",
+          "createdOn": "2026-11-09T20:48:03.750Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz at the Sandbar feat. Chris Thomas Quartet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6acc878fe9731573a679e50a",
+            "start-date": "2026-11-12T00:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong>JAZZ&nbsp;AT&nbsp;THE&nbsp;SANDBAR&nbsp;FALL&nbsp;2026 SEASON&nbsp;IS&nbsp;HERE: </strong></p><p>(though the venue has moved from The Cove to the 4th Floor Lounge of the Earl K. Long Library)&nbsp;</p><p>Students from the Jazz Studies department that the late, great Ellis Marsalis<strong> </strong>created at the University of New Orleans (UNO - now LSU) perform with a different Guest Teaching Artist each week at the Jazz at the Sandbar season. </p><p>This week, the band is led by St. Louis-bred, New Orleans-trained bassist, <strong>Chris Thomas. </strong></p><p>‍</p><p>6pm Doors | 7pm Show </p><p>$10 Suggested Donation, no one turned away for lack of funds, free for LSU&nbsp;students and faculty. </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a5401d60e7b1cfef7fd6a81"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.11_sandbar_chris_thomas",
+            "slug": "no-26-11-11-sandbar-chris-thomas",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "410 Lounge (UNO/LSU Campus)",
+            "venue-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Black American Music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af1ea6d68411f3030e0d203",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T15:44:47.191Z",
+          "lastUpdated": "2026-11-09T15:44:47.191Z",
+          "createdOn": "2026-11-09T15:44:45.249Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-11T22:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p><p><em>Mbongi </em>[Bone-gee] in the Kikongo language and Congolese culture can refer to “a learning circle”.</p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746114379",
+            "tags": [
+              "6a88ddbedcb79b2007b11d03"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "no-26111_mbongiofdrums",
+            "slug": "no-26111-mbongiofdrums",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "Workshop"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af1e8a18fe89976765982d8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T15:37:07.561Z",
+          "lastUpdated": "2026-11-09T15:37:07.561Z",
+          "createdOn": "2026-11-09T15:37:05.373Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Musical Echoes Across the Atlantic",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69174cfdc365ff086311be53",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-10T23:00:00.000Z",
+            "event-time": "6:00PM-8:00PM",
+            "event-description": "<p>This three-part workshop traces the musical and cultural conversation between Senegal, West Africa, and New Orleans.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/musical-echoes-across-the-atlantic-tickets-2003677171357",
+            "tags": [
+              "6a825f250ffe83c819e760a4",
+              "6ad065fefe19a71543a9b7c5"
+            ],
+            "thumbnail": {
+              "fileId": "6af1e89e54a4aeae798df50f",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6af1e89e54a4aeae798df50f_unnamed.jpg",
+              "alt": null
+            },
+            "name": "no_261109_musicalechoes",
+            "slug": "no-261109-musicalechoes",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Presentation",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "afrobeat",
+              "talk"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af1e7566b1de9663edc8a07",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T15:33:17.848Z",
+          "lastUpdated": "2026-11-09T15:33:17.848Z",
+          "createdOn": "2026-11-09T15:31:34.910Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Deep Dish Listening: Bvlbancha Beats",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69159c0bed130091b8dafc7d",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-09T23:00:00.000Z",
+            "event-time": "6:00PM-7:15PM",
+            "event-description": "<p>Celebrated artists, scholars, activists, and Bvlbancha Liberation Radio DJs Takiy and Koni Achafa will be our presenters for the next upcoming Deep Dish Listening. They will play a wide variety of Indigenous music from the Western hemisphere!</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/deep-dish-listening-bvlbancha-beats-w-djs-takiy-koni-achafa-tickets-2003680561497",
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6af1e7530ec6e9a0274d4968",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6af1e7530ec6e9a0274d4968_images-13.jpg",
+              "alt": null
+            },
+            "name": "no_261109_deepdishlistening",
+            "slug": "no-261109-deepdishlistening",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Listening",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null
+          }
+        },
+        {
+          "id": "6af1d53b938aae2041055b22",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T14:14:20.737Z",
+          "lastUpdated": "2026-11-09T14:14:20.737Z",
+          "createdOn": "2026-11-09T14:14:19.433Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "David Torn, Trevor Dunn, Tim Berne and Tom Rainey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a340400e1d5eeca71bcf8c5",
+            "start-date": "2026-11-18T02:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.17_berne",
+            "slug": "ny-2026-11-17-berne",
+            "city-name": "NYC",
+            "venue-name": "Lowlands",
+            "venue-link": "https://www.lowlandsbar.com"
+          }
+        },
+        {
+          "id": "6af1d50c6b1de9663ed11227",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-09T14:13:35.066Z",
+          "lastUpdated": "2026-11-09T14:13:35.066Z",
+          "createdOn": "2026-11-09T14:13:32.814Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tim Berne, Trevor Dunn, Gregg Belisle-Chi and Tom Rainey",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a340400e1d5eeca71bcf8c5",
+            "start-date": "2026-11-11T02:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.10_berne",
+            "slug": "ny-2026-11-10-berne",
+            "city-name": "NYC",
+            "venue-name": "Lowlands",
+            "venue-link": "https://www.lowlandsbar.com"
+          }
+        },
         {
           "id": "6af15abeeeff470e09057c28",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -970,8 +1304,8 @@
         {
           "id": "6af0c2455c6726282c7b9a85",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-09T08:49:18.368Z",
-          "lastUpdated": "2026-11-08T21:55:09.877Z",
+          "lastPublished": "2026-11-09T14:11:29.816Z",
+          "lastUpdated": "2026-11-09T14:11:29.816Z",
           "createdOn": "2026-11-08T18:41:09.523Z",
           "isArchived": false,
           "isDraft": false,
@@ -982,7 +1316,7 @@
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a1385be6a7695c7cb52d9c0",
             "start-date": "2026-11-11T00:00:00.000Z",
-            "event-time": "7PM & PM",
+            "event-time": "7PM & 9PM",
             "event-description": "<p><strong><em>Jamison Ross</em> </strong>is a GRAMMY-winning R&amp;B and soul artist, vocalist, songwriter, producer, and educator whose sound blends R&amp;B, gospel, and blues with contemporary soul. A native of Jacksonville, Florida, he earns a Master of Music from the University of New Orleans (UNO, now LSU) and now serves as the Alvin “Red” Tyler Endowed Professor of Music at the University of New Orleans&nbsp;(UNO, now LSU), where he mentors emerging musicians, helps students develop their artistic voices, and prepares them for sustainable careers in music, continuing the legacy of the late Ellis Marsalis. </p><p>Ross released his debut album, <strong><em>Jamison,</em></strong> in 2015, earning a GRAMMY nomination, and co-founds the soul-focused record label Affective Music in 2019. In 2023, he won a GRAMMY with Snarky Puppy for <strong><em>Empire Central</em></strong>. Drawing inspiration from soul legends like Marvin Gaye, Rance Allen, and Al Green, Ross continues to shape a distinctive sound for a new generation.</p><p>Tonight, Ross plays alongside some of his most esteemed UNO&nbsp;(LSU)&nbsp;students. </p><p>‍</p><p><strong>Shows at 7pm &amp; 9pm</strong> </p><p>‍<strong>Doors at 6:30pm &amp; 8:30pm </strong></p><p><strong>‍</strong></p><p><strong>‍</strong>‍<strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
             "button-text": "TICKETS",
             "button-link": "https://snugjazz.com/tm-event/jamison-ross-uno-all-stars/",
