@@ -1,12 +1,194 @@
 {
-  "fetchedAt": "2026-11-10T19:54:51.019Z",
+  "fetchedAt": "2026-11-11T00:26:20.960Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3711,
+      "itemCount": 3715,
       "items": [
+        {
+          "id": "6af37cb622b500b489dfb7c5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-10T20:21:12.448Z",
+          "lastUpdated": "2026-11-10T20:21:12.448Z",
+          "createdOn": "2026-11-10T20:21:10.365Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-25T22:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746114379",
+            "tags": [
+              "6a88ddbedcb79b2007b11d03",
+              "6a724550b5f0805650ff6b38",
+              "6a825f250ffe83c819e760a4"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "no_261125_mbongiofdrums",
+            "slug": "no-261125-mbongiofdrums",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "Workshop",
+              "drumming workshop",
+              "afrobeat"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af37c0722b500b489df43db",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-10T20:18:17.975Z",
+          "lastUpdated": "2026-11-10T20:18:17.975Z",
+          "createdOn": "2026-11-10T20:18:15.574Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-18T22:30:00.000Z",
+            "event-time": "5:30PM-7:30PM",
+            "event-description": "<p>Bandleader and composer Papa Titos Sompa leads the Mbongi of Drums workshop series. Sompa will teach various Congolese rhythms and language.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/mbongi-of-drums-featuring-papa-titos-sompa-tickets-1996746114379",
+            "tags": [
+              "6a825f250ffe83c819e760a4",
+              "6a88ddbedcb79b2007b11d03",
+              "6a724550b5f0805650ff6b38"
+            ],
+            "thumbnail": {
+              "fileId": "6a9f36e9b347f1ed6ac0463c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a9f36e9b347f1ed6ac0463c_images.jpg",
+              "alt": null
+            },
+            "name": "no_261118_mbongiofdrums",
+            "slug": "no-261118-mbongiofdrums",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "afrobeat",
+              "Workshop",
+              "drumming workshop"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6af37b58720febf0f2614503",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-10T20:15:23.426Z",
+          "lastUpdated": "2026-11-10T20:15:23.426Z",
+          "createdOn": "2026-11-10T20:15:20.337Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Musical Echoes Across the Atlantic",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-24T23:00:00.000Z",
+            "event-time": "6:00PM-8:00PM",
+            "event-description": "<p>This three-part workshop traces the musical and cultural conversation between Senegal, West Africa, and New Orleans.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/musical-echoes-across-the-atlantic-tickets-2003677171357",
+            "tags": null,
+            "thumbnail": {
+              "fileId": "6af1e89e54a4aeae798df50f",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6af1e89e54a4aeae798df50f_unnamed.jpg",
+              "alt": null
+            },
+            "name": "no_261124_musical echoes",
+            "slug": "no-261124-musical-echoes",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null
+          }
+        },
+        {
+          "id": "6af37ae998aee8133c06a89b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-10T20:13:31.649Z",
+          "lastUpdated": "2026-11-10T20:13:31.649Z",
+          "createdOn": "2026-11-10T20:13:29.378Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Musical Echoes Across the Atlantic",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a88de147b6a26f86c9c5fd8",
+            "start-date": "2026-11-17T23:00:00.000Z",
+            "event-time": "6:00PM-8:00PM",
+            "event-description": "<p>This three-part workshop traces the musical and cultural conversation between Senegal, West Africa, and New Orleans.</p>",
+            "button-text": "Register",
+            "button-link": "https://www.eventbrite.com/e/musical-echoes-across-the-atlantic-tickets-2003677171357",
+            "tags": [
+              "6a825f250ffe83c819e760a4",
+              "6aadad194bcfd5be44c3dd3b",
+              "6ad065fefe19a71543a9b7c5"
+            ],
+            "thumbnail": {
+              "fileId": "6af1e89e54a4aeae798df50f",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6af1e89e54a4aeae798df50f_unnamed.jpg",
+              "alt": null
+            },
+            "name": "no_261117_musicalechoes",
+            "slug": "no-261117-musicalechoes",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's ",
+            "venue-link": null,
+            "tags-name": [
+              "afrobeat",
+              "workshop",
+              "talk"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6af24a643963589a7647a9d6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -6922,8 +7104,8 @@
         {
           "id": "6aebd4c46521f0a9aaed3551",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-05T11:10:23.724Z",
-          "lastUpdated": "2026-11-05T00:58:46.918Z",
+          "lastPublished": "2026-11-10T20:24:42.068Z",
+          "lastUpdated": "2026-11-10T20:24:42.068Z",
           "createdOn": "2026-11-05T00:58:44.409Z",
           "isArchived": false,
           "isDraft": false,
