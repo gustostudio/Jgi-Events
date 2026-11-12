@@ -1,17 +1,45 @@
 {
-  "fetchedAt": "2026-11-12T17:56:47.190Z",
+  "fetchedAt": "2026-11-12T22:49:44.089Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3747,
+      "itemCount": 3748,
       "items": [
+        {
+          "id": "6af6398b8cf6935ac7c9a4af",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-12T22:11:24.363Z",
+          "lastUpdated": "2026-11-12T22:11:24.363Z",
+          "createdOn": "2026-11-12T22:11:23.173Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mark Whitfield Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-11-17T00:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.16_whitfield",
+            "slug": "ny-2026-11-16-whitfield",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6af5fa1a088bc87bc480da7a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T17:41:20.229Z",
-          "lastUpdated": "2026-11-12T17:41:20.229Z",
+          "lastPublished": "2026-11-12T17:41:20.546Z",
+          "lastUpdated": "2026-11-12T17:41:20.546Z",
           "createdOn": "2026-11-12T17:40:42.335Z",
           "isArchived": false,
           "isDraft": false,
@@ -56,8 +84,8 @@
         {
           "id": "6af5ee99a65b2d13553f3544",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:51:37.978Z",
-          "lastUpdated": "2026-11-12T16:51:37.978Z",
+          "lastPublished": "2026-11-12T16:51:38.461Z",
+          "lastUpdated": "2026-11-12T16:51:38.461Z",
           "createdOn": "2026-11-12T16:51:37.003Z",
           "isArchived": false,
           "isDraft": false,
@@ -84,8 +112,8 @@
         {
           "id": "6af5ee0c3fa66aff01619676",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:49:18.291Z",
-          "lastUpdated": "2026-11-12T16:49:18.291Z",
+          "lastPublished": "2026-11-12T16:49:18.512Z",
+          "lastUpdated": "2026-11-12T16:49:18.512Z",
           "createdOn": "2026-11-12T16:49:16.764Z",
           "isArchived": false,
           "isDraft": false,
@@ -112,8 +140,8 @@
         {
           "id": "6af5ed7b40bd7da9e5e1622f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:46:54.073Z",
-          "lastUpdated": "2026-11-12T16:46:54.073Z",
+          "lastPublished": "2026-11-12T16:46:54.297Z",
+          "lastUpdated": "2026-11-12T16:46:54.297Z",
           "createdOn": "2026-11-12T16:46:51.421Z",
           "isArchived": false,
           "isDraft": false,
@@ -140,8 +168,8 @@
         {
           "id": "6af5ecf386d2dc05b419cdf5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:47:47.309Z",
-          "lastUpdated": "2026-11-12T16:47:47.309Z",
+          "lastPublished": "2026-11-12T16:47:47.568Z",
+          "lastUpdated": "2026-11-12T16:47:47.568Z",
           "createdOn": "2026-11-12T16:44:35.836Z",
           "isArchived": false,
           "isDraft": false,
@@ -168,8 +196,8 @@
         {
           "id": "6af5e9cabdf7af60ed188f82",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:31:09.880Z",
-          "lastUpdated": "2026-11-12T16:31:09.880Z",
+          "lastPublished": "2026-11-12T16:31:10.300Z",
+          "lastUpdated": "2026-11-12T16:31:10.300Z",
           "createdOn": "2026-11-12T16:31:06.361Z",
           "isArchived": false,
           "isDraft": false,
@@ -196,8 +224,8 @@
         {
           "id": "6af5e94b1a4b1c68ea84c9a7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T16:29:08.646Z",
-          "lastUpdated": "2026-11-12T16:29:08.646Z",
+          "lastPublished": "2026-11-12T16:29:08.883Z",
+          "lastUpdated": "2026-11-12T16:29:08.883Z",
           "createdOn": "2026-11-12T16:28:59.461Z",
           "isArchived": false,
           "isDraft": false,
@@ -224,7 +252,7 @@
         {
           "id": "6af5d38e2645f14fc6c22521",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T14:56:16.208Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T14:56:16.208Z",
           "createdOn": "2026-11-12T14:56:14.289Z",
           "isArchived": false,
@@ -252,7 +280,7 @@
         {
           "id": "6af5c80455ed72cbd70c9f8e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T14:07:01.582Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T14:07:01.582Z",
           "createdOn": "2026-11-12T14:07:00.191Z",
           "isArchived": false,
@@ -280,7 +308,7 @@
         {
           "id": "6af5c7dcaf3a276a27a99795",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T14:06:21.677Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T14:06:21.677Z",
           "createdOn": "2026-11-12T14:06:20.225Z",
           "isArchived": false,
@@ -308,7 +336,7 @@
         {
           "id": "6af5c2e76693d56d9018947e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:45:15.946Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:45:15.946Z",
           "createdOn": "2026-11-12T13:45:11.742Z",
           "isArchived": false,
@@ -336,7 +364,7 @@
         {
           "id": "6af5c27fb6d081e5c905a34a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:43:46.162Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:43:46.162Z",
           "createdOn": "2026-11-12T13:43:27.733Z",
           "isArchived": false,
@@ -364,7 +392,7 @@
         {
           "id": "6af5c2564ec1a6ca8594f999",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:42:52.503Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:42:52.503Z",
           "createdOn": "2026-11-12T13:42:46.155Z",
           "isArchived": false,
@@ -392,7 +420,7 @@
         {
           "id": "6af5c1f2731853717615c2ee",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:41:08.989Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:41:08.989Z",
           "createdOn": "2026-11-12T13:41:06.660Z",
           "isArchived": false,
@@ -420,7 +448,7 @@
         {
           "id": "6af5c1deb1e5b671d1a3a9e2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:40:47.798Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:40:47.798Z",
           "createdOn": "2026-11-12T13:40:46.516Z",
           "isArchived": false,
@@ -448,7 +476,7 @@
         {
           "id": "6af5c1a4ed4d17e212e9f876",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:39:52.554Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:39:52.554Z",
           "createdOn": "2026-11-12T13:39:48.741Z",
           "isArchived": false,
@@ -476,7 +504,7 @@
         {
           "id": "6af5c1912ef60bf9fe10a4e6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:39:31.654Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:39:31.654Z",
           "createdOn": "2026-11-12T13:39:29.785Z",
           "isArchived": false,
@@ -504,7 +532,7 @@
         {
           "id": "6af5c151d1751065ceee9e24",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:38:27.145Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:38:27.145Z",
           "createdOn": "2026-11-12T13:38:25.386Z",
           "isArchived": false,
@@ -532,7 +560,7 @@
         {
           "id": "6af5c0582ed5539bc2668188",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:34:18.314Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:34:18.314Z",
           "createdOn": "2026-11-12T13:34:16.027Z",
           "isArchived": false,
@@ -560,7 +588,7 @@
         {
           "id": "6af5bf97c62bfe97f232e6fe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T13:31:07.265Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T13:31:07.265Z",
           "createdOn": "2026-11-12T13:31:03.583Z",
           "isArchived": false,
@@ -896,7 +924,7 @@
         {
           "id": "6af4a5ca780fc774cddba142",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-12T15:15:03.138Z",
+          "lastPublished": "2026-11-12T16:24:36.512Z",
           "lastUpdated": "2026-11-12T15:15:03.138Z",
           "createdOn": "2026-11-11T17:28:42.661Z",
           "isArchived": false,
