@@ -1,12 +1,162 @@
 {
-  "fetchedAt": "2026-11-15T19:01:25.138Z",
+  "fetchedAt": "2026-11-15T23:47:40.193Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3781,
+      "itemCount": 3784,
       "items": [
+        {
+          "id": "6afa2279c59b454c117f166f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-15T21:22:01.746Z",
+          "lastUpdated": "2026-11-15T21:22:01.746Z",
+          "createdOn": "2026-11-15T21:22:01.746Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mike Lee Quintet with Julian Lee",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-20T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong>Mike Lee </strong>is a Cleveland-born jazz saxophonist, flutist, and educator who has been an active presence in the New York and New Jersey jazz scenes for more than 30 years. He has performed and recorded with jazz greats including Roy Hargrove, Jimmy Heath, the Dizzy Gillespie Orchestra, Nat Adderley Jr., and Frank Lacy, appearing at renowned venues such as the Blue Note, Dizzy’s Club, Smalls, and The Jazz Gallery. Lee also shares his expertise as an educator at Montclair State University. For this performance, Lee is joined by his son, New Orleans-based saxophonist, <strong>Julian Lee.</strong></p><p><br><strong>Shows at 7:00pm &amp; 9:00pm </strong><br><strong>Doors at 6:30pm &amp; 8:30pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/mike-lee-quintet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.19_lee_mike_and_julian",
+            "slug": "no-26-11-19-lee-mike-and-julian",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa21ef14922b29efb4a7af",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-15T21:19:43.334Z",
+          "lastUpdated": "2026-11-15T21:19:43.334Z",
+          "createdOn": "2026-11-15T21:19:43.334Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. Terrance Taplin",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-19T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p>Tonight, the band is led by trombonist, <a href=\"https://theujo.org/musicians/\"><strong>Terrance \"Hollywood\" Taplin</strong></a><strong>, </strong>often known also for his film roles in <em>\"Ma Rainey's Black Bottom\"</em> and \"<em>The Loss of a Teardrop Diamond,\" </em>as well as a longtime member of the historic Tremé Brass Band. </p><p><br><strong>Shows at 7:00pm &amp; 9:00pm </strong><br><strong>Doors at 6:30pm &amp; 8:30pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/the-uptown-jazz-orchestra-with-terrence-taplin-5/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a54804649ee9f2a9442960b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_marsalis_delfeayo_uptown_jazz_orchestra_taplin_terrance",
+            "slug": "no-26-11-18-marsalis-delfeayo-uptown-jazz-orchestra-taplin-terrance",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "big band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa209608d8df790689c8c1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-15T21:13:58.239Z",
+          "lastUpdated": "2026-11-15T21:13:58.239Z",
+          "createdOn": "2026-11-15T21:13:58.239Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour: Martin Krusche & Seth Finch play Billy Strayhorn",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-18T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Jazz Foundation of America &amp;&nbsp;Snug Harbor present:</p><p>German-born tenor saxophonist <strong>Martin Krusche </strong>first visited New Orleans in 1995 and reportedly moved to the Crescent City just two weeks later. Though he has maintained ties to New York City and the contemporary jazz scene in the Northeast, New Orleans has remained his musical home. A versatile performer, Krusche has shared the stage with an array of local talents, including trumpeter Nicholas Payton, The Iguanas drummer Doug Garrison, Dirty Dozen Brass Band sousaphone player Kirk Joseph, and percussionist Anthony Cuccia. His music reflects a deep connection to the city’s vibrant and ever-evolving jazz scene. </p><p>For this afternoon's Happy Hour Set, he is joined by pianist <strong>Seth Finch</strong> and they will be playing an array of Billy Stayhorn ballads.</p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/martin-krusche/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_krusche_martin",
+            "slug": "no-26-11-18-krusche-martin",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6af744f4a855b86688efff81",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
