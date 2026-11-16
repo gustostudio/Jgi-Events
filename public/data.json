@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T02:18:33.431Z",
+  "fetchedAt": "2026-11-16T05:10:02.060Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7,6 +7,57 @@
       "displayName": "collection",
       "itemCount": 3804,
       "items": [
+        {
+          "id": "6afa6b20b96f2cd104eaffab",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T02:32:00.827Z",
+          "lastUpdated": "2026-11-16T02:32:00.827Z",
+          "createdOn": "2026-11-16T02:32:00.827Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Geovane Santos Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "69174d0aef1d60bc1e40c9f0",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-11-18T23:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p><strong>Geovane Santos Brasilian Trio </strong></p><p>6PM - 8PM </p><p>‍</p><p>FREE and Open to the Public </p><p>21+&nbsp;</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://virginhotels.com/new-orleans/entertainment/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a78c2257e6816676b233536",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_geovane_santos_trio",
+            "slug": "no-26-11-18-geovane-santos-trio",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "Brasilian Music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6afa66051cc030e198768ee1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -7122,57 +7173,6 @@
             ],
             "tags-link": [
               null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6af0b40e338d2567f902b24d",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-08T17:40:30.278Z",
-          "lastUpdated": "2026-11-08T17:40:30.278Z",
-          "createdOn": "2026-11-08T17:40:30.278Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Victor Campbell (solo piano)",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a1387485d4aa63df2ceb86c",
-            "start-date": "2026-11-23T23:00:00.000Z",
-            "event-time": "6PM",
-            "event-description": "<p>2026 JGI&nbsp;Jazz Cohort Fellow, <strong>Victor Campbell </strong>is a young jazz piano player hailing from <strong>Camagüey, Cuba.</strong> His compelling style combines virtuosity, whimsy, charisma and technical prowess. Notably, it is just plain fun to watch Victor perform. He started playing piano at age 5 and went on to train at <strong>Cuba’s National School of the Arts.</strong> He has since played all over the United States, and internationally. Victor first visited New Orleans in 2012 as a teenager, part of an exchange program with the <strong>Louis Armstrong Summer Jazz Camp</strong>. That visit changed his life and in 2019 Victor decided to move to New Orleans. He has been feverishly studying all styles of New Orleans music ever since, and incorporating it into his own musical language. He can effortlessly transition from a blues solo, to a Cuban timba montuno, and then right into a classical piano selection. In a 2019 interview, the great <strong>Chucho Valdés</strong> predicted that, <em>“Victor will revolutionize Cuban jazz piano.”</em></p><p>After performing as a featured new artist at several CubaNOLA showcases, Victor now has several New Orleans-based bands and collaborations, including his high-energy big band <strong>Timba Swamp</strong>, and is a fervent leader of the city’s growing Cuba-New Orleans fusion renaissance scene, which also includes collaborations with the Cuban funk phenomenon, <strong>Cimafunk, </strong>and New Orleans legends like <strong>Delfeayo Marsalis’ Uptown Jazz Orchestra.</strong> Most recently, he was recruited by renowned musical director <strong>Raphael Saadiq</strong> to play piano on the Oscar-nominated soundtrack for 2025’s Academy Award-winning film by director Ryan Coogler, \"<strong><em>SINNERS.” </em></strong></p><p>‍</p><p>This evening, Victor performs one of his acclaimed solo piano shows. </p><p>*This performance is no cover!</p>",
-            "button-text": "DETAILS",
-            "button-link": "https://www.mjhnola.com/",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a38d2dd1458bd4b79c78b32",
-              "6a3832d81051ca44000ec45e",
-              "698171062ef8be261a524683",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.11.23_campbell_victor-solo",
-            "slug": "no-26-11-23-campbell-victor-solo-2",
-            "city-name": "NOLA",
-            "feature-name": "JGI Pick",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Mahogany Jazz Hall",
-            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
-            "tags-name": [
-              "New Orleans",
-              "Cuban",
-              "jazz",
-              "Free",
-              "21+"
-            ],
-            "tags-link": [
               null,
               null,
               null,
@@ -64939,8 +64939,8 @@
         {
           "id": "6aad5c733bb06aaf4046a1d2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-05T11:10:23.724Z",
-          "lastUpdated": "2026-11-04T19:03:56.007Z",
+          "lastPublished": "2026-11-16T03:43:50.042Z",
+          "lastUpdated": "2026-11-16T03:43:50.042Z",
           "createdOn": "2026-09-18T15:44:51.102Z",
           "isArchived": false,
           "isDraft": false,
@@ -64957,8 +64957,8 @@
             "button-link": "https://dice.fm/partner/tickets/event/3kqowv-akua-allrich-the-tribe-19th-nov-founders-auditorium-at-medgar-evers-college-new-york-city-tickets?dice_id=10925894&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1641570641252687902&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9LS05LtbAwTjQxtLCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQAVPvWLOwAAAA%3D%3D",
             "tags": null,
             "thumbnail": {
-              "fileId": "6aeb8195feaf8bc027282b88",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6aeb8195feaf8bc027282b88_Copies%20of%20MEC%20flyers%20%20(5).jpg",
+              "fileId": "6afa7bf2e105e5f9692368f6",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6afa7bf2e105e5f9692368f6_16.png",
               "alt": null
             },
             "name": "ny_2026.11.19_mec_akua allrich",
