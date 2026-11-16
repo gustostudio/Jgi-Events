@@ -1,12 +1,1020 @@
 {
-  "fetchedAt": "2026-11-15T23:47:40.193Z",
+  "fetchedAt": "2026-11-16T02:18:33.431Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3784,
+      "itemCount": 3804,
       "items": [
+        {
+          "id": "6afa66051cc030e198768ee1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T02:10:13.645Z",
+          "lastUpdated": "2026-11-16T02:10:13.645Z",
+          "createdOn": "2026-11-16T02:10:13.645Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sally Baby's Silver Dollars",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a6fdc66a85d134a14dbf9de",
+            "start-date": "2026-11-19T00:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<p>Experience the vibrant sounds of the Acclaimed Seven-Piece New Orleans Based Band, <strong><em>SALLY BABY’S SILVER DOLLARS</em></strong>, blending soulful rhythms and rich musical traditions of the Crescent City into an unforgettable live experience. </p><p>Led by singer, songwriter, and guitarist <em>SAL GELOSO</em>, Sally Baby’s Silver Dollars brings together the sounds of early Creole jazz, New Orleans R&amp;B, soul, calypso, and brass-band music, all infused with the infectious energy of second-line rhythms. The result is a sound that is funky, soulful, and unmistakably New Orleans. After earning runner-up honors in NPR’s 2024 Tiny Desk Contest, the band has continued to bring its distinctive sound to audiences beyond its New Orleans roots, earning recognition for its original songwriting, dynamic musicianship, and captivating live performances. From irresistible grooves to heartfelt original songs, Sally Baby’s Silver Dollars deliver a musical journey that celebrates the spirit, soul, and timeless traditions of New Orleans.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketmaster.com/sally-babys-silver-dollars-new-orleans-louisiana-11-18-2026/event/1B006556ADC342D1",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6adda16f0f473cebbae257aa",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a544b7dbed6c6d576f29300",
+              "6a3db10d06a35758469acd07"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_sally_baby_silver_dollars_J&BM",
+            "slug": "no-26-11-18-sally-baby-silver-dollars-j-bm",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "New Orleans Jazz & Blues Market",
+            "venue-link": "https://jazzandbluesmarket.com/",
+            "tags-name": [
+              "New Orleans",
+              "gypsy jazz",
+              "blues",
+              "trad jazz",
+              "tropicalia",
+              "R&B"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa64a51cc030e19876535f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T02:04:21.704Z",
+          "lastUpdated": "2026-11-16T02:04:21.704Z",
+          "createdOn": "2026-11-16T02:04:21.704Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cryptic with Peter Harris, Ricardo Pascal, Jamison Ross +sg ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-11-25T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p>‍</p><p><strong>Tonight, Harris presents the Cryptic collective, featuring: </strong></p><p>Jamison Ross - drums </p><p>Peter Harris - bass </p><p>Ricardo Pascal - saxophones </p><p>+ special surprise guests </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. ~&nbsp;Closing Time at 11:30pm. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.24_harris_peter_cryptic",
+            "slug": "no-26-11-24-harris-peter-cryptic",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa644e83b0909254ab2ce4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T02:02:54.830Z",
+          "lastUpdated": "2026-11-16T02:02:54.830Z",
+          "createdOn": "2026-11-16T02:02:54.830Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Firm Roots with Adonis Rose, Derek Douget, Peter Harris, Dwight Fitch Jr. +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-11-26T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p>‍</p><p><strong>\"Firm Roots\" Wednesdays featuring: </strong></p><p>Adonis Rose - drums </p><p>Peter Harris - bass </p><p>Dwight Fitch Jr - piano </p><p>Derek Douget - saxophones </p><p>+ special surprise guests weekly </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. ~&nbsp;11:30pm Closing Time. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.25_firm_roots_adonis",
+            "slug": "no-26-11-25-firm-roots-adonis",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa63fde8374137b0d8463c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T02:01:33.804Z",
+          "lastUpdated": "2026-11-16T02:01:33.804Z",
+          "createdOn": "2026-11-16T02:01:33.804Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "House Money with Peter Harris, Jamison Ross, Joe Ashlar, Miles Berry, Mike Clement +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-11-20T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p>‍</p><p><strong><em>\"House\" Money rotating series featuring: </em></strong></p><p>Jamison Ross - drums </p><p>Peter Harris - bass </p><p>Joe Ashlar - piano </p><p>Miles Berry - saxophones </p><p>Mike Clement - guitar </p><p>+ special surprise guests weekly </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. ~&nbsp;11:30pm Closing Time. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.19_harris_peter_house_money",
+            "slug": "no-26-11-19-harris-peter-house-money",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5fb78939f1e04f344fac",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:43:19.120Z",
+          "lastUpdated": "2026-11-16T01:43:19.120Z",
+          "createdOn": "2026-11-16T01:43:19.120Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Firm Roots with Herlin Riley, Derek Douget, Peter Harris, Dwight Fitch Jr. +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-11-19T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p><strong>\"Firm Roots\" Wednesdays featuring: </strong></p><p>The Baron of the Boom Boom, The Groovemaster, the one and only Herlin Riley - drums </p><p>Peter Harris - bass </p><p>Dwight Fitch Jr - piano </p><p>Derek Douget - saxophones </p><p>+ special surprise guests weekly </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. ~&nbsp;11:30pm Closing Time. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_firm_roots",
+            "slug": "no-26-11-18-firm-roots",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5f8684ee90bc5918e156",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:42:30.487Z",
+          "lastUpdated": "2026-11-16T01:42:30.487Z",
+          "createdOn": "2026-11-16T01:42:30.487Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Double Bird with Peter Harris, David Torkanowsky, Ashlin Parker, Nygel Anderson +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318e21590fa34e4d6cd91f",
+            "start-date": "2026-11-18T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": "<p>One of the city's best kept secrets featuring a handful of New Orleans first-call jazz players with rotating special guests in an intimate uptown lounge with no cover! Up close and personal with the best of the best, curated by local bassist Peter Harris. Plus quality food and cocktails. </p><p>‍</p><p><strong>Tonight, Harris presents the Double Bird collective, featuring: </strong></p><p>Nygel Anderson - drums </p><p>Peter Harris - bass </p><p>David Torkanowsky - piano </p><p>Ashlin Parker - trumpet </p><p>+ special surprise guests </p><p>‍</p><p><strong>Sets at 8:00pm &amp;&nbsp;10:00pm </strong></p><p>‍</p><p>NO&nbsp;COVER, but seating is very limited and first-come, first-served, so early arrival is strongly suggested. Reserved seating is $25 Per Table in advance online. Full bar &amp; food menu. One drink minimum per guest. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://www.bayoubarneworleans.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc08d493eb9ffc7940d0c",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524681",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.17_harris_peter_double_bird",
+            "slug": "no-26-11-17-harris-peter-double-bird",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bayou Bar (The Pontchartrain Hotel)",
+            "venue-link": "https://www.bayoubarneworleans.com/live-music-calendar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "straight ahead jazz",
+              "swingin' jazz",
+              "21+",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5e5484ee90bc5918b4ed",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:37:24.987Z",
+          "lastUpdated": "2026-11-16T01:37:24.987Z",
+          "createdOn": "2026-11-16T01:37:24.987Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jazz at the Sandbar feat. Oscar Rossignoli",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6acc878fe9731573a679e50a",
+            "start-date": "2026-11-19T00:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p><strong>JAZZ&nbsp;AT&nbsp;THE&nbsp;SANDBAR&nbsp;FALL&nbsp;2026 SEASON&nbsp;IS&nbsp;HERE: </strong></p><p>(though the venue has moved from The Cove to the 4th Floor Lounge of the Earl K. Long Library)&nbsp;</p><p>Students from the Jazz Studies department that the late, great Ellis Marsalis<strong> </strong>created at the University of New Orleans (UNO - now LSU) perform with a different Guest Teaching Artist each week at the Jazz at the Sandbar season. </p><p>This week, the band is led by Honduras-raised, New Orleans-based pianist and composer, <strong><em>Oscar Rossignoli. </em></strong></p><p>‍</p><p>6pm Doors | 7pm Show </p><p>$10 Suggested Donation, no one turned away for lack of funds, free for LSU&nbsp;students and faculty. </p>",
+            "button-text": "MORE",
+            "button-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a5401d60e7b1cfef7fd6a81"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_sandbar_oscar_rossignoli",
+            "slug": "no-26-11-18-sandbar-oscar-rossignoli",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "410 Lounge (UNO/LSU Campus)",
+            "venue-link": "https://www.lsuneworleans.edu/sota-performances/music",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "Black American Music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5d17c59b454c118af564",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:39:14.458Z",
+          "lastUpdated": "2026-11-16T01:39:14.458Z",
+          "createdOn": "2026-11-16T01:32:07.514Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Alex Wasily & The Enemies: Dr. John Birthday Tribute ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-21T04:00:00.000Z",
+            "event-time": "11PM - 2AM",
+            "event-description": "<p>Alex Wasily vs Everyone. Well not exactly... When <strong><em>Alex Wasily</em></strong> of <strong><em>Dumpstaphunk</em></strong> puts musicians together, magic happens. This night, one which happens to fall on the great <strong><em>Dr. Johns Birthday</em></strong> has a lot of surprises waiting for y'all:&nbsp;</p><p>Alex Wasily - trombone</p><p>Ian Neville - guitar </p><p>Ari Teitel - guitar </p><p>Aurelien Barnes - trumpet, percussion </p><p>Amina Scott - bass </p><p>Solomon Fox - keys </p><p>Alfred Jordan Jr. - drums </p><p>‍</p><p>10pm Doors </p><p><strong>11pm Show </strong></p><p>21+</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/events/alex-wasily-enemies",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a5409b58a3b83a3eda41c0e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.20_Wasily_Alex_Enemies",
+            "slug": "no-26-11-20-wasily-alex-enemies",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "psych-funk"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5be15b0fadd6132555a7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:26:57.367Z",
+          "lastUpdated": "2026-11-16T01:26:57.367Z",
+          "createdOn": "2026-11-16T01:26:57.367Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Very Good Tuesdays ft. Alex Wasily, Ari Teitel, Ivan Neville, Tony Hall, Ian Neville, Alfred Jordan Jr, Aurélien Barnes ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-18T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Alex Wasily &amp;&nbsp;Ari Teitel present:&nbsp;</p><p><strong>VERY&nbsp;GOOD&nbsp;TUESDAYS </strong></p><p>rotating weekly jam </p><p>‍</p><p><strong>THIS&nbsp;WEEK&nbsp;FEATURING: </strong></p><p>Alfred Jordan Jr - drums </p><p>Tony Hall - bass </p><p>Ivan Neville - keys </p><p>Ari Teitel, Ian Neville - guitar </p><p>Aurélien Barnes - trumpet </p><p>Alex Wasily - trombone </p><p>+ DJ&nbsp;Set x Derrick Smoker </p><p>‍</p><p>7pm Doors </p><p><strong>8pm First Set </strong></p><p>10pm Second Set </p><p>‍</p><p>$15 Advance // $20 Door </p><p>21+</p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.17_very_good_tuesdays",
+            "slug": "no-26-11-17-very-good-tuesdays",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa5a1ce55041074cff8d8d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:19:24.068Z",
+          "lastUpdated": "2026-11-16T01:19:24.068Z",
+          "createdOn": "2026-11-16T01:19:24.068Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour with the Seth Finch Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-29T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Snug &nbsp;Weekend Happy Hour Series featuring:&nbsp;</p><p><strong><em>SETH&nbsp;FINCH&nbsp;TRIO&nbsp;</em></strong></p><p><strong><em>Seth Finch</em> </strong>is a rising New Orleans <em>pianist </em>originally from Baton Rouge. A standout student under Mike Esneault at Baton Rouge Magnet High, he earned spots with the National Youth Orchestra Jazz ensemble, touring Europe and Asia with Sean Jones and Kurt Elling. A YoungArts Honorable Mention recipient, Finch has performed with jazz greats including Dianne Reeves and Wycliffe Gordon. Now active in the New Orleans scene, his style fuses his classical roots with modern jazz improvisation. </p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/tom-fitzpatrick-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.29_finch_seth_trio_HH",
+            "slug": "no-26-11-29-finch-seth-trio-hh",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa59615153e60f544bfac1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:16:17.728Z",
+          "lastUpdated": "2026-11-16T01:16:17.728Z",
+          "createdOn": "2026-11-16T01:16:17.728Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jason Marsalis presents The Ellis Marsalis Songbook ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-29T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong><em>Jason Marsalis </em></strong>is the youngest son of piano patriarch and jazz luminary <strong><em>Ellis Marsalis Jr. </em></strong> Upon the presentation of their <em>NEA Jazz Masters Award in 2011</em>, The Marsalis' were declared <em>\"America's First Family of Jazz.\" </em>&nbsp;In addition to his renown as a drummer, Jason is also a respected vibraphonist whose 2018 release <em>\"Melody Reimagined ''</em> with his 21st Century Trad Band rose swiftly to the top of the <em>Billboard Magazine</em> jazz chart. With a fire in his heart and a passion for the music, his will to swing has never been more resolute. The maturity and the command Jason possesses over his music is clearly evident to those who have heard or seen him. <br><br>Tonight, Jason presents the music of his father, the late, great <strong>Ellis Marsalis.</strong><br> </p><p><strong>Shows at 7:00pm &amp; 9:00pm</strong> </p><p>Doors at 6:30pm &amp; 8:30pm </p><p>‍</p><p>‍<strong>Restaurant is Open 5pm - 11pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/jason-marsalis-presents-the-ellis-marsalis-songbook/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc06345e26029b72db5fc"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.28_marsalis_jason_ellis_tribute",
+            "slug": "no-26-11-28-marsalis-jason-ellis-tribute",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "swingin' jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa586b11cccc082ac80860",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:12:11.807Z",
+          "lastUpdated": "2026-11-16T01:12:11.807Z",
+          "createdOn": "2026-11-16T01:12:11.807Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour with Tonya Boyd-Cannon",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-28T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Jazz Foundation of America &amp;&nbsp;Snug Harbor present:</p><p><strong><em>TONYA&nbsp;BOYD-CANNON </em></strong></p><p><strong><em>Tonya Boyd-Cannon </em></strong>is a woman who does not simply perform music - she channels it, shapes it, teaches it, and uses it as a conduit for restoration. A classically trained musician and nationally recognized educator, Tonya brings a depth and intentionality to her craft that transcends genre. Her signature sound places vibe, storytelling, and soul-centered expression at the heart of every performance. Whether she’s moving listeners through heart-stretching ballads or igniting crowds with jazz, funk, rock, gospel, or blues, Tonya refuses limitations. She has just completed her fellowship year after being selected as a <em>2026 Jazz Generations Initiative (JGI)&nbsp;New Orleans Cohort Fellow. </em></p><p>As a vocal phenomenon, she has built a career marked by multiple singles, EPs, full-length albums, and dynamic collaborations, including contributions to the soundtrack for <strong><em>”Rustin,</em></strong><em>” </em>the biopic about unsung civil rights activist Bayard Rustin. Each release showcases her vocal mastery and her commitment to creating music that is as healing as it is sonically rich. Her performances span global stages from the New Orleans Jazz &amp; Heritage Festival to Colombia’s Mompox Jazz Festival, yet her impact reaches far beyond the venue. Some may know her as a Top 20 finalist from NBC’s 2015 season of <strong><em>The Voice,</em>”</strong> or as the voice from the contemporary favorite local anthem <strong>“In New Orleans,”</strong> but dozens of children in New Orleans know her simply as, “teacher.” When Tonya is off stage, she directs the <strong>New Orleans Citywide Youth Choir</strong> and serves as the executive director of the <strong>Rise My Child Foundation.&nbsp;</strong></p><p>Learn More: <a href=\"https://tbcexperience.com/\">https://tbcexperience.com</a>&nbsp; |&nbsp; @tonyaboydcannon&nbsp; </p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/tonya-boyd-cannon/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.28_tonya-boyd-cannon-HH",
+            "slug": "no-26-11-28-tonya-boyd-cannon-hh",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa57231d1ba3a472431083",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T01:06:43.709Z",
+          "lastUpdated": "2026-11-16T01:06:43.709Z",
+          "createdOn": "2026-11-16T01:06:43.709Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Oscar Rossignoli Trio presents \"Mar Adentro\" Record Release ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-28T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong>Oscar Rossignoli Trio presents <em>Mar Adentro</em> Record Release </strong></p><p>New Orleans-based pianist and composer<strong> <em>Oscar Rossignoli</em></strong><em> </em>calls on his classical training to float his Latin heritage across boundless improvisational skills in a strikingly original new voice on his latest release as a bandleader,<strong><em> Mar Adentro</em></strong>. His new trio album is comprised primarily of Rossignoli’s original compositions, plus a selection of beautiful pieces by Ernesto Lecuona, Belisario Romero, Billy Strayhorn, and (on the CD version only) one by Ellis Marsalis. Rossignoli is joined on this project by fellow rising young New Orleans players,<strong> <em>Peter Varnado</em></strong><em> </em>on drums and <strong><em>Lex Warshawsky</em></strong> on bass. </p><p>This new recording with his own current trio, is a major step in Rossignoli’s evolution. <em>Mar Adentro </em>was released courtesy of <strong><em>Euclid Records’ Euclid Jazz imprint </em></strong>via digital platforms and CD in October 2026. The CD includes two bonus tracks; an “espresso version” of “Ebbs and Flows” that’s quick from start to finish and has the trio swinging hard, plus a magnificent rendering of Ellis Marsalis’ famed “Swinging at The Haven.” The vinyl LP is reserved as a special limited edition <strong><em>Record Store Day Black Friday Release</em></strong>, available beginning <strong><em>November 27, 2026. </em> </strong></p><p><em>*Both the CD and LP versions of the album will be available for purchase at tonight's release concert. </em></p><p><em>‍</em></p><p><em>‍</em><strong>The Oscar Rossignoli Trio tonight features: </strong></p><p><strong>‍</strong>Oscar Rossignoli - piano </p><p>Lex Warshawsky - bass </p><p>Peter Varnado - drums </p><p>‍</p><p><strong>ABOUT OSCAR ROSSIGNOLI: </strong></p><p>Born and raised in Honduras,<em> </em><strong><em>Oscar Rossignoli</em></strong> is an accomplished pianist and composer in both jazz and classical music. Entering classical training at age six, alongside community church worship band and studying in conservatory throughout his youth, he discovered jazz in high school and developed a love for improvisation and came under the influence of both American and Latin jazz masters like, &nbsp;Chucho Valdez, Arturo Sandoval, Michel Camilo, Chick Corea, and Oscar Peterson. &nbsp;</p><p>In 2011, Oscar began his Piano Performance scholarship at Louisiana State University, immediately followed by earning a Masters as an <strong><em>ASCAP Louis Armstrong Scholar in Jazz Studies </em></strong>at the University of New Orleans – the department founded by the late, great Ellis Marsalis Jr. From the moment he joined UNO’s jazz studies department he became an in-demand player, soon appearing on stages with Jason Marsalis, Bill Summers, Chief Ajduah (fka Christian Scott), Joe Dyson, James Singleton, Brad Walker, and more. Quickly realizing this is his musical home, Oscar has resided in New Orleans now for over a decade, is a first call pianist for icons such as <strong>Herlin Riley, Jason Marsalis, and John Boutté,</strong> and has performed with legends like <strong>Dee Dee Bridgewater</strong> and<strong> Victor Goines,</strong> among others. <br></p><p><strong><em>As a composer,</em></strong> he has scored films with New Orleans director Marion Hoang Ngoç Hill, and is currently the co-musical director with Steve Lands for Hill’s <strong><em>Saigon Jazz Revival. </em></strong>Rossignoli is also featured in the 2026 LEH Humanitarian Documentary Film of the Year, <strong><em>“Edmond &amp; Basile,” </em></strong>by director Sascha Just, and was selected as a 2027 Jazz Generations Initiative (JGI) New Orleans Jazz Cohort Fellow. </p><p>Rossignoli has previously released two unaccompanied solo piano albums, <strong><em>Inertia</em></strong> (2021) and <strong><em>Levitations</em> </strong>(2025), four recordings with the New Orleans trio called<strong> Extended</strong> between 2017-2023, and has lent his unmistakable touch to the efforts of a vast array of other New Orleans artists’ offerings. With more than 30 recordings under his belt, his 2026 release as a bandleader, <strong><em>“Mar Adentro,”</em></strong> marks the debut of a new era with the Oscar Rossignoli Trio. </p><p>‍</p><p><strong>Shows at 7:00pm &amp; 9:00pm &nbsp;</strong><br>Doors at 6:30pm &amp; 8:30pm </p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/oscar-rossignolis-mar-adentro-record-release-party/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6af69932706e29624f291546",
+              "6afa571771f21c28ed2e6fb6"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.27_rossignoli_oscar_mar_adentro_release",
+            "slug": "no-26-11-27-rossignoli-oscar-mar-adentro-release",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "contemporary jazz",
+              "contemporary classical",
+              "record release"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa4f6208d8df7906946577",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T00:33:38.354Z",
+          "lastUpdated": "2026-11-16T00:33:38.354Z",
+          "createdOn": "2026-11-16T00:33:38.354Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour with The New Orleans Mystics ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-25T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Jazz Foundation of America &amp;&nbsp;Snug Harbor present:</p><p><strong><em>THE NEW ORLEANS&nbsp;MYSTICS&nbsp;</em></strong></p><p>Formed in 1972, <strong><em>The New Orleans Mystics</em> </strong>are a high-energy vocal group dedicated to keeping the authentic sounds of Motown, R&amp;B, soul, and jazz alive. Known for their rich a cappella harmonies, dynamic choreography, and signature flashy outfits, they have shared the stage with legends including The Temptations, The O’Jays, James Brown, and Al Green. With original members Billy Mims and Lee Barnes still performing alongside longtime members Michael Baptiste and Freddie Johnson Jr., the Mystics continue to bring their timeless sound and electrifying stage presence to audiences around the world. </p><p>‍</p><p><strong><em>This performance features: </em></strong></p><p>Michael Baptiste - lead vocals </p><p>Freddie Johnson - vocals </p><p>Lee Barnes - vocals &nbsp;</p><p>Charles McCaleb - vocals &nbsp;</p><p>Bobbie Parker - congas, MC &nbsp;</p><p>Angelo Nocentelli - bass &nbsp; </p><p>Ronald Ernest - guitar </p><p>Brennan Williams - drums </p><p>Kurt Brunus - piano </p><p>Emile Hall - saxophone</p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/new-orleans-mystics/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.25_new_orleans_mystics",
+            "slug": "no-26-11-25-new-orleans-mystics",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa4db2cc85bc22fbb4546d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T00:26:26.456Z",
+          "lastUpdated": "2026-11-16T00:26:26.456Z",
+          "createdOn": "2026-11-16T00:26:26.456Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis' Uptown Jazz Orchestra feat. John Gray",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-26T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p>Tonight, the band is led by trumpeter, <a href=\"https://theujo.org/musicians/\"><strong><em>John Gray</em></strong></a><strong><em>. </em></strong></p><p><br><strong>Shows at 7:00pm &amp; 9:00pm </strong><br>Doors at 6:30pm &amp; 8:30pm </p><p>‍</p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room next door online via OpenTable.com or reservations@snugjazz.com </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/the-uptown-jazz-orchestra-with-john-gray-3/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a54804649ee9f2a9442960b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.25_marsalis_delfeayo_uptown_jazz_orchestra_gray_john",
+            "slug": "no-26-11-25-marsalis-delfeayo-uptown-jazz-orchestra-gray-john",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "big band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa4cfaac8ef3dd58458f7f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T00:23:22.573Z",
+          "lastUpdated": "2026-11-16T00:23:22.573Z",
+          "createdOn": "2026-11-16T00:23:22.573Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stanton Moore Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-25T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p>Born and raised in New Orleans, <strong><em>Stanton Moore</em></strong> is a dedicated drummer and performer. As a founding member of the Grammy- nominated funk band, Galactic, Moore’s infectious style has allowed him to collaborate with luminaries Irma Thomas, Joss Stone, Tom Morello, George Porter Jr, Dr. Lonnie Smith and the Preservation Hall Jazz Band. Driven and inspired by the thriving music scene of his hometown - which includes such greats as Professor Longhair, Doctor John, James Black and The Meters - Moore’s name is now mentioned amongst the Big Easy masters. When not touring with his award-winning band Galactic, he plays straight ahead jazz with his trio.</p><p><strong><em>The Stanton Moore Trio features: </em></strong></p><p>Stanton Moore - drums </p><p>James Singleton - bass </p><p>David Torkanowsky - piano </p><p>‍</p><p><strong>Shows at 7:00pm &amp; 9:00pm </strong></p><p>Doors at 6:30pm &amp; 8:30pm &nbsp;</p><p> </p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com . </p><p>Advance Ticket-Holders can also make table reservations for dinner in the Restaurant next door by Emailing <strong>reservations@snugjazz.com</strong> after your tickets have been purchased online for the Music Room. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/stanton-moore-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26_11.24_moore-stanton_trio ",
+            "slug": "no-26-11-24-moore-stanton-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa4c6508d8df790693a041",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T00:20:53.542Z",
+          "lastUpdated": "2026-11-16T00:20:53.542Z",
+          "createdOn": "2026-11-16T00:20:53.542Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour: Tom Fitzpatrick Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-22T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Snug &nbsp;Weekend Happy Hour Series featuring:&nbsp;</p><p><strong><em>TOM&nbsp;FITZPATRICK&nbsp;TRIO&nbsp;</em></strong></p><p>New Orleans saxophonist <strong>Tom Fitzpatrick</strong> is a versatile musician specializing in jazz, R&amp;B, and blues. He was a longtime member of Walter “Wolfman” Washington’s Roadmasters, performing alongside one of the city’s most beloved blues artists. Fitzpatrick continues to contribute to New Orleans’ vibrant live music scene through performances with local musicians and ensembles. </p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/tom-fitzpatrick-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3db58d49b3972da8b7b5f0",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.22_fitzpatrick_tom_HH",
+            "slug": "no-26-11-22-fitzpatrick-tom-hh",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "blues",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa480cb76eee60d9fdce9c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-16T00:02:20.925Z",
+          "lastUpdated": "2026-11-16T00:02:20.925Z",
+          "createdOn": "2026-11-16T00:02:20.925Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Lawrence Sieberth presents Estrella Banda ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-22T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p>Pianist, composer, and producer <strong><em>Lawrence Sieberth</em> </strong>blends jazz, classical, and world music with adventurous improvisation, funk, and Afro-Cuban rhythms to create a distinctive, genre-crossing sound. A longtime fixture of the New Orleans music scene, he has performed at the New Orleans Jazz &amp; Heritage Festival for more than 30 years and collaborated with artists including Allen Toussaint, Irma Thomas, Charles Neville, and Victor Goines. His diverse recordings range from traditional New Orleans jazz to experimental contemporary music, showcasing his versatility as both a performer and compose. </p><p>Tonight, Sieberth presents <strong><em>Estrella Banda, </em></strong>combining the intense rhythms of Cuba with the soulful funk of New Orleans alongside some of the city's best musicians.</p><p><strong>Shows at 7:00pm &amp; 9:00pm <br></strong>Doors at 6:30pm &amp; 8:30pm &nbsp;</p><p>‍</p><p>Restaurant is Open <strong>5pm - 11pm</strong> for dinner<em> before </em>or <em>after </em>your ticketed showtime: </p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room nextdoor to the Music Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/lawrence-sieberth-estrella-banda/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.21_sieberth_lawrence_estrella_banda",
+            "slug": "no-26-11-21-sieberth-lawrence-estrella-banda",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Latin Jazz",
+              "jazz fusion",
+              "funk fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa475b080420a87da88c6d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-15T23:59:23.801Z",
+          "lastUpdated": "2026-11-15T23:59:23.801Z",
+          "createdOn": "2026-11-15T23:59:23.801Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Hour: Teena May",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-21T21:00:00.000Z",
+            "event-time": "4:00PM - 5:30PM (FREE)",
+            "event-description": "<p>Snug Singer/Songwriter Weekend Happy Hour Series featuring:&nbsp;</p><p><strong><em>TEENA&nbsp;MAY</em></strong></p><p><a href=\"http://www.teena-may.com/\">Teena May</a>, is an alt-Country, Folk, Americana, Neo-Soul singer/songwriter based in New Orleans. Her band performs original acoustic guitar-led stories alongside fiddle, upright bass and percussion. She is also the co-founder of<a href=\"http://www.blackamericanafest.com/\"> Black Americana Fest</a> -- a platform that celebrates the musical heritage, legacy and contributions of Black artists who make Americana, Country and Folk music in New Orleans and the Mississippi River Delta region. Teena May has been writing songs for over 20 years and released her &nbsp;EP,<a href=\"https://soundcloud.com/teena-may/sets/the-riches-ep-release-date/s-5Pxs9upWagU?si=435659f2f73d44a6b76012b5348e3121&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing\"> “The Riches”</a>, during 2026's Black Americana Fest. </p><p>‍</p><p>3:30pm Doors </p><p>4:00pm - 5:30pm Show </p><p><strong><em>* This set is FREE and open to the public as part of Snug Harbor's FREE HAPPY HOUR SERIES</em></strong><em> *</em></p><p>‍<br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first-come, first-served basis only.<br><br><strong>Bar Opens at 3:30pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the set.</strong></p><p>Youth 13+ are permitted if accompanied for the entire set by a parent or guardian.</p><p>‍</p><p>Music Room is CLOSED 5:30pm - 6:30pm, and re-opens at 6:30pm for Ticketed 7pm Show Seating.</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://snugjazz.com/tm-event/teena-may/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a67a09b27af7e5827de11ef",
+              "6af68afd6fac8ba4b2ed3d9e",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.21_teena_may_HH",
+            "slug": "no-26-11-21-teena-may-hh",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "Black Americana",
+              "folk music",
+              "singer-songwriter",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6afa46203a819fb3010f9764",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-15T23:54:08.979Z",
+          "lastUpdated": "2026-11-15T23:54:08.979Z",
+          "createdOn": "2026-11-15T23:54:08.979Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Herlin Riley Quartet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-11-21T00:00:00.000Z",
+            "event-time": "7PM & 9PM",
+            "event-description": "<p><strong><em>Herlin Riley</em></strong><em> </em>-- aka \"The Baron of the Boom Boom,\" aka \"The Groovemaster\" -- is a renowned jazz drummer, composer, and educator celebrated for blending traditional New Orleans rhythms with modern jazz. Born and raised in New Orleans, Riley began playing drums at age three and later studied music at Southern University before becoming a sought-after collaborator for legends including Ahmad Jamal, George Benson, and Harry Connick Jr. He gained international acclaim through his longtime work with Wynton Marsalis and the Jazz at Lincoln Center Orchestra, while also leading his own acclaimed projects, including the album <em>New Direction</em>. A passionate mentor and educator, Riley continues to share the rich traditions of New Orleans jazz with audiences and young musicians around the world. </p><p>To experience the Herlin Riley Quartet inside Snug's intimate listening room for his longtime monthly residency is to find a lust for life and sheer gratitude at once. </p><p><strong>Shows at 7:00pm &amp; 9:00pm <br></strong>Doors at 6:30pm &amp; 8:30pm &nbsp;</p><p>‍</p><p>Restaurant is Open <strong>5pm - 11pm</strong> for dinner<em> before </em>or <em>after </em>your ticketed showtime: </p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room nextdoor to the Music Room online <a href=\"http://opentable.com/\" target=\"_blank\">via OpenTable.com</a></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/herlin-riley-quartet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "6a3dc06345e26029b72db5fc"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.20_riley_herlin",
+            "slug": "no-26-11-20-riley-herlin",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "swingin' jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6afa2279c59b454c117f166f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
