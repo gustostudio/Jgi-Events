@@ -1,12 +1,55 @@
 {
-  "fetchedAt": "2026-11-17T18:57:52.237Z",
+  "fetchedAt": "2026-11-17T23:54:48.004Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3820,
+      "itemCount": 3821,
       "items": [
+        {
+          "id": "6afce4034adc59d2a2d9f4ed",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-17T23:32:30.306Z",
+          "lastUpdated": "2026-11-17T23:32:30.306Z",
+          "createdOn": "2026-11-17T23:32:19.733Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Trap Music Orchestra (1-Year Anniversary of Soundoff Sessions)",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "691ccd0eb62c3b82ffb68615",
+            "venue": "6a199afc96df4f62c2da2655",
+            "start-date": "2026-12-04T00:00:00.000Z",
+            "event-time": "7 PM",
+            "event-description": "<p>Lead by trumpeter and arranger Ryan Easter, Trap Music Orchestra&nbsp;synchronizes the aural lineage of the Black diaspora around the modern library of trap music to the 1-year anniversary edition of the Soundoff Sessions. Sets at 8&nbsp;and 9:30, Soundoff Session until late. Creatives, bring your axe — whatever it is — and your energy. </p><p>‍</p>",
+            "button-text": "Register",
+            "button-link": "https://posh.vip/e/soundoff-session-w-the-trap-music-orchestra?t=trapmusicorchestra",
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": {
+              "fileId": "6afce2ac2bc00d6ada44fc22",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6afce2ac2bc00d6ada44fc22_12.3.26.jpg",
+              "alt": null
+            },
+            "name": "ny_26.10.15_soundoff_Trap_Music_Orchestra",
+            "slug": "soundoff-trap-music-orchestra",
+            "city-name": "NYC",
+            "feature-name": "JGI LIVE",
+            "category-name": "Soundoff Session",
+            "category-link": null,
+            "venue-name": "Cafe Erzulie",
+            "venue-link": "https://www.cafeerzulie.com/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6afba46074d45f4f56d2a07e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
