@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-11-17T23:54:48.004Z",
+  "fetchedAt": "2026-11-18T02:09:53.719Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3821,
+      "itemCount": 3822,
       "items": [
+        {
+          "id": "6afcfd5304a706244a2db156",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-18T01:20:20.954Z",
+          "lastUpdated": "2026-11-18T01:20:20.954Z",
+          "createdOn": "2026-11-18T01:20:19.526Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanisha Gould",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-12-01T00:30:00.000Z",
+            "event-time": "7:30 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.30_gould",
+            "slug": "ny-2026-11-30-gould",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
         {
           "id": "6afce4034adc59d2a2d9f4ed",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -92649,13 +92677,13 @@
         {
           "id": "6a7ca0a3288c30af8db6c54a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-17T09:25:53.269Z",
-          "lastUpdated": "2026-11-17T00:10:57.917Z",
+          "lastPublished": "2026-11-18T01:17:25.217Z",
+          "lastUpdated": "2026-11-18T01:17:25.217Z",
           "createdOn": "2026-08-12T16:34:43.847Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "John Hébert",
+            "event-title": "John Hébert Trio with Brandon Seabrook and Ches Smith",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -92677,13 +92705,13 @@
         {
           "id": "6a7ca08a27942e7f2a034dbe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-17T09:25:53.269Z",
-          "lastUpdated": "2026-11-17T00:11:01.254Z",
+          "lastPublished": "2026-11-18T01:17:28.697Z",
+          "lastUpdated": "2026-11-18T01:17:28.697Z",
           "createdOn": "2026-08-12T16:34:17.995Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "John Hébert",
+            "event-title": "John Hébert Trio with Brandon Seabrook and Ches Smith",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
@@ -92705,13 +92733,13 @@
         {
           "id": "6a7ca062345a5c0ee0da5dc0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-17T09:25:53.269Z",
-          "lastUpdated": "2026-11-17T00:11:07.159Z",
+          "lastPublished": "2026-11-18T01:17:32.034Z",
+          "lastUpdated": "2026-11-18T01:17:32.034Z",
           "createdOn": "2026-08-12T16:33:38.769Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "John Hébert",
+            "event-title": "John Hébert Trio with Brandon Seabrook and Ches Smith",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
