@@ -1,12 +1,373 @@
 {
-  "fetchedAt": "2026-11-20T13:51:20.093Z",
+  "fetchedAt": "2026-11-20T20:38:03.479Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3848,
+      "itemCount": 3855,
       "items": [
+        {
+          "id": "6b005d5be9e8a86669a5b958",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:46:51.081Z",
+          "lastUpdated": "2026-11-20T14:46:51.081Z",
+          "createdOn": "2026-11-20T14:46:51.081Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Very Good Tuesdays ft. Ari Teitel, Rob Kellner, Terrence Higgins, J. Blakk",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-12-02T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Alex Wasily &amp;&nbsp;Ari Teitel present:&nbsp;</p><p><strong>VERY&nbsp;GOOD&nbsp;TUESDAYS </strong></p><p>rotating weekly jam </p><p>‍</p><p><strong>THIS&nbsp;WEEK&nbsp;FEATURING: </strong></p><p>Terrence Higgins - drums </p><p>J. Blakk - bass </p><p>Rob Kellner - keys </p><p>Ari Teitel - guitar </p><p>‍</p><p>‍</p><p>7pm Doors </p><p><strong>8pm First Set </strong></p><p>10pm Second Set </p><p>‍</p><p>$15 Advance // $20 Door </p><p>21+</p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.12.01_very_good_tuesdays",
+            "slug": "no-26-12-01-very-good-tuesdays",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b005c6369cec675f6b160b8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:42:43.611Z",
+          "lastUpdated": "2026-11-20T14:42:43.611Z",
+          "createdOn": "2026-11-20T14:42:43.611Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kermit Ruffins & The BBQ Swingers",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3db0cb3bc6a444994fadb1",
+            "start-date": "2026-11-28T23:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>Kermit Ruffins &amp; The BBQ&nbsp;Swingers on the hometurf to setup your Saturday evening real right. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.kermitslounge.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.28_ruffins_kermit_bbq_MIL",
+            "slug": "no-26-11-28-ruffins-kermit-bbq-mil-2",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Kermit's Tremé Mother-in-Law Lounge",
+            "venue-link": "https://www.kermitslounge.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "jazz fusion",
+              "funk",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b005c43e988500830af1a1c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:42:11.014Z",
+          "lastUpdated": "2026-11-20T14:42:11.014Z",
+          "createdOn": "2026-11-20T14:42:11.014Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Isaac Eady & Friends",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-29T04:00:00.000Z",
+            "event-time": "11PM",
+            "event-description": "<p>When the Tennessee native isn't on the road with <strong>Tedeschi Trucks Band</strong>, he is recording and performing music of his own, here in New Orleans. While Isaac is known for his work with his band - <strong><em>Isaac Eady &amp; Third Moon</em></strong>, he has a new concept for this nonpareil performance. After the release of his sophomore record <strong><em>\"Amponsah,</em></strong>\" Isaac has shared stages with many, <strong><em>but this is a special line-up that will feature:&nbsp;</em></strong></p><p>Isaac Eady - Drums, Vocals </p><p>Juic9ey \"DDS\" Jackson - Trombone </p><p>Devin Kerrigan - Bass</p><p>Keenan McRae - Guitar </p><p>José Maize - Trombone</p><p>Phil Breen - Keys</p><p>‍</p><p>10:30pm Doors </p><p><strong>11:00pm Show </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/events/isaac-eady-friends",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a82843212d5e1afb618736c"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.28_eady_isaac_friends",
+            "slug": "no-26-11-28-eady-isaac-friends",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "R&B",
+              "soul",
+              "blues-rock"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b005afe6ab10a0c4650c575",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:36:46.069Z",
+          "lastUpdated": "2026-11-20T14:36:46.069Z",
+          "createdOn": "2026-11-20T14:36:46.069Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "SOUL Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-29T01:00:00.000Z",
+            "event-time": "8PM - 10PM",
+            "event-description": "<p>Led by drummer Derrick Freeman aka Smoker, the SOUL&nbsp;Brass Band is one of New Orleans' Funk, Jazz and Hip Hop -Infused Brass Bands. </p><p><a href=\"https://derricksmokerfreeman.com/soul-brass-band\"><strong>SOUL Brass Band</strong></a> is a high-energy New Orleans brass band led by drummer, DJ, and frontman <strong>Derrick “Smoker” Freeman.</strong> Blending second line tradition, funk, soul, and hip-hop energy, the band delivers electrifying performances rooted in authentic New Orleans culture. Featuring acclaimed musicians including Billboard-charting saxophonist James Martin and Grammy Award-winning saxophonist Miles Lyons, SOUL moves effortlessly from festival stages and luxury weddings to private events, second lines, and packed dance floors — bringing unmatched groove, charisma, and live energy to every performance. </p><p>7:00pm Doors </p><p><strong>Sets at 8:00pm &amp; 9:15pm </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3db10d06a35758469acd07"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.28_soul_brass_band",
+            "slug": "no-26-11-28-soul-brass-band",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk fusion",
+              "hip-hop",
+              "jazz fusion",
+              "R&B"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b005a69c6f494570e8cfb60",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:34:17.682Z",
+          "lastUpdated": "2026-11-20T14:34:17.682Z",
+          "createdOn": "2026-11-20T14:34:17.682Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Organ Hour Trio feat. Joe Ashlar, Danny Abel, Stanton Moore",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-26T00:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p><strong>HAPPY&nbsp;\"ORGAN\" HOUR&nbsp;</strong>every Wednesday at the Leaf with the<strong> <em>Ashlar Organ Time Trio</em></strong></p><p>‍</p><p><strong>This week featuring: </strong></p><p>Joe Ashlar - keys </p><p>Stanton Moore - drums </p><p>Danny Abel - guitar </p><p>‍</p><p>6pm Doors </p><p><strong>7pm Show </strong></p><p>Sets at 7:00pm &amp; 8:45pm </p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9963026d97ee38790b1"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.25_happy_hour_organ_trio",
+            "slug": "no-26-11-25-happy-hour-organ-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b005a52c8c92f45c0024c3f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:33:54.086Z",
+          "lastUpdated": "2026-11-20T14:33:54.086Z",
+          "createdOn": "2026-11-20T14:33:54.086Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Happy Organ Hour Trio feat. Joe Ashlar, Danny Abel, Stanton Moore",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-19T00:00:00.000Z",
+            "event-time": "7PM - 10PM",
+            "event-description": "<p><strong>HAPPY&nbsp;\"ORGAN\" HOUR&nbsp;</strong>every Wednesday at the Leaf with the<strong> <em>Ashlar Organ Time Trio</em></strong></p><p>‍</p><p><strong>This week featuring: </strong></p><p>Joe Ashlar - keys </p><p>Stanton Moore - drums </p><p>Danny Abel - guitar </p><p>‍</p><p>6pm Doors </p><p><strong>7pm Show </strong></p><p>Sets at 7:00pm &amp; 8:45pm </p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9963026d97ee38790b1"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.18_happy_hour_organ_trio",
+            "slug": "no-26-11-18-happy-hour-organ-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "fusion"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6b0059ea8cf46e18aa8f24b0",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-20T14:32:10.811Z",
+          "lastUpdated": "2026-11-20T14:32:10.811Z",
+          "createdOn": "2026-11-20T14:32:10.811Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Very Good Tuesdays ft. Alex Wasily, Ari Teitel, Raymond Weber, Shea Siraj, Aurélien Barnes, Miles Blackwell",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-11-25T01:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Alex Wasily &amp;&nbsp;Ari Teitel present:&nbsp;</p><p><strong>VERY&nbsp;GOOD&nbsp;TUESDAYS </strong></p><p>rotating weekly jam </p><p>‍</p><p><strong>THIS&nbsp;WEEK&nbsp;FEATURING: </strong></p><p>Raymond Weber - drums </p><p>Miles Blackwell - bass </p><p>Shea Siraj - keys </p><p>Ari Teitel - guitar </p><p>Aurélien Barnes - trumpet </p><p>Alex Wasily - trombone </p><p>‍</p><p>7pm Doors </p><p><strong>8pm First Set </strong></p><p>10pm Second Set </p><p>‍</p><p>$15 Advance // $20 Door </p><p>21+</p>",
+            "button-text": "DETAILS & TICKETS ",
+            "button-link": "https://www.mapleleafbar.com/calendar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.11.24_very_good_tuesdays",
+            "slug": "no-26-11-24-very-good-tuesdays",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "funk fusion",
+              "jazz fusion",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6affde371933e37ffb9d2949",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -120861,8 +121222,8 @@
         {
           "id": "6a545cd0117af85b889a7212",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T03:34:40.328Z",
-          "lastUpdated": "2026-07-13T03:34:40.328Z",
+          "lastPublished": "2026-11-20T14:35:08.620Z",
+          "lastUpdated": "2026-11-20T14:35:08.620Z",
           "createdOn": "2026-07-13T03:34:40.328Z",
           "isArchived": false,
           "isDraft": false,
@@ -120874,7 +121235,7 @@
             "venue": "6a318a7a46aaea2ff1e0e135",
             "start-date": "2026-07-19T00:00:00.000Z",
             "event-time": "8PM",
-            "event-description": "<p>Led by drummer Derrick Freeman aka Smoker, the SOUL&nbsp;Brass Band is one of New Orleans' Funk, Jazz and Hip Hop -Infused Brass Bands. </p><p><a href=\"https://derricksmokerfreeman.com/soul-brass-band\"><strong>SOUL Brass Band</strong></a> is a high-energy New Orleans brass band led by drummer, DJ, and frontman <strong>Derrick “Smoker” Freeman.</strong> Blending second line tradition, funk, soul, and hip-hop energy, the band delivers electrifying performances rooted in authentic New Orleans culture. Featuring acclaimed musicians including Billboard-charting saxophonist James Martin and Grammy Award-winning saxophonist Miles Lyons, SOUL moves effortlessly from festival stages and luxury weddings to private events, second lines, and packed dance floors — bringing unmatched groove, charisma, and live energy to every performance. </p><p><strong>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </strong></p><p>‍</p>",
+            "event-description": "<p>Led by drummer Derrick Freeman aka Smoker, the SOUL&nbsp;Brass Band is one of New Orleans' Funk, Jazz and Hip Hop -Infused Brass Bands. </p><p><a href=\"https://derricksmokerfreeman.com/soul-brass-band\"><strong>SOUL Brass Band</strong></a> is a high-energy New Orleans brass band led by drummer, DJ, and frontman <strong>Derrick “Smoker” Freeman.</strong> Blending second line tradition, funk, soul, and hip-hop energy, the band delivers electrifying performances rooted in authentic New Orleans culture. Featuring acclaimed musicians including Billboard-charting saxophonist James Martin and Grammy Award-winning saxophonist Miles Lyons, SOUL moves effortlessly from festival stages and luxury weddings to private events, second lines, and packed dance floors — bringing unmatched groove, charisma, and live energy to every performance. </p><p><strong>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </strong></p><p>7:00pm Doors </p>",
             "button-text": "TICKETS",
             "button-link": "https://www.mapleleafbar.com/leaf",
             "tags": [
