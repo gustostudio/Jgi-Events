@@ -1,12 +1,88 @@
 {
-  "fetchedAt": "2026-11-21T03:20:44.929Z",
+  "fetchedAt": "2026-11-21T05:55:26.497Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 3855,
+      "itemCount": 3856,
       "items": [
+        {
+          "id": "6b011740deb21ca0bf67b7a5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-11-21T04:02:19.242Z",
+          "lastUpdated": "2026-11-21T04:02:19.242Z",
+          "createdOn": "2026-11-21T04:00:00.794Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Art of the Crossfade: A LIVE New Orleans Mixtape feat. DJ J. PERIOD, Josh Kun, Dawn Richard, Flagboy Giz, Leyla McCalla, Yusa, Pell & More",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "6aaf491b5dba02b8a0f90581",
+            "venue": "6ab9ee68b4ebeb080b914a6a",
+            "start-date": "2026-12-03T23:00:00.000Z",
+            "event-time": "6PM - 10PM",
+            "event-description": "<p>The Art of the Crossfade is a live, touring multimedia concert experience presented by Professor Josh Kun and DJ/Producer J.PERIOD.</p><p>6pm Doors | 7pm Show | All Ages</p><p>‍</p><p><strong>Josh Kun &amp; J.PERIOD present THE ART OF THE CROSSFADE ~ New Orleans</strong></p><p>FEATURING:</p><ul><li><strong>DJ J.PERIOD </strong>and <strong>Josh Kun </strong>(Los Angeles)</li><li><strong>DAWN Richard</strong> (New Orleans)&nbsp;</li><li><strong>Daniel Crawford</strong> (Wylde Bunch, Slum Village, Chris Dave's Drumhedz, Cee-Lo Green, Warren G, Jhene Aiko; Los Angeles)</li></ul><ul><li><strong>Flagboy Giz </strong>(New Orleans)</li><li><strong>Leyla McCalla </strong>(New Orleans x NYC&nbsp;x Haiti)</li><li><strong>Pell </strong>(New Orleans) </li><li><strong>Yusa</strong> (New Orleans x Cuba)&nbsp;</li><li><strong>ANTWIGADEE! </strong>(New Orleans) </li><li><strong>DJ&nbsp;Raj Smoove </strong>(New Orleans) </li><li>JGI&nbsp;New Orleans 2026 Jazz Cohort members&nbsp;<strong>Max Moran &amp; Victor Campbell </strong></li><li><strong>Girls Play Trumpets Too </strong>(New Orleans)&nbsp;</li><li>+ More TBA! </li></ul><p>‍</p><p>Together with the <a href=\"http://jazzgenerations.org/new-orleans\">Jazz Generations Initiative New Orleans</a>, MacArthur Foundation Fellow, New America Foundation Fellow and professor <strong>Josh Kun</strong>, and acclaimed DJ/producer <strong>J.PERIOD</strong> present the final 2026 installment of <a href=\"http://artofthecrossfade.com\"><strong>THE ART OF THE CROSSFADE </strong></a>— a distinct four-city concert series that has been energizing audiences across the country by connecting their own musical histories to the collective civic imagination, with its final stop <strong>in New Orleans tonight. </strong></p><p><strong>At the center of the experience is the crossfader — </strong>the horizontal slider on a DJ mixer that allows two songs to blend without erasing either. In the hands of a DJ, different sounds, histories, and perspectives can coexist to create something entirely new.</p><p>Launched in Los Angeles in the summer of 2026, <strong>THE ART OF THE CROSSFADE</strong> will bring its dynamic multimedia touring program to New Orleans for one night only, blending a dynamic musical lecture with interactive community engagement that culminates in a high-energy, <strong>one-take Hip Hop “mixtape” </strong>performed LIVE <strong>at Music Box Village,</strong> featuring an all-start lineup of artists, musicians, DJs and community voices representing the past, present and future sounds of New Orleans.</p><p>This isn’t a concert.</p><p><strong>It’s a live remix of New Orleans itself.</strong></p><p>One unforgettable night, celebrating the sounds, stories, and cultures that shape America.</p><p>‍</p><p>***</p><p>Admission is <strong>FREE</strong> with <a href=\"https://www.eventbrite.com/e/the-art-of-the-crossfade-new-orleans-tickets-2001032697665\">required RSVP</a>, and All Ages are welcome.</p><p>Local food pop-ups on-site from 6pm. (Vendors TBA)</p><p>Music Box beverage bars open for both alcoholic and non-alcoholic refreshments.</p><p>***</p><p>‍</p><p><em>The Art of the Crossfade is fueled by the </em><a href=\"https://hearthlandfoundation.org/\"><em>Hearthland Foundation</em></a><em>.</em></p><p>‍</p><p><strong>About The Jazz Generations Initiative:&nbsp;</strong></p><p>The Jazz Generations Initiative (JGI) is a two-city project anchored in New Orleans and New York, launched in 2025. JGI New Orleans includes an innovative interdisciplinary residency, fellowship program, and creative hub based in New Orleans, offering opportunities for gatherings and projects grounded in experimentation, creativity, and interdisciplinary exploration. JGI New Orleans draws inspiration from the city of New Orleans and its connections with the African diaspora, the Global South, and the Gulf South region.</p><p>‍</p><p>***</p><p><strong>LEARN MORE:</strong></p><p><a href=\"http://www.artofthecrossfade.com/\" target=\"_blank\">www.artofthecrossfade.com</a></p><p><a href=\"http://www.jazzgenerations.org/\" target=\"_blank\">www.jazzgenerations.org</a></p>",
+            "button-text": "RSVP TO RESERVE YOUR SPOT HERE",
+            "button-link": "https://www.eventbrite.com/e/the-art-of-the-crossfade-new-orleans-tickets-2004741034400?aff=oddtdtcreator",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3e1976c393eb65ce7dee38",
+              "6a5409e42bdfdb9477100c16",
+              "6a3dc3b0493eb9ffc794a7f6",
+              "6a3d90a72a61bee173063f0b",
+              "6abfd0e4925adf03fb136d5d",
+              "6a3dae62a9e9309f2892e9ca",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": {
+              "fileId": "6b0117c532f204402d1fc931",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6b0117c532f204402d1fc931_AOTC-New-Orleans.IG._FINAL_ART_1000p.jpg",
+              "alt": null
+            },
+            "name": "no_26.12.03_art_of_the_crossfade",
+            "slug": "no-26-12-03-art-of-the-crossfade",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Concert + Presentation",
+            "category-link": null,
+            "venue-name": "Music Box Village",
+            "venue-link": "https://musicboxvillage.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "hip-hop",
+              "funk fusion",
+              "folk",
+              "Cuban music",
+              "Haitian music",
+              "dance",
+              "Free",
+              "No Cover",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6b005d5be9e8a86669a5b958",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
