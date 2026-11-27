@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T17:35:05.000Z",
+  "fetchedAt": "2026-11-27T19:21:55.794Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -23390,8 +23390,8 @@
         {
           "id": "6ae7830cf900712e9a8c6cb3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-11-01T18:21:00.411Z",
-          "lastUpdated": "2026-11-01T18:21:00.411Z",
+          "lastPublished": "2026-11-27T17:46:10.183Z",
+          "lastUpdated": "2026-11-27T17:46:10.183Z",
           "createdOn": "2026-11-01T18:21:00.411Z",
           "isArchived": false,
           "isDraft": false,
@@ -23400,12 +23400,12 @@
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318acfa9a225edf9945fbf",
+            "venue": "6a31d05b6ddbdc35b7c69506",
             "start-date": "2026-12-08T23:30:00.000Z",
-            "event-time": "6:30PM - 9:00PM",
-            "event-description": "<p>The WAMM&nbsp;Quartet featuring Brad Walker, Joe Ashlar, Martin Masakowski and Stanton Moore for two sets. </p><p>6pm - 9pm </p><p>No Cover </p>",
-            "button-text": "DETAILS",
-            "button-link": "https://thecolumns.com/events/",
+            "event-time": "8PM",
+            "event-description": "<p><strong><em>The WAMM&nbsp;Quartet</em></strong> featuring Brad Walker, Joe Ashlar, Martin Masakowski and Stanton Moore, for two sets. </p><p>‍</p><p>Four heavy hitters from the New Orleans music scene come together for <strong>WAMM</strong>, bringing years of experience across jazz, funk, rock, and just about everything in between.</p><p>The group is spearheaded by Stanton Moore, powerhouse drummer and Galactic co-founder whose signature blend of New Orleans funk and jazz has made him a force well beyond the city, alongside Brad Walker, one of New Orleans’ most versatile and sought-after saxophonists, equally at home in jazz clubs and on the road with artists like Sturgill Simpson.</p><p>They're joined by Joe Ashlar, a Hammond organ wizard and soulful pianist, and bassist Martin Masakowski, who brings an expansive range of musical influences to the mix.</p><p>A little different from our usual shows at Gasa Gasa, this one brings four incredible musicians together for a more intimate night with the music front and center. You don't want to miss this one!</p><p>‍</p><p><strong>Limited seating available, Early Arrival and/or Advance Reserved Seating Tickets Suggested.</strong></p><p>7pm Doors | 8pm Show | 18+ </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/wamm-featuring-brad-walker-joe-gasa-gasa-tickets/15067743",
             "tags": [
               "6a34485985c35bb1302af3f2",
               "6a3832d81051ca44000ec45e",
@@ -23414,13 +23414,13 @@
               "698171062ef8be261a52467b"
             ],
             "thumbnail": null,
-            "name": "no_26.12.08_WAMM",
+            "name": "no_26.12.08_WAMM_gasagasa",
             "slug": "no-26-12-08-wamm",
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
-            "venue-name": "Columns Hotel",
-            "venue-link": "https://thecolumns.com/events/",
+            "venue-name": "GASA GASA",
+            "venue-link": "https://www.gasagasanola.com/",
             "tags-name": [
               "New Orleans",
               "jazz",
